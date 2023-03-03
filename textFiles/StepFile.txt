@@ -1,0 +1,10 @@
+Updated 2/2/2023
+
+1. Remove link and meta tags by finding them using <link.+ and <meta.+ and replacing them with nothing.
+2. Remove head and body tags by finding <head> </head> <body> and </body> (all individually) and replacing them with nothing.
+3. Rename <article></article> with script tags by finding both tags individually and replacing them with <script></script>
+4. Rename html tag epsisode
+5. Remove <h4> tags by searching <h4>.+ and replacing it with nothing 
+6. Remove h1 tags, just leaving the title by searching <h1><a href=\S+\starget="_blank'> and replacing it with nothing 
+7. Remove those end tags by finding </a></h1> and replacing them with nothing 
+8. Add timestamp tags by finding <a href\S+\s\S+\s\S+\sdata-time="\d+">(\d+:\d+:\d+)</a> and replacing it with <tStamp>\1</tStamp>
