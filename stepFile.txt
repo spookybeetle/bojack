@@ -1,0 +1,19 @@
+Bojack Horseman HTML => TXT => XML
+
+1. Select all HTML and btahc change the .html to .txt and open in Oxygen.
+2. Group find <!doctype html> and remove it from the documents 
+3. Group find <html></html> and replace it with <script></script>
+4. Group select <head></head> (excluding <title> element).
+    a. Remove <head></head>
+    b. Grab <link.+ and remove it
+    c. grab <meta.+ and remove it
+5. Remove <body></body>
+6. Remove <article></article>
+7. Remove <h4></h4> (<h4.+)
+8. Remove <h1></h1> (<h1.+)
+9. Remove all <a> elements and their contents (<a.+)
+10. Change all <p></p> tags to <line></line>
+11. Change <i></i> tags to say <ital></ital> (<i>(.+)</i>) then (<ital>\1</ital>)
+12. Find all music notes and put them in <music></music> tags ♪.+♪ (<music>\0</music>)
+13. Remove whatever this is ({\an8})
+14. Rename .txt extension to .xml extension.

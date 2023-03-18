@@ -1,0 +1,8 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = script 
+
+script = element script {title, line}
+
+title = element title {text}
+line = element line {text}
