@@ -1,19 +1,23 @@
 import spacy
 from collections import Counter
 import os
-nlp = spacy.cli.download("en_core_web_lg")
+# nlp = spacy.cli.download("en_core_web_lg")
 # Uncomment this line if you need the language model.
 # If you already have it, comment it ou.
 # Let's try the different spaCy language models for this. We can compare _lg with _md or _sm
 nlp = spacy.load("en_core_web_lg")
 
-workingDir = os.getcwd()
-print("current working directory: " + workingDir)
-# os.listdir lists files and folders inside a path:
-insideDir = os.listdir(workingDir)
-print("inside this directory are the following files AND directories: " + str(insideDir))
+# workingDir = os.getcwd()
+# print("current working directory: " + workingDir)
+# # os.listdir lists files and folders inside a path:
+# insideDir = os.listdir(workingDir)
+# print("inside this directory are the following files AND directories: " + str(insideDir))
+# CollPath = os.path.join(workingDir, '../../xmlFile')
 
-CollPath = os.path.join(workingDir, 'xmlFile')
+# 2023-03-28 ebb: You don't need the above lines which just return a literal absolute filepath.
+# But you DO need to just climb up two levels above where this Python file is saved,
+# so you can reach the xmlFile folder:
+CollPath = '../../xmlFile'
 print(CollPath)
 
 def readTextFiles(filepath):
