@@ -1,7 +1,7 @@
 import spacy
 from collections import Counter
 import os
-# nlp = spacy.cli.download("en_core_web_lg")
+nlp = spacy.cli.download("en_core_web_lg")
 # Uncomment this line if you need the language model.
 # If you already have it, comment it ou.
 # Let's try the different spaCy language models for this. We can compare _lg with _md or _sm
@@ -84,10 +84,4 @@ for file in os.listdir(CollPath):
 #         print("The shortest sentence is: " + sentence.text)
 #     if len(sentence.text) == maxVal:
 #         print('The longest sentence is: ' + sentence.text + ' :' + str(maxVal) + 'characters')
-
-
-
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
 
