@@ -20,13 +20,13 @@
 
 
 <line>
-[car tires squeaking]
+<nonVerbComm>[car tires squeaking]</nonVerbComm>
 
 </line>
 
 
 <line>
-[crying continues]
+<nonVerbComm>[crying continues]</nonVerbComm>
 
 </line>
 
@@ -56,7 +56,7 @@ and will provide all the answers you need.
 
 
 <line>
-[sighs] I could really use
+<nonVerbComm>[sighs]</nonVerbComm> I could really use
 
 some personal attention right now.
 
@@ -102,7 +102,7 @@ That screen's my supervisor.
 
 
 <line>
-[theme music playing]
+<nonVerbComm>[theme music playing]</nonVerbComm>
 
 </line>
 
@@ -148,7 +148,7 @@ I'm doing a new, fully immersive,
 
 
 <line>
-[chuckles] Oh, you know what?
+<nonVerbComm>[chuckles]</nonVerbComm> Oh, you know what?
 
 I'm just biking.
 
@@ -206,13 +206,13 @@ while I'm here.
 
 
 <line>
-[indistinct chattering in Vietnamese]
+<nonVerbComm>[indistinct chattering in Vietnamese]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Diane reading]
+<nonVerbComm>[Diane reading]</nonVerbComm>
 
 </line>
 
@@ -344,7 +344,7 @@ What? Dad, it-- Okay.
 
 
 <line>
-[Diane] <ital>But you're here, finally.</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>But you're here, finally.</ital>
 
 </line>
 
@@ -410,7 +410,7 @@ I'm sorry.
 
 
 <line>
-[Diane] <ital>It's more foreign</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>It's more foreign</ital>
 
 <ital>than you expected, but that's good.</ital>
 
@@ -456,7 +456,7 @@ I'm sorry.
 
 
 <line>
-[man] Movie lingo!
+<nonVerbComm>[man]</nonVerbComm> Movie lingo!
 
 </line>
 
@@ -494,13 +494,13 @@ who comes to Vietnam to find herself.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Diane] <ital>You came here</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>You came here</ital>
 
 <ital>to reconnect with your roots,</ital>
 
@@ -562,7 +562,7 @@ Can I have number two?
 
 
 <line>
-[speaking Vietnamese]
+<nonVerbComm>[speaking Vietnamese]</nonVerbComm>
 
 Number two.
 
@@ -578,25 +578,25 @@ Thank you. [speaking Vietnamese]
 
 
 <line>
-[speaking Vietnamese]
+<nonVerbComm>[speaking Vietnamese]</nonVerbComm>
 
 </line>
 
 
 <line>
-[speaking Vietnamese]
+<nonVerbComm>[speaking Vietnamese]</nonVerbComm>
 
 </line>
 
 
 <line>
-[speaking Vietnamese] Thank you.
+<nonVerbComm>[speaking Vietnamese]</nonVerbComm> Thank you.
 
 </line>
 
 
 <line>
-[Diane] <ital>Sometimes,</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>Sometimes,</ital>
 
 <ital>it's just nice to take a vacation</ital>
 
@@ -708,7 +708,7 @@ Oh, yeah, sorry.
 
 
 <line>
-[stammers] I just had a plane to catch,
+<nonVerbComm>[stammers]</nonVerbComm> I just had a plane to catch,
 
 so... I'm in Vietnam now...
 
@@ -830,7 +830,7 @@ Isn't it great being single?
 
 
 <line>
-[chuckles] It sure is!
+<nonVerbComm>[chuckles]</nonVerbComm> It sure is!
 
 </line>
 
@@ -1054,7 +1054,7 @@ The trough of everything.
 
 
 <line>
-[shouting] And I'll have the Cobb salad!
+<nonVerbComm>[shouting]</nonVerbComm> And I'll have the Cobb salad!
 
 </line>
 
@@ -1262,7 +1262,7 @@ Me am also America.
 
 
 <line>
-[Diane] <ital>Number four:</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>Number four:</ital>
 
 <ital>To meet new people!</ital>
 
@@ -1296,7 +1296,7 @@ Glug-glug?
 
 
 <line>
-[Diane] <ital>Number five:</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>Number five:</ital>
 
 <ital>Get out of your natural habitat.</ital>
 
@@ -1548,7 +1548,7 @@ to say "come with."
 
 
 <line>
-[grunts] There.
+<nonVerbComm>[grunts]</nonVerbComm> There.
 
 </line>
 
@@ -1568,7 +1568,7 @@ I love it! This is my life now.
 
 
 <line>
-[drums] <ital><music>♪ Hey! ♪</music></ital>
+<nonVerbComm>[drums]</nonVerbComm> <ital><music>♪ Hey! ♪</music></ital>
 
 </line>
 
@@ -1582,7 +1582,7 @@ I love it! This is my life now.
 
 
 <line>
-[chuckles]
+<nonVerbComm>[chuckles]</nonVerbComm>
 
 Some cockroaches in IT tried to unionize,
 
@@ -1648,13 +1648,13 @@ Oh, negotiations. Bye!
 
 
 <line>
-[mobile typing]
+<nonVerbComm>[mobile typing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Diane] <ital>Number six:</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>Number six:</ital>
 
 <ital>To turn your work into a "work-cation."</ital>
 
@@ -1662,7 +1662,7 @@ Oh, negotiations. Bye!
 
 
 <line>
-[typing on laptop]
+<nonVerbComm>[typing on laptop]</nonVerbComm>
 
 </line>
 
@@ -1700,7 +1700,7 @@ Oh, negotiations. Bye!
 
 
 <line>
-[door opens]
+<nonVerbComm>[door opens]</nonVerbComm>
 
 </line>
 
@@ -1812,7 +1812,7 @@ I've always wanted.
 
 
 <line>
-[slurring] A really good place.
+<nonVerbComm>[slurring]</nonVerbComm> A really good place.
 
 </line>
 
@@ -1826,7 +1826,7 @@ people don't understand about me.
 
 
 <line>
-[slurring] I'm also in a good place.
+<nonVerbComm>[slurring]</nonVerbComm> I'm also in a good place.
 
 </line>
 
@@ -2034,7 +2034,7 @@ got close with the daughter, but, um...
 
 
 <line>
-[mystery music]
+<nonVerbComm>[mystery music]</nonVerbComm>
 
 </line>
 
@@ -2066,7 +2066,7 @@ Hey, Diane, can I ask you a--
 
 
 <line>
-[snoring]
+<nonVerbComm>[snoring]</nonVerbComm>
 
 </line>
 
@@ -2078,13 +2078,13 @@ Oh. Yeah.
 
 
 <line>
-[continuous snoring]
+<nonVerbComm>[continuous snoring]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Diane moans]
+<nonVerbComm>[Diane moans]</nonVerbComm>
 
 </line>
 
@@ -2104,19 +2104,19 @@ Oooooooh... [sighs]
 
 
 <line>
-[heavily snoring]
+<nonVerbComm>[heavily snoring]</nonVerbComm>
 
 </line>
 
 
 <line>
-[door opens, closes]
+<nonVerbComm>[door opens, closes]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Diane] <ital>Reason number seven</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>Reason number seven</ital>
 
 <ital>to go to Vietnam:</ital>
 
@@ -2270,7 +2270,7 @@ No.
 
 
 <line>
-[Vietnamese music]
+<nonVerbComm>[Vietnamese music]</nonVerbComm>
 
 </line>
 
@@ -2296,7 +2296,7 @@ Ah?
 
 
 <line>
-[speaking Vietnamese]
+<nonVerbComm>[speaking Vietnamese]</nonVerbComm>
 
 </line>
 
@@ -2310,13 +2310,13 @@ Thank you.
 
 
 <line>
-[Vietnamese music]
+<nonVerbComm>[Vietnamese music]</nonVerbComm>
 
 </line>
 
 
 <line>
-[swallowing beer]
+<nonVerbComm>[swallowing beer]</nonVerbComm>
 
 </line>
 
@@ -2342,7 +2342,7 @@ A good guy.
 
 
 <line>
-[both laugh]
+<nonVerbComm>[both laugh]</nonVerbComm>
 
 </line>
 
@@ -2380,7 +2380,7 @@ Ah?
 
 
 <line>
-[speaking Vietnamese]
+<nonVerbComm>[speaking Vietnamese]</nonVerbComm>
 
 </line>
 
@@ -2392,7 +2392,7 @@ All right!
 
 
 <line>
-[Diane] <ital>Reason number eight:</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>Reason number eight:</ital>
 
 <ital>To discover a new you.</ital>
 
@@ -2408,7 +2408,7 @@ All right!
 
 
 <line>
-[chattering]
+<nonVerbComm>[chattering]</nonVerbComm>
 
 </line>
 
@@ -2460,7 +2460,7 @@ All right!
 
 
 <line>
-[both] Mm!
+<nonVerbComm>[both]</nonVerbComm> Mm!
 
 </line>
 
@@ -2494,13 +2494,13 @@ I want to show you something.
 
 
 <line>
-[joyful music]
+<nonVerbComm>[joyful music]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Diane] Oh!
+<nonVerbComm>[Diane]</nonVerbComm> Oh!
 
 </line>
 
@@ -2544,7 +2544,7 @@ through your eyes.
 
 
 <line>
-[both moaning]
+<nonVerbComm>[both moaning]</nonVerbComm>
 
 </line>
 
@@ -2558,7 +2558,7 @@ through your eyes.
 
 
 <line>
-[man] Sorry!
+<nonVerbComm>[man]</nonVerbComm> Sorry!
 
 </line>
 
@@ -2680,7 +2680,7 @@ every time I go on location?
 
 
 <line>
-[door slams]
+<nonVerbComm>[door slams]</nonVerbComm>
 
 Ugh!
 
@@ -2688,13 +2688,13 @@ Ugh!
 
 
 <line>
-[Vietnamese music]
+<nonVerbComm>[Vietnamese music]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Diane] <ital>Reason number nine</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>Reason number nine</ital>
 
 <ital>to go to Vietnam:</ital>
 
@@ -2870,19 +2870,19 @@ Mr. Peanutbutter's gonna love it.
 
 
 <line>
-[door creaking]
+<nonVerbComm>[door creaking]</nonVerbComm>
 
 </line>
 
 
 <line>
-[dance music playing]
+<nonVerbComm>[dance music playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[chattering]
+<nonVerbComm>[chattering]</nonVerbComm>
 
 </line>
 
@@ -3086,7 +3086,7 @@ with a child-sized coffin?
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3168,13 +3168,13 @@ we cannot get that money back.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Diane] <ital>Reason number ten</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>Reason number ten</ital>
 
 <ital>to go to Vietnam:</ital>
 
@@ -3276,7 +3276,7 @@ Okay. Thanks.
 
 
 <line>
-[Diane] <ital>You're not entirely sure</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>You're not entirely sure</ital>
 
 <ital>what life will be like when you get home,</ital>
 
@@ -3420,7 +3420,7 @@ I'm Laura Linney.
 
 
 <line>
-[Diane] <ital>But none of those reasons</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>But none of those reasons</ital>
 
 <ital>are why you actually went to Vietnam.</ital>
 
@@ -3428,7 +3428,7 @@ I'm Laura Linney.
 
 
 <line>
-[plane taking off]
+<nonVerbComm>[plane taking off]</nonVerbComm>
 
 </line>
 
@@ -3550,7 +3550,7 @@ not the best way to say it.
 
 
 <line>
-[dance music playing]
+<nonVerbComm>[dance music playing]</nonVerbComm>
 
 </line>
 
@@ -3582,7 +3582,7 @@ Oh, that's what's on fire? In that case...
 
 
 <line>
-[Diane] <ital>The real reason</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>The real reason</ital>
 
 <ital>you go to Vietnam</ital>
 
@@ -3604,7 +3604,7 @@ Oh, that's what's on fire? In that case...
 
 
 <line>
-[both chuckle]
+<nonVerbComm>[both chuckle]</nonVerbComm>
 
 </line>
 
@@ -3618,7 +3618,7 @@ Oh, that's what's on fire? In that case...
 
 
 <line>
-[sad tune]
+<nonVerbComm>[sad tune]</nonVerbComm>
 
 </line>
 
@@ -3638,7 +3638,7 @@ Oh, that's what's on fire? In that case...
 
 
 <line>
-[both] Mmm.
+<nonVerbComm>[both]</nonVerbComm> Mmm.
 
 </line>
 
@@ -3762,7 +3762,7 @@ Oh, that's what's on fire? In that case...
 
 
 <line>
-[sad tunes continue]
+<nonVerbComm>[sad tunes continue]</nonVerbComm>
 
 </line>
 
@@ -3776,13 +3776,13 @@ Oh, that's what's on fire? In that case...
 
 
 <line>
-[sad tunes intense]
+<nonVerbComm>[sad tunes intense]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3796,13 +3796,13 @@ Mr. Peanutbutter.
 
 
 <line>
-[night crickets]
+<nonVerbComm>[night crickets]</nonVerbComm>
 
 </line>
 
 
 <line>
-[singing in Vietnamese]
+<nonVerbComm>[singing in Vietnamese]</nonVerbComm>
 
 
 

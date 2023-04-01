@@ -12,13 +12,13 @@
 
 
 <line>
-[line ringing]
+<nonVerbComm>[line ringing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[voicemail] <ital>Hey, it's Hollyhock.</ital>
+<nonVerbComm>[voicemail]</nonVerbComm> <ital>Hey, it's Hollyhock.</ital>
 
 </line>
 
@@ -86,7 +86,7 @@ But I would love to talk.
 
 
 <line>
-[man] <ital>Welcome to Burritos and Mo!</ital>
+<nonVerbComm>[man]</nonVerbComm> <ital>Welcome to Burritos and Mo!</ital>
 
 <ital>Home of burritos and much, much mo!</ital>
 
@@ -126,7 +126,7 @@ But I would love to talk.
 
 
 <line>
-[Ellie] <ital>Probably because he just came</ital>
+<nonVerbComm>[Ellie]</nonVerbComm> <ital>Probably because he just came</ital>
 
 <ital>from court. It's all over the news.</ital>
 
@@ -142,7 +142,7 @@ But I would love to talk.
 
 
 <line>
-[man] <ital>Makes sense. He seemed like</ital>
+<nonVerbComm>[man]</nonVerbComm> <ital>Makes sense. He seemed like</ital>
 
 <ital>a real psycho in that interview</ital>
 
@@ -158,7 +158,7 @@ But I would love to talk.
 
 
 <line>
-[Ellie] <ital>I'm surprised he'd still</ital>
+<nonVerbComm>[Ellie]</nonVerbComm> <ital>I'm surprised he'd still</ital>
 
 <ital>wanna show his face in public.</ital>
 
@@ -198,7 +198,7 @@ But I would love to talk.
 
 
 <line>
-[man] <ital>List of men in hats, I guess.</ital>
+<nonVerbComm>[man]</nonVerbComm> <ital>List of men in hats, I guess.</ital>
 
 <ital>He was wearing a fedora.</ital>
 
@@ -232,7 +232,7 @@ you've been saying!
 
 
 <line>
-[Ellie] <ital>Uh...</ital>
+<nonVerbComm>[Ellie]</nonVerbComm> <ital>Uh...</ital>
 
 </line>
 
@@ -246,7 +246,7 @@ you've been saying!
 
 
 <line>
-[BoJack grunting]
+<nonVerbComm>[BoJack grunting]</nonVerbComm>
 
 </line>
 
@@ -268,7 +268,7 @@ you've been saying!
 
 
 <line>
-[bleating]
+<nonVerbComm>[bleating]</nonVerbComm>
 
 </line>
 
@@ -606,7 +606,7 @@ Who's next?
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -664,7 +664,7 @@ This AA meeting is a tough room.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -796,7 +796,7 @@ my number is boobs.
 
 
 <line>
-[phone buzzing]
+<nonVerbComm>[phone buzzing]</nonVerbComm>
 
 </line>
 
@@ -902,19 +902,19 @@ Last Tran to Clarksville."
 
 
 <line>
-[disconnect tone]
+<nonVerbComm>[disconnect tone]</nonVerbComm>
 
 </line>
 
 
 <line>
-[audience laughing]
+<nonVerbComm>[audience laughing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[woman] <ital>And those congressional</ital>
+<nonVerbComm>[woman]</nonVerbComm> <ital>And those congressional</ital>
 
 <ital>turd-weasels</ital>
 
@@ -1256,7 +1256,7 @@ What should I do next?
 
 
 <line>
-[ringing]
+<nonVerbComm>[ringing]</nonVerbComm>
 
 </line>
 
@@ -1424,7 +1424,7 @@ There are no offers.
 
 
 <line>
-[scoffs] I can get you a small role
+<nonVerbComm>[scoffs]</nonVerbComm> I can get you a small role
 
 on "Birthday Dad."
 
@@ -1466,7 +1466,7 @@ You could stay here! Live with me forever!
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -1572,7 +1572,7 @@ I feel like I could explain that--
 
 
 <line>
-[voicemail] <ital>Hey, it's Hollyhock.</ital>
+<nonVerbComm>[voicemail]</nonVerbComm> <ital>Hey, it's Hollyhock.</ital>
 
 <ital>Leave a message, if you're a hundred.</ital>
 
@@ -1852,7 +1852,7 @@ to face away from the camera?
 
 
 <line>
-[director] All the way away
+<nonVerbComm>[director]</nonVerbComm> All the way away
 
 from the camera.
 
@@ -1860,13 +1860,13 @@ from the camera.
 
 
 <line>
-[grunts, groans]
+<nonVerbComm>[grunts, groans]</nonVerbComm>
 
 </line>
 
 
 <line>
-[muffled] I can't really breathe.
+<nonVerbComm>[muffled]</nonVerbComm> I can't really breathe.
 
 </line>
 
@@ -1968,7 +1968,7 @@ realize they both have the same birthday.
 
 
 <line>
-[line ringing]
+<nonVerbComm>[line ringing]</nonVerbComm>
 
 </line>
 
@@ -1980,7 +1980,7 @@ BoJack!
 
 
 <line>
-[Todd] Greetings, cast!
+<nonVerbComm>[Todd]</nonVerbComm> Greetings, cast!
 
 </line>
 
@@ -2036,7 +2036,7 @@ inside this Applebee's."
 
 
 <line>
-[all] Ooh!
+<nonVerbComm>[all]</nonVerbComm> Ooh!
 
 </line>
 
@@ -2192,7 +2192,7 @@ all the magic fairy glitter.
 
 
 <line>
-[deep voice] "This summer:
+<nonVerbComm>[deep voice]</nonVerbComm> "This summer:
 
 Dumbass Unicorn."
 
@@ -2200,7 +2200,7 @@ Dumbass Unicorn."
 
 
 <line>
-[chuckles] That's so stupid.
+<nonVerbComm>[chuckles]</nonVerbComm> That's so stupid.
 
 No, that's exactly what they'd do.
 
@@ -2216,7 +2216,7 @@ It would be like
 
 
 <line>
-[normal voice] Yeah, and his horn
+<nonVerbComm>[normal voice]</nonVerbComm> Yeah, and his horn
 
 is like a corkscrew,
 
@@ -2270,7 +2270,7 @@ Now we have to do it.
 
 
 <line>
-[chuckles] What do you mean "do it"?
+<nonVerbComm>[chuckles]</nonVerbComm> What do you mean "do it"?
 
 </line>
 
@@ -2364,7 +2364,7 @@ to keep my horn from going soft?"
 
 
 <line>
-[chuckles] I don't know.
+<nonVerbComm>[chuckles]</nonVerbComm> I don't know.
 
 </line>
 
@@ -2384,7 +2384,7 @@ punishing yourself?
 
 
 <line>
-[video game noises]
+<nonVerbComm>[video game noises]</nonVerbComm>
 
 </line>
 
@@ -2450,13 +2450,13 @@ I need to get revisions to my publisher.
 
 
 <line>
-[chuckles] Sounds like a "you" problem.
+<nonVerbComm>[chuckles]</nonVerbComm> Sounds like a "you" problem.
 
 </line>
 
 
 <line>
-[sniggering]
+<nonVerbComm>[sniggering]</nonVerbComm>
 
 </line>
 
@@ -2834,7 +2834,7 @@ Oh, you're in, baby!
 
 
 <line>
-[video game noises]
+<nonVerbComm>[video game noises]</nonVerbComm>
 
 </line>
 
@@ -3288,7 +3288,7 @@ It came off as disingenuous!
 
 
 <line>
-[gasps] You know I love my wide array
+<nonVerbComm>[gasps]</nonVerbComm> You know I love my wide array
 
 of L'Oréal products!
 
@@ -3362,7 +3362,7 @@ Let's make one more stop.
 
 
 <line>
-[phone buzzes, beeps]
+<nonVerbComm>[phone buzzes, beeps]</nonVerbComm>
 
 </line>
 
@@ -3420,7 +3420,7 @@ I know. Please keep trying.
 
 
 <line>
-[beeps]
+<nonVerbComm>[beeps]</nonVerbComm>
 
 </line>
 
@@ -3458,7 +3458,7 @@ she got sober... that time.
 
 
 <line>
-[chuckles] Wow.
+<nonVerbComm>[chuckles]</nonVerbComm> Wow.
 
 </line>
 
@@ -3570,19 +3570,19 @@ I shouldn't be here.
 
 
 <line>
-[bottle clinks]
+<nonVerbComm>[bottle clinks]</nonVerbComm>
 
 </line>
 
 
 <line>
-[line ringing]
+<nonVerbComm>[line ringing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[female voice] <ital>The number you are trying</ital>
+<nonVerbComm>[female voice]</nonVerbComm> <ital>The number you are trying</ital>
 
 <ital>to reach has been disconnected.</ital>
 
@@ -3602,7 +3602,7 @@ What?
 
 
 <line>
-[gasps, exhales]
+<nonVerbComm>[gasps, exhales]</nonVerbComm>
 
 </line>
 
@@ -3614,31 +3614,31 @@ Huh.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[indistinct chatter]
+<nonVerbComm>[indistinct chatter]</nonVerbComm>
 
 </line>
 
 
 <line>
-[camera shutter clicks]
+<nonVerbComm>[camera shutter clicks]</nonVerbComm>
 
 </line>
 
 
 <line>
-[camera shutter clicks]
+<nonVerbComm>[camera shutter clicks]</nonVerbComm>
 
 </line>
 
 
 <line>
-[camera shutters click]
+<nonVerbComm>[camera shutters click]</nonVerbComm>
 
 </line>
 

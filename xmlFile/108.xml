@@ -12,7 +12,7 @@
 
 
 <line>
-[BoJack] <ital>Oh, right.</ital>
+<nonVerbComm>[BoJack]</nonVerbComm> <ital>Oh, right.</ital>
 
 </line>
 
@@ -40,7 +40,7 @@ Ooh!
 
 
 <line>
-[honks horn]
+<nonVerbComm>[honks horn]</nonVerbComm>
 
 </line>
 
@@ -356,7 +356,7 @@ Shut up, Todd.
 
 
 <line>
-[funky electronic music]
+<nonVerbComm>[funky electronic music]</nonVerbComm>
 
 </line>
 
@@ -368,7 +368,7 @@ Shut up, Todd.
 
 
 <line>
-['80s music]
+<nonVerbComm>['80s music]</nonVerbComm>
 
 </line>
 
@@ -450,7 +450,7 @@ I mean, come on.
 
 
 <line>
-[laughs]
+<nonVerbComm>[laughs]</nonVerbComm>
 
 </line>
 
@@ -506,7 +506,7 @@ from ABC are here.
 
 
 <line>
-[laughter]
+<nonVerbComm>[laughter]</nonVerbComm>
 
 </line>
 
@@ -654,7 +654,7 @@ ladies and gentlemen.
 
 
 <line>
-[applause]
+<nonVerbComm>[applause]</nonVerbComm>
 
 </line>
 
@@ -742,7 +742,7 @@ for example.
 
 
 <line>
-[laughter]
+<nonVerbComm>[laughter]</nonVerbComm>
 
 </line>
 
@@ -786,7 +786,7 @@ after the show.
 
 
 <line>
-[whispers]
+<nonVerbComm>[whispers]</nonVerbComm>
 
 I'm not kidding around.
 
@@ -794,7 +794,7 @@ I'm not kidding around.
 
 
 <line>
-[laughter]
+<nonVerbComm>[laughter]</nonVerbComm>
 
 </line>
 
@@ -1364,13 +1364,13 @@ takes it all.
 
 
 <line>
-[upbeat music]
+<nonVerbComm>[upbeat music]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Herb] I love this town.
+<nonVerbComm>[Herb]</nonVerbComm> I love this town.
 
 </line>
 
@@ -1654,13 +1654,13 @@ Let's get rich!
 
 
 <line>
-[both] Yeah.
+<nonVerbComm>[both]</nonVerbComm> Yeah.
 
 </line>
 
 
 <line>
-[rock music]
+<nonVerbComm>[rock music]</nonVerbComm>
 
 </line>
 
@@ -1910,7 +1910,7 @@ to disappoint them?
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 Okay, Sharona.
 
@@ -1944,7 +1944,7 @@ And your 30K an episode.
 
 
 <line>
-[announcer] Let's give it up
+<nonVerbComm>[announcer]</nonVerbComm> Let's give it up
 
 for BoJack Horseman!
 
@@ -1964,7 +1964,7 @@ after the show.
 
 
 <line>
-[cheers and applause]
+<nonVerbComm>[cheers and applause]</nonVerbComm>
 
 </line>
 
@@ -1984,7 +1984,7 @@ I got to fire my assistant.
 
 
 <line>
-[laughter]
+<nonVerbComm>[laughter]</nonVerbComm>
 
 </line>
 
@@ -1998,7 +1998,7 @@ you're ready for a show.
 
 
 <line>
-[rock music]
+<nonVerbComm>[rock music]</nonVerbComm>
 
 </line>
 
@@ -2012,7 +2012,7 @@ trying to like Zima?
 
 
 <line>
-[phone rings]
+<nonVerbComm>[phone rings]</nonVerbComm>
 
 </line>
 
@@ -2068,7 +2068,7 @@ on the line.
 
 
 <line>
-[Marv] <ital>BoJack Goddamn Horseface.</ital>
+<nonVerbComm>[Marv]</nonVerbComm> <ital>BoJack Goddamn Horseface.</ital>
 
 </line>
 
@@ -2196,7 +2196,7 @@ with MC Skat Kat.
 
 
 <line>
-[man on TV] <ital>Scandal breaking today</ital>
+<nonVerbComm>[man on TV]</nonVerbComm> <ital>Scandal breaking today</ital>
 
 </line>
 
@@ -2406,7 +2406,7 @@ so far apart, huh?
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -2818,25 +2818,25 @@ I'll never talk to you again.
 
 
 <line>
-[cup thuds]
+<nonVerbComm>[cup thuds]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[announcer] You folks ready for a show?
+<nonVerbComm>[announcer]</nonVerbComm> You folks ready for a show?
 
 </line>
 
 
 <line>
-[audience cheering]
+<nonVerbComm>[audience cheering]</nonVerbComm>
 
 </line>
 
@@ -2852,13 +2852,13 @@ might show up any second.
 
 
 <line>
-[applause]
+<nonVerbComm>[applause]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -2884,7 +2884,7 @@ I gotta fire my assistant.
 
 
 <line>
-[laughter]
+<nonVerbComm>[laughter]</nonVerbComm>
 
 </line>
 
@@ -2962,19 +2962,19 @@ Hooray. A task.
 
 
 <line>
-[doorbell rings]
+<nonVerbComm>[doorbell rings]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[coughs]
+<nonVerbComm>[coughs]</nonVerbComm>
 
 </line>
 
@@ -3002,7 +3002,7 @@ this whole time?
 
 
 <line>
-[all laugh]
+<nonVerbComm>[all laugh]</nonVerbComm>
 
 </line>
 
@@ -3072,7 +3072,7 @@ Is your book called,
 
 
 <line>
-[laughs]
+<nonVerbComm>[laughs]</nonVerbComm>
 
 I kid.
 
@@ -3116,7 +3116,7 @@ Ha ha ha ha ha ha!
 
 
 <line>
-[forced laugh]
+<nonVerbComm>[forced laugh]</nonVerbComm>
 
 </line>
 
@@ -3228,7 +3228,7 @@ Oh. Ow. Almost.
 
 
 <line>
-[exciting music]
+<nonVerbComm>[exciting music]</nonVerbComm>
 
 </line>
 
@@ -3298,7 +3298,7 @@ Drive the goddamn car!
 
 
 <line>
-[coughs]
+<nonVerbComm>[coughs]</nonVerbComm>
 
 </line>
 
@@ -3424,7 +3424,7 @@ as fast as I can.
 
 
 <line>
-[tires squealing]
+<nonVerbComm>[tires squealing]</nonVerbComm>
 
 </line>
 
@@ -3548,7 +3548,7 @@ you're still wearing a mask.
 
 
 <line>
-[both] Oh.
+<nonVerbComm>[both]</nonVerbComm> Oh.
 
 </line>
 
@@ -3588,7 +3588,7 @@ but I also started...
 
 
 <line>
-[coughs] a charity
+<nonVerbComm>[coughs]</nonVerbComm> a charity
 
 to bring clean water
 
@@ -3696,7 +3696,7 @@ I actually wake up later.
 
 
 <line>
-[coughs]
+<nonVerbComm>[coughs]</nonVerbComm>
 
 </line>
 
@@ -3716,7 +3716,7 @@ You can see yourselves out.
 
 
 <line>
-[chuckling]
+<nonVerbComm>[chuckling]</nonVerbComm>
 
 </line>
 
@@ -3728,7 +3728,7 @@ You can see yourselves out.
 
 
 <line>
-[chuckling]
+<nonVerbComm>[chuckling]</nonVerbComm>
 
 I love it.
 
@@ -3848,7 +3848,7 @@ I think I'm finally
 
 
 <line>
-[both] Celebrity stealing club
+<nonVerbComm>[both]</nonVerbComm> Celebrity stealing club
 
 strikes again.
 
@@ -3856,7 +3856,7 @@ strikes again.
 
 
 <line>
-[upbeat music]
+<nonVerbComm>[upbeat music]</nonVerbComm>
 
 </line>
 
@@ -3952,7 +3952,7 @@ talking about something else?
 
 
 <line>
-[cheerfully]
+<nonVerbComm>[cheerfully]</nonVerbComm>
 
 Hey, buddy!
 
@@ -3968,7 +3968,7 @@ for that Vitamix, you--
 
 
 <line>
-[coughs]
+<nonVerbComm>[coughs]</nonVerbComm>
 
 </line>
 
@@ -4070,7 +4070,7 @@ You don't get that.
 
 
 <line>
-[coughs]
+<nonVerbComm>[coughs]</nonVerbComm>
 
 You have to live
 
@@ -4242,7 +4242,7 @@ I--
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -4300,13 +4300,13 @@ Forget I brought it up.
 
 
 <line>
-[both grunting]
+<nonVerbComm>[both grunting]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Diane] BoJack?
+<nonVerbComm>[Diane]</nonVerbComm> BoJack?
 
 </line>
 
@@ -4428,13 +4428,13 @@ Yeah. You do.
 
 
 <line>
-[engine revs, tires screech]
+<nonVerbComm>[engine revs, tires screech]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Princess Carolyn]
+<nonVerbComm>[Princess Carolyn]</nonVerbComm>
 
 <ital>You said you wanted a job.</ital>
 
@@ -4500,7 +4500,7 @@ for, like, three hours.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -4568,7 +4568,7 @@ to do what you did back there.
 
 
 <line>
-[water lapping]
+<nonVerbComm>[water lapping]</nonVerbComm>
 
 </line>
 
@@ -4582,7 +4582,7 @@ to do what you did back there.
 
 
 <line>
-[melancholy music]
+<nonVerbComm>[melancholy music]</nonVerbComm>
 
 </line>
 

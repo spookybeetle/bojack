@@ -200,13 +200,13 @@ Classic BoJack. Love it.
 
 
 <line>
-[BoJack sighs]
+<nonVerbComm>[BoJack sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Claire] Oh, my God, are you Todd?
+<nonVerbComm>[Claire]</nonVerbComm> Oh, my God, are you Todd?
 
 [Todd] Uh, yes.
 
@@ -214,25 +214,25 @@ Classic BoJack. Love it.
 
 
 <line>
-[Claire] "Shut up, Todd!"
+<nonVerbComm>[Claire]</nonVerbComm> "Shut up, Todd!"
 
 </line>
 
 
 <line>
-[Claire laughs]
+<nonVerbComm>[Claire laughs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Todd] Aw, okay.
+<nonVerbComm>[Todd]</nonVerbComm> Aw, okay.
 
 </line>
 
 
 <line>
-[♪♪]
+<nonVerbComm>[♪♪]</nonVerbComm>
 
 </line>
 
@@ -662,7 +662,7 @@ where no one knows your name.
 
 
 <line>
-[stammers]
+<nonVerbComm>[stammers]</nonVerbComm>
 
 </line>
 
@@ -804,7 +804,7 @@ We'll air it three nights a week.
 
 
 <line>
-[all gasp]
+<nonVerbComm>[all gasp]</nonVerbComm>
 
 </line>
 
@@ -848,7 +848,7 @@ Huh.
 
 
 <line>
-[woman over PA]
+<nonVerbComm>[woman over PA]</nonVerbComm>
 
 <ital>And here's a special request.</ital>
 
@@ -902,7 +902,7 @@ to mean something to me?
 
 
 <line>
-[light rock ballad playing over speakers]
+<nonVerbComm>[light rock ballad playing over speakers]</nonVerbComm>
 
 </line>
 
@@ -920,7 +920,7 @@ but you can't make him rink.
 
 
 <line>
-[laughing]
+<nonVerbComm>[laughing]</nonVerbComm>
 
 </line>
 
@@ -948,7 +948,7 @@ Oh, my God. You should be on TV,
 
 
 <line>
-[gasps]
+<nonVerbComm>[gasps]</nonVerbComm>
 
 which, holy shit, they're flat now.
 
@@ -970,7 +970,7 @@ Let's talk about you.
 
 
 <line>
-[Wanda] Next thing I know,
+<nonVerbComm>[Wanda]</nonVerbComm> Next thing I know,
 
 I'm waking up from a 30-year coma.
 
@@ -1214,13 +1214,13 @@ Oh, God, it's coming. I can't stop it.
 
 
 <line>
-[carnival music playing over speakers]
+<nonVerbComm>[carnival music playing over speakers]</nonVerbComm>
 
 </line>
 
 
 <line>
-[child crying]
+<nonVerbComm>[child crying]</nonVerbComm>
 
 </line>
 
@@ -1306,7 +1306,7 @@ magical pile of used mattresses.
 
 
 <line>
-[child] Help!
+<nonVerbComm>[child]</nonVerbComm> Help!
 
 </line>
 
@@ -1352,13 +1352,13 @@ that's also negative, but you know.
 
 
 <line>
-[quacks, then yells]
+<nonVerbComm>[quacks, then yells]</nonVerbComm>
 
 </line>
 
 
 <line>
-[children laughing]
+<nonVerbComm>[children laughing]</nonVerbComm>
 
 </line>
 
@@ -1682,7 +1682,7 @@ and <ital>Peggy Sue Got Married </ital>got married.
 
 
 <line>
-[man over radio]
+<nonVerbComm>[man over radio]</nonVerbComm>
 
 <ital>Okay, teenyboppers,</ital>
 
@@ -1712,7 +1712,7 @@ and <ital>Peggy Sue Got Married </ital>got married.
 
 
 <line>
-[do-wop ballad plays over speakers]
+<nonVerbComm>[do-wop ballad plays over speakers]</nonVerbComm>
 
 </line>
 
@@ -1762,7 +1762,7 @@ I just woke up from a 30-year coma.
 
 
 <line>
-[record stops]
+<nonVerbComm>[record stops]</nonVerbComm>
 
 </line>
 
@@ -1784,7 +1784,7 @@ I just woke up from a 30-year coma.
 
 
 <line>
-[do-wop ballad plays over speakers]
+<nonVerbComm>[do-wop ballad plays over speakers]</nonVerbComm>
 
 </line>
 
@@ -1868,7 +1868,7 @@ because we both breathe air.
 
 
 <line>
-[both]
+<nonVerbComm>[both]</nonVerbComm>
 
 Who? Jinx. Buy me a Coke Zero.
 
@@ -1884,7 +1884,7 @@ I have no idea.
 
 
 <line>
-[both laughing]
+<nonVerbComm>[both laughing]</nonVerbComm>
 
 </line>
 
@@ -1912,7 +1912,7 @@ Tubular.
 
 
 <line>
-[BoJack sighs]
+<nonVerbComm>[BoJack sighs]</nonVerbComm>
 
 </line>
 
@@ -2204,7 +2204,7 @@ the wrong name. I'm sure these--
 
 
 <line>
-[stammers]
+<nonVerbComm>[stammers]</nonVerbComm>
 
 </line>
 
@@ -2438,7 +2438,7 @@ the real reason.
 
 
 <line>
-[Princess Carolyn]
+<nonVerbComm>[Princess Carolyn]</nonVerbComm>
 
 No, we just took you at face value.
 
@@ -2458,7 +2458,7 @@ Alex. Or should I say "comrade"?
 
 
 <line>
-[BoJack gasps]
+<nonVerbComm>[BoJack gasps]</nonVerbComm>
 
 </line>
 
@@ -2480,7 +2480,7 @@ bent on destroying America.
 
 
 <line>
-[all gasp]
+<nonVerbComm>[all gasp]</nonVerbComm>
 
 </line>
 
@@ -2520,7 +2520,7 @@ and I don't know if I ever will.
 
 
 <line>
-[all] Aww!
+<nonVerbComm>[all]</nonVerbComm> Aww!
 
 </line>
 
@@ -2664,7 +2664,7 @@ because I'm always Russian.
 
 
 <line>
-[all] Aww!
+<nonVerbComm>[all]</nonVerbComm> Aww!
 
 </line>
 
@@ -2676,7 +2676,7 @@ Seriously?
 
 
 <line>
-[BoJack sighs]
+<nonVerbComm>[BoJack sighs]</nonVerbComm>
 
 [Princess Carolyn gasps]
 
@@ -2786,7 +2786,7 @@ can you get it for me?
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -2922,7 +2922,7 @@ It's only a matter of time.
 
 
 <line>
-[whistling]
+<nonVerbComm>[whistling]</nonVerbComm>
 
 </line>
 
@@ -2972,7 +2972,7 @@ No! Bees! Come on!
 
 
 <line>
-[groaning]
+<nonVerbComm>[groaning]</nonVerbComm>
 
 </line>
 
@@ -3144,13 +3144,13 @@ as my DJ booth is engulfed in flames.
 
 
 <line>
-[slow rock ballad playing over speakers]
+<nonVerbComm>[slow rock ballad playing over speakers]</nonVerbComm>
 
 </line>
 
 
 <line>
-[both grunting]
+<nonVerbComm>[both grunting]</nonVerbComm>
 
 </line>
 
@@ -3266,7 +3266,7 @@ It's crazy, but let's do it!
 
 
 <line>
-[laughing]
+<nonVerbComm>[laughing]</nonVerbComm>
 
 </line>
 

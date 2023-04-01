@@ -18,13 +18,13 @@ A NETFLIX ORIGINAL SERIES
 
 
 <line>
-[classical music playing]
+<nonVerbComm>[classical music playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[man on TV] <ital>Can't you see?</ital>
+<nonVerbComm>[man on TV]</nonVerbComm> <ital>Can't you see?</ital>
 
 <ital>You don't belong here!</ital>
 
@@ -78,7 +78,7 @@ A NETFLIX ORIGINAL SERIES
 
 
 <line>
-[reciting Amelia's lines]
+<nonVerbComm>[reciting Amelia's lines]</nonVerbComm>
 
 It's true, that is my name.
 
@@ -110,7 +110,7 @@ or I'll pop the both of you.
 
 
 <line>
-[reciting] But a woman's never flown
+<nonVerbComm>[reciting]</nonVerbComm> But a woman's never flown
 
 to the sun before.
 
@@ -156,13 +156,13 @@ What am I, made of tapes?
 
 
 <line>
-[man] <ital>That's the spirit!</ital>
+<nonVerbComm>[man]</nonVerbComm> <ital>That's the spirit!</ital>
 
 </line>
 
 
 <line>
-[reciting] I suppose the most effective
+<nonVerbComm>[reciting]</nonVerbComm> I suppose the most effective
 
 way to do it is to do it!
 
@@ -170,13 +170,13 @@ way to do it is to do it!
 
 
 <line>
-[phone buzzing, meowing]
+<nonVerbComm>[phone buzzing, meowing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs] Hello?
+<nonVerbComm>[sighs]</nonVerbComm> Hello?
 
 </line>
 
@@ -326,7 +326,7 @@ Just... taking care of some family stuff.
 
 
 <line>
-[series theme music playing]
+<nonVerbComm>[series theme music playing]</nonVerbComm>
 
 </line>
 
@@ -638,7 +638,7 @@ who grew up in Eden.
 
 
 <line>
-[sipping]
+<nonVerbComm>[sipping]</nonVerbComm>
 
 </line>
 
@@ -770,7 +770,7 @@ they call "sausage" in LA.
 
 
 <line>
-[both laughing]
+<nonVerbComm>[both laughing]</nonVerbComm>
 
 </line>
 
@@ -1004,7 +1004,7 @@ Thanks.
 
 
 <line>
-[bell jingles]
+<nonVerbComm>[bell jingles]</nonVerbComm>
 
 </line>
 
@@ -1090,7 +1090,7 @@ Did you know I'm on the football team?
 
 
 <line>
-[chuckles] I do know it.
+<nonVerbComm>[chuckles]</nonVerbComm> I do know it.
 
 Are you ever gonna play?
 
@@ -1254,7 +1254,7 @@ Damn! You know what?
 
 
 <line>
-[panting]
+<nonVerbComm>[panting]</nonVerbComm>
 
 </line>
 
@@ -1484,7 +1484,7 @@ Sadie, I'll be there.
 
 
 <line>
-[Sadie grunting]
+<nonVerbComm>[Sadie grunting]</nonVerbComm>
 
 </line>
 
@@ -1592,13 +1592,13 @@ I don't know what I'd do without you.
 
 
 <line>
-[deep breath, sighs]
+<nonVerbComm>[deep breath, sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Cooper humming] Ow!
+<nonVerbComm>[Cooper humming]</nonVerbComm> Ow!
 
 </line>
 
@@ -1674,19 +1674,19 @@ It's called first-string quarterback!
 
 
 <line>
-[both laugh]
+<nonVerbComm>[both laugh]</nonVerbComm>
 
 </line>
 
 
 <line>
-[both moaning]
+<nonVerbComm>[both moaning]</nonVerbComm>
 
 </line>
 
 
 <line>
-[man on TV] <ital>By Jove, she's doing it!</ital>
+<nonVerbComm>[man on TV]</nonVerbComm> <ital>By Jove, she's doing it!</ital>
 
 <ital>She's flying to the sun!</ital>
 
@@ -2028,7 +2028,7 @@ Just stop whining like a little bitch!
 
 
 <line>
-[laughs]
+<nonVerbComm>[laughs]</nonVerbComm>
 
 Okay, love you, bitch!
 
@@ -2136,7 +2136,7 @@ Maybe I'm gonna buy it.
 
 
 <line>
-[gasps] Oh, my God!
+<nonVerbComm>[gasps]</nonVerbComm> Oh, my God!
 
 </line>
 
@@ -2174,7 +2174,7 @@ Hey, I guess you're right.
 
 
 <line>
-[groans] My back aches.
+<nonVerbComm>[groans]</nonVerbComm> My back aches.
 
 </line>
 
@@ -2400,7 +2400,7 @@ Now listen to me. This is our shot.
 
 
 <line>
-[Sadie] <ital>Princess Carolyn?</ital>
+<nonVerbComm>[Sadie]</nonVerbComm> <ital>Princess Carolyn?</ital>
 
 </line>
 
@@ -2484,7 +2484,7 @@ Maybe then I wouldn't be pregnant.
 
 
 <line>
-[chatter]
+<nonVerbComm>[chatter]</nonVerbComm>
 
 </line>
 
@@ -2602,13 +2602,13 @@ And heavy pollution.
 
 
 <line>
-[Princess Carolyn shivering]
+<nonVerbComm>[Princess Carolyn shivering]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 My dad's ready to see you.
 
@@ -2616,7 +2616,7 @@ My dad's ready to see you.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -2630,7 +2630,7 @@ My dad's ready to see you.
 
 
 <line>
-[Mr. Wallace clearing throat]
+<nonVerbComm>[Mr. Wallace clearing throat]</nonVerbComm>
 
 </line>
 
@@ -2796,7 +2796,7 @@ Sound good? Beep!
 
 
 <line>
-[back to present time] Hello?
+<nonVerbComm>[back to present time]</nonVerbComm> Hello?
 
 </line>
 
@@ -2956,7 +2956,7 @@ until end of production.
 
 
 <line>
-[sister] Go away!
+<nonVerbComm>[sister]</nonVerbComm> Go away!
 
 </line>
 
@@ -3052,7 +3052,7 @@ when the flood comes.
 
 
 <line>
-[voices overlapping]
+<nonVerbComm>[voices overlapping]</nonVerbComm>
 
 </line>
 
@@ -3106,13 +3106,13 @@ everything for us.
 
 
 <line>
-[sobs] I'm sorry. I'm sorry. I'm sorry!
+<nonVerbComm>[sobs]</nonVerbComm> I'm sorry. I'm sorry. I'm sorry!
 
 </line>
 
 
 <line>
-[sighs] It's not your fault.
+<nonVerbComm>[sighs]</nonVerbComm> It's not your fault.
 
 </line>
 
@@ -3174,13 +3174,13 @@ but this came in the mail.
 
 
 <line>
-[gasps]
+<nonVerbComm>[gasps]</nonVerbComm>
 
 </line>
 
 
 <line>
-[phone buzzing, meowing]
+<nonVerbComm>[phone buzzing, meowing]</nonVerbComm>
 
 </line>
 
@@ -3246,7 +3246,7 @@ because you wear glasses?
 
 
 <line>
-[sighs] Okay, it was Flip's idea.
+<nonVerbComm>[sighs]</nonVerbComm> Okay, it was Flip's idea.
 
 </line>
 
@@ -3418,13 +3418,13 @@ Better than a sky fulla stars?
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[deep breath] Okay, Sadie,
+<nonVerbComm>[deep breath]</nonVerbComm> Okay, Sadie,
 
 you do whatever you want.
 
@@ -3472,7 +3472,7 @@ or this baby, or anybody else.
 
 
 <line>
-[sign grinds]
+<nonVerbComm>[sign grinds]</nonVerbComm>
 
 </line>
 
@@ -3532,7 +3532,7 @@ This is the hardest part of my job,
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3546,7 +3546,7 @@ This is the hardest part of my job,
 
 
 <line>
-[phone buzzing, meowing]
+<nonVerbComm>[phone buzzing, meowing]</nonVerbComm>
 
 </line>
 
@@ -3628,7 +3628,7 @@ We did it, Princess Carolyn. Back on top!
 
 
 <line>
-[announcer] <ital>Flight 29 to Los Angeles,</ital>
+<nonVerbComm>[announcer]</nonVerbComm> <ital>Flight 29 to Los Angeles,</ital>
 
 <ital>say your goodbyes.</ital>
 

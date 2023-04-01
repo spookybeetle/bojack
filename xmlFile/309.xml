@@ -74,7 +74,7 @@ Can you come over? I need you.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -238,7 +238,7 @@ You're Princess Carolyn.
 
 
 <line>
-[both moan]
+<nonVerbComm>[both moan]</nonVerbComm>
 
 </line>
 
@@ -290,7 +290,7 @@ Well, can you be wistful a little quieter?
 
 
 <line>
-[Carolyn laughs]
+<nonVerbComm>[Carolyn laughs]</nonVerbComm>
 
 </line>
 
@@ -720,7 +720,7 @@ Oh, fish, oh, fish!
 
 
 <line>
-[woman] Who's out there?
+<nonVerbComm>[woman]</nonVerbComm> Who's out there?
 
 Are you talking to me?
 
@@ -750,7 +750,7 @@ All right, Pink Lady, think.
 
 
 <line>
-[woman] I was a Pink Lady in my high
+<nonVerbComm>[woman]</nonVerbComm> I was a Pink Lady in my high
 
 school's production of <ital>Grease.</ital>
 
@@ -778,19 +778,19 @@ Now, let us bow our heads and bray.
 
 
 <line>
-[all bray]
+<nonVerbComm>[all bray]</nonVerbComm>
 
 </line>
 
 
 <line>
-[grunts]
+<nonVerbComm>[grunts]</nonVerbComm>
 
 </line>
 
 
 <line>
-[whispers]
+<nonVerbComm>[whispers]</nonVerbComm>
 
 </line>
 
@@ -1038,7 +1038,7 @@ Modigliani, Masaccio, Marmaduke!
 
 
 <line>
-[laughs nervously]
+<nonVerbComm>[laughs nervously]</nonVerbComm>
 
 </line>
 
@@ -1524,7 +1524,7 @@ Hey! Hey! Hey!
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -1948,7 +1948,7 @@ You've been in there a long time.
 
 
 <line>
-[woman] I left for a while and came back.
+<nonVerbComm>[woman]</nonVerbComm> I left for a while and came back.
 
 </line>
 
@@ -1990,7 +1990,7 @@ I agonized over this. Ask Ana.
 
 
 <line>
-[shouts]
+<nonVerbComm>[shouts]</nonVerbComm>
 
 </line>
 
@@ -2008,7 +2008,7 @@ God, you're strong.
 
 
 <line>
-[BoJack groans]
+<nonVerbComm>[BoJack groans]</nonVerbComm>
 
 </line>
 
@@ -2270,7 +2270,7 @@ Like Joe Pesci in <ital>Home Alone?</ital>
 
 
 <line>
-[laughs] You recognize
+<nonVerbComm>[laughs]</nonVerbComm> You recognize
 
 you're being impossible, right?
 
@@ -2386,7 +2386,7 @@ and don't really think about--
 
 
 <line>
-[screams]
+<nonVerbComm>[screams]</nonVerbComm>
 
 </line>
 
@@ -3088,7 +3088,7 @@ Yes! Corporation!
 
 
 <line>
-[all cheer]
+<nonVerbComm>[all cheer]</nonVerbComm>
 
 </line>
 
@@ -3124,7 +3124,7 @@ Have a great night.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -3364,13 +3364,13 @@ Sorry, I left my coat here.
 
 
 <line>
-[whistles]
+<nonVerbComm>[whistles]</nonVerbComm>
 
 </line>
 
 
 <line>
-[waiter] I got it.
+<nonVerbComm>[waiter]</nonVerbComm> I got it.
 
 </line>
 

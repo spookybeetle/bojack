@@ -12,25 +12,25 @@
 
 
 <line>
-[bell rings]
+<nonVerbComm>[bell rings]</nonVerbComm>
 
 </line>
 
 
 <line>
-[panting]
+<nonVerbComm>[panting]</nonVerbComm>
 
 </line>
 
 
 <line>
-[door creaks]
+<nonVerbComm>[door creaks]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -100,7 +100,7 @@ Should He seek <ital>less </ital>from you?
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -192,13 +192,13 @@ Bo... BoJack!
 
 
 <line>
-[gasps]
+<nonVerbComm>[gasps]</nonVerbComm>
 
 </line>
 
 
 <line>
-[theme music playing]
+<nonVerbComm>[theme music playing]</nonVerbComm>
 
 </line>
 
@@ -218,7 +218,7 @@ Gah! Bleh! Agh!
 
 
 <line>
-[moans] Ow...!
+<nonVerbComm>[moans]</nonVerbComm> Ow...!
 
 </line>
 
@@ -390,7 +390,7 @@ Uh-oh. I let them go to my head.
 
 
 <line>
-[elevator dings]
+<nonVerbComm>[elevator dings]</nonVerbComm>
 
 </line>
 
@@ -576,7 +576,7 @@ But there's nowhere else I can take you.
 
 
 <line>
-[Henry] <ital>Let's get down to business.</ital>
+<nonVerbComm>[Henry]</nonVerbComm> <ital>Let's get down to business.</ital>
 
 </line>
 
@@ -700,7 +700,7 @@ the world is ready for, um, BoJina.
 
 
 <line>
-[sighs] What do you want,
+<nonVerbComm>[sighs]</nonVerbComm> What do you want,
 
 Mr. Peanutbutter?
 
@@ -812,7 +812,7 @@ Why did you call me?
 
 
 <line>
-[Peanutbutter] <ital>Oh, yeah!</ital>
+<nonVerbComm>[Peanutbutter]</nonVerbComm> <ital>Oh, yeah!</ital>
 
 </line>
 
@@ -1100,13 +1100,13 @@ He hasn't talked to me for 30 years.
 
 
 <line>
-[camera shutters clicking]
+<nonVerbComm>[camera shutters clicking]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Pickles] Wow!
+<nonVerbComm>[Pickles]</nonVerbComm> Wow!
 
 </line>
 
@@ -1306,7 +1306,7 @@ Oh!
 
 
 <line>
-[Henry] <ital>Chicka-chicka, oh, yeah.</ital>
+<nonVerbComm>[Henry]</nonVerbComm> <ital>Chicka-chicka, oh, yeah.</ital>
 
 </line>
 
@@ -1318,7 +1318,7 @@ Oh!
 
 
 <line>
-[clattering]
+<nonVerbComm>[clattering]</nonVerbComm>
 
 </line>
 
@@ -1382,7 +1382,7 @@ You've got balls, I'll give you that.
 
 
 <line>
-[clanking, whirring] <ital>I am a horny robot.</ital>
+<nonVerbComm>[clanking, whirring]</nonVerbComm> <ital>I am a horny robot.</ital>
 
 </line>
 
@@ -1448,7 +1448,7 @@ who has become but a stranger to me now?
 
 
 <line>
-[whirring] <ital>I am powerless in the face</ital>
+<nonVerbComm>[whirring]</nonVerbComm> <ital>I am powerless in the face</ital>
 
 <ital>of your mesmerizing sexual energy.</ital>
 
@@ -1456,7 +1456,7 @@ who has become but a stranger to me now?
 
 
 <line>
-[gasps] Such a brain for business,
+<nonVerbComm>[gasps]</nonVerbComm> Such a brain for business,
 
 yet such a tongue for poetry.
 
@@ -1536,7 +1536,7 @@ He doesn't need to come.
 
 
 <line>
-[Henry] <ital>I'm coming, I'm coming.</ital>
+<nonVerbComm>[Henry]</nonVerbComm> <ital>I'm coming, I'm coming.</ital>
 
 <ital>Oh, God, I'm coming.</ital>
 
@@ -1550,7 +1550,7 @@ Whatever you say... boss.
 
 
 <line>
-[splattering]
+<nonVerbComm>[splattering]</nonVerbComm>
 
 </line>
 
@@ -1588,7 +1588,7 @@ in my own time, and that's okay, too.
 
 
 <line>
-[weak laughter]
+<nonVerbComm>[weak laughter]</nonVerbComm>
 
 </line>
 
@@ -1610,7 +1610,7 @@ no intentional humor.
 
 
 <line>
-[chuckles] Okay. That's--
+<nonVerbComm>[chuckles]</nonVerbComm> Okay. That's--
 
 that's always a good sign,
 
@@ -1630,7 +1630,7 @@ Look, folks, Herb is being modest.
 
 
 <line>
-[laughs] Flip. Did I say Herb?
+<nonVerbComm>[laughs]</nonVerbComm> Flip. Did I say Herb?
 
 </line>
 
@@ -1748,7 +1748,7 @@ of a novel than a TV show...
 
 
 <line>
-[BoJack's voice]
+<nonVerbComm>[BoJack's voice]</nonVerbComm>
 
 <ital>Nothing's lonelier than a party.</ital>
 
@@ -1756,7 +1756,7 @@ of a novel than a TV show...
 
 
 <line>
-[cheering, applause]
+<nonVerbComm>[cheering, applause]</nonVerbComm>
 
 </line>
 
@@ -1768,13 +1768,13 @@ Barf me a river!
 
 
 <line>
-[camera shutter clicks]
+<nonVerbComm>[camera shutter clicks]</nonVerbComm>
 
 </line>
 
 
 <line>
-[phone clicking]
+<nonVerbComm>[phone clicking]</nonVerbComm>
 
 </line>
 
@@ -2316,7 +2316,7 @@ I had to deliver the money line!
 
 
 <line>
-[both] Ugh!
+<nonVerbComm>[both]</nonVerbComm> Ugh!
 
 </line>
 
@@ -2372,7 +2372,7 @@ How do I come up with straight lines?
 
 
 <line>
-[both laugh]
+<nonVerbComm>[both laugh]</nonVerbComm>
 
 </line>
 
@@ -3282,31 +3282,31 @@ and I would like you to let go now.
 
 
 <line>
-[winces, sighs]
+<nonVerbComm>[winces, sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[spits, gulps]
+<nonVerbComm>[spits, gulps]</nonVerbComm>
 
 </line>
 
 
 <line>
-[gulps, sighs]
+<nonVerbComm>[gulps, sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[whirring]
+<nonVerbComm>[whirring]</nonVerbComm>
 
 </line>
 
@@ -3370,13 +3370,13 @@ Uh, right.
 
 
 <line>
-[puffs] Ugh.
+<nonVerbComm>[puffs]</nonVerbComm> Ugh.
 
 </line>
 
 
 <line>
-[grunts] Ow! Oh, ah!
+<nonVerbComm>[grunts]</nonVerbComm> Ow! Oh, ah!
 
 </line>
 
@@ -3520,7 +3520,7 @@ that I'm being charmingly self-effacing?
 
 
 <line>
-[Gina moans]
+<nonVerbComm>[Gina moans]</nonVerbComm>
 
 </line>
 
@@ -3622,7 +3622,7 @@ Do you wanna come in?
 
 
 <line>
-[end theme music playing]
+<nonVerbComm>[end theme music playing]</nonVerbComm>
 
 
 

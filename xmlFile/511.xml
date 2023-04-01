@@ -12,13 +12,13 @@
 
 
 <line>
-[BoJack] <ital>Previously on</ital> Philbert...
+<nonVerbComm>[BoJack]</nonVerbComm> <ital>Previously on</ital> Philbert...
 
 </line>
 
 
 <line>
-[sighs] Now I see
+<nonVerbComm>[sighs]</nonVerbComm> Now I see
 
 why they call you "Sassy."
 
@@ -40,7 +40,7 @@ Dead serious... about haunting you.
 
 
 <line>
-[sighs] I haven't had sex that good
+<nonVerbComm>[sighs]</nonVerbComm> I haven't had sex that good
 
 since my wife died.
 
@@ -122,19 +122,19 @@ Fritz, you maniac! What are you doing?
 
 
 <line>
-[gasping]
+<nonVerbComm>[gasping]</nonVerbComm>
 
 </line>
 
 
 <line>
-[clicks]
+<nonVerbComm>[clicks]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Fritz grunts]
+<nonVerbComm>[Fritz grunts]</nonVerbComm>
 
 </line>
 
@@ -166,7 +166,7 @@ The nuclear missiles are coming.
 
 
 <line>
-[music playing]
+<nonVerbComm>[music playing]</nonVerbComm>
 
 </line>
 
@@ -192,7 +192,7 @@ The nuclear missiles are coming.
 
 
 <line>
-[mumbling] <ital><music>♪ ...Know what I mean ♪</music></ital>
+<nonVerbComm>[mumbling]</nonVerbComm> <ital><music>♪ ...Know what I mean ♪</music></ital>
 
 </line>
 
@@ -234,19 +234,19 @@ The nuclear missiles are coming.
 
 
 <line>
-[music ends]
+<nonVerbComm>[music ends]</nonVerbComm>
 
 </line>
 
 
 <line>
-[mask huffing]
+<nonVerbComm>[mask huffing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Philbert narrating] <ital>It's been six months</ital>
+<nonVerbComm>[Philbert narrating]</nonVerbComm> <ital>It's been six months</ital>
 
 <ital>since the missiles hit.</ital>
 
@@ -294,7 +294,7 @@ soft... serve frozen yogurt.
 
 
 <line>
-[chuckles] Now I continue to see
+<nonVerbComm>[chuckles]</nonVerbComm> Now I continue to see
 
 why they call you "Sassy."
 
@@ -302,7 +302,7 @@ why they call you "Sassy."
 
 
 <line>
-[narrating] <ital>It's also been six months</ital>
+<nonVerbComm>[narrating]</nonVerbComm> <ital>It's also been six months</ital>
 
 <ital>since I told Sassy the truth.</ital>
 
@@ -360,7 +360,7 @@ Why?
 
 
 <line>
-[BoJack] <ital>It's been two months since</ital>
+<nonVerbComm>[BoJack]</nonVerbComm> <ital>It's been two months since</ital>
 
 <ital>the first season of Philbert came out.</ital>
 
@@ -376,7 +376,7 @@ Why?
 
 
 <line>
-[camera shutters clicking]
+<nonVerbComm>[camera shutters clicking]</nonVerbComm>
 
 </line>
 
@@ -406,7 +406,7 @@ on<ital> The Cops are Coming,</ital>
 
 
 <line>
-[BoJack] <ital>And the weird part is</ital>
+<nonVerbComm>[BoJack]</nonVerbComm> <ital>And the weird part is</ital>
 
 <ital>I'm not secretly bitter and jealous.</ital>
 
@@ -436,7 +436,7 @@ on<ital> The Cops are Coming,</ital>
 
 
 <line>
-[ringing]
+<nonVerbComm>[ringing]</nonVerbComm>
 
 </line>
 
@@ -460,7 +460,7 @@ Why do you still use a landline?
 
 
 <line>
-[Philbert] <ital>What am I supposed to tell her,</ital>
+<nonVerbComm>[Philbert]</nonVerbComm> <ital>What am I supposed to tell her,</ital>
 
 <ital>I'm just an old-fashioned guy?</ital>
 
@@ -612,7 +612,7 @@ and stick my tongue out.
 
 
 <line>
-[gagging]
+<nonVerbComm>[gagging]</nonVerbComm>
 
 </line>
 
@@ -788,13 +788,13 @@ Popsicle guys?
 
 
 <line>
-[both] Hmm...
+<nonVerbComm>[both]</nonVerbComm> Hmm...
 
 </line>
 
 
 <line>
-[BoJack] <ital>Something's going on.</ital>
+<nonVerbComm>[BoJack]</nonVerbComm> <ital>Something's going on.</ital>
 
 <ital>I must be singing a song called "Crazy"</ital>
 
@@ -840,7 +840,7 @@ to Stingray Liotta.
 
 
 <line>
-[gurgling]
+<nonVerbComm>[gurgling]</nonVerbComm>
 
 </line>
 
@@ -932,7 +932,7 @@ You're gonna be an awesome mom.
 
 
 <line>
-[sighs] I think you're overworked.
+<nonVerbComm>[sighs]</nonVerbComm> I think you're overworked.
 
 </line>
 
@@ -1000,7 +1000,7 @@ Get some sleep.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -1062,7 +1062,7 @@ and was "spinning out,"
 
 
 <line>
-[thinking] <ital>Watch it, BoJack.</ital>
+<nonVerbComm>[thinking]</nonVerbComm> <ital>Watch it, BoJack.</ital>
 
 <ital>You're losing it. Gotta be cool for Gina.</ital>
 
@@ -1098,25 +1098,25 @@ if you catch my drift. Hang ten!
 
 
 <line>
-[panting]
+<nonVerbComm>[panting]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs] Huh?
+<nonVerbComm>[sighs]</nonVerbComm> Huh?
 
 </line>
 
 
 <line>
-[clicking]
+<nonVerbComm>[clicking]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Gina] <ital>BoJack, I know what's going on.</ital>
+<nonVerbComm>[Gina]</nonVerbComm> <ital>BoJack, I know what's going on.</ital>
 
 </line>
 
@@ -1174,37 +1174,37 @@ every mouthy teen I saw
 
 
 <line>
-[sniffs, slurps]
+<nonVerbComm>[sniffs, slurps]</nonVerbComm>
 
 </line>
 
 
 <line>
-[gasps]
+<nonVerbComm>[gasps]</nonVerbComm>
 
 </line>
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
 
 <line>
-[gasps, moans]
+<nonVerbComm>[gasps, moans]</nonVerbComm>
 
 </line>
 
 
 <line>
-[music playing]
+<nonVerbComm>[music playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[vocals singing backwards]
+<nonVerbComm>[vocals singing backwards]</nonVerbComm>
 
 </line>
 
@@ -1226,13 +1226,13 @@ every mouthy teen I saw
 
 
 <line>
-[gasps]
+<nonVerbComm>[gasps]</nonVerbComm>
 
 </line>
 
 
 <line>
-[BoJack narrating] The BoJack Mysteries
+<nonVerbComm>[BoJack narrating]</nonVerbComm> The BoJack Mysteries
 
 <ital>will continue after this.</ital>
 
@@ -1318,7 +1318,7 @@ Let the negotiations begin!
 
 
 <line>
-[BoJack thinking]
+<nonVerbComm>[BoJack thinking]</nonVerbComm>
 
 <ital>Who sent this? What do they know?</ital>
 
@@ -1436,13 +1436,13 @@ Times change.
 
 
 <line>
-[splatters]
+<nonVerbComm>[splatters]</nonVerbComm>
 
 </line>
 
 
 <line>
-[BoJack] Diane! Diane! Diane!
+<nonVerbComm>[BoJack]</nonVerbComm> Diane! Diane! Diane!
 
 I know you sent me the note!
 
@@ -1526,7 +1526,7 @@ Who'd you piss off?
 
 
 <line>
-[thinking] <ital>She's right.</ital>
+<nonVerbComm>[thinking]</nonVerbComm> <ital>She's right.</ital>
 
 <ital>Lotta people have it out for me.</ital>
 
@@ -1534,7 +1534,7 @@ Who'd you piss off?
 
 
 <line>
-[Philbert narrating] <ital>But who the hell</ital>
+<nonVerbComm>[Philbert narrating]</nonVerbComm> <ital>But who the hell</ital>
 
 <ital>would want to hurt the chief?</ital>
 
@@ -1588,7 +1588,7 @@ Yeah, suspects.
 
 
 <line>
-[Philbert] <ital>Gotta keep it together</ital>
+<nonVerbComm>[Philbert]</nonVerbComm> <ital>Gotta keep it together</ital>
 
 <ital>and go through the suspects.</ital>
 
@@ -1596,13 +1596,13 @@ Yeah, suspects.
 
 
 <line>
-[rattling]
+<nonVerbComm>[rattling]</nonVerbComm>
 
 </line>
 
 
 <line>
-[thinking] <ital>Who would wanna take down</ital>
+<nonVerbComm>[thinking]</nonVerbComm> <ital>Who would wanna take down</ital>
 
 <ital>BoJack Horseman?</ital>
 
@@ -1610,7 +1610,7 @@ Yeah, suspects.
 
 
 <line>
-[clicks]
+<nonVerbComm>[clicks]</nonVerbComm>
 
 </line>
 
@@ -1630,7 +1630,7 @@ That's a terrible idea. Don't do it.
 
 
 <line>
-[ringing]
+<nonVerbComm>[ringing]</nonVerbComm>
 
 </line>
 
@@ -1642,7 +1642,7 @@ Hello! Charlotte's husband Kyle here!
 
 
 <line>
-[Kyle] <ital>Hello? Hello, hello, hello?</ital>
+<nonVerbComm>[Kyle]</nonVerbComm> <ital>Hello? Hello, hello, hello?</ital>
 
 </line>
 
@@ -1690,7 +1690,7 @@ about what little old Kyle thinks.
 
 
 <line>
-[speaking with mock Scottish accent]
+<nonVerbComm>[speaking with mock Scottish accent]</nonVerbComm>
 
 On a scale of one to ten,
 
@@ -1816,7 +1816,7 @@ the word out about the bad thing he did,"
 
 
 <line>
-[normal voice]
+<nonVerbComm>[normal voice]</nonVerbComm>
 
 and ten is, "Slowly explored her body
 
@@ -1930,7 +1930,7 @@ This guy's really going full throttle.
 
 
 <line>
-[chuckles] I guess it's just funnier
+<nonVerbComm>[chuckles]</nonVerbComm> I guess it's just funnier
 
 when I do it.
 
@@ -2006,19 +2006,19 @@ Oh, yeah. We are, in fact, on set.
 
 
 <line>
-[buzzing, popping]
+<nonVerbComm>[buzzing, popping]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Flip] I'm telling you, BoJack's onto us!
+<nonVerbComm>[Flip]</nonVerbComm> I'm telling you, BoJack's onto us!
 
 </line>
 
 
 <line>
-[Princess Carolyn]
+<nonVerbComm>[Princess Carolyn]</nonVerbComm>
 
 Oh, he's not onto anything.
 
@@ -2026,7 +2026,7 @@ Oh, he's not onto anything.
 
 
 <line>
-[Flip] I think he knows
+<nonVerbComm>[Flip]</nonVerbComm> I think he knows
 
 about the popsicle guys!
 
@@ -2216,7 +2216,7 @@ we'll figure it out together, okay?
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -2266,7 +2266,7 @@ Twinsies, even.
 
 
 <line>
-[grunts] You don't have to do this.
+<nonVerbComm>[grunts]</nonVerbComm> You don't have to do this.
 
 You can trust me.
 
@@ -2280,7 +2280,7 @@ I do trust you.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -2328,7 +2328,7 @@ Literally.
 
 
 <line>
-[BoJack thinking] <ital>He's got a secret</ital>
+<nonVerbComm>[BoJack thinking]</nonVerbComm> <ital>He's got a secret</ital>
 
 <ital>he won't tell me. And he's not alone.</ital>
 
@@ -2552,7 +2552,7 @@ Where the hell is he going?
 
 
 <line>
-[muttering] Gotta get 'em...
+<nonVerbComm>[muttering]</nonVerbComm> Gotta get 'em...
 
 Gotta go. Gotta catch up.
 
@@ -2652,7 +2652,7 @@ you'll forget your murdered wife.
 
 
 <line>
-[gasps] So, you wrote the note!
+<nonVerbComm>[gasps]</nonVerbComm> So, you wrote the note!
 
 </line>
 
@@ -2712,7 +2712,7 @@ Ooh!
 
 
 <line>
-[beeping]
+<nonVerbComm>[beeping]</nonVerbComm>
 
 </line>
 
@@ -2726,7 +2726,7 @@ Ooh!
 
 
 <line>
-[Henry Fondle] <ital>I am going to blow my load!</ital>
+<nonVerbComm>[Henry Fondle]</nonVerbComm> <ital>I am going to blow my load!</ital>
 
 </line>
 
@@ -2774,13 +2774,13 @@ Fritz is getting away! [grunts]
 
 
 <line>
-[panting]
+<nonVerbComm>[panting]</nonVerbComm>
 
 </line>
 
 
 <line>
-[yelps]
+<nonVerbComm>[yelps]</nonVerbComm>
 
 </line>
 
@@ -2794,7 +2794,7 @@ Fritz is getting away! [grunts]
 
 
 <line>
-[gasps]
+<nonVerbComm>[gasps]</nonVerbComm>
 
 </line>
 
@@ -2988,7 +2988,7 @@ Agh!
 
 
 <line>
-[shoes tapping]
+<nonVerbComm>[shoes tapping]</nonVerbComm>
 
 </line>
 
@@ -3048,19 +3048,19 @@ Agh!
 
 
 <line>
-[gasps]
+<nonVerbComm>[gasps]</nonVerbComm>
 
 </line>
 
 
 <line>
-[panting]
+<nonVerbComm>[panting]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3142,7 +3142,7 @@ clever little hiding places.
 
 
 <line>
-[Gina gasps]
+<nonVerbComm>[Gina gasps]</nonVerbComm>
 
 </line>
 
@@ -3226,7 +3226,7 @@ What are you saying?
 
 
 <line>
-[grunting]
+<nonVerbComm>[grunting]</nonVerbComm>
 
 </line>
 
@@ -3276,7 +3276,7 @@ But I know your secrets now.
 
 
 <line>
-[panting]
+<nonVerbComm>[panting]</nonVerbComm>
 
 </line>
 
@@ -3356,7 +3356,7 @@ that Philbert gets.
 
 
 <line>
-[Sassy] <ital>It was you.</ital>
+<nonVerbComm>[Sassy]</nonVerbComm> <ital>It was you.</ital>
 
 <ital>The guilt was unbearable.</ital>
 
@@ -3380,7 +3380,7 @@ that Philbert gets.
 
 
 <line>
-[gasps]
+<nonVerbComm>[gasps]</nonVerbComm>
 
 </line>
 
@@ -3546,7 +3546,7 @@ Gina. I'm not kidding. The pills. Now!
 
 
 <line>
-[growls]
+<nonVerbComm>[growls]</nonVerbComm>
 
 </line>
 
@@ -3602,7 +3602,7 @@ Stay away from me. Get help. Or don't.
 
 
 <line>
-[gulps]
+<nonVerbComm>[gulps]</nonVerbComm>
 
 </line>
 
@@ -3660,7 +3660,7 @@ What? Oh, no. Turn the camera back on.
 
 
 <line>
-[gasping]
+<nonVerbComm>[gasping]</nonVerbComm>
 
 </line>
 

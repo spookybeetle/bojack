@@ -12,7 +12,7 @@
 
 
 <line>
-[BoJack] <ital>Piece of shit.</ital>
+<nonVerbComm>[BoJack]</nonVerbComm> <ital>Piece of shit.</ital>
 
 <ital>Stupid piece of shit.</ital>
 
@@ -142,7 +142,7 @@ Can I take the car or what?
 
 
 <line>
-[thinking] <ital>Shit.</ital>
+<nonVerbComm>[thinking]</nonVerbComm> <ital>Shit.</ital>
 
 <ital>I don't want her driving my car,</ital>
 
@@ -220,7 +220,7 @@ Okay, how about, um... Hold on.
 
 
 <line>
-[thinking] <ital>They're looking.</ital>
+<nonVerbComm>[thinking]</nonVerbComm> <ital>They're looking.</ital>
 
 <ital>Say something!</ital>
 
@@ -240,13 +240,13 @@ I will get milk.
 
 
 <line>
-[door opens, closes]
+<nonVerbComm>[door opens, closes]</nonVerbComm>
 
 </line>
 
 
 <line>
-[thinking] <ital>Milk, milk.</ital>
+<nonVerbComm>[thinking]</nonVerbComm> <ital>Milk, milk.</ital>
 
 <ital>What are they talking about now?</ital>
 
@@ -402,13 +402,13 @@ I will get milk.
 
 
 <line>
-[alarm blaring]
+<nonVerbComm>[alarm blaring]</nonVerbComm>
 
 </line>
 
 
 <line>
-[screeching]
+<nonVerbComm>[screeching]</nonVerbComm>
 
 </line>
 
@@ -450,13 +450,13 @@ Uh...
 
 
 <line>
-[theme music playing]
+<nonVerbComm>[theme music playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[thinking] <ital>Stupid piece of shit.</ital>
+<nonVerbComm>[thinking]</nonVerbComm> <ital>Stupid piece of shit.</ital>
 
 </line>
 
@@ -482,7 +482,7 @@ Tina is using it to make us all breakfast.
 
 
 <line>
-[growls]
+<nonVerbComm>[growls]</nonVerbComm>
 
 </line>
 
@@ -526,7 +526,7 @@ No one loves a Fatty Patty.
 
 
 <line>
-[thinking] <ital>Is my house</ital>
+<nonVerbComm>[thinking]</nonVerbComm> <ital>Is my house</ital>
 
 <ital>on a slant or something?</ital>
 
@@ -558,7 +558,7 @@ It's a pass.
 
 
 <line>
-[thinking] <ital>What are you doing?</ital>
+<nonVerbComm>[thinking]</nonVerbComm> <ital>What are you doing?</ital>
 
 <ital>Go home.</ital>
 
@@ -602,7 +602,7 @@ It's a pass.
 
 
 <line>
-[laughs] I know,
+<nonVerbComm>[laughs]</nonVerbComm> I know,
 
 I wanted to tell you right away.
 
@@ -940,19 +940,19 @@ who plans the wedding.
 
 
 <line>
-[groans] Okay.
+<nonVerbComm>[groans]</nonVerbComm> Okay.
 
 </line>
 
 
 <line>
-[thinking] <ital>Idiot. Stupid animal. Oaf.</ital>
+<nonVerbComm>[thinking]</nonVerbComm> <ital>Idiot. Stupid animal. Oaf.</ital>
 
 </line>
 
 
 <line>
-[Bea] You are just the prettiest thing.
+<nonVerbComm>[Bea]</nonVerbComm> You are just the prettiest thing.
 
 </line>
 
@@ -1226,13 +1226,13 @@ Mmm! Beatrice, this coffee is amazing.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
 
 <line>
-[thinking] <ital>You stupid garbage fire.</ital>
+<nonVerbComm>[thinking]</nonVerbComm> <ital>You stupid garbage fire.</ital>
 
 <ital>Everything sucks.</ital>
 
@@ -1304,7 +1304,7 @@ you can be anything you want to be.
 
 
 <line>
-[thinking] <ital>Lousy baby.</ital>
+<nonVerbComm>[thinking]</nonVerbComm> <ital>Lousy baby.</ital>
 
 <ital>What did it ever do that was so great?</ital>
 
@@ -1380,7 +1380,7 @@ Where was that keen parenting insight
 
 
 <line>
-[gasps] Henrietta,
+<nonVerbComm>[gasps]</nonVerbComm> Henrietta,
 
 you're unfit to be a parent.
 
@@ -1412,7 +1412,7 @@ Hope I don't drop it!
 
 
 <line>
-[gasps]
+<nonVerbComm>[gasps]</nonVerbComm>
 
 </line>
 
@@ -1512,7 +1512,7 @@ BoJack, don't.
 
 
 <line>
-[thinking] <ital>Do it.</ital>
+<nonVerbComm>[thinking]</nonVerbComm> <ital>Do it.</ital>
 
 </line>
 
@@ -1544,7 +1544,7 @@ No!
 
 
 <line>
-[thinking] <ital>Nice arm.</ital>
+<nonVerbComm>[thinking]</nonVerbComm> <ital>Nice arm.</ital>
 
 </line>
 
@@ -1730,7 +1730,7 @@ to see you. Diane!
 
 
 <line>
-[thinking] <ital>What are you doing?</ital>
+<nonVerbComm>[thinking]</nonVerbComm> <ital>What are you doing?</ital>
 
 </line>
 
@@ -2182,7 +2182,7 @@ to be that mean old crone.
 
 
 <line>
-[sniffing] Okay, I'm picking up
+<nonVerbComm>[sniffing]</nonVerbComm> Okay, I'm picking up
 
 on some fruity overtones.
 
@@ -2212,7 +2212,7 @@ to be workshopping your tight five?
 
 
 <line>
-[sniffing] Okay, got it.
+<nonVerbComm>[sniffing]</nonVerbComm> Okay, got it.
 
 Ooh, this way?
 
@@ -2220,7 +2220,7 @@ Ooh, this way?
 
 
 <line>
-[sniffing] No! No, no. That way!
+<nonVerbComm>[sniffing]</nonVerbComm> No! No, no. That way!
 
 </line>
 
@@ -2248,13 +2248,13 @@ Out the door! Come on! Here we go!
 
 
 <line>
-[sniffing]
+<nonVerbComm>[sniffing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[thinking] <ital>Look at him. Not a care</ital>
+<nonVerbComm>[thinking]</nonVerbComm> <ital>Look at him. Not a care</ital>
 
 <ital>in the world. How does he do it?</ital>
 
@@ -2262,13 +2262,13 @@ Out the door! Come on! Here we go!
 
 
 <line>
-[sniffs] This is the place.
+<nonVerbComm>[sniffs]</nonVerbComm> This is the place.
 
 </line>
 
 
 <line>
-[doorbell rings]
+<nonVerbComm>[doorbell rings]</nonVerbComm>
 
 </line>
 
@@ -2312,7 +2312,7 @@ Yes.
 
 
 <line>
-[grunting]
+<nonVerbComm>[grunting]</nonVerbComm>
 
 </line>
 
@@ -2542,13 +2542,13 @@ I'm, like, a really good friend.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
 
 <line>
-[doorbell rings]
+<nonVerbComm>[doorbell rings]</nonVerbComm>
 
 </line>
 
@@ -2754,7 +2754,7 @@ I'm actually a big fan.
 
 
 <line>
-[thinking]<ital> I hope</ital>
+<nonVerbComm>[thinking]</nonVerbComm><ital> I hope</ital>
 
 <ital>she has no follow-up questions.</ital>
 
@@ -2786,7 +2786,7 @@ seen my new show,
 
 
 <line>
-[thinking] <ital>Ugh, TV? No.</ital>
+<nonVerbComm>[thinking]</nonVerbComm> <ital>Ugh, TV? No.</ital>
 
 <ital>I just got out of that sinkhole.</ital>
 
@@ -2806,7 +2806,7 @@ Hup... ho... hup!
 
 
 <line>
-[Princess Carolyn] <ital>What's your status?</ital>
+<nonVerbComm>[Princess Carolyn]</nonVerbComm> <ital>What's your status?</ital>
 
 </line>
 
@@ -2884,7 +2884,7 @@ All right! Yes!
 
 
 <line>
-[thinking] <ital>What if I throw myself</ital>
+<nonVerbComm>[thinking]</nonVerbComm> <ital>What if I throw myself</ital>
 
 <ital>off my deck</ital>
 
@@ -2940,7 +2940,7 @@ I will. We're just having a drink first.
 
 
 <line>
-[thinking] <ital>He knows you're terrible.</ital>
+<nonVerbComm>[thinking]</nonVerbComm> <ital>He knows you're terrible.</ital>
 
 </line>
 
@@ -3080,7 +3080,7 @@ everybody deserves to be loved.
 
 
 <line>
-[clinking]
+<nonVerbComm>[clinking]</nonVerbComm>
 
 </line>
 
@@ -3212,7 +3212,7 @@ So, a lollipop? That's still pretty good.
 
 
 <line>
-[Todd] <ital>I guess it's a bad analogy.</ital>
+<nonVerbComm>[Todd]</nonVerbComm> <ital>I guess it's a bad analogy.</ital>
 
 </line>
 
@@ -3230,7 +3230,7 @@ I'm sorry I didn't realize that before.
 
 
 <line>
-[sighs] Okay, Todd.
+<nonVerbComm>[sighs]</nonVerbComm> Okay, Todd.
 
 You gotta do what's right for you.
 
@@ -3246,7 +3246,7 @@ You gotta do what's right for you.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -3476,13 +3476,13 @@ I'm surprised you haven't noticed that.
 
 
 <line>
-[door closes]
+<nonVerbComm>[door closes]</nonVerbComm>
 
 </line>
 
 
 <line>
-[muffled grunts and yells]
+<nonVerbComm>[muffled grunts and yells]</nonVerbComm>
 
 </line>
 
@@ -3502,13 +3502,13 @@ Okay. [chuckles]
 
 
 <line>
-[growls]
+<nonVerbComm>[growls]</nonVerbComm>
 
 </line>
 
 
 <line>
-[thinking] <ital>Go talk to her, idiot.</ital>
+<nonVerbComm>[thinking]</nonVerbComm> <ital>Go talk to her, idiot.</ital>
 
 </line>
 
@@ -3580,7 +3580,7 @@ Okay. [chuckles]
 
 
 <line>
-[exhales]
+<nonVerbComm>[exhales]</nonVerbComm>
 
 </line>
 
@@ -3846,7 +3846,7 @@ Yeah.
 
 
 <line>
-[man] <ital>Boxer vs. Raptor,</ital>
+<nonVerbComm>[man]</nonVerbComm> <ital>Boxer vs. Raptor,</ital>
 
 <ital><music>♪ Na-na na-na na-na na-na! ♪</music></ital>
 

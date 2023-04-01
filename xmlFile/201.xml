@@ -12,7 +12,7 @@
 
 
 <line>
-[Dick on TV] <ital>This is from BoJack H.</ital>
+<nonVerbComm>[Dick on TV]</nonVerbComm> <ital>This is from BoJack H.</ital>
 
 <ital>BoJack is nine years old.</ital>
 
@@ -52,7 +52,7 @@
 
 
 <line>
-[Dick]
+<nonVerbComm>[Dick]</nonVerbComm>
 
 <ital>He goes on. "My question for you is:</ital>
 
@@ -82,7 +82,7 @@
 
 
 <line>
-[mother] Oh, big stud, running off
+<nonVerbComm>[mother]</nonVerbComm> Oh, big stud, running off
 
 to gallivant with your fillies.
 
@@ -90,13 +90,13 @@ to gallivant with your fillies.
 
 
 <line>
-[plate smashes]
+<nonVerbComm>[plate smashes]</nonVerbComm>
 
 </line>
 
 
 <line>
-[father] Is that to impress me?
+<nonVerbComm>[father]</nonVerbComm> Is that to impress me?
 
 I can smash a dinner plate, too.
 
@@ -104,13 +104,13 @@ I can smash a dinner plate, too.
 
 
 <line>
-[mother] That's a salad plate.
+<nonVerbComm>[mother]</nonVerbComm> That's a salad plate.
 
 </line>
 
 
 <line>
-[father]
+<nonVerbComm>[father]</nonVerbComm>
 
 I thought these were salad plates.
 
@@ -118,7 +118,7 @@ I thought these were salad plates.
 
 
 <line>
-[mother] Those are saucers.
+<nonVerbComm>[mother]</nonVerbComm> Those are saucers.
 
 [father] Why do we even have saucers?
 
@@ -132,7 +132,7 @@ We don't drink tea.
 
 
 <line>
-[mother]
+<nonVerbComm>[mother]</nonVerbComm>
 
 Those saucers are for entertaining!
 
@@ -140,7 +140,7 @@ Those saucers are for entertaining!
 
 
 <line>
-[father]
+<nonVerbComm>[father]</nonVerbComm>
 
 Oh, yeah? Well, I'm exit-taining.
 
@@ -154,7 +154,7 @@ Do you get it?
 
 
 <line>
-[door slams]
+<nonVerbComm>[door slams]</nonVerbComm>
 
 </line>
 
@@ -168,7 +168,7 @@ Do you get it?
 
 
 <line>
-[mother groans]
+<nonVerbComm>[mother groans]</nonVerbComm>
 
 </line>
 
@@ -218,7 +218,7 @@ I will.
 
 
 <line>
-[man on TV]
+<nonVerbComm>[man on TV]</nonVerbComm>
 
 <ital>...and I just kept running. BoJack...</ital>
 
@@ -252,7 +252,7 @@ Enjoy your dumb little TV show.
 
 
 <line>
-[man on recording]<ital> The first thing is,</ital>
+<nonVerbComm>[man on recording]</nonVerbComm><ital> The first thing is,</ital>
 
 <ital>you gotta believe that change is possible.</ital>
 
@@ -294,7 +294,7 @@ I can change and I will change.
 
 
 <line>
-[man on recording]
+<nonVerbComm>[man on recording]</nonVerbComm>
 
 <ital>"I've got a new attitude."</ital>
 
@@ -350,13 +350,13 @@ It means left. I'm an actor.
 
 
 <line>
-[phone ringing]
+<nonVerbComm>[phone ringing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -480,13 +480,13 @@ Hashtag "PANTS."
 
 
 <line>
-[panting]
+<nonVerbComm>[panting]</nonVerbComm>
 
 </line>
 
 
 <line>
-[man on recording]
+<nonVerbComm>[man on recording]</nonVerbComm>
 
 <ital>You got to conquer that hill.</ital>
 
@@ -800,7 +800,7 @@ No, he's still here.
 
 
 <line>
-[Mr. Peanutbutter]
+<nonVerbComm>[Mr. Peanutbutter]</nonVerbComm>
 
 Honey, where's my bandana?
 
@@ -816,7 +816,7 @@ we had to throw it away, remember?
 
 
 <line>
-[Mr. Peanutbutter] No, not that one.
+<nonVerbComm>[Mr. Peanutbutter]</nonVerbComm> No, not that one.
 
 </line>
 
@@ -850,7 +850,7 @@ Did you check the hall closet?
 
 
 <line>
-[Mr. Peanutbutter]
+<nonVerbComm>[Mr. Peanutbutter]</nonVerbComm>
 
 I can't see anything in this stupid thing.
 
@@ -898,7 +898,7 @@ Is the bandana doing anything?
 
 
 <line>
-[doorbell rings]
+<nonVerbComm>[doorbell rings]</nonVerbComm>
 
 </line>
 
@@ -1130,7 +1130,7 @@ Are you ready?
 
 
 <line>
-[man on recording]
+<nonVerbComm>[man on recording]</nonVerbComm>
 
 <ital>The house is a metaphor for a home.</ital>
 
@@ -1408,7 +1408,7 @@ It's a dark moment.
 
 
 <line>
-[inhales, then exhales]
+<nonVerbComm>[inhales, then exhales]</nonVerbComm>
 
 </line>
 
@@ -1422,31 +1422,31 @@ It's a dark moment.
 
 
 <line>
-[campy] What are you doing here?
+<nonVerbComm>[campy]</nonVerbComm> What are you doing here?
 
 </line>
 
 
 <line>
-[chuckles]
+<nonVerbComm>[chuckles]</nonVerbComm>
 
 </line>
 
 
 <line>
-[mumbles, then chuckles]
+<nonVerbComm>[mumbles, then chuckles]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Kelsey groans]
+<nonVerbComm>[Kelsey groans]</nonVerbComm>
 
 </line>
 
 
 <line>
-[phone buzzing]
+<nonVerbComm>[phone buzzing]</nonVerbComm>
 
 </line>
 
@@ -1608,7 +1608,7 @@ Hey, Secretariat.
 
 
 <line>
-[campy] What are you doing here?
+<nonVerbComm>[campy]</nonVerbComm> What are you doing here?
 
 </line>
 
@@ -1746,7 +1746,7 @@ but when Secretariat was a kid
 
 
 <line>
-[man 3] Watch out!
+<nonVerbComm>[man 3]</nonVerbComm> Watch out!
 
 [man 4] Hey.
 
@@ -1754,7 +1754,7 @@ but when Secretariat was a kid
 
 
 <line>
-[man 5 gasps]
+<nonVerbComm>[man 5 gasps]</nonVerbComm>
 
 [man 6] Whoa, whoa!
 
@@ -1762,7 +1762,7 @@ but when Secretariat was a kid
 
 
 <line>
-[PA] Oh, my God. My face.
+<nonVerbComm>[PA]</nonVerbComm> Oh, my God. My face.
 
 </line>
 
@@ -1812,7 +1812,7 @@ and why we're here.
 
 
 <line>
-[audience laughing]
+<nonVerbComm>[audience laughing]</nonVerbComm>
 
 </line>
 
@@ -1834,7 +1834,7 @@ to me. Jeezy Kableezy.
 
 
 <line>
-[audience laughing]
+<nonVerbComm>[audience laughing]</nonVerbComm>
 
 </line>
 
@@ -2022,7 +2022,7 @@ into my mouth?
 
 
 <line>
-[man on recording]
+<nonVerbComm>[man on recording]</nonVerbComm>
 
 <ital>The past is past.</ital>
 
@@ -2098,7 +2098,7 @@ The new me doesn't hold a grudge.
 
 
 <line>
-[phone rings]
+<nonVerbComm>[phone rings]</nonVerbComm>
 
 </line>
 
@@ -2136,7 +2136,7 @@ That's a metaphor, Diane.
 
 
 <line>
-[phone rings]
+<nonVerbComm>[phone rings]</nonVerbComm>
 
 </line>
 
@@ -2300,7 +2300,7 @@ Ugh. I gotta go. I made Natasha cry.
 
 
 <line>
-[chuckles]
+<nonVerbComm>[chuckles]</nonVerbComm>
 
 </line>
 
@@ -2366,7 +2366,7 @@ Have a seat.
 
 
 <line>
-[stomping overhead]
+<nonVerbComm>[stomping overhead]</nonVerbComm>
 
 </line>
 
@@ -2658,7 +2658,7 @@ That was it. Say that again.
 
 
 <line>
-[campy] What are you doing here?
+<nonVerbComm>[campy]</nonVerbComm> What are you doing here?
 
 </line>
 
@@ -2730,7 +2730,7 @@ not screwed if he goes all Belushi on you.
 
 
 <line>
-[whirring]
+<nonVerbComm>[whirring]</nonVerbComm>
 
 </line>
 
@@ -2860,7 +2860,7 @@ You have a job to do.
 
 
 <line>
-[Kelsey chuckles]
+<nonVerbComm>[Kelsey chuckles]</nonVerbComm>
 
 </line>
 
@@ -2882,7 +2882,7 @@ I wanna put you in my pocket. [grunts]
 
 
 <line>
-[man sobbing]
+<nonVerbComm>[man sobbing]</nonVerbComm>
 
 </line>
 
@@ -2998,7 +2998,7 @@ Get out of here.
 
 
 <line>
-[Mr. Peanutbutter chuckles]
+<nonVerbComm>[Mr. Peanutbutter chuckles]</nonVerbComm>
 
 </line>
 
@@ -3026,7 +3026,7 @@ That's the impression that I get.
 
 
 <line>
-[Todd yawns]
+<nonVerbComm>[Todd yawns]</nonVerbComm>
 
 </line>
 
@@ -3040,13 +3040,13 @@ What a stupid move. Why did you--?
 
 
 <line>
-[snarling]
+<nonVerbComm>[snarling]</nonVerbComm>
 
 </line>
 
 
 <line>
-[BoJack groans]
+<nonVerbComm>[BoJack groans]</nonVerbComm>
 
 </line>
 
@@ -3114,7 +3114,7 @@ Happy ending for Todd!
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3260,19 +3260,19 @@ Gotta go. Bye.
 
 
 <line>
-[grunting]
+<nonVerbComm>[grunting]</nonVerbComm>
 
 </line>
 
 
 <line>
-[phone rings]
+<nonVerbComm>[phone rings]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Rutabaga over phone]<ital> Carolyn.</ital>
+<nonVerbComm>[Rutabaga over phone]</nonVerbComm><ital> Carolyn.</ital>
 
 </line>
 
@@ -3292,7 +3292,7 @@ about the opera, though?
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -3386,13 +3386,13 @@ I wish I met you before I got married.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
 
 <line>
-[man on recording]
+<nonVerbComm>[man on recording]</nonVerbComm>
 
 <ital>You can do it.</ital>
 
@@ -3420,7 +3420,7 @@ I wish I met you before I got married.
 
 
 <line>
-[knock on door]
+<nonVerbComm>[knock on door]</nonVerbComm>
 
 </line>
 
@@ -3432,7 +3432,7 @@ Five minutes, Mr. Horseman.
 
 
 <line>
-[man on recording]
+<nonVerbComm>[man on recording]</nonVerbComm>
 
 <ital>When you get your new attitude,</ital>
 
@@ -3446,13 +3446,13 @@ Five minutes, Mr. Horseman.
 
 
 <line>
-[phone ringing]
+<nonVerbComm>[phone ringing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -3628,13 +3628,13 @@ Five letters, second letter U?
 
 
 <line>
-[call disconnects]
+<nonVerbComm>[call disconnects]</nonVerbComm>
 
 </line>
 
 
 <line>
-[man on recording]
+<nonVerbComm>[man on recording]</nonVerbComm>
 
 <ital>You need to visualize it</ital>
 
@@ -3654,7 +3654,7 @@ What are you doing here?
 
 
 <line>
-[Kelsey]
+<nonVerbComm>[Kelsey]</nonVerbComm>
 
 Great. We got it. Let's move on.
 

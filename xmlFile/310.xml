@@ -12,7 +12,7 @@
 
 
 <line>
-[female announcer]
+<nonVerbComm>[female announcer]</nonVerbComm>
 
 <ital>Ladies and gentlemen,</ital>
 
@@ -158,7 +158,7 @@ How do you feel?
 
 
 <line>
-[chuckles]
+<nonVerbComm>[chuckles]</nonVerbComm>
 
 I feel...
 
@@ -180,7 +180,7 @@ the same.
 
 
 <line>
-[funky electronic music]
+<nonVerbComm>[funky electronic music]</nonVerbComm>
 
 </line>
 
@@ -388,13 +388,13 @@ the year Prince released <ital>1999.</ital>
 
 
 <line>
-[dance music playing]
+<nonVerbComm>[dance music playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[man]
+<nonVerbComm>[man]</nonVerbComm>
 
 Whoo-hoo!
 
@@ -408,7 +408,7 @@ Whoo-hoo!
 
 
 <line>
-[music stops]
+<nonVerbComm>[music stops]</nonVerbComm>
 
 </line>
 
@@ -422,7 +422,7 @@ Whoo-hoo!
 
 
 <line>
-[doorbell rings]
+<nonVerbComm>[doorbell rings]</nonVerbComm>
 
 </line>
 
@@ -434,7 +434,7 @@ BoJack, your complimentary Rolex is here.
 
 
 <line>
-[doorbell rings]
+<nonVerbComm>[doorbell rings]</nonVerbComm>
 
 </line>
 
@@ -492,7 +492,7 @@ Look at us partying.
 
 
 <line>
-[doorbell rings]
+<nonVerbComm>[doorbell rings]</nonVerbComm>
 
 </line>
 
@@ -778,7 +778,7 @@ I'm not like you, okay?
 
 
 <line>
-[BoJack]
+<nonVerbComm>[BoJack]</nonVerbComm>
 
 Hey!
 
@@ -850,7 +850,7 @@ to stop you.
 
 
 <line>
-[chanting]
+<nonVerbComm>[chanting]</nonVerbComm>
 
 BoJack! BoJack!
 
@@ -888,7 +888,7 @@ of people around when I kill myself.
 
 
 <line>
-[all]
+<nonVerbComm>[all]</nonVerbComm>
 
 BoJack!
 
@@ -996,13 +996,13 @@ Stop worrying about the future.
 
 
 <line>
-[horn honking repeatedly]
+<nonVerbComm>[horn honking repeatedly]</nonVerbComm>
 
 </line>
 
 
 <line>
-[tires squealing]
+<nonVerbComm>[tires squealing]</nonVerbComm>
 
 </line>
 
@@ -1088,13 +1088,13 @@ and I've got bad news.
 
 
 <line>
-[cawing]
+<nonVerbComm>[cawing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[coughing, clears throat]
+<nonVerbComm>[coughing, clears throat]</nonVerbComm>
 
 </line>
 
@@ -1290,7 +1290,7 @@ Did you hear that, Mr. Peanutbutter?
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -1308,7 +1308,7 @@ at sugarcoating things, which I'm not.
 
 
 <line>
-[sighs] You know, I wish
+<nonVerbComm>[sighs]</nonVerbComm> You know, I wish
 
 cats really did have nine lives.
 
@@ -1462,7 +1462,7 @@ an amazing career opportunity. Hello?
 
 
 <line>
-[German accent]
+<nonVerbComm>[German accent]</nonVerbComm>
 
 Mr. Peanutbutter, this is Shep Von Trapp,
 
@@ -1656,7 +1656,7 @@ what did Nana Peanutbutter always say?
 
 
 <line>
-[both] "Always take every opportunity
+<nonVerbComm>[both]</nonVerbComm> "Always take every opportunity
 
 that comes your way
 
@@ -1886,7 +1886,7 @@ you have been invited to the stage!
 
 
 <line>
-[funk music playing]
+<nonVerbComm>[funk music playing]</nonVerbComm>
 
 <ital><music>♪ Mr. Peanutbutter's House ♪</music></ital>
 
@@ -1938,7 +1938,7 @@ Sorry. If you could just-- My phone!
 
 
 <line>
-[Todd]
+<nonVerbComm>[Todd]</nonVerbComm>
 
 I'm coming to get you!
 
@@ -1992,13 +1992,13 @@ Come on, phone. Just stop!
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[ringtone playing]
+<nonVerbComm>[ringtone playing]</nonVerbComm>
 
 <ital><music>♪ Who's that dog? ♪</music></ital>
 
@@ -2434,7 +2434,7 @@ would really mean a lot to him.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 Okay.
 
@@ -2478,7 +2478,7 @@ Goodbye. I must go.
 
 
 <line>
-[audience clamoring]
+<nonVerbComm>[audience clamoring]</nonVerbComm>
 
 </line>
 
@@ -2586,7 +2586,7 @@ And the other good news is...
 
 
 <line>
-[voice fading out]
+<nonVerbComm>[voice fading out]</nonVerbComm>
 
 ...that each breath is a gift
 
@@ -2780,13 +2780,13 @@ Okay, I'll see you later, buddy.
 
 
 <line>
-[whistling]
+<nonVerbComm>[whistling]</nonVerbComm>
 
 </line>
 
 
 <line>
-[inaudible dialogue]
+<nonVerbComm>[inaudible dialogue]</nonVerbComm>
 
 </line>
 
@@ -2898,13 +2898,13 @@ Please forgive me for getting emotional.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Southern accent]
+<nonVerbComm>[Southern accent]</nonVerbComm>
 
 Rye, wheat, or sourdough?
 
@@ -2926,7 +2926,7 @@ I fetishize my own sadness.
 
 
 <line>
-[laughing] What did you think was
+<nonVerbComm>[laughing]</nonVerbComm> What did you think was
 
 gonna happen? Why did you go there?
 
@@ -3118,7 +3118,7 @@ Sit down! We're thirsty!
 
 
 <line>
-[scoffs] You know,
+<nonVerbComm>[scoffs]</nonVerbComm> You know,
 
 this is what's wrong with society.
 
@@ -3148,7 +3148,7 @@ You still working at that place?
 
 
 <line>
-[line ringing]
+<nonVerbComm>[line ringing]</nonVerbComm>
 
 </line>
 

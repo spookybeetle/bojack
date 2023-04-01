@@ -12,19 +12,19 @@
 
 
 <line>
-[groaning]
+<nonVerbComm>[groaning]</nonVerbComm>
 
 </line>
 
 
 <line>
-[mumbling]
+<nonVerbComm>[mumbling]</nonVerbComm>
 
 </line>
 
 
 <line>
-[gagging]
+<nonVerbComm>[gagging]</nonVerbComm>
 
 </line>
 
@@ -46,7 +46,7 @@ another phone jack over here.
 
 
 <line>
-[phone ringing]
+<nonVerbComm>[phone ringing]</nonVerbComm>
 
 </line>
 
@@ -68,7 +68,7 @@ We wanna reach out and grab you.
 
 
 <line>
-[grunting]
+<nonVerbComm>[grunting]</nonVerbComm>
 
 </line>
 
@@ -254,7 +254,7 @@ Get out of my way, please.
 
 
 <line>
-[sighing]
+<nonVerbComm>[sighing]</nonVerbComm>
 
 </line>
 
@@ -288,7 +288,7 @@ with 100 percent sincerity...
 
 
 <line>
-[funky electronic music]
+<nonVerbComm>[funky electronic music]</nonVerbComm>
 
 </line>
 
@@ -428,7 +428,7 @@ he gets ideas to do things.
 
 
 <line>
-[groaning, screaming]
+<nonVerbComm>[groaning, screaming]</nonVerbComm>
 
 </line>
 
@@ -496,7 +496,7 @@ What was that?
 
 
 <line>
-[gasping]
+<nonVerbComm>[gasping]</nonVerbComm>
 
 </line>
 
@@ -514,7 +514,7 @@ a tattered white satin gown.
 
 
 <line>
-[gasping]
+<nonVerbComm>[gasping]</nonVerbComm>
 
 </line>
 
@@ -888,7 +888,7 @@ the payoff's going to be pretty huge.
 
 
 <line>
-[The Closer]
+<nonVerbComm>[The Closer]</nonVerbComm>
 
 <ital>So, why did you let them use your house?</ital>
 
@@ -902,7 +902,7 @@ Hey, Todd, where do you want this...?
 
 
 <line>
-[both]
+<nonVerbComm>[both]</nonVerbComm>
 
 Uh...
 
@@ -910,7 +910,7 @@ Uh...
 
 
 <line>
-[BoJack] <ital>I felt guilty.</ital>
+<nonVerbComm>[BoJack]</nonVerbComm> <ital>I felt guilty.</ital>
 
 [The Closer] <ital>About what?</ital>
 
@@ -918,7 +918,7 @@ Uh...
 
 
 <line>
-[BoJack] <ital>Todd had this old girlfriend.</ital>
+<nonVerbComm>[BoJack]</nonVerbComm> <ital>Todd had this old girlfriend.</ital>
 
 <ital>I met her a couple weeks back.</ital>
 
@@ -1024,7 +1024,7 @@ subscribe to the <ital>L.A. Gazette.</ital>
 
 
 <line>
-[exhaling]
+<nonVerbComm>[exhaling]</nonVerbComm>
 
 </line>
 
@@ -1372,7 +1372,7 @@ Instead of saying,
 
 
 <line>
-[The Closer] <ital>So, why did you</ital>
+<nonVerbComm>[The Closer]</nonVerbComm> <ital>So, why did you</ital>
 
 <ital>sleep with Emily?</ital>
 
@@ -1806,7 +1806,7 @@ It's actually really powerful.
 
 
 <line>
-[The Closer] <ital>What spoke to you</ital>
+<nonVerbComm>[The Closer]</nonVerbComm> <ital>What spoke to you</ital>
 
 <ital>about that particular ad?</ital>
 
@@ -1814,7 +1814,7 @@ It's actually really powerful.
 
 
 <line>
-[BoJack] <ital>I don't know.</ital>
+<nonVerbComm>[BoJack]</nonVerbComm> <ital>I don't know.</ital>
 
 </line>
 
@@ -1926,7 +1926,7 @@ leave this to the experts, okay?
 
 
 <line>
-[The Closer]
+<nonVerbComm>[The Closer]</nonVerbComm>
 
 <ital>So, you also had sex with your publicist?</ital>
 
@@ -1934,7 +1934,7 @@ leave this to the experts, okay?
 
 
 <line>
-[BoJack] <ital>Yeah, couple times.</ital>
+<nonVerbComm>[BoJack]</nonVerbComm> <ital>Yeah, couple times.</ital>
 
 <ital>We have a very complicated relationship.</ital>
 
@@ -2020,7 +2020,7 @@ I don't know anything about you.
 
 
 <line>
-[scoffs]
+<nonVerbComm>[scoffs]</nonVerbComm>
 
 </line>
 
@@ -2050,7 +2050,7 @@ This is exactly what you want.
 
 
 <line>
-[The Closer]
+<nonVerbComm>[The Closer]</nonVerbComm>
 
 <ital>What do you think she meant by that?</ital>
 
@@ -2138,13 +2138,13 @@ Well, I have had trouble sleeping.
 
 
 <line>
-[Emily and Todd laughing]
+<nonVerbComm>[Emily and Todd laughing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Todd] You're silly.
+<nonVerbComm>[Todd]</nonVerbComm> You're silly.
 
 [Emily] No, you're silly.
 
@@ -2258,7 +2258,7 @@ I'm gonna go sleep in my boat.
 
 
 <line>
-[sighing]
+<nonVerbComm>[sighing]</nonVerbComm>
 
 </line>
 
@@ -2280,7 +2280,7 @@ I'm gonna go sleep in my boat.
 
 
 <line>
-[The Closer] <ital>Hold on. Are you telling me</ital>
+<nonVerbComm>[The Closer]</nonVerbComm> <ital>Hold on. Are you telling me</ital>
 
 <ital>esteemed character actress</ital>
 
@@ -2330,7 +2330,7 @@ Margo Martindale is living in my boat.
 
 
 <line>
-[yelling]
+<nonVerbComm>[yelling]</nonVerbComm>
 
 </line>
 
@@ -2444,7 +2444,7 @@ Laugh your life away. I can laugh, too.
 
 
 <line>
-[laughing]
+<nonVerbComm>[laughing]</nonVerbComm>
 
 </line>
 
@@ -2456,7 +2456,7 @@ Ramona, I'm telling you...
 
 
 <line>
-[wailing]
+<nonVerbComm>[wailing]</nonVerbComm>
 
 </line>
 
@@ -2468,7 +2468,7 @@ She's dead.
 
 
 <line>
-[applause]
+<nonVerbComm>[applause]</nonVerbComm>
 
 </line>
 
@@ -2628,25 +2628,25 @@ and the baby's a lady.
 
 
 <line>
-[yawning]
+<nonVerbComm>[yawning]</nonVerbComm>
 
 </line>
 
 
 <line>
-[chattering]
+<nonVerbComm>[chattering]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighing]
+<nonVerbComm>[sighing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[The Closer]
+<nonVerbComm>[The Closer]</nonVerbComm>
 
 <ital>With all this turmoil and upheaval,</ital>
 
@@ -2768,7 +2768,7 @@ And...
 
 
 <line>
-[The Closer]
+<nonVerbComm>[The Closer]</nonVerbComm>
 
 <ital>So, that's how you left things?</ital>
 
@@ -2776,7 +2776,7 @@ And...
 
 
 <line>
-[BoJack] <ital>That's how she left things.</ital>
+<nonVerbComm>[BoJack]</nonVerbComm> <ital>That's how she left things.</ital>
 
 <ital>But then I followed her home.</ital>
 
@@ -2784,7 +2784,7 @@ And...
 
 
 <line>
-[The Closer]
+<nonVerbComm>[The Closer]</nonVerbComm>
 
 <ital>You did what?</ital>
 
@@ -2792,7 +2792,7 @@ And...
 
 
 <line>
-[BoJack] <ital>She lives in this</ital>
+<nonVerbComm>[BoJack]</nonVerbComm> <ital>She lives in this</ital>
 
 <ital>tiny apartment in the Valley.</ital>
 
@@ -2816,7 +2816,7 @@ Oh!
 
 
 <line>
-[The Closer]
+<nonVerbComm>[The Closer]</nonVerbComm>
 
 <ital>There's something very intimate</ital>
 
@@ -2830,7 +2830,7 @@ Oh!
 
 
 <line>
-[BoJack] <ital>But it wasn't good intimate,</ital>
+<nonVerbComm>[BoJack]</nonVerbComm> <ital>But it wasn't good intimate,</ital>
 
 <ital>like when you see your mom cry.</ital>
 
@@ -2860,7 +2860,7 @@ Oh!
 
 
 <line>
-[The Closer] <ital>She warned you</ital>
+<nonVerbComm>[The Closer]</nonVerbComm> <ital>She warned you</ital>
 
 <ital>that you wouldn't want to know her.</ital>
 
@@ -2868,7 +2868,7 @@ Oh!
 
 
 <line>
-[BoJack] <ital>Yeah. She was right.</ital>
+<nonVerbComm>[BoJack]</nonVerbComm> <ital>Yeah. She was right.</ital>
 
 </line>
 
@@ -2926,7 +2926,7 @@ The light bulb has to want to change.
 
 
 <line>
-[laughing]
+<nonVerbComm>[laughing]</nonVerbComm>
 
 Yeah. Psychiatrists are idiots.
 
@@ -2996,7 +2996,7 @@ over my own life.
 
 
 <line>
-[engine starting]
+<nonVerbComm>[engine starting]</nonVerbComm>
 
 </line>
 
@@ -3134,7 +3134,7 @@ Driver, put up the partition, please.
 
 
 <line>
-[imitating partition whirring]
+<nonVerbComm>[imitating partition whirring]</nonVerbComm>
 
 </line>
 
@@ -3296,7 +3296,7 @@ Sure.
 
 
 <line>
-[coughing]
+<nonVerbComm>[coughing]</nonVerbComm>
 
 </line>
 
@@ -3308,7 +3308,7 @@ Weird plum.
 
 
 <line>
-[knocking on door]
+<nonVerbComm>[knocking on door]</nonVerbComm>
 
 </line>
 
@@ -3440,19 +3440,19 @@ Okay.
 
 
 <line>
-[cars honking]
+<nonVerbComm>[cars honking]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Ana] Hmm...
+<nonVerbComm>[Ana]</nonVerbComm> Hmm...
 
 </line>
 
 
 <line>
-[Carolyn] It kind of just looks like
+<nonVerbComm>[Carolyn]</nonVerbComm> It kind of just looks like
 
 a billboard for the sky.
 
@@ -3550,7 +3550,7 @@ BoJack got what he wanted.
 
 
 <line>
-[all gasping]
+<nonVerbComm>[all gasping]</nonVerbComm>
 
 </line>
 

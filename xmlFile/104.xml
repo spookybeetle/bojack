@@ -12,7 +12,7 @@
 
 
 <line>
-[funky music]
+<nonVerbComm>[funky music]</nonVerbComm>
 
 </line>
 
@@ -56,7 +56,7 @@ You get it, right?
 
 
 <line>
-[dispassionate murmur]
+<nonVerbComm>[dispassionate murmur]</nonVerbComm>
 
 Good, good.
 
@@ -96,7 +96,7 @@ is our money back!
 
 
 <line>
-[laughter]
+<nonVerbComm>[laughter]</nonVerbComm>
 
 </line>
 
@@ -126,19 +126,19 @@ Uh, hey, guys, guys--
 
 
 <line>
-[stuttering]
+<nonVerbComm>[stuttering]</nonVerbComm>
 
 </line>
 
 
 <line>
-[laughter]
+<nonVerbComm>[laughter]</nonVerbComm>
 
 </line>
 
 
 <line>
-[whinnies]
+<nonVerbComm>[whinnies]</nonVerbComm>
 
 </line>
 
@@ -318,7 +318,7 @@ Oh!
 
 
 <line>
-[funky electronic music]
+<nonVerbComm>[funky electronic music]</nonVerbComm>
 
 </line>
 
@@ -330,7 +330,7 @@ Oh!
 
 
 <line>
-[big band music]
+<nonVerbComm>[big band music]</nonVerbComm>
 
 </line>
 
@@ -362,7 +362,7 @@ of the Houston Rockets.
 
 
 <line>
-[laughter]
+<nonVerbComm>[laughter]</nonVerbComm>
 
 </line>
 
@@ -434,7 +434,7 @@ Ha! You're funny.
 
 
 <line>
-[Peanutbutter] Pretty cool, eh, BoJack?
+<nonVerbComm>[Peanutbutter]</nonVerbComm> Pretty cool, eh, BoJack?
 
 </line>
 
@@ -574,7 +574,7 @@ Pretty smile, Zelly-belly.
 
 
 <line>
-[audience] Aww...
+<nonVerbComm>[audience]</nonVerbComm> Aww...
 
 </line>
 
@@ -738,7 +738,7 @@ Said the Zoe.
 
 
 <line>
-[laughter]
+<nonVerbComm>[laughter]</nonVerbComm>
 
 </line>
 
@@ -898,13 +898,13 @@ Ugh.
 
 
 <line>
-[playing fanfare]
+<nonVerbComm>[playing fanfare]</nonVerbComm>
 
 </line>
 
 
 <line>
-[laser effects]
+<nonVerbComm>[laser effects]</nonVerbComm>
 
 </line>
 
@@ -970,7 +970,7 @@ On a spaceship?
 
 
 <line>
-[synthesizer music]
+<nonVerbComm>[synthesizer music]</nonVerbComm>
 
 </line>
 
@@ -1018,7 +1018,7 @@ On a spaceship?
 
 
 <line>
-[synthesizer fills]
+<nonVerbComm>[synthesizer fills]</nonVerbComm>
 
 </line>
 
@@ -1046,7 +1046,7 @@ Just say "slaves."
 
 
 <line>
-[recorded applause plays]
+<nonVerbComm>[recorded applause plays]</nonVerbComm>
 
 </line>
 
@@ -1266,7 +1266,7 @@ of being alone?
 
 
 <line>
-[laughing]
+<nonVerbComm>[laughing]</nonVerbComm>
 
 That is insane!
 
@@ -1472,7 +1472,7 @@ I'll work on that.
 
 
 <line>
-[panting]
+<nonVerbComm>[panting]</nonVerbComm>
 
 Are you close?
 
@@ -1520,7 +1520,7 @@ Did you get there?
 
 
 <line>
-[door opening]
+<nonVerbComm>[door opening]</nonVerbComm>
 
 </line>
 
@@ -1574,7 +1574,7 @@ Let me see what I can do.
 
 
 <line>
-[playing keyboard]
+<nonVerbComm>[playing keyboard]</nonVerbComm>
 
 </line>
 
@@ -1702,7 +1702,7 @@ Unless...
 
 
 <line>
-[both] They were working
+<nonVerbComm>[both]</nonVerbComm> They were working
 
 for Queen Darneesa,
 
@@ -1738,7 +1738,7 @@ Get this down!
 
 
 <line>
-[grunting]
+<nonVerbComm>[grunting]</nonVerbComm>
 
 Oh, you like that.
 
@@ -1758,7 +1758,7 @@ Not especially.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -1786,7 +1786,7 @@ blew this thing wide open.
 
 
 <line>
-[playing keyboard]
+<nonVerbComm>[playing keyboard]</nonVerbComm>
 
 </line>
 
@@ -1812,7 +1812,7 @@ blew this thing wide open.
 
 
 <line>
-[low note] <ital><music>♪ A-a-ah ♪</music></ital>
+<nonVerbComm>[low note]</nonVerbComm> <ital><music>♪ A-a-ah ♪</music></ital>
 
 </line>
 
@@ -1826,7 +1826,7 @@ This train is moving.
 
 
 <line>
-[laughs] Let's take a break
+<nonVerbComm>[laughs]</nonVerbComm> Let's take a break
 
 and get lunch.
 
@@ -2014,7 +2014,7 @@ You know I love Diane Arbus.
 
 
 <line>
-[chuckles]
+<nonVerbComm>[chuckles]</nonVerbComm>
 
 I see what's happening here.
 
@@ -2072,7 +2072,7 @@ Why did you ever break up?
 
 
 <line>
-[nervous laugh]
+<nonVerbComm>[nervous laugh]</nonVerbComm>
 
 </line>
 
@@ -2460,7 +2460,7 @@ so, you know, look out.
 
 
 <line>
-[laughs]
+<nonVerbComm>[laughs]</nonVerbComm>
 
 </line>
 
@@ -2536,7 +2536,7 @@ I say, "tomato," "tomato."
 
 
 <line>
-[shudders]
+<nonVerbComm>[shudders]</nonVerbComm>
 
 </line>
 
@@ -2578,13 +2578,13 @@ Thanks, Mr. Peanutbutter.
 
 
 <line>
-[crash]
+<nonVerbComm>[crash]</nonVerbComm>
 
 </line>
 
 
 <line>
-[moose call]
+<nonVerbComm>[moose call]</nonVerbComm>
 
 </line>
 
@@ -2650,7 +2650,7 @@ as you give it up for Todd.
 
 
 <line>
-[cheers and applause]
+<nonVerbComm>[cheers and applause]</nonVerbComm>
 
 </line>
 
@@ -2664,7 +2664,7 @@ with a young Emma Goldman.
 
 
 <line>
-[playing keyboard]
+<nonVerbComm>[playing keyboard]</nonVerbComm>
 
 </line>
 
@@ -2706,7 +2706,7 @@ it's spellbinding.
 
 
 <line>
-[BoJack] All right!
+<nonVerbComm>[BoJack]</nonVerbComm> All right!
 
 </line>
 
@@ -2934,7 +2934,7 @@ So good, so great.
 
 
 <line>
-[big band music]
+<nonVerbComm>[big band music]</nonVerbComm>
 
 </line>
 
@@ -3254,7 +3254,7 @@ and child labor.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 Okay, here we go. Song time.
 
@@ -3262,7 +3262,7 @@ Okay, here we go. Song time.
 
 
 <line>
-[plays a single scale]
+<nonVerbComm>[plays a single scale]</nonVerbComm>
 
 </line>
 
@@ -3308,13 +3308,13 @@ of course.
 
 
 <line>
-[three single piano notes]
+<nonVerbComm>[three single piano notes]</nonVerbComm>
 
 </line>
 
 
 <line>
-[heavy metal music]
+<nonVerbComm>[heavy metal music]</nonVerbComm>
 
 </line>
 
@@ -3326,7 +3326,7 @@ Come on, Decapathon, come on.
 
 
 <line>
-[mumbling]
+<nonVerbComm>[mumbling]</nonVerbComm>
 
 Oh, come on, Decapathon.
 
@@ -3394,7 +3394,7 @@ is going to show.
 
 
 <line>
-[door slams open]
+<nonVerbComm>[door slams open]</nonVerbComm>
 
 </line>
 
@@ -3442,13 +3442,13 @@ Van Cleef.
 
 
 <line>
-[groaning]
+<nonVerbComm>[groaning]</nonVerbComm>
 
 </line>
 
 
 <line>
-[playing piano intro]
+<nonVerbComm>[playing piano intro]</nonVerbComm>
 
 </line>
 
@@ -3488,7 +3488,7 @@ More like "schlock flop-era."
 
 
 <line>
-[slams keys]
+<nonVerbComm>[slams keys]</nonVerbComm>
 
 </line>
 
@@ -3580,7 +3580,7 @@ affected asshole!
 
 
 <line>
-[grunts] <ital>Mon dieu!</ital>
+<nonVerbComm>[grunts]</nonVerbComm> <ital>Mon dieu!</ital>
 
 Never have I ever!
 
@@ -3692,7 +3692,7 @@ They call it
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 Guess I won't be needing
 
@@ -4000,7 +4000,7 @@ No problem.
 
 
 <line>
-[Wayne] <ital>We're Zoes, Diane.</ital>
+<nonVerbComm>[Wayne]</nonVerbComm> <ital>We're Zoes, Diane.</ital>
 
 </line>
 
@@ -4050,7 +4050,7 @@ This never happened.
 
 
 <line>
-[Wayne] <ital>There's a darkness</ital>
+<nonVerbComm>[Wayne]</nonVerbComm> <ital>There's a darkness</ital>
 
 <ital>inside you,</ital>
 
@@ -4076,7 +4076,7 @@ I like that guy.
 
 
 <line>
-[straining]
+<nonVerbComm>[straining]</nonVerbComm>
 
 </line>
 
@@ -4088,7 +4088,7 @@ Ahh.
 
 
 <line>
-[whistles]
+<nonVerbComm>[whistles]</nonVerbComm>
 
 </line>
 

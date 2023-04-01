@@ -12,19 +12,19 @@
 
 
 <line>
-[groaning]
+<nonVerbComm>[groaning]</nonVerbComm>
 
 </line>
 
 
 <line>
-[moans]
+<nonVerbComm>[moans]</nonVerbComm>
 
 </line>
 
 
 <line>
-[muffled] Give it a moment.
+<nonVerbComm>[muffled]</nonVerbComm> Give it a moment.
 
 </line>
 
@@ -228,7 +228,7 @@ One.
 
 
 <line>
-[panting]
+<nonVerbComm>[panting]</nonVerbComm>
 
 </line>
 
@@ -240,7 +240,7 @@ Oh!
 
 
 <line>
-[moans]
+<nonVerbComm>[moans]</nonVerbComm>
 
 </line>
 
@@ -252,13 +252,13 @@ Oh!
 
 
 <line>
-[cell phone buzzing]
+<nonVerbComm>[cell phone buzzing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[moaning]
+<nonVerbComm>[moaning]</nonVerbComm>
 
 </line>
 
@@ -272,7 +272,7 @@ Oh!
 
 
 <line>
-[theme music playing]
+<nonVerbComm>[theme music playing]</nonVerbComm>
 
 </line>
 
@@ -324,7 +324,7 @@ Oh!
 
 
 <line>
-[Tom Jumbo-Grumbo]
+<nonVerbComm>[Tom Jumbo-Grumbo]</nonVerbComm>
 
 <ital>Woodchuck is down in the polls.</ital>
 
@@ -394,7 +394,7 @@ Looking good.
 
 
 <line>
-[laughs]
+<nonVerbComm>[laughs]</nonVerbComm>
 
 </line>
 
@@ -486,7 +486,7 @@ and cross-reference, please.
 
 
 <line>
-[printer whirring]
+<nonVerbComm>[printer whirring]</nonVerbComm>
 
 </line>
 
@@ -690,7 +690,7 @@ Ugh!
 
 
 <line>
-[screeching]
+<nonVerbComm>[screeching]</nonVerbComm>
 
 </line>
 
@@ -1016,7 +1016,7 @@ I just have to live my truth, Katrina.
 
 
 <line>
-[groaning]
+<nonVerbComm>[groaning]</nonVerbComm>
 
 </line>
 
@@ -1180,7 +1180,7 @@ Hand jive! Yes!
 
 
 <line>
-[laughs]
+<nonVerbComm>[laughs]</nonVerbComm>
 
 </line>
 
@@ -1526,7 +1526,7 @@ are two sides of the same coin.
 
 
 <line>
-[groans] I've got a week
+<nonVerbComm>[groans]</nonVerbComm> I've got a week
 
 to whip these dentists into clowns.
 
@@ -1550,7 +1550,7 @@ or prone to kooky hijinks of any kind!
 
 
 <line>
-[sad quack]
+<nonVerbComm>[sad quack]</nonVerbComm>
 
 </line>
 
@@ -1888,7 +1888,7 @@ Who is this gal?
 
 
 <line>
-[snoring]
+<nonVerbComm>[snoring]</nonVerbComm>
 
 </line>
 
@@ -1900,7 +1900,7 @@ Okay. Clentists, assemble!
 
 
 <line>
-[clowns clamoring]
+<nonVerbComm>[clowns clamoring]</nonVerbComm>
 
 </line>
 
@@ -1952,7 +1952,7 @@ Oh, joy!
 
 
 <line>
-[cackling]
+<nonVerbComm>[cackling]</nonVerbComm>
 
 </line>
 
@@ -1994,7 +1994,7 @@ Hey!
 
 
 <line>
-[straining]
+<nonVerbComm>[straining]</nonVerbComm>
 
 </line>
 
@@ -2022,7 +2022,7 @@ thing that I have a problem with.
 
 
 <line>
-[grunts]
+<nonVerbComm>[grunts]</nonVerbComm>
 
 </line>
 
@@ -2034,7 +2034,7 @@ Target is acquired.
 
 
 <line>
-[mimics static] Deliver the goods,
+<nonVerbComm>[mimics static]</nonVerbComm> Deliver the goods,
 
 Doctor Boing Boing!
 
@@ -2076,7 +2076,7 @@ Didn't realize I had.
 
 
 <line>
-[sniffing] Are you drunk?
+<nonVerbComm>[sniffing]</nonVerbComm> Are you drunk?
 
 </line>
 
@@ -2268,7 +2268,7 @@ Uh-oh! She is out like sauerkraut.
 
 
 <line>
-[mimics static] Don't let Turtletaub
+<nonVerbComm>[mimics static]</nonVerbComm> Don't let Turtletaub
 
 get back to his office.
 
@@ -2284,7 +2284,7 @@ for the "Waltz of the Rubber Chicken"!
 
 
 <line>
-[Todd] <ital>Doctor Picarello,</ital>
+<nonVerbComm>[Todd]</nonVerbComm> <ital>Doctor Picarello,</ital>
 
 <ital>you gotta revive Princess Carolyn.</ital>
 
@@ -2482,7 +2482,7 @@ Uh, Jack Huston... Hugh... Hugh Jackman.
 
 
 <line>
-[sighs] I swore I'd never work
+<nonVerbComm>[sighs]</nonVerbComm> I swore I'd never work
 
 with that asshole again,
 
@@ -2684,13 +2684,13 @@ where you belong.
 
 
 <line>
-[horn honks]
+<nonVerbComm>[horn honks]</nonVerbComm>
 
 </line>
 
 
 <line>
-[snoring]
+<nonVerbComm>[snoring]</nonVerbComm>
 
 </line>
 
@@ -2770,13 +2770,13 @@ all the way downstairs so...
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[dialing]
+<nonVerbComm>[dialing]</nonVerbComm>
 
 </line>
 
@@ -2856,7 +2856,7 @@ Hollyhock! Hollyhock?
 
 
 <line>
-[woman] That's her name?
+<nonVerbComm>[woman]</nonVerbComm> That's her name?
 
 </line>
 
@@ -3442,13 +3442,13 @@ You are never seeing Hollyhock again.
 
 
 <line>
-[whimpers]
+<nonVerbComm>[whimpers]</nonVerbComm>
 
 </line>
 
 
 <line>
-[muffled audio]
+<nonVerbComm>[muffled audio]</nonVerbComm>
 
 </line>
 
@@ -3478,7 +3478,7 @@ for I am kind and honest.
 
 
 <line>
-[normal audio] No, no. No, no, no.
+<nonVerbComm>[normal audio]</nonVerbComm> No, no. No, no, no.
 
 </line>
 
@@ -3492,13 +3492,13 @@ Oh, God.
 
 
 <line>
-[gasping]
+<nonVerbComm>[gasping]</nonVerbComm>
 
 </line>
 
 
 <line>
-[panting]
+<nonVerbComm>[panting]</nonVerbComm>
 
 </line>
 
@@ -3686,13 +3686,13 @@ to give you one more chance.
 
 
 <line>
-[dance music on radio]
+<nonVerbComm>[dance music on radio]</nonVerbComm>
 
 </line>
 
 
 <line>
-[phone ringing]
+<nonVerbComm>[phone ringing]</nonVerbComm>
 
 </line>
 
@@ -3704,7 +3704,7 @@ What?
 
 
 <line>
-[Princess Carolyn]
+<nonVerbComm>[Princess Carolyn]</nonVerbComm>
 
 <ital>Hey, BoJack, great news!</ital>
 
@@ -3728,7 +3728,7 @@ What?
 
 
 <line>
-[woman] <ital>Thank you for holding,</ital>
+<nonVerbComm>[woman]</nonVerbComm> <ital>Thank you for holding,</ital>
 
 <ital>Mr. Horseman.</ital>
 
@@ -3896,7 +3896,7 @@ BoJack?
 
 
 <line>
-[man] <ital>Boxer versus raptor,</ital>
+<nonVerbComm>[man]</nonVerbComm> <ital>Boxer versus raptor,</ital>
 
 <ital><music>♪ Na-na na-na na-na na-na! ♪</music></ital>
 

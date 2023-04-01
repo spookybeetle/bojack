@@ -12,13 +12,13 @@
 
 
 <line>
-[siren wails, stops]
+<nonVerbComm>[siren wails, stops]</nonVerbComm>
 
 </line>
 
 
 <line>
-[car door opens, closes]
+<nonVerbComm>[car door opens, closes]</nonVerbComm>
 
 </line>
 
@@ -76,7 +76,7 @@
 
 
 <line>
-[drums] This is the<ital> Deep Dive!</ital>
+<nonVerbComm>[drums]</nonVerbComm> This is the<ital> Deep Dive!</ital>
 
 </line>
 
@@ -98,7 +98,7 @@ Vance, what happened?
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -146,7 +146,7 @@ As it is written, "schmear, don't smear."
 
 
 <line>
-[drums] Hey! Good to see you.
+<nonVerbComm>[drums]</nonVerbComm> Hey! Good to see you.
 
 Thanks for coming, everyone!
 
@@ -154,7 +154,7 @@ Thanks for coming, everyone!
 
 
 <line>
-[camera clicking]
+<nonVerbComm>[camera clicking]</nonVerbComm>
 
 </line>
 
@@ -296,7 +296,7 @@ Why did I go on a show called<ital> Gotcha?</ital>
 
 
 <line>
-[camera shutters clicking]
+<nonVerbComm>[camera shutters clicking]</nonVerbComm>
 
 </line>
 
@@ -354,13 +354,13 @@ You know who would be perfect?
 
 
 <line>
-[theme music playing]
+<nonVerbComm>[theme music playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[growls, grunts]
+<nonVerbComm>[growls, grunts]</nonVerbComm>
 
 </line>
 
@@ -604,7 +604,7 @@ He's what? Oop! Aaaah!
 
 
 <line>
-[explosive music]
+<nonVerbComm>[explosive music]</nonVerbComm>
 
 </line>
 
@@ -752,7 +752,7 @@ so don't touch that remote...
 
 
 <line>
-[choral music playing]
+<nonVerbComm>[choral music playing]</nonVerbComm>
 
 </line>
 
@@ -766,7 +766,7 @@ forgiving more than Vance Waggoner.
 
 
 <line>
-[applause]
+<nonVerbComm>[applause]</nonVerbComm>
 
 </line>
 
@@ -888,7 +888,7 @@ Hey! Cheese plate!
 
 
 <line>
-[cheering, applause]
+<nonVerbComm>[cheering, applause]</nonVerbComm>
 
 </line>
 
@@ -1110,7 +1110,7 @@ to play the bad boy parts.
 
 
 <line>
-[giggles]
+<nonVerbComm>[giggles]</nonVerbComm>
 
 </line>
 
@@ -1256,7 +1256,7 @@ choking your wife is bad.
 
 
 <line>
-[cheering and applauding]
+<nonVerbComm>[cheering and applauding]</nonVerbComm>
 
 </line>
 
@@ -1290,7 +1290,7 @@ someone needed to take a stand.
 
 
 <line>
-[cheering and applauding]
+<nonVerbComm>[cheering and applauding]</nonVerbComm>
 
 </line>
 
@@ -1318,7 +1318,7 @@ So true, right? Don't choke women!
 
 
 <line>
-[all chanting] Don't choke women!
+<nonVerbComm>[all chanting]</nonVerbComm> Don't choke women!
 
 </line>
 
@@ -1346,7 +1346,7 @@ that play off their problematic personas!
 
 
 <line>
-[audience] Hollywoo
+<nonVerbComm>[audience]</nonVerbComm> Hollywoo
 
 shouldn't legitimize abusers
 
@@ -1400,7 +1400,7 @@ And don't choke women! [chuckles]
 
 
 <line>
-[signal buzzes]
+<nonVerbComm>[signal buzzes]</nonVerbComm>
 
 </line>
 
@@ -1556,7 +1556,7 @@ about sexting that 12-year-old.
 
 
 <line>
-[groans] Oh-hh!
+<nonVerbComm>[groans]</nonVerbComm> Oh-hh!
 
 </line>
 
@@ -1674,7 +1674,7 @@ is the right voice-- a <ital>man's </ital>voice.
 
 
 <line>
-[BoJack] Oh!
+<nonVerbComm>[BoJack]</nonVerbComm> Oh!
 
 </line>
 
@@ -1762,7 +1762,7 @@ for women everywhere.
 
 
 <line>
-[rock music playing]
+<nonVerbComm>[rock music playing]</nonVerbComm>
 
 </line>
 
@@ -1948,7 +1948,7 @@ What do you say to that?
 
 
 <line>
-[sighs] Okay, so, pop culture
+<nonVerbComm>[sighs]</nonVerbComm> Okay, so, pop culture
 
 inherently normalizes things,
 
@@ -2074,13 +2074,13 @@ Girls love shit like that, right?
 
 
 <line>
-[sighs] Sounds great, BoJack.
+<nonVerbComm>[sighs]</nonVerbComm> Sounds great, BoJack.
 
 </line>
 
 
 <line>
-[door closes]
+<nonVerbComm>[door closes]</nonVerbComm>
 
 </line>
 
@@ -2416,7 +2416,7 @@ The future is female?
 
 
 <line>
-[chuckles]
+<nonVerbComm>[chuckles]</nonVerbComm>
 
 </line>
 
@@ -2542,7 +2542,7 @@ Fancy boys only.
 
 
 <line>
-[growls]
+<nonVerbComm>[growls]</nonVerbComm>
 
 </line>
 
@@ -2982,7 +2982,7 @@ and every story... leaves a scar.
 
 
 <line>
-[tires screech]
+<nonVerbComm>[tires screech]</nonVerbComm>
 
 </line>
 
@@ -3056,7 +3056,7 @@ to change society for the better.
 
 
 <line>
-[yelling, whooping]
+<nonVerbComm>[yelling, whooping]</nonVerbComm>
 
 </line>
 
@@ -3226,7 +3226,7 @@ Enthusiastic with zero baggage.
 
 
 <line>
-[phone beeping, meowing]
+<nonVerbComm>[phone beeping, meowing]</nonVerbComm>
 
 </line>
 
@@ -3314,7 +3314,7 @@ Uh...
 
 
 <line>
-[door closes]
+<nonVerbComm>[door closes]</nonVerbComm>
 
 </line>
 
@@ -3428,7 +3428,7 @@ I wanted to share this with you...
 
 
 <line>
-[BoJack's voice] <ital>She just walked in</ital>
+<nonVerbComm>[BoJack's voice]</nonVerbComm> <ital>She just walked in</ital>
 
 <ital>at the worst possible...</ital>
 
@@ -3516,7 +3516,7 @@ I wanted to share this with you...
 
 
 <line>
-[music playing]
+<nonVerbComm>[music playing]</nonVerbComm>
 
 
 

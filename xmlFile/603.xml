@@ -12,7 +12,7 @@
 
 
 <line>
-[Diane] The series is called
+<nonVerbComm>[Diane]</nonVerbComm> The series is called
 
 Crooshing USA.
 
@@ -20,7 +20,7 @@ Crooshing USA.
 
 
 <line>
-[man] <ital>What does that mean?</ital>
+<nonVerbComm>[man]</nonVerbComm> <ital>What does that mean?</ital>
 
 </line>
 
@@ -112,7 +112,7 @@ Uh...
 
 
 <line>
-[panting]
+<nonVerbComm>[panting]</nonVerbComm>
 
 </line>
 
@@ -170,7 +170,7 @@ I'm getting that microphone back.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -372,7 +372,7 @@ to that front desk and tell them--
 
 
 <line>
-[both moaning]
+<nonVerbComm>[both moaning]</nonVerbComm>
 
 </line>
 
@@ -394,13 +394,13 @@ for helping me with my one bed bit.
 
 
 <line>
-[theme music playing]
+<nonVerbComm>[theme music playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[BoJack's voice] <ital>Dear Diane, hello.</ital>
+<nonVerbComm>[BoJack's voice]</nonVerbComm> <ital>Dear Diane, hello.</ital>
 
 </line>
 
@@ -500,13 +500,13 @@ talk to me. I'm his father. No, Lady--
 
 
 <line>
-[Guy groans angrily]
+<nonVerbComm>[Guy groans angrily]</nonVerbComm>
 
 </line>
 
 
 <line>
-[BoJack's voice] <ital>Anyway, that's my letter.</ital>
+<nonVerbComm>[BoJack's voice]</nonVerbComm> <ital>Anyway, that's my letter.</ital>
 
 </line>
 
@@ -564,7 +564,7 @@ Uh... Hey, look out the window.
 
 
 <line>
-[Guy] Wow, there she is!
+<nonVerbComm>[Guy]</nonVerbComm> Wow, there she is!
 
 </line>
 
@@ -612,7 +612,7 @@ we got a new big building.
 
 
 <line>
-[man gasps and pants]
+<nonVerbComm>[man gasps and pants]</nonVerbComm>
 
 </line>
 
@@ -1072,13 +1072,13 @@ Right before the holidays!
 
 
 <line>
-[clears throat] Feel-good.
+<nonVerbComm>[clears throat]</nonVerbComm> Feel-good.
 
 </line>
 
 
 <line>
-[strained] What an exciting,
+<nonVerbComm>[strained]</nonVerbComm> What an exciting,
 
 empowering time for you!
 
@@ -1156,7 +1156,7 @@ It's just a mascot.
 
 
 <line>
-[reporter] <ital>And there goes Waa-Waa,</ital>
+<nonVerbComm>[reporter]</nonVerbComm> <ital>And there goes Waa-Waa,</ital>
 
 <ital>the Baby Human, stumbling around</ital>
 
@@ -1238,13 +1238,13 @@ Yeah. Sorry, just-- I'll be right back.
 
 
 <line>
-[doorbell rings]
+<nonVerbComm>[doorbell rings]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -1366,7 +1366,7 @@ You have a lovely home.
 
 
 <line>
-[BoJack's voice] <ital>Dear Diane, hello.</ital>
+<nonVerbComm>[BoJack's voice]</nonVerbComm> <ital>Dear Diane, hello.</ital>
 
 <ital>I am writing you another letter.</ital>
 
@@ -1538,7 +1538,7 @@ You have a lovely home.
 
 
 <line>
-[scoffs]<ital> Just kidding,</ital>
+<nonVerbComm>[scoffs]</nonVerbComm><ital> Just kidding,</ital>
 
 <ital>you can't say anything, this is a letter!</ital>
 
@@ -1680,7 +1680,7 @@ Oh, spronk me.
 
 
 <line>
-[sputters]
+<nonVerbComm>[sputters]</nonVerbComm>
 
 </line>
 
@@ -1718,7 +1718,7 @@ Hmm.
 
 
 <line>
-[beep]
+<nonVerbComm>[beep]</nonVerbComm>
 
 </line>
 
@@ -1748,7 +1748,7 @@ Hmm.
 
 
 <line>
-[both] <ital>That's right, Mr. Whitewhale!</ital>
+<nonVerbComm>[both]</nonVerbComm> <ital>That's right, Mr. Whitewhale!</ital>
 
 </line>
 
@@ -1770,7 +1770,7 @@ Hmm.
 
 
 <line>
-[giggles]
+<nonVerbComm>[giggles]</nonVerbComm>
 
 <ital>We're no spooky specters! My name's Vert!</ital>
 
@@ -1822,7 +1822,7 @@ Hmm.
 
 
 <line>
-[Ollie]
+<nonVerbComm>[Ollie]</nonVerbComm>
 
 <ital>One day he looked around and said,</ital>
 
@@ -1890,7 +1890,7 @@ Hmm.
 
 
 <line>
-[giggles] <ital>Pardon me.</ital>
+<nonVerbComm>[giggles]</nonVerbComm> <ital>Pardon me.</ital>
 
 </line>
 
@@ -1910,7 +1910,7 @@ Hmm.
 
 
 <line>
-[Vert]<ital> He bought a telephone company,</ital>
+<nonVerbComm>[Vert]</nonVerbComm><ital> He bought a telephone company,</ital>
 
 <ital>a sports team, and when he didn't like</ital>
 
@@ -2116,7 +2116,7 @@ for the inside of the book.
 
 
 <line>
-[sighs] I guess that's it for us,
+<nonVerbComm>[sighs]</nonVerbComm> I guess that's it for us,
 
 though, right?
 
@@ -2290,7 +2290,7 @@ The answer eludes me at every turn.
 
 
 <line>
-[Diane] I can't believe it. We got a lead.
+<nonVerbComm>[Diane]</nonVerbComm> I can't believe it. We got a lead.
 
 </line>
 
@@ -2334,7 +2334,7 @@ bitter winter, unbearable humidity.
 
 
 <line>
-[BoJack's voice]
+<nonVerbComm>[BoJack's voice]</nonVerbComm>
 
 <ital>Dear Diane, I'm sure you are dying to know</ital>
 
@@ -2462,7 +2462,7 @@ bitter winter, unbearable humidity.
 
 
 <line>
-[keyboard clacking]
+<nonVerbComm>[keyboard clacking]</nonVerbComm>
 
 </line>
 
@@ -2578,7 +2578,7 @@ Hmm.
 
 
 <line>
-[keyboard clacking]
+<nonVerbComm>[keyboard clacking]</nonVerbComm>
 
 </line>
 
@@ -2600,7 +2600,7 @@ and working harder than the '96 Bulls.
 
 
 <line>
-[Guy] Okay, so Matt's stationed here...
+<nonVerbComm>[Guy]</nonVerbComm> Okay, so Matt's stationed here...
 
 </line>
 
@@ -2764,7 +2764,7 @@ to move to Chicago?
 
 
 <line>
-[chuckles] No. Not everything is some kind
+<nonVerbComm>[chuckles]</nonVerbComm> No. Not everything is some kind
 
 of secret underhanded conspiracy.
 
@@ -2922,19 +2922,19 @@ I think I should go back to the hotel.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Diane shudders]
+<nonVerbComm>[Diane shudders]</nonVerbComm>
 
 </line>
 
 
 <line>
-[birds chirping]
+<nonVerbComm>[birds chirping]</nonVerbComm>
 
 </line>
 
@@ -3130,7 +3130,7 @@ just make a billion dollars and murder me!
 
 
 <line>
-[both cackle]
+<nonVerbComm>[both cackle]</nonVerbComm>
 
 </line>
 
@@ -3218,7 +3218,7 @@ here and a big shiny bean and you could...
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3326,7 +3326,7 @@ Oh, no.
 
 
 <line>
-[BoJack's voice] <ital>Dear Diane,</ital>
+<nonVerbComm>[BoJack's voice]</nonVerbComm> <ital>Dear Diane,</ital>
 
 <ital>it was Beverly's last day yesterday.</ital>
 
@@ -3484,7 +3484,7 @@ Oh, no.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 

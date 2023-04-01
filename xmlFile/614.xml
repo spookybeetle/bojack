@@ -40,7 +40,7 @@ to get out of the rain,
 
 
 <line>
-[woman] Hold the door.
+<nonVerbComm>[woman]</nonVerbComm> Hold the door.
 
 </line>
 
@@ -158,7 +158,7 @@ Oh, Herb. [sighs]
 
 
 <line>
-[Herb] I'm sorry, okay?
+<nonVerbComm>[Herb]</nonVerbComm> I'm sorry, okay?
 
 </line>
 
@@ -270,7 +270,7 @@ Okay.
 
 
 <line>
-[theme music playing]
+<nonVerbComm>[theme music playing]</nonVerbComm>
 
 </line>
 
@@ -318,7 +318,7 @@ I know the scene, thank you.
 
 
 <line>
-[slurps, gulps]
+<nonVerbComm>[slurps, gulps]</nonVerbComm>
 
 </line>
 
@@ -330,7 +330,7 @@ Ah.
 
 
 <line>
-[phone rings, beeps]
+<nonVerbComm>[phone rings, beeps]</nonVerbComm>
 
 </line>
 
@@ -618,7 +618,7 @@ my dream movie studio?
 
 
 <line>
-[stammers] You don't wanna
+<nonVerbComm>[stammers]</nonVerbComm> You don't wanna
 
 go slow and steady?
 
@@ -704,7 +704,7 @@ Mm.
 
 
 <line>
-[phone rings, beeps]
+<nonVerbComm>[phone rings, beeps]</nonVerbComm>
 
 </line>
 
@@ -1074,19 +1074,19 @@ but no, you’re obviously healthy.
 
 
 <line>
-[coughs] Ugh.
+<nonVerbComm>[coughs]</nonVerbComm> Ugh.
 
 </line>
 
 
 <line>
-[inhales, sighs]
+<nonVerbComm>[inhales, sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[clears throat]
+<nonVerbComm>[clears throat]</nonVerbComm>
 
 </line>
 
@@ -1108,13 +1108,13 @@ but no, you’re obviously healthy.
 
 
 <line>
-[chuckles] Mm.
+<nonVerbComm>[chuckles]</nonVerbComm> Mm.
 
 </line>
 
 
 <line>
-[grunts]
+<nonVerbComm>[grunts]</nonVerbComm>
 
 </line>
 
@@ -1544,7 +1544,7 @@ Okay!
 
 
 <line>
-[groaning]
+<nonVerbComm>[groaning]</nonVerbComm>
 
 </line>
 
@@ -1640,13 +1640,13 @@ about it now, right?
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
 
 <line>
-[clicks tongue, sighs]
+<nonVerbComm>[clicks tongue, sighs]</nonVerbComm>
 
 </line>
 
@@ -1728,7 +1728,7 @@ will make eye contact easier tomorrow.
 
 
 <line>
-[chuckles]
+<nonVerbComm>[chuckles]</nonVerbComm>
 
 </line>
 
@@ -1838,7 +1838,7 @@ you're divorced from the show forever.
 
 
 <line>
-[inhales] Oof.
+<nonVerbComm>[inhales]</nonVerbComm> Oof.
 
 </line>
 
@@ -1860,7 +1860,7 @@ as the girl you killed?
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -1890,7 +1890,7 @@ to worry about that ever again.
 
 
 <line>
-[sighs] Good, let's drink.
+<nonVerbComm>[sighs]</nonVerbComm> Good, let's drink.
 
 </line>
 
@@ -1930,7 +1930,7 @@ Is everyone from your office here?
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -1950,25 +1950,25 @@ I was speaking figuratively.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[keyboard clacking]
+<nonVerbComm>[keyboard clacking]</nonVerbComm>
 
 </line>
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
 
 <line>
-[woman] Hi, we are
+<nonVerbComm>[woman]</nonVerbComm> Hi, we are
 
 Spectrum of Enchantment.
 
@@ -2008,7 +2008,7 @@ Whoo!
 
 
 <line>
-[upbeat music playing]
+<nonVerbComm>[upbeat music playing]</nonVerbComm>
 
 </line>
 
@@ -2054,7 +2054,7 @@ Whoo!
 
 
 <line>
-[laughing]
+<nonVerbComm>[laughing]</nonVerbComm>
 
 </line>
 
@@ -2092,7 +2092,7 @@ one day I'd be asking you to?
 
 
 <line>
-[grunting]
+<nonVerbComm>[grunting]</nonVerbComm>
 
 </line>
 
@@ -2156,7 +2156,7 @@ I guess I bluffed good!
 
 
 <line>
-[both grunting]
+<nonVerbComm>[both grunting]</nonVerbComm>
 
 </line>
 
@@ -2232,13 +2232,13 @@ So, what do you have to do now?
 
 
 <line>
-[pants]
+<nonVerbComm>[pants]</nonVerbComm>
 
 </line>
 
 
 <line>
-[exhales]
+<nonVerbComm>[exhales]</nonVerbComm>
 
 </line>
 
@@ -2262,13 +2262,13 @@ Now, another drink?
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -2440,7 +2440,7 @@ I'm going home.
 
 
 <line>
-[groans, inhales]
+<nonVerbComm>[groans, inhales]</nonVerbComm>
 
 </line>
 
@@ -2482,7 +2482,7 @@ Ugh.
 
 
 <line>
-[grunts] And I'm taking these.
+<nonVerbComm>[grunts]</nonVerbComm> And I'm taking these.
 
 </line>
 
@@ -2990,7 +2990,7 @@ and right now it's just wasted energy!
 
 
 <line>
-[Margo's voice] And so you see,
+<nonVerbComm>[Margo's voice]</nonVerbComm> And so you see,
 
 the circle had become complete.
 
@@ -3088,7 +3088,7 @@ Yee-haw!
 
 
 <line>
-[brakes squeak]
+<nonVerbComm>[brakes squeak]</nonVerbComm>
 
 </line>
 
@@ -3114,7 +3114,7 @@ God. Where's my stupid...
 
 
 <line>
-[groans] Why is everything so difficult?
+<nonVerbComm>[groans]</nonVerbComm> Why is everything so difficult?
 
 </line>
 
@@ -3316,13 +3316,13 @@ Mm.
 
 
 <line>
-["Horsin' Around" jingle plays]
+<nonVerbComm>["Horsin' Around" jingle plays]</nonVerbComm>
 
 </line>
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -3334,7 +3334,7 @@ What are you so happy about?
 
 
 <line>
-[remote clicking]
+<nonVerbComm>[remote clicking]</nonVerbComm>
 
 </line>
 
@@ -3362,7 +3362,7 @@ What are you so happy about?
 
 
 <line>
-[Herb] <ital>Uh, BJ, that's Ethan's line.</ital>
+<nonVerbComm>[Herb]</nonVerbComm> <ital>Uh, BJ, that's Ethan's line.</ital>
 
 </line>
 
@@ -3514,13 +3514,13 @@ your life is about to start.
 
 
 <line>
-[chuckles]
+<nonVerbComm>[chuckles]</nonVerbComm>
 
 </line>
 
 
 <line>
-[static crackles]
+<nonVerbComm>[static crackles]</nonVerbComm>
 
 </line>
 
@@ -3604,7 +3604,7 @@ your life is about to start.
 
 
 <line>
-[horse neighs]
+<nonVerbComm>[horse neighs]</nonVerbComm>
 
 
 

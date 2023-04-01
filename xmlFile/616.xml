@@ -20,25 +20,25 @@
 
 
 <line>
-[heart monitor beeping]
+<nonVerbComm>[heart monitor beeping]</nonVerbComm>
 
 </line>
 
 
 <line>
-[heart monitor blares]
+<nonVerbComm>[heart monitor blares]</nonVerbComm>
 
 </line>
 
 
 <line>
-[rock music playing]
+<nonVerbComm>[rock music playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[no audible dialogue]
+<nonVerbComm>[no audible dialogue]</nonVerbComm>
 
 </line>
 
@@ -134,7 +134,7 @@
 
 
 <line>
-[bars clinking]
+<nonVerbComm>[bars clinking]</nonVerbComm>
 
 </line>
 
@@ -146,19 +146,19 @@
 
 
 <line>
-[alarm buzzes]
+<nonVerbComm>[alarm buzzes]</nonVerbComm>
 
 </line>
 
 
 <line>
-[indistinct shouting]
+<nonVerbComm>[indistinct shouting]</nonVerbComm>
 
 </line>
 
 
 <line>
-[theme music playing]
+<nonVerbComm>[theme music playing]</nonVerbComm>
 
 </line>
 
@@ -274,7 +274,7 @@ you have time to learn your lines, 'kay?
 
 
 <line>
-[exhales]
+<nonVerbComm>[exhales]</nonVerbComm>
 
 </line>
 
@@ -572,7 +572,7 @@ I'm sure I'll find a way.
 
 
 <line>
-[BoJack groans]
+<nonVerbComm>[BoJack groans]</nonVerbComm>
 
 </line>
 
@@ -776,7 +776,7 @@ than two and a half hours.
 
 
 <line>
-[Mr. Peanutbutter] Hello, everybody!
+<nonVerbComm>[Mr. Peanutbutter]</nonVerbComm> Hello, everybody!
 
 </line>
 
@@ -808,7 +808,7 @@ as the notorious Stealer of the "D"!
 
 
 <line>
-[all] Ooh!
+<nonVerbComm>[all]</nonVerbComm> Ooh!
 
 </line>
 
@@ -856,7 +856,7 @@ and said,
 
 
 <line>
-[all] Yay!
+<nonVerbComm>[all]</nonVerbComm> Yay!
 
 </line>
 
@@ -1128,7 +1128,7 @@ Oh, wow! That's like a 3-D one!
 
 
 <line>
-[BoJack] So...
+<nonVerbComm>[BoJack]</nonVerbComm> So...
 
 why did we need to be on the beach?
 
@@ -1512,7 +1512,7 @@ and then you lost it.
 
 
 <line>
-[chuckles]
+<nonVerbComm>[chuckles]</nonVerbComm>
 
 </line>
 
@@ -1532,13 +1532,13 @@ Sure. It was nice while it lasted.
 
 
 <line>
-[fireworks popping, whistling]
+<nonVerbComm>[fireworks popping, whistling]</nonVerbComm>
 
 </line>
 
 
 <line>
-[upbeat music playing]
+<nonVerbComm>[upbeat music playing]</nonVerbComm>
 
 </line>
 
@@ -1898,7 +1898,7 @@ Well, a decision.
 
 
 <line>
-[soft music playing]
+<nonVerbComm>[soft music playing]</nonVerbComm>
 
 </line>
 
@@ -1920,7 +1920,7 @@ Well, a decision.
 
 
 <line>
-[both chuckle]
+<nonVerbComm>[both chuckle]</nonVerbComm>
 
 </line>
 
@@ -1994,7 +1994,7 @@ And you'd say,
 
 
 <line>
-[chuckles] And then what,
+<nonVerbComm>[chuckles]</nonVerbComm> And then what,
 
 I'd run off with you?
 
@@ -2290,19 +2290,19 @@ I can recommend some excellent people.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[muffled music playing]
+<nonVerbComm>[muffled music playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[inhales, exhales]
+<nonVerbComm>[inhales, exhales]</nonVerbComm>
 
 </line>
 
@@ -2366,7 +2366,7 @@ on this middle-grade fiction series.
 
 
 <line>
-[chuckles] I mean, who am I, Rick Riordan?
+<nonVerbComm>[chuckles]</nonVerbComm> I mean, who am I, Rick Riordan?
 
 </line>
 
@@ -2488,7 +2488,7 @@ I just wanted to talk to you.
 
 
 <line>
-[cigarette sizzles]
+<nonVerbComm>[cigarette sizzles]</nonVerbComm>
 
 </line>
 
@@ -2532,7 +2532,7 @@ that you left me a voicemail?
 
 
 <line>
-[inhales] Ooh.
+<nonVerbComm>[inhales]</nonVerbComm> Ooh.
 
 </line>
 
@@ -3406,7 +3406,7 @@ every week.
 
 
 <line>
-[chuckles] You kind of made your own bed
+<nonVerbComm>[chuckles]</nonVerbComm> You kind of made your own bed
 
 on that one.
 
@@ -3420,7 +3420,7 @@ Story of my life.
 
 
 <line>
-[chuckles]
+<nonVerbComm>[chuckles]</nonVerbComm>
 
 </line>
 
@@ -3478,7 +3478,7 @@ This is nice.
 
 
 <line>
-[crickets chirping]
+<nonVerbComm>[crickets chirping]</nonVerbComm>
 
 </line>
 

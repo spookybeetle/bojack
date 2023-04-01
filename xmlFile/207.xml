@@ -12,7 +12,7 @@
 
 
 <line>
-[crowd cheering]
+<nonVerbComm>[crowd cheering]</nonVerbComm>
 
 </line>
 
@@ -86,7 +86,7 @@ BoJack Horseman,
 
 
 <line>
-[audience laughs and applauds]
+<nonVerbComm>[audience laughs and applauds]</nonVerbComm>
 
 </line>
 
@@ -114,13 +114,13 @@ Mr. Peanutbutter,
 
 
 <line>
-[audience laughs and applauds]
+<nonVerbComm>[audience laughs and applauds]</nonVerbComm>
 
 </line>
 
 
 <line>
-[laughs]
+<nonVerbComm>[laughs]</nonVerbComm>
 
 </line>
 
@@ -174,7 +174,7 @@ Hank Hippopopalous,
 
 
 <line>
-[Wolf howls]
+<nonVerbComm>[Wolf howls]</nonVerbComm>
 
 </line>
 
@@ -186,7 +186,7 @@ Oh, yeah.
 
 
 <line>
-[camera shutters clicking]
+<nonVerbComm>[camera shutters clicking]</nonVerbComm>
 
 </line>
 
@@ -286,7 +286,7 @@ as Hank Hippopopalous?
 
 
 <line>
-[chuckles] That's Uncle Hanky.
+<nonVerbComm>[chuckles]</nonVerbComm> That's Uncle Hanky.
 
 </line>
 
@@ -322,7 +322,7 @@ What is this, a crossover episode?
 
 
 <line>
-[all laugh]
+<nonVerbComm>[all laugh]</nonVerbComm>
 
 </line>
 
@@ -450,7 +450,7 @@ This suit needs more flasks.
 
 
 <line>
-[♪♪]
+<nonVerbComm>[♪♪]</nonVerbComm>
 
 </line>
 
@@ -688,7 +688,7 @@ You're right. What was I thinking?
 
 
 <line>
-[dance music playing over speakers]
+<nonVerbComm>[dance music playing over speakers]</nonVerbComm>
 
 </line>
 
@@ -974,7 +974,7 @@ as an ally?
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -986,7 +986,7 @@ Well, the thing about that...
 
 
 <line>
-[both growl]
+<nonVerbComm>[both growl]</nonVerbComm>
 
 </line>
 
@@ -1016,7 +1016,7 @@ feels like a place to begin.
 
 
 <line>
-[audience murmuring]
+<nonVerbComm>[audience murmuring]</nonVerbComm>
 
 </line>
 
@@ -1174,7 +1174,7 @@ Google it right now.
 
 
 <line>
-[all gasp]
+<nonVerbComm>[all gasp]</nonVerbComm>
 
 </line>
 
@@ -1310,7 +1310,7 @@ I'd like to think that's a coincidence.
 
 
 <line>
-[Peanutbutter] <ital>You gotta see</ital>
+<nonVerbComm>[Peanutbutter]</nonVerbComm> <ital>You gotta see</ital>
 
 <ital>this set they're building!</ital>
 
@@ -1498,7 +1498,7 @@ Why I'm saying? I am no royal.
 
 
 <line>
-[chuckles] Look at me. Normals.
+<nonVerbComm>[chuckles]</nonVerbComm> Look at me. Normals.
 
 </line>
 
@@ -2220,13 +2220,13 @@ Please don't ever change.
 
 
 <line>
-[inaudible dialogue]
+<nonVerbComm>[inaudible dialogue]</nonVerbComm>
 
 </line>
 
 
 <line>
-[women gasp]
+<nonVerbComm>[women gasp]</nonVerbComm>
 
 </line>
 
@@ -2472,7 +2472,7 @@ answering machine?
 
 
 <line>
-[beeps]
+<nonVerbComm>[beeps]</nonVerbComm>
 
 </line>
 
@@ -2492,7 +2492,7 @@ answering machine?
 
 
 <line>
-[gasps]
+<nonVerbComm>[gasps]</nonVerbComm>
 
 </line>
 
@@ -2514,13 +2514,13 @@ With this honeydew right now? Ugh!
 
 
 <line>
-[car door opens]
+<nonVerbComm>[car door opens]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Hank] Hello, Diane.
+<nonVerbComm>[Hank]</nonVerbComm> Hello, Diane.
 
 </line>
 
@@ -2590,7 +2590,7 @@ Oh, you idiot! No!
 
 
 <line>
-[shouting in Cordovian]
+<nonVerbComm>[shouting in Cordovian]</nonVerbComm>
 
 </line>
 
@@ -2918,7 +2918,7 @@ I go now. Back to palace!
 
 
 <line>
-[shouting in Cordovian]
+<nonVerbComm>[shouting in Cordovian]</nonVerbComm>
 
 </line>
 
@@ -2944,7 +2944,7 @@ No, I didn't pitch your skorts idea.
 
 
 <line>
-[man 1] Hey, Diane!
+<nonVerbComm>[man 1]</nonVerbComm> Hey, Diane!
 
 </line>
 
@@ -2964,7 +2964,7 @@ Don't you talk to her like that!
 
 
 <line>
-[man 2]
+<nonVerbComm>[man 2]</nonVerbComm>
 
 Yeah, don't listen to that guy, Diane.
 
@@ -3032,7 +3032,7 @@ I--
 
 
 <line>
-[grunting]
+<nonVerbComm>[grunting]</nonVerbComm>
 
 </line>
 
@@ -3348,7 +3348,7 @@ because I don't have anybody else.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3612,7 +3612,7 @@ what I want?
 
 
 <line>
-[man over PA]<ital> Flight 57,</ital>
+<nonVerbComm>[man over PA]</nonVerbComm><ital> Flight 57,</ital>
 
 <ital>Cordovian Airlines, now boarding.</ital>
 
@@ -3670,7 +3670,7 @@ what I want?
 
 
 <line>
-[man] Hey.
+<nonVerbComm>[man]</nonVerbComm> Hey.
 
 </line>
 
@@ -3682,7 +3682,7 @@ Smile.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 

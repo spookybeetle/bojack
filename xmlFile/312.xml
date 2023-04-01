@@ -12,7 +12,7 @@
 
 
 <line>
-[people chanting]
+<nonVerbComm>[people chanting]</nonVerbComm>
 
 <ital>Sarah Lynn! Sarah Lynn!</ital>
 
@@ -20,7 +20,7 @@
 
 
 <line>
-[Sarah Lynn]
+<nonVerbComm>[Sarah Lynn]</nonVerbComm>
 
 <ital>Okay, one more song.</ital>
 
@@ -42,7 +42,7 @@
 
 
 <line>
-[music stops abruptly]
+<nonVerbComm>[music stops abruptly]</nonVerbComm>
 
 </line>
 
@@ -68,13 +68,13 @@ Well, I'll tell her, but...
 
 
 <line>
-[groaning]
+<nonVerbComm>[groaning]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Sarah Lynn]
+<nonVerbComm>[Sarah Lynn]</nonVerbComm>
 
 BoJack? Oh, my God! Bring him in!
 
@@ -414,7 +414,7 @@ Yeah.
 
 
 <line>
-[male voice]
+<nonVerbComm>[male voice]</nonVerbComm>
 
 <ital>Adam Levine has tweeted his sympathies.</ital>
 
@@ -464,7 +464,7 @@ I feel it. What say you, skippy?
 
 
 <line>
-[Todd's voice] <ital>I think you got a touch</ital>
+<nonVerbComm>[Todd's voice]</nonVerbComm> <ital>I think you got a touch</ital>
 
 <ital>of the ocean madness, Margo.</ital>
 
@@ -570,19 +570,19 @@ Yeah. What is that?
 
 
 <line>
-[choking]
+<nonVerbComm>[choking]</nonVerbComm>
 
 </line>
 
 
 <line>
-[horn blaring]
+<nonVerbComm>[horn blaring]</nonVerbComm>
 
 </line>
 
 
 <line>
-[British accent]
+<nonVerbComm>[British accent]</nonVerbComm>
 
 All clear from here to Los Angeles.
 
@@ -590,7 +590,7 @@ All clear from here to Los Angeles.
 
 
 <line>
-[British accent]
+<nonVerbComm>[British accent]</nonVerbComm>
 
 We've hit a few delays,
 
@@ -606,7 +606,7 @@ by tomorrow.
 
 
 <line>
-[Italian accent]
+<nonVerbComm>[Italian accent]</nonVerbComm>
 
 Tomorrow?
 
@@ -660,7 +660,7 @@ That is an ugly stereotype.
 
 
 <line>
-[speaking Italian]
+<nonVerbComm>[speaking Italian]</nonVerbComm>
 
 </line>
 
@@ -776,7 +776,7 @@ you are. You don't need to narrate it.
 
 
 <line>
-[screaming]
+<nonVerbComm>[screaming]</nonVerbComm>
 
 Oh!
 
@@ -858,7 +858,7 @@ is heading straight to Pacific Ocean City.
 
 
 <line>
-[screaming]
+<nonVerbComm>[screaming]</nonVerbComm>
 
 </line>
 
@@ -1004,7 +1004,7 @@ they'll just have to wait.
 
 
 <line>
-[Tom on TV] <ital>This tragedy truly puts</ital>
+<nonVerbComm>[Tom on TV]</nonVerbComm> <ital>This tragedy truly puts</ital>
 
 <ital>the "no" into noodle,</ital>
 
@@ -1054,7 +1054,7 @@ for Pacific Ocean City.
 
 
 <line>
-[dramatic music playing]
+<nonVerbComm>[dramatic music playing]</nonVerbComm>
 
 </line>
 
@@ -1090,7 +1090,7 @@ No!
 
 
 <line>
-[BoJack] <ital>I'm not just running for me.</ital>
+<nonVerbComm>[BoJack]</nonVerbComm> <ital>I'm not just running for me.</ital>
 
 <ital>I'm running for America.</ital>
 
@@ -1126,7 +1126,7 @@ The house. Obviously, the house.
 
 
 <line>
-[dramatic music playing]
+<nonVerbComm>[dramatic music playing]</nonVerbComm>
 
 </line>
 
@@ -1152,7 +1152,7 @@ Better listen to them all, in order.
 
 
 <line>
-[Todd] <ital>Mr. Peanutbutter, call me back</ital>
+<nonVerbComm>[Todd]</nonVerbComm> <ital>Mr. Peanutbutter, call me back</ital>
 
 <ital>as soon as you get this, okay?</ital>
 
@@ -1206,7 +1206,7 @@ to these other 96 messages.
 
 
 <line>
-[man] <ital>Good afternoon, I'm calling</ital>
+<nonVerbComm>[man]</nonVerbComm> <ital>Good afternoon, I'm calling</ital>
 
 <ital>from Center Theater Group.</ital>
 
@@ -1236,7 +1236,7 @@ Oh, I don't have time for this!
 
 
 <line>
-[rock music playing]
+<nonVerbComm>[rock music playing]</nonVerbComm>
 
 </line>
 
@@ -1266,7 +1266,7 @@ Spaghetti or not, here I come.
 
 
 <line>
-[studio audience laughing]
+<nonVerbComm>[studio audience laughing]</nonVerbComm>
 
 </line>
 
@@ -1352,7 +1352,7 @@ Okay.
 
 
 <line>
-[grunts]
+<nonVerbComm>[grunts]</nonVerbComm>
 
 </line>
 
@@ -1374,7 +1374,7 @@ That's too much, man!
 
 
 <line>
-[studio audience applauds]
+<nonVerbComm>[studio audience applauds]</nonVerbComm>
 
 </line>
 
@@ -1424,7 +1424,7 @@ I was worried about you.
 
 
 <line>
-[takes deep breath]
+<nonVerbComm>[takes deep breath]</nonVerbComm>
 
 </line>
 
@@ -1520,7 +1520,7 @@ who's better off for having known me.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -1742,7 +1742,7 @@ I'm going Hollywoo!
 
 
 <line>
-[gasps]
+<nonVerbComm>[gasps]</nonVerbComm>
 
 </line>
 
@@ -1870,7 +1870,7 @@ because I'm selling the company!
 
 
 <line>
-[both]
+<nonVerbComm>[both]</nonVerbComm>
 
 Oh!
 
@@ -1974,7 +1974,7 @@ but everywhere I go, I have a free room.
 
 
 <line>
-[Mr. Peanutbutter]
+<nonVerbComm>[Mr. Peanutbutter]</nonVerbComm>
 
 Another offer? That's incredible!
 
@@ -2006,7 +2006,7 @@ You never take the first offer.
 
 
 <line>
-[clears throat]
+<nonVerbComm>[clears throat]</nonVerbComm>
 
 Hey, Diane, what have you been up to?
 
@@ -2102,7 +2102,7 @@ would be quite a windfall.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -2122,7 +2122,7 @@ And I like this.
 
 
 <line>
-[both]
+<nonVerbComm>[both]</nonVerbComm>
 
 Mwah!
 
@@ -2456,7 +2456,7 @@ and you're looking at me like,
 
 
 <line>
-[both]
+<nonVerbComm>[both]</nonVerbComm>
 
 Hmm...
 
@@ -2486,7 +2486,7 @@ That actually went well.
 
 
 <line>
-[sitcom music playing]
+<nonVerbComm>[sitcom music playing]</nonVerbComm>
 
 </line>
 
@@ -2852,7 +2852,7 @@ Oh, uh...
 
 
 <line>
-[studio audience laughing]
+<nonVerbComm>[studio audience laughing]</nonVerbComm>
 
 </line>
 
@@ -3020,7 +3020,7 @@ I don't know.
 
 
 <line>
-["Stars" playing]
+<nonVerbComm>["Stars" playing]</nonVerbComm>
 
 </line>
 
@@ -3166,7 +3166,7 @@ Yeah, of course.
 
 
 <line>
-[Southern accent]
+<nonVerbComm>[Southern accent]</nonVerbComm>
 
 Thank you so much.
 
@@ -3188,7 +3188,7 @@ Well, guess I'm broke again.
 
 
 <line>
-[both laughing]
+<nonVerbComm>[both laughing]</nonVerbComm>
 
 </line>
 
@@ -3304,7 +3304,7 @@ Whoa.
 
 
 <line>
-[Diane]
+<nonVerbComm>[Diane]</nonVerbComm>
 
 Who's at the door? Is it pizza?
 
@@ -3362,13 +3362,13 @@ Mm-hmm. I'm sorry. We can't help you.
 
 
 <line>
-["Stars" continues playing]
+<nonVerbComm>["Stars" continues playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-["Stars" continues playing]
+<nonVerbComm>["Stars" continues playing]</nonVerbComm>
 
 </line>
 

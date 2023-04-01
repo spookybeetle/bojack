@@ -12,7 +12,7 @@
 
 
 <line>
-[BoJack's voice]
+<nonVerbComm>[BoJack's voice]</nonVerbComm>
 
 <ital>I don't know what's real anymore.</ital>
 
@@ -28,7 +28,7 @@
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -42,7 +42,7 @@
 
 
 <line>
-[car horn]
+<nonVerbComm>[car horn]</nonVerbComm>
 
 </line>
 
@@ -54,7 +54,7 @@ What did you do to your wife?
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -110,13 +110,13 @@ You shot your partner?
 
 
 <line>
-[groans] Ugh!
+<nonVerbComm>[groans]</nonVerbComm> Ugh!
 
 </line>
 
 
 <line>
-[moans]
+<nonVerbComm>[moans]</nonVerbComm>
 
 </line>
 
@@ -274,7 +274,7 @@ I'm proud of what I've done here.
 
 
 <line>
-[Princess Carolyn]
+<nonVerbComm>[Princess Carolyn]</nonVerbComm>
 
 Terrific job. Seriously...
 
@@ -288,7 +288,7 @@ What the hell are goof-berries?
 
 
 <line>
-[theme music playing]
+<nonVerbComm>[theme music playing]</nonVerbComm>
 
 </line>
 
@@ -378,7 +378,7 @@ had a one-night layover in California.
 
 
 <line>
-[woman on intercom]
+<nonVerbComm>[woman on intercom]</nonVerbComm>
 
 <ital>Emily is here to see you.</ital>
 
@@ -496,7 +496,7 @@ Yeah, here we go. <ital><music>♪ Ta-da-da-da! ♪</music></ital>
 
 
 <line>
-[Todd] "All About That Ace"?
+<nonVerbComm>[Todd]</nonVerbComm> "All About That Ace"?
 
 </line>
 
@@ -548,7 +548,7 @@ Oh.
 
 
 <line>
-[clock ticking]
+<nonVerbComm>[clock ticking]</nonVerbComm>
 
 </line>
 
@@ -646,7 +646,7 @@ in book-length-related frustration...
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -720,13 +720,13 @@ Oh. Okay.
 
 
 <line>
-[moans]
+<nonVerbComm>[moans]</nonVerbComm>
 
 </line>
 
 
 <line>
-[giggles] So, then Joby was like,
+<nonVerbComm>[giggles]</nonVerbComm> So, then Joby was like,
 
 </line>
 
@@ -768,7 +768,7 @@ but like soulful funny, you know?
 
 
 <line>
-[BoJack] You know, I always thought
+<nonVerbComm>[BoJack]</nonVerbComm> You know, I always thought
 
 I would make a good college person.
 
@@ -1004,7 +1004,7 @@ to option this card as a movie.
 
 
 <line>
-[Tracy] <ital>Can you get to the St. Bernard</ital>
+<nonVerbComm>[Tracy]</nonVerbComm> <ital>Can you get to the St. Bernard</ital>
 
 <ital>Medical Center in like, a half hour?</ital>
 
@@ -1062,7 +1062,7 @@ Hey, man. You don't say no to free baby.
 
 
 <line>
-[sighs] Okay.
+<nonVerbComm>[sighs]</nonVerbComm> Okay.
 
 </line>
 
@@ -1308,7 +1308,7 @@ Oh, then actually, oops.
 
 
 <line>
-[lock clicks]
+<nonVerbComm>[lock clicks]</nonVerbComm>
 
 </line>
 
@@ -1462,7 +1462,7 @@ behind the engineering school!
 
 
 <line>
-[rattling]
+<nonVerbComm>[rattling]</nonVerbComm>
 
 </line>
 
@@ -1658,13 +1658,13 @@ that change of heart <ital>after </ital>we broke up.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs] I'm sorry. This is not about me.
+<nonVerbComm>[sighs]</nonVerbComm> I'm sorry. This is not about me.
 
 </line>
 
@@ -1998,7 +1998,7 @@ when you meet your new best friend...
 
 
 <line>
-[robot screaching]
+<nonVerbComm>[robot screaching]</nonVerbComm>
 
 </line>
 
@@ -2044,7 +2044,7 @@ of sexy robot phrases
 
 
 <line>
-[robot] <ital>I am Henry Fondle.</ital>
+<nonVerbComm>[robot]</nonVerbComm> <ital>I am Henry Fondle.</ital>
 
 <ital>Insert me into genitals!</ital>
 
@@ -2060,7 +2060,7 @@ of sexy robot phrases
 
 
 <line>
-[robot] <ital>My prime directive</ital>
+<nonVerbComm>[robot]</nonVerbComm> <ital>My prime directive</ital>
 
 <ital>is to pleasure you.</ital>
 
@@ -2252,7 +2252,7 @@ Ooh, good thinking! I'll stand guard.
 
 
 <line>
-[winces] Ugh.
+<nonVerbComm>[winces]</nonVerbComm> Ugh.
 
 </line>
 
@@ -2292,13 +2292,13 @@ to confuse Nicole.
 
 
 <line>
-[Gina sighs]
+<nonVerbComm>[Gina sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[gasps]
+<nonVerbComm>[gasps]</nonVerbComm>
 
 </line>
 
@@ -2468,7 +2468,7 @@ to talk about this tomorrow!
 
 
 <line>
-[Hollyhock panting] Whoa!
+<nonVerbComm>[Hollyhock panting]</nonVerbComm> Whoa!
 
 </line>
 
@@ -2590,7 +2590,7 @@ it would happen on a Friday?
 
 
 <line>
-[laughs] Yeah, exactly.
+<nonVerbComm>[laughs]</nonVerbComm> Yeah, exactly.
 
 That's the main difference.
 
@@ -2598,7 +2598,7 @@ That's the main difference.
 
 
 <line>
-[sighs] How come you never called me
+<nonVerbComm>[sighs]</nonVerbComm> How come you never called me
 
 after I kicked you out of my apartment?
 
@@ -2646,7 +2646,7 @@ don't listen to me, right?
 
 
 <line>
-[Ralph chuckles] Mm-hmm.
+<nonVerbComm>[Ralph chuckles]</nonVerbComm> Mm-hmm.
 
 </line>
 
@@ -2908,13 +2908,13 @@ Here are your drugs.
 
 
 <line>
-[both grunting]
+<nonVerbComm>[both grunting]</nonVerbComm>
 
 </line>
 
 
 <line>
-[grunts]
+<nonVerbComm>[grunts]</nonVerbComm>
 
 </line>
 
@@ -2928,7 +2928,7 @@ Here are your drugs.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -3062,7 +3062,7 @@ But then I would have sex with the robot?
 
 
 <line>
-[whirring] <ital>Boop, boop, boop! Oh!</ital>
+<nonVerbComm>[whirring]</nonVerbComm> <ital>Boop, boop, boop! Oh!</ital>
 
 </line>
 
@@ -3132,7 +3132,7 @@ so they don't roll away as much?
 
 
 <line>
-[Princess Carolyn] Oh, he's beautiful.
+<nonVerbComm>[Princess Carolyn]</nonVerbComm> Oh, he's beautiful.
 
 </line>
 
@@ -3348,7 +3348,7 @@ I was wrong when I said that a second ago.
 
 
 <line>
-[chuckles] Okay. But for real,
+<nonVerbComm>[chuckles]</nonVerbComm> Okay. But for real,
 
 give me my baby boy.
 
@@ -3380,13 +3380,13 @@ give me my baby boy.
 
 
 <line>
-[both panting]
+<nonVerbComm>[both panting]</nonVerbComm>
 
 </line>
 
 
 <line>
-[coughing]
+<nonVerbComm>[coughing]</nonVerbComm>
 
 There's gotta be another way to get pills.
 
@@ -3482,7 +3482,7 @@ but I have been in pain my whole life.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3514,13 +3514,13 @@ Can I at least wait with you for the cab?
 
 
 <line>
-[sighs] Okay.
+<nonVerbComm>[sighs]</nonVerbComm> Okay.
 
 </line>
 
 
 <line>
-[buckle clicks]
+<nonVerbComm>[buckle clicks]</nonVerbComm>
 
 </line>
 
@@ -3642,7 +3642,7 @@ Okay. I love you.
 
 
 <line>
-[sighs] Hmm.
+<nonVerbComm>[sighs]</nonVerbComm> Hmm.
 
 </line>
 
@@ -3654,37 +3654,37 @@ Okay. Bye.
 
 
 <line>
-[whirring]
+<nonVerbComm>[whirring]</nonVerbComm>
 
 </line>
 
 
 <line>
-[clicks, beeping]
+<nonVerbComm>[clicks, beeping]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs] Whew.
+<nonVerbComm>[sighs]</nonVerbComm> Whew.
 
 </line>
 
 
 <line>
-[traffic noises]
+<nonVerbComm>[traffic noises]</nonVerbComm>
 
 </line>
 
 
 <line>
-[hatch clicks]
+<nonVerbComm>[hatch clicks]</nonVerbComm>
 
 </line>
 
@@ -3696,7 +3696,7 @@ Ugh!
 
 
 <line>
-[panting]
+<nonVerbComm>[panting]</nonVerbComm>
 
 </line>
 
@@ -3708,7 +3708,7 @@ Uh...
 
 
 <line>
-[groaning]
+<nonVerbComm>[groaning]</nonVerbComm>
 
 </line>
 
@@ -3722,7 +3722,7 @@ Uh...
 
 
 <line>
-[crashing]
+<nonVerbComm>[crashing]</nonVerbComm>
 
 
 

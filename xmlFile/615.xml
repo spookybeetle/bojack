@@ -12,13 +12,13 @@
 
 
 <line>
-[birds chirping]
+<nonVerbComm>[birds chirping]</nonVerbComm>
 
 </line>
 
 
 <line>
-[doorbell rings]
+<nonVerbComm>[doorbell rings]</nonVerbComm>
 
 </line>
 
@@ -96,13 +96,13 @@ Everyone, BoJack is here.
 
 
 <line>
-[theme music playing]
+<nonVerbComm>[theme music playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[dripping]
+<nonVerbComm>[dripping]</nonVerbComm>
 
 </line>
 
@@ -124,7 +124,7 @@ getting her out of the house.
 
 
 <line>
-[Sarah Lynn] Yeah, call yourself early
+<nonVerbComm>[Sarah Lynn]</nonVerbComm> Yeah, call yourself early
 
 and go get a worm!
 
@@ -314,7 +314,7 @@ Hello. Crackerjack?
 
 
 <line>
-[grunts] The uncle I never met
+<nonVerbComm>[grunts]</nonVerbComm> The uncle I never met
 
 and yet could never live up to!
 
@@ -322,7 +322,7 @@ and yet could never live up to!
 
 
 <line>
-[grunts] All right, soldier. Ready, aim...
+<nonVerbComm>[grunts]</nonVerbComm> All right, soldier. Ready, aim...
 
 </line>
 
@@ -428,13 +428,13 @@ and spook her with this poker!
 
 
 <line>
-[Corduroy] Get her to the kitchen!
+<nonVerbComm>[Corduroy]</nonVerbComm> Get her to the kitchen!
 
 </line>
 
 
 <line>
-[grunting]
+<nonVerbComm>[grunting]</nonVerbComm>
 
 </line>
 
@@ -454,7 +454,7 @@ And that!
 
 
 <line>
-[Crackerjack] Ha-cha!
+<nonVerbComm>[Crackerjack]</nonVerbComm> Ha-cha!
 
 </line>
 
@@ -516,13 +516,13 @@ as cold as my parenting style.
 
 
 <line>
-[all laughing]
+<nonVerbComm>[all laughing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Sarah Lynn] I think mine would be
+<nonVerbComm>[Sarah Lynn]</nonVerbComm> I think mine would be
 
 the first time someone asked
 
@@ -734,7 +734,7 @@ I went to Angela Diaz's house.
 
 
 <line>
-[gulps, spits] Ugh!
+<nonVerbComm>[gulps, spits]</nonVerbComm> Ugh!
 
 </line>
 
@@ -1266,7 +1266,7 @@ of being a bad person, Sarah Lynn.
 
 
 <line>
-[yelling] You are! You all are
+<nonVerbComm>[yelling]</nonVerbComm> You are! You all are
 
 with your "being authentic"
 
@@ -1842,7 +1842,7 @@ Hmm.
 
 
 <line>
-[Herb] Hello, everyone!
+<nonVerbComm>[Herb]</nonVerbComm> Hello, everyone!
 
 Please take your seats.
 
@@ -2066,7 +2066,7 @@ Yes. Of course. Sorry.
 
 
 <line>
-[audience cheering]
+<nonVerbComm>[audience cheering]</nonVerbComm>
 
 </line>
 
@@ -2194,7 +2194,7 @@ burning hot welcome to...
 
 
 <line>
-[Zach] Oh-ho, whee! I'm honored.
+<nonVerbComm>[Zach]</nonVerbComm> Oh-ho, whee! I'm honored.
 
 Honored, honored.
 
@@ -2276,7 +2276,7 @@ a framed certificate that says,
 
 
 <line>
-[chuckles]
+<nonVerbComm>[chuckles]</nonVerbComm>
 
 </line>
 
@@ -2330,7 +2330,7 @@ what would you do different?
 
 
 <line>
-[sighs] What would I do?
+<nonVerbComm>[sighs]</nonVerbComm> What would I do?
 
 I wouldn't have cared so much.
 
@@ -2442,7 +2442,7 @@ before I wake up.
 
 
 <line>
-[chuckles]
+<nonVerbComm>[chuckles]</nonVerbComm>
 
 </line>
 
@@ -2666,7 +2666,7 @@ So, I shouldn't be here.
 
 
 <line>
-[stammers] If I could just finish
+<nonVerbComm>[stammers]</nonVerbComm> If I could just finish
 
 the conversation. Where's a phone?!
 
@@ -2674,7 +2674,7 @@ the conversation. Where's a phone?!
 
 
 <line>
-[pants]
+<nonVerbComm>[pants]</nonVerbComm>
 
 </line>
 
@@ -2772,7 +2772,7 @@ The view from halfway down"
 
 
 <line>
-[audience applauds, cheers]
+<nonVerbComm>[audience applauds, cheers]</nonVerbComm>
 
 </line>
 
@@ -2900,7 +2900,7 @@ About the view from halfway down--"
 
 
 <line>
-[BoJack gasps]
+<nonVerbComm>[BoJack gasps]</nonVerbComm>
 
 </line>
 
@@ -2970,7 +2970,7 @@ Can I ask you a question?
 
 
 <line>
-[imitates fanfare]
+<nonVerbComm>[imitates fanfare]</nonVerbComm>
 
 </line>
 
@@ -3012,7 +3012,7 @@ is sit back and enjoy the show.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3036,13 +3036,13 @@ Crackerjack!
 
 
 <line>
-[trumpet playing]
+<nonVerbComm>[trumpet playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Beatrice hums]
+<nonVerbComm>[Beatrice hums]</nonVerbComm>
 
 </line>
 
@@ -3054,7 +3054,7 @@ Hoo!
 
 
 <line>
-[BoJack exhales]
+<nonVerbComm>[BoJack exhales]</nonVerbComm>
 
 </line>
 
@@ -3084,19 +3084,19 @@ Over and out!
 
 
 <line>
-[grunts]
+<nonVerbComm>[grunts]</nonVerbComm>
 
 </line>
 
 
 <line>
-[squelching]
+<nonVerbComm>[squelching]</nonVerbComm>
 
 </line>
 
 
 <line>
-[audience cheering]
+<nonVerbComm>[audience cheering]</nonVerbComm>
 
 </line>
 
@@ -3118,7 +3118,7 @@ but apparently, she was a little "horse."
 
 
 <line>
-[chuckles]
+<nonVerbComm>[chuckles]</nonVerbComm>
 
 </line>
 
@@ -3264,7 +3264,7 @@ This is it.
 
 
 <line>
-[squelching]
+<nonVerbComm>[squelching]</nonVerbComm>
 
 </line>
 
@@ -3284,37 +3284,37 @@ Someone? Anyone?
 
 
 <line>
-[pants, yells]
+<nonVerbComm>[pants, yells]</nonVerbComm>
 
 </line>
 
 
 <line>
-[gasps]
+<nonVerbComm>[gasps]</nonVerbComm>
 
 </line>
 
 
 <line>
-[stammers] I'm looking for a phone.
+<nonVerbComm>[stammers]</nonVerbComm> I'm looking for a phone.
 
 </line>
 
 
 <line>
-[screams]
+<nonVerbComm>[screams]</nonVerbComm>
 
 </line>
 
 
 <line>
-[grunting]
+<nonVerbComm>[grunting]</nonVerbComm>
 
 </line>
 
 
 <line>
-[screams]
+<nonVerbComm>[screams]</nonVerbComm>
 
 </line>
 
@@ -3382,7 +3382,7 @@ And then... I went back in the pool.
 
 
 <line>
-[squelching]
+<nonVerbComm>[squelching]</nonVerbComm>
 
 </line>
 
@@ -3446,13 +3446,13 @@ How was your day?
 
 
 <line>
-[heart monitor blares]
+<nonVerbComm>[heart monitor blares]</nonVerbComm>
 
 </line>
 
 
 <line>
-[heart monitor beeping]
+<nonVerbComm>[heart monitor beeping]</nonVerbComm>
 
 
 

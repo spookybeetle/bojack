@@ -12,7 +12,7 @@
 
 
 <line>
-[BoJack] <ital>Sarah Lynn.</ital>
+<nonVerbComm>[BoJack]</nonVerbComm> <ital>Sarah Lynn.</ital>
 
 </line>
 
@@ -24,7 +24,7 @@
 
 
 <line>
-[stammers] <ital>I don't have a lot to tell.</ital>
+<nonVerbComm>[stammers]</nonVerbComm> <ital>I don't have a lot to tell.</ital>
 
 <ital>She called me.</ital>
 
@@ -54,7 +54,7 @@
 
 
 <line>
-[crickets chirping]
+<nonVerbComm>[crickets chirping]</nonVerbComm>
 
 </line>
 
@@ -172,7 +172,7 @@ You can stop rambling.
 
 
 <line>
-[whistles tune]
+<nonVerbComm>[whistles tune]</nonVerbComm>
 
 </line>
 
@@ -190,25 +190,25 @@ Starting now.
 
 
 <line>
-[bottles clink]
+<nonVerbComm>[bottles clink]</nonVerbComm>
 
 </line>
 
 
 <line>
-[gulping]
+<nonVerbComm>[gulping]</nonVerbComm>
 
 </line>
 
 
 <line>
-[distorted theme music playing]
+<nonVerbComm>[distorted theme music playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[bell dinging]
+<nonVerbComm>[bell dinging]</nonVerbComm>
 
 </line>
 
@@ -386,13 +386,13 @@ the people around me, dipshit!
 
 
 <line>
-[yawns]
+<nonVerbComm>[yawns]</nonVerbComm>
 
 </line>
 
 
 <line>
-[grunts]
+<nonVerbComm>[grunts]</nonVerbComm>
 
 </line>
 
@@ -462,13 +462,13 @@ the people around me, dipshit!
 
 
 <line>
-[music stops]
+<nonVerbComm>[music stops]</nonVerbComm>
 
 </line>
 
 
 <line>
-[music resumes]
+<nonVerbComm>[music resumes]</nonVerbComm>
 
 </line>
 
@@ -510,7 +510,7 @@ the people around me, dipshit!
 
 
 <line>
-[pants, sighs]
+<nonVerbComm>[pants, sighs]</nonVerbComm>
 
 </line>
 
@@ -838,7 +838,7 @@ But is that really what you want?
 
 
 <line>
-[sighs] No.
+<nonVerbComm>[sighs]</nonVerbComm> No.
 
 </line>
 
@@ -892,7 +892,7 @@ the art of being terrible parents.
 
 
 <line>
-[laughter]
+<nonVerbComm>[laughter]</nonVerbComm>
 
 </line>
 
@@ -1248,13 +1248,13 @@ Ugh!
 
 
 <line>
-[door closes]
+<nonVerbComm>[door closes]</nonVerbComm>
 
 </line>
 
 
 <line>
-[studio audience laughing]
+<nonVerbComm>[studio audience laughing]</nonVerbComm>
 
 </line>
 
@@ -1316,7 +1316,7 @@ was to find someone so special.
 
 
 <line>
-[audience] Aw!
+<nonVerbComm>[audience]</nonVerbComm> Aw!
 
 </line>
 
@@ -1410,7 +1410,7 @@ to show you what a real kiss looks like?
 
 
 <line>
-[gulps] Mm.
+<nonVerbComm>[gulps]</nonVerbComm> Mm.
 
 </line>
 
@@ -1498,7 +1498,7 @@ how 'bout some more of that OJ?
 
 
 <line>
-[panting]
+<nonVerbComm>[panting]</nonVerbComm>
 
 </line>
 
@@ -1628,19 +1628,19 @@ You can come with me if you want.
 
 
 <line>
-[sighs] God damn it.
+<nonVerbComm>[sighs]</nonVerbComm> God damn it.
 
 </line>
 
 
 <line>
-[party music playing]
+<nonVerbComm>[party music playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Jameson chuckles] Oh!
+<nonVerbComm>[Jameson chuckles]</nonVerbComm> Oh!
 
 </line>
 
@@ -1694,25 +1694,25 @@ It's me, Jameson H.!
 
 
 <line>
-[people laughing]
+<nonVerbComm>[people laughing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[gasps]
+<nonVerbComm>[gasps]</nonVerbComm>
 
 </line>
 
 
 <line>
-[panting]
+<nonVerbComm>[panting]</nonVerbComm>
 
 </line>
 
 
 <line>
-[panting continues]
+<nonVerbComm>[panting continues]</nonVerbComm>
 
 </line>
 
@@ -1838,7 +1838,7 @@ You know what? I'll have one beer.
 
 
 <line>
-[pops]
+<nonVerbComm>[pops]</nonVerbComm>
 
 </line>
 
@@ -1884,7 +1884,7 @@ because his family's poor!
 
 
 <line>
-[laughter]
+<nonVerbComm>[laughter]</nonVerbComm>
 
 </line>
 
@@ -1908,19 +1908,19 @@ grew bigger than the other?
 
 
 <line>
-[groans] "Look at me, I'm Katie!"
+<nonVerbComm>[groans]</nonVerbComm> "Look at me, I'm Katie!"
 
 </line>
 
 
 <line>
-[laughter continues]
+<nonVerbComm>[laughter continues]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Katie sobs]
+<nonVerbComm>[Katie sobs]</nonVerbComm>
 
 </line>
 
@@ -1934,7 +1934,7 @@ grew bigger than the other?
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -2022,19 +2022,19 @@ Yeah, Jameson.
 
 
 <line>
-[cries]
+<nonVerbComm>[cries]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Dathan and McCaitlyn moaning]
+<nonVerbComm>[Dathan and McCaitlyn moaning]</nonVerbComm>
 
 </line>
 
 
 <line>
-[crying]
+<nonVerbComm>[crying]</nonVerbComm>
 
 </line>
 
@@ -2174,13 +2174,13 @@ Stupid... [mumbling]
 
 
 <line>
-[buzzing]
+<nonVerbComm>[buzzing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sniffs] Hello?
+<nonVerbComm>[sniffs]</nonVerbComm> Hello?
 
 </line>
 
@@ -2564,7 +2564,7 @@ goose-down, hand-me-down gown?
 
 
 <line>
-[muffled music playing over speakers]
+<nonVerbComm>[muffled music playing over speakers]</nonVerbComm>
 
 </line>
 
@@ -2578,7 +2578,7 @@ goose-down, hand-me-down gown?
 
 
 <line>
-[groaning]
+<nonVerbComm>[groaning]</nonVerbComm>
 
 </line>
 
@@ -2784,7 +2784,7 @@ There it is, coax it out of my sheath.
 
 
 <line>
-[gasps]
+<nonVerbComm>[gasps]</nonVerbComm>
 
 </line>
 
@@ -2864,13 +2864,13 @@ as father and son.
 
 
 <line>
-[car horns honking]
+<nonVerbComm>[car horns honking]</nonVerbComm>
 
 </line>
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -2968,7 +2968,7 @@ Yeah!
 
 
 <line>
-[grunts]
+<nonVerbComm>[grunts]</nonVerbComm>
 
 </line>
 
@@ -2988,7 +2988,7 @@ Yeah, and I bet your mom sucked too!
 
 
 <line>
-[gasps] Oh, whoa, whoa, whoa!
+<nonVerbComm>[gasps]</nonVerbComm> Oh, whoa, whoa, whoa!
 
 </line>
 
@@ -3016,7 +3016,7 @@ Chick ch'ka... Oh, no.
 
 
 <line>
-[glass cracking]
+<nonVerbComm>[glass cracking]</nonVerbComm>
 
 </line>
 
@@ -3168,7 +3168,7 @@ after she had her baby, but...
 
 
 <line>
-[baby cooing]
+<nonVerbComm>[baby cooing]</nonVerbComm>
 
 </line>
 
@@ -3186,7 +3186,7 @@ Takes a long time.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3210,7 +3210,7 @@ to come here to see her baby.
 
 
 <line>
-[sighs] Wouldn't that be nice?
+<nonVerbComm>[sighs]</nonVerbComm> Wouldn't that be nice?
 
 </line>
 
@@ -3288,7 +3288,7 @@ All right.
 
 
 <line>
-[bell dinging]
+<nonVerbComm>[bell dinging]</nonVerbComm>
 
 </line>
 
@@ -3332,7 +3332,7 @@ to take a picture with me.
 
 
 <line>
-[sighs] Yeah. Okay.
+<nonVerbComm>[sighs]</nonVerbComm> Yeah. Okay.
 
 </line>
 
@@ -3360,31 +3360,31 @@ Sign me up for six weeks. Starting now.
 
 
 <line>
-[melancholic piano music playing]
+<nonVerbComm>[melancholic piano music playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[record playing]
+<nonVerbComm>[record playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[snoring]
+<nonVerbComm>[snoring]</nonVerbComm>
 
 </line>
 
 
 <line>
-[whimpers]
+<nonVerbComm>[whimpers]</nonVerbComm>
 
 </line>
 
 
 <line>
-[gulps]
+<nonVerbComm>[gulps]</nonVerbComm>
 
 </line>
 

@@ -12,7 +12,7 @@
 
 
 <line>
-[thunder rumbling]
+<nonVerbComm>[thunder rumbling]</nonVerbComm>
 
 </line>
 
@@ -24,7 +24,7 @@ Sir, you can't send me to Vietnam.
 
 
 <line>
-[Nixon] I can do whatever I want.
+<nonVerbComm>[Nixon]</nonVerbComm> I can do whatever I want.
 
 </line>
 
@@ -142,13 +142,13 @@ arranged.
 
 
 <line>
-[BoJack] Groovy.
+<nonVerbComm>[BoJack]</nonVerbComm> Groovy.
 
 </line>
 
 
 <line>
-[coughing]
+<nonVerbComm>[coughing]</nonVerbComm>
 
 </line>
 
@@ -200,7 +200,7 @@ Finish it.
 
 
 <line>
-[coughing]
+<nonVerbComm>[coughing]</nonVerbComm>
 
 </line>
 
@@ -256,7 +256,7 @@ a lit cigarette off the--
 
 
 <line>
-[fire roaring]
+<nonVerbComm>[fire roaring]</nonVerbComm>
 
 </line>
 
@@ -268,7 +268,7 @@ Fine. I'll call 911.
 
 
 <line>
-[♪♪]
+<nonVerbComm>[♪♪]</nonVerbComm>
 
 </line>
 
@@ -750,7 +750,7 @@ in the janitor's closet, so...
 
 
 <line>
-[Diane] <ital>The first thing you notice</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>The first thing you notice</ital>
 
 <ital>about Sebastian St. Clair</ital>
 
@@ -792,7 +792,7 @@ There we go.
 
 
 <line>
-[Diane] <ital>In his previous life,</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>In his previous life,</ital>
 
 <ital>Sebastian owned</ital>
 
@@ -938,7 +938,7 @@ You're very good.
 
 
 <line>
-[Diane] <ital>When Sebastian St. Clair says</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>When Sebastian St. Clair says</ital>
 
 <ital>you're good,</ital>
 
@@ -970,7 +970,7 @@ You're very good.
 
 
 <line>
-[Sebastian] Oh, Kinko made a mess.
+<nonVerbComm>[Sebastian]</nonVerbComm> Oh, Kinko made a mess.
 
 </line>
 
@@ -1104,7 +1104,7 @@ we both want to make.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -1182,7 +1182,7 @@ was not our worst.
 
 
 <line>
-[man as Nixon] Welcome to my library.
+<nonVerbComm>[man as Nixon]</nonVerbComm> Welcome to my library.
 
 </line>
 
@@ -1194,7 +1194,7 @@ I'm Nixon. [chuckles].
 
 
 <line>
-[in normal voice] Yeah, you know,
+<nonVerbComm>[in normal voice]</nonVerbComm> Yeah, you know,
 
 some people say I look like Nixon.
 
@@ -1276,7 +1276,7 @@ No, just a normal drinking fountain.
 
 
 <line>
-[chuckles nervously]
+<nonVerbComm>[chuckles nervously]</nonVerbComm>
 
 </line>
 
@@ -1376,7 +1376,7 @@ let's see what you got.
 
 
 <line>
-[BoJack] Hey, Princess Carolyn!
+<nonVerbComm>[BoJack]</nonVerbComm> Hey, Princess Carolyn!
 
 </line>
 
@@ -1408,7 +1408,7 @@ Are you in?
 
 
 <line>
-[man] Hey! Shut up down there!
+<nonVerbComm>[man]</nonVerbComm> Hey! Shut up down there!
 
 </line>
 
@@ -1422,7 +1422,7 @@ Are you in?
 
 
 <line>
-[BoJack] Hey, you got a problem?
+<nonVerbComm>[BoJack]</nonVerbComm> Hey, you got a problem?
 
 Take it up with my agent,
 
@@ -1434,13 +1434,13 @@ Princess Carolyn.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
 
 <line>
-[BoJack]
+<nonVerbComm>[BoJack]</nonVerbComm>
 
 <ital>We'll need someone to play Checkers.</ital>
 
@@ -1574,7 +1574,7 @@ and television shows.
 
 
 <line>
-[prison guard] Watch, purse, lipstick,
+<nonVerbComm>[prison guard]</nonVerbComm> Watch, purse, lipstick,
 
 </line>
 
@@ -1588,7 +1588,7 @@ for Best Guest Actress.
 
 
 <line>
-[sighs deeply]
+<nonVerbComm>[sighs deeply]</nonVerbComm>
 
 </line>
 
@@ -1614,7 +1614,7 @@ What took you so long?
 
 
 <line>
-[tires squealing]
+<nonVerbComm>[tires squealing]</nonVerbComm>
 
 </line>
 
@@ -1652,7 +1652,7 @@ Yeah, nice work, Todd.
 
 
 <line>
-[laughs] Who am I kidding?
+<nonVerbComm>[laughs]</nonVerbComm> Who am I kidding?
 
 I can't stay mad at you. You're adorable.
 
@@ -1702,7 +1702,7 @@ all the cops will go there.
 
 
 <line>
-[mimicking siren wails and engine revving]
+<nonVerbComm>[mimicking siren wails and engine revving]</nonVerbComm>
 
 </line>
 
@@ -1810,7 +1810,7 @@ I can't die. I'm endangered!
 
 
 <line>
-[Diane] "And the truffle-infused gnocchi
+<nonVerbComm>[Diane]</nonVerbComm> "And the truffle-infused gnocchi
 
 was the star dish
 
@@ -1846,7 +1846,7 @@ but there's always <ital>The Atlantic.</ital>
 
 
 <line>
-[Sebastian] Diane,
+<nonVerbComm>[Sebastian]</nonVerbComm> Diane,
 
 </line>
 
@@ -1906,7 +1906,7 @@ Okay, come on. Over here. Get it.
 
 
 <line>
-[alarm wailing]
+<nonVerbComm>[alarm wailing]</nonVerbComm>
 
 </line>
 
@@ -1982,7 +1982,7 @@ And serene. And... pleasant.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -2012,7 +2012,7 @@ if you don't shut up about CrossFit--
 
 
 <line>
-[woman over radio]
+<nonVerbComm>[woman over radio]</nonVerbComm>
 
 <ital>Break-in at the Discount</ital>
 
@@ -2034,13 +2034,13 @@ That's a thing we say at CrossFit.
 
 
 <line>
-[police sirens wailing]
+<nonVerbComm>[police sirens wailing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[BoJack shouts]
+<nonVerbComm>[BoJack shouts]</nonVerbComm>
 
 </line>
 
@@ -2196,7 +2196,7 @@ You? No way.
 
 
 <line>
-[as Nixon] Hello, I'm Nixon.
+<nonVerbComm>[as Nixon]</nonVerbComm> Hello, I'm Nixon.
 
 </line>
 
@@ -2222,7 +2222,7 @@ We've found our Nixon.
 
 
 <line>
-[in normal voice] I can be ready in five.
+<nonVerbComm>[in normal voice]</nonVerbComm> I can be ready in five.
 
 </line>
 
@@ -2434,13 +2434,13 @@ This is what I'm talking about.
 
 
 <line>
-[all shouting]
+<nonVerbComm>[all shouting]</nonVerbComm>
 
 </line>
 
 
 <line>
-[cop] Shoot!
+<nonVerbComm>[cop]</nonVerbComm> Shoot!
 
 </line>
 
@@ -2530,7 +2530,7 @@ Diane...
 
 
 <line>
-[Diane] <ital>The second thing you notice</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>The second thing you notice</ital>
 
 <ital>about Sebastian St. Clair</ital>
 
@@ -2574,7 +2574,7 @@ of me posing for the statue.
 
 
 <line>
-[Diane] <ital>The only respite</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>The only respite</ital>
 
 <ital>from his constant bombast is sleep,</ital>
 
@@ -2588,7 +2588,7 @@ of me posing for the statue.
 
 
 <line>
-[bomb whistling, explodes]
+<nonVerbComm>[bomb whistling, explodes]</nonVerbComm>
 
 </line>
 
@@ -2760,7 +2760,7 @@ I should get a line.
 
 
 <line>
-[as Nixon] I'm Nixon.
+<nonVerbComm>[as Nixon]</nonVerbComm> I'm Nixon.
 
 </line>
 
@@ -2790,7 +2790,7 @@ And I'm Checkers.
 
 
 <line>
-[Kelsey] All right, so, BoJack,
+<nonVerbComm>[Kelsey]</nonVerbComm> All right, so, BoJack,
 
 you've been told
 
@@ -2916,7 +2916,7 @@ in magical fantasy-painting world.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3030,7 +3030,7 @@ Oh, my God. I gotta get out of here.
 
 
 <line>
-[sing-song] Bye!
+<nonVerbComm>[sing-song]</nonVerbComm> Bye!
 
 </line>
 
@@ -3064,7 +3064,7 @@ Okay.
 
 
 <line>
-[Margo laughing]
+<nonVerbComm>[Margo laughing]</nonVerbComm>
 
 </line>
 
@@ -3110,7 +3110,7 @@ with Princess Carolyn.
 
 
 <line>
-[laughing and grunting]
+<nonVerbComm>[laughing and grunting]</nonVerbComm>
 
 </line>
 
@@ -3122,7 +3122,7 @@ Hmm.
 
 
 <line>
-[cell phone ringtone]
+<nonVerbComm>[cell phone ringtone]</nonVerbComm>
 
 </line>
 
@@ -3242,13 +3242,13 @@ to be hosting a game show right now.
 
 
 <line>
-[upbeat dance music playing]
+<nonVerbComm>[upbeat dance music playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[caws]
+<nonVerbComm>[caws]</nonVerbComm>
 
 </line>
 
@@ -3260,7 +3260,7 @@ I gotta go.
 
 
 <line>
-[Diane] <ital>And that's when you realize</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>And that's when you realize</ital>
 
 </line>
 
@@ -3322,7 +3322,7 @@ BoJack, sit down.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3410,7 +3410,7 @@ Huh.
 
 
 <line>
-[crying]
+<nonVerbComm>[crying]</nonVerbComm>
 
 </line>
 
@@ -3516,7 +3516,7 @@ all we have to do is believe!
 
 
 <line>
-[slurping]
+<nonVerbComm>[slurping]</nonVerbComm>
 
 </line>
 

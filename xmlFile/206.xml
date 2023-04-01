@@ -264,7 +264,7 @@ Maybe I should just go check on him.
 
 
 <line>
-[knocking on door]
+<nonVerbComm>[knocking on door]</nonVerbComm>
 
 </line>
 
@@ -310,19 +310,19 @@ Oh, I see what happened here.
 
 
 <line>
-[♪♪]
+<nonVerbComm>[♪♪]</nonVerbComm>
 
 </line>
 
 
 <line>
-[upbeat theme music playing]
+<nonVerbComm>[upbeat theme music playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[in unison]
+<nonVerbComm>[in unison]</nonVerbComm>
 
 Morning time, Hollywoo.
 
@@ -398,7 +398,7 @@ It sure is.
 
 
 <line>
-[hosts laughing on TV]
+<nonVerbComm>[hosts laughing on TV]</nonVerbComm>
 
 </line>
 
@@ -608,13 +608,13 @@ Uh-oh.
 
 
 <line>
-[grunting]
+<nonVerbComm>[grunting]</nonVerbComm>
 
 </line>
 
 
 <line>
-[girl cries]
+<nonVerbComm>[girl cries]</nonVerbComm>
 
 </line>
 
@@ -626,19 +626,19 @@ Get out.
 
 
 <line>
-[BoJack yells]
+<nonVerbComm>[BoJack yells]</nonVerbComm>
 
 </line>
 
 
 <line>
-[tires screeching]
+<nonVerbComm>[tires screeching]</nonVerbComm>
 
 </line>
 
 
 <line>
-[cars crash]
+<nonVerbComm>[cars crash]</nonVerbComm>
 
 </line>
 
@@ -736,7 +736,7 @@ I see what a mess you are.
 
 
 <line>
-[chuckles] Aw...
+<nonVerbComm>[chuckles]</nonVerbComm> Aw...
 
 </line>
 
@@ -854,7 +854,7 @@ Diane, Diane, Diane.
 
 
 <line>
-[door opens then closes]
+<nonVerbComm>[door opens then closes]</nonVerbComm>
 
 </line>
 
@@ -956,7 +956,7 @@ Uh...
 
 
 <line>
-[beeper plays ringtone]
+<nonVerbComm>[beeper plays ringtone]</nonVerbComm>
 
 </line>
 
@@ -1046,7 +1046,7 @@ Mm. Yeah.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -1076,7 +1076,7 @@ We could be here a while.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -1226,7 +1226,7 @@ from an '80s deodorant commercial.
 
 
 <line>
-[inhales sharply]
+<nonVerbComm>[inhales sharply]</nonVerbComm>
 
 </line>
 
@@ -1252,7 +1252,7 @@ This is how it happens for a guy like me.
 
 
 <line>
-[grunts] Ew...
+<nonVerbComm>[grunts]</nonVerbComm> Ew...
 
 </line>
 
@@ -1380,7 +1380,7 @@ this long day's journey into night?
 
 
 <line>
-[Corduroy] Ah...
+<nonVerbComm>[Corduroy]</nonVerbComm> Ah...
 
 </line>
 
@@ -1586,13 +1586,13 @@ birthday-present bow?
 
 
 <line>
-[grunting softly]
+<nonVerbComm>[grunting softly]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -1634,13 +1634,13 @@ That's okay. I don't love you.
 
 
 <line>
-[upbeat theme music playing]
+<nonVerbComm>[upbeat theme music playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[in unison]
+<nonVerbComm>[in unison]</nonVerbComm>
 
 Morning time, Hollywoo.
 
@@ -1778,7 +1778,7 @@ Here you go, ma'am.
 
 
 <line>
-[women laughing and chattering]
+<nonVerbComm>[women laughing and chattering]</nonVerbComm>
 
 </line>
 
@@ -1812,7 +1812,7 @@ it's a brand-new pair of shoes!
 
 
 <line>
-[women clapping and laughing]
+<nonVerbComm>[women clapping and laughing]</nonVerbComm>
 
 </line>
 
@@ -1868,7 +1868,7 @@ that he had a client so hush-hush,
 
 
 <line>
-[alarm ringing]
+<nonVerbComm>[alarm ringing]</nonVerbComm>
 
 </line>
 
@@ -2078,7 +2078,7 @@ a shoelace, a necktie, a jump-rope...
 
 
 <line>
-[Carolyn] Hm...
+<nonVerbComm>[Carolyn]</nonVerbComm> Hm...
 
 </line>
 
@@ -2468,7 +2468,7 @@ knock yourself out.
 
 
 <line>
-[laughs] Only if I do it wrong.
+<nonVerbComm>[laughs]</nonVerbComm> Only if I do it wrong.
 
 </line>
 
@@ -2498,13 +2498,13 @@ Not one of the good ones.
 
 
 <line>
-[upbeat theme music playing]
+<nonVerbComm>[upbeat theme music playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[in unison]
+<nonVerbComm>[in unison]</nonVerbComm>
 
 Morning time, Hollywoo.
 
@@ -2540,7 +2540,7 @@ Oh, boy.
 
 
 <line>
-[laughs] <ital>Oh, my. Ooh, wow.</ital>
+<nonVerbComm>[laughs]</nonVerbComm> <ital>Oh, my. Ooh, wow.</ital>
 
 </line>
 
@@ -2706,7 +2706,7 @@ that J.D. Salinger died.
 
 
 <line>
-[gasps] J.D. Salinger didn't die?
+<nonVerbComm>[gasps]</nonVerbComm> J.D. Salinger didn't die?
 
 </line>
 
@@ -3248,7 +3248,7 @@ you won't do it.
 
 
 <line>
-[gasps then grunts]
+<nonVerbComm>[gasps then grunts]</nonVerbComm>
 
 </line>
 
@@ -3340,7 +3340,7 @@ Do you need the movie star speech?
 
 
 <line>
-[sighs] Yeah.
+<nonVerbComm>[sighs]</nonVerbComm> Yeah.
 
 </line>
 
@@ -3450,7 +3450,7 @@ Hey, you decent, man?
 
 
 <line>
-[gasps]
+<nonVerbComm>[gasps]</nonVerbComm>
 
 </line>
 

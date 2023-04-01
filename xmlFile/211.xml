@@ -116,13 +116,13 @@ that's the name of your band.
 
 
 <line>
-[Charlotte laughs]
+<nonVerbComm>[Charlotte laughs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[mock '80s sitcom theme music]
+<nonVerbComm>[mock '80s sitcom theme music]</nonVerbComm>
 
 </line>
 
@@ -370,7 +370,7 @@ just to see my mom, did you?
 
 
 <line>
-[laughs] No, of course not.
+<nonVerbComm>[laughs]</nonVerbComm> No, of course not.
 
 </line>
 
@@ -528,7 +528,7 @@ What is this,
 
 
 <line>
-[cell phone ringing]
+<nonVerbComm>[cell phone ringing]</nonVerbComm>
 
 </line>
 
@@ -1032,7 +1032,7 @@ but it's like this thing we do.
 
 
 <line>
-[BoJack]<ital> Do I really need</ital>
+<nonVerbComm>[BoJack]</nonVerbComm><ital> Do I really need</ital>
 
 <ital>to know these names?</ital>
 
@@ -1040,7 +1040,7 @@ but it's like this thing we do.
 
 
 <line>
-[Penny]<ital> Rachel heard from Ray-Ray</ital>
+<nonVerbComm>[Penny]</nonVerbComm><ital> Rachel heard from Ray-Ray</ital>
 
 <ital>and the Bean</ital>
 
@@ -1156,7 +1156,7 @@ Dude, what are you really doing here?
 
 
 <line>
-[BoJack sighs]
+<nonVerbComm>[BoJack sighs]</nonVerbComm>
 
 </line>
 
@@ -1188,7 +1188,7 @@ and don't come back with a boat.
 
 
 <line>
-[BoJack sighs]
+<nonVerbComm>[BoJack sighs]</nonVerbComm>
 
 </line>
 
@@ -1260,13 +1260,13 @@ you sweat a lot.
 
 
 <line>
-[whispering] No way they'll do that.
+<nonVerbComm>[whispering]</nonVerbComm> No way they'll do that.
 
 </line>
 
 
 <line>
-[truck beeping]
+<nonVerbComm>[truck beeping]</nonVerbComm>
 
 </line>
 
@@ -1382,7 +1382,7 @@ Oh, she's a good girl.
 
 
 <line>
-[chuckles] I can tell,
+<nonVerbComm>[chuckles]</nonVerbComm> I can tell,
 
 she's a good girl, isn't she?
 
@@ -1478,7 +1478,7 @@ Uh, everyone?
 
 
 <line>
-[Kyle] Don't use the bathroom.
+<nonVerbComm>[Kyle]</nonVerbComm> Don't use the bathroom.
 
 It'll end up in the driveway.
 
@@ -1494,7 +1494,7 @@ It'll end up in the driveway.
 
 
 <line>
-[cell phone rings]
+<nonVerbComm>[cell phone rings]</nonVerbComm>
 
 </line>
 
@@ -1538,7 +1538,7 @@ when we were at Herb's funeral
 
 
 <line>
-[Trip] Oh, there's a kitchen!
+<nonVerbComm>[Trip]</nonVerbComm> Oh, there's a kitchen!
 
 Can we make pizza bagels?
 
@@ -1546,13 +1546,13 @@ Can we make pizza bagels?
 
 
 <line>
-[Kyle] Yeah, family dinner on the boat.
+<nonVerbComm>[Kyle]</nonVerbComm> Yeah, family dinner on the boat.
 
 </line>
 
 
 <line>
-[family laughs]
+<nonVerbComm>[family laughs]</nonVerbComm>
 
 </line>
 
@@ -1596,13 +1596,13 @@ Just let them burn.
 
 
 <line>
-[grunts]
+<nonVerbComm>[grunts]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -1614,7 +1614,7 @@ Well, who's getting seasick? [retches]
 
 
 <line>
-[family laughs]
+<nonVerbComm>[family laughs]</nonVerbComm>
 
 </line>
 
@@ -1640,7 +1640,7 @@ they'll move the boat.
 
 
 <line>
-[husband sighs]
+<nonVerbComm>[husband sighs]</nonVerbComm>
 
 </line>
 
@@ -1712,7 +1712,7 @@ sprouts, because I think they're terrible.
 
 
 <line>
-[Kyle snorts, then laughs]
+<nonVerbComm>[Kyle snorts, then laughs]</nonVerbComm>
 
 </line>
 
@@ -1726,7 +1726,7 @@ These are great, hon.
 
 
 <line>
-[all laugh]
+<nonVerbComm>[all laugh]</nonVerbComm>
 
 </line>
 
@@ -1764,7 +1764,7 @@ and you got yourself a riff.
 
 
 <line>
-[groans] You're not funny, Dad.
+<nonVerbComm>[groans]</nonVerbComm> You're not funny, Dad.
 
 Your jokes are never funny.
 
@@ -1796,13 +1796,13 @@ I hate my life. I can't wait to be dead.
 
 
 <line>
-[door slams]
+<nonVerbComm>[door slams]</nonVerbComm>
 
 </line>
 
 
 <line>
-[BoJack and Charlotte] I'll talk to her.
+<nonVerbComm>[BoJack and Charlotte]</nonVerbComm> I'll talk to her.
 
 </line>
 
@@ -2074,7 +2074,7 @@ that's definitely the better idea.
 
 
 <line>
-[Kyle] Okay, everyone smile. Real big.
+<nonVerbComm>[Kyle]</nonVerbComm> Okay, everyone smile. Real big.
 
 </line>
 
@@ -2126,7 +2126,7 @@ And who are you again?
 
 
 <line>
-[snickers] You were best friends
+<nonVerbComm>[snickers]</nonVerbComm> You were best friends
 
 with Alison F.?
 
@@ -2180,7 +2180,7 @@ Cool.
 
 
 <line>
-[rock music playing over stereo]
+<nonVerbComm>[rock music playing over stereo]</nonVerbComm>
 
 </line>
 
@@ -2298,13 +2298,13 @@ Yeah, it's twice. Pete Repeat.
 
 
 <line>
-[hip-hop music playing over speakers]
+<nonVerbComm>[hip-hop music playing over speakers]</nonVerbComm>
 
 </line>
 
 
 <line>
-[opossum screeches]
+<nonVerbComm>[opossum screeches]</nonVerbComm>
 
 </line>
 
@@ -2366,7 +2366,7 @@ We gotta get this party started.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -2484,13 +2484,13 @@ the immediate praise I expected.
 
 
 <line>
-[R &amp; B ballad playing over speakers]
+<nonVerbComm>[R &amp; B ballad playing over speakers]</nonVerbComm>
 
 </line>
 
 
 <line>
-[students cheering]
+<nonVerbComm>[students cheering]</nonVerbComm>
 
 </line>
 
@@ -2592,7 +2592,7 @@ Just get in the car.
 
 
 <line>
-[Penny laughs]
+<nonVerbComm>[Penny laughs]</nonVerbComm>
 
 </line>
 
@@ -2604,13 +2604,13 @@ Okay, one... two... three.
 
 
 <line>
-[Penny] Wow. That is so beautiful.
+<nonVerbComm>[Penny]</nonVerbComm> Wow. That is so beautiful.
 
 </line>
 
 
 <line>
-[Maddy burps]
+<nonVerbComm>[Maddy burps]</nonVerbComm>
 
 </line>
 
@@ -2662,7 +2662,7 @@ This is nice.
 
 
 <line>
-[both grunting]
+<nonVerbComm>[both grunting]</nonVerbComm>
 
 </line>
 
@@ -2708,7 +2708,7 @@ Got it, okay.
 
 
 <line>
-[pop ballad playing haltingly over phone]
+<nonVerbComm>[pop ballad playing haltingly over phone]</nonVerbComm>
 
 </line>
 
@@ -2738,7 +2738,7 @@ You know, you look just like your mother.
 
 
 <line>
-[Pete] Guys?
+<nonVerbComm>[Pete]</nonVerbComm> Guys?
 
 </line>
 
@@ -2806,7 +2806,7 @@ BoJack, what do we do?
 
 
 <line>
-[tires screech]
+<nonVerbComm>[tires screech]</nonVerbComm>
 
 </line>
 
@@ -2964,7 +2964,7 @@ Where did Maddy get the alcohol from?
 
 
 <line>
-[Maddy groaning]
+<nonVerbComm>[Maddy groaning]</nonVerbComm>
 
 </line>
 
@@ -2984,7 +2984,7 @@ BoJack and Penny?
 
 
 <line>
-[sighs] They left early.
+<nonVerbComm>[sighs]</nonVerbComm> They left early.
 
 </line>
 
@@ -3004,7 +3004,7 @@ Don't forget that.
 
 
 <line>
-[Pete sighs]
+<nonVerbComm>[Pete sighs]</nonVerbComm>
 
 </line>
 
@@ -3040,7 +3040,7 @@ Go, Penny! Go, go, go!
 
 
 <line>
-[tires screech]
+<nonVerbComm>[tires screech]</nonVerbComm>
 
 </line>
 
@@ -3244,7 +3244,7 @@ This is so dumb.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3424,7 +3424,7 @@ You know, you can't escape... you.
 
 
 <line>
-[Charlotte sighs]
+<nonVerbComm>[Charlotte sighs]</nonVerbComm>
 
 </line>
 
@@ -3510,19 +3510,19 @@ What?!
 
 
 <line>
-[BoJack laughs]
+<nonVerbComm>[BoJack laughs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[both moan]
+<nonVerbComm>[both moan]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Charlotte gasps]
+<nonVerbComm>[Charlotte gasps]</nonVerbComm>
 
 </line>
 
@@ -3612,7 +3612,7 @@ Tell me you haven't thought about it.
 
 
 <line>
-[Charlotte sighs]
+<nonVerbComm>[Charlotte sighs]</nonVerbComm>
 
 </line>
 
@@ -3762,7 +3762,7 @@ Go to bed, Penny.
 
 
 <line>
-[sighing]
+<nonVerbComm>[sighing]</nonVerbComm>
 
 </line>
 
@@ -3774,13 +3774,13 @@ Wait, what?
 
 
 <line>
-[clattering from inside]
+<nonVerbComm>[clattering from inside]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Penny whispering] Shh, shh, shh.
+<nonVerbComm>[Penny whispering]</nonVerbComm> Shh, shh, shh.
 
 Quiet, quiet, quiet.
 
@@ -3788,7 +3788,7 @@ Quiet, quiet, quiet.
 
 
 <line>
-[Penny gasps]
+<nonVerbComm>[Penny gasps]</nonVerbComm>
 
 </line>
 
@@ -3818,7 +3818,7 @@ Quiet, quiet, quiet.
 
 
 <line>
-[Penny crying]
+<nonVerbComm>[Penny crying]</nonVerbComm>
 
 </line>
 
@@ -3854,25 +3854,25 @@ I will fucking kill you.
 
 
 <line>
-[♪♪]
+<nonVerbComm>[♪♪]</nonVerbComm>
 
 </line>
 
 
 <line>
-[can crunches]
+<nonVerbComm>[can crunches]</nonVerbComm>
 
 </line>
 
 
 <line>
-[grunts]
+<nonVerbComm>[grunts]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Diane] Hey.
+<nonVerbComm>[Diane]</nonVerbComm> Hey.
 
 </line>
 

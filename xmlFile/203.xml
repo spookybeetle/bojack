@@ -20,7 +20,7 @@ I broke your expensive bachelor vase.
 
 
 <line>
-[audience] Aww.
+<nonVerbComm>[audience]</nonVerbComm> Aww.
 
 </line>
 
@@ -38,13 +38,13 @@ with a little horsin' around.
 
 
 <line>
-[laughter, applause]
+<nonVerbComm>[laughter, applause]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Herb] Cut!
+<nonVerbComm>[Herb]</nonVerbComm> Cut!
 
 </line>
 
@@ -184,19 +184,19 @@ we're going to stick together.
 
 
 <line>
-[unintelligible groans]
+<nonVerbComm>[unintelligible groans]</nonVerbComm>
 
 </line>
 
 
 <line>
-[♪♪]
+<nonVerbComm>[♪♪]</nonVerbComm>
 
 </line>
 
 
 <line>
-[unintelligible groans continue]
+<nonVerbComm>[unintelligible groans continue]</nonVerbComm>
 
 </line>
 
@@ -708,7 +708,7 @@ Cha-ching! Hmm...
 
 
 <line>
-[Herb] <ital>You have to live with the shitty</ital>
+<nonVerbComm>[Herb]</nonVerbComm> <ital>You have to live with the shitty</ital>
 
 <ital>thing you did for the rest of your life.</ital>
 
@@ -722,7 +722,7 @@ Huh.
 
 
 <line>
-[British accent] Hello, love.
+<nonVerbComm>[British accent]</nonVerbComm> Hello, love.
 
 </line>
 
@@ -1210,7 +1210,7 @@ Oof! Uh...
 
 
 <line>
-[rattling overhead]
+<nonVerbComm>[rattling overhead]</nonVerbComm>
 
 </line>
 
@@ -1894,7 +1894,7 @@ What happened to the $10?
 
 
 <line>
-[grunting]
+<nonVerbComm>[grunting]</nonVerbComm>
 
 </line>
 
@@ -1922,7 +1922,7 @@ No! Wind! Be cool!
 
 
 <line>
-[screeches]
+<nonVerbComm>[screeches]</nonVerbComm>
 
 [thud]
 
@@ -2208,7 +2208,7 @@ This treasure hunt sucks.
 
 
 <line>
-[rattling overhead]
+<nonVerbComm>[rattling overhead]</nonVerbComm>
 
 </line>
 
@@ -2322,7 +2322,7 @@ What is this, a funeral?
 
 
 <line>
-[all] Story, story, story!
+<nonVerbComm>[all]</nonVerbComm> Story, story, story!
 
 </line>
 
@@ -2460,7 +2460,7 @@ No, it's a-- It's a prop. I just said--
 
 
 <line>
-[inhales, exhales deeply]
+<nonVerbComm>[inhales, exhales deeply]</nonVerbComm>
 
 </line>
 
@@ -2530,7 +2530,7 @@ Guys.
 
 
 <line>
-[all gasp]
+<nonVerbComm>[all gasp]</nonVerbComm>
 
 </line>
 
@@ -2706,7 +2706,7 @@ No! I can do it! I'll get clean tomorrow.
 
 
 <line>
-[sniffing]
+<nonVerbComm>[sniffing]</nonVerbComm>
 
 </line>
 
@@ -2868,13 +2868,13 @@ I think Herb might have been murdered!
 
 
 <line>
-[gasping]
+<nonVerbComm>[gasping]</nonVerbComm>
 
 </line>
 
 
 <line>
-[huffing]
+<nonVerbComm>[huffing]</nonVerbComm>
 
 </line>
 
@@ -3032,7 +3032,7 @@ Henry Winkler is a stone-cold killer!
 
 
 <line>
-[all gasp]
+<nonVerbComm>[all gasp]</nonVerbComm>
 
 </line>
 
@@ -3198,7 +3198,7 @@ but come on.
 
 
 <line>
-[BoJack sighs]
+<nonVerbComm>[BoJack sighs]</nonVerbComm>
 
 </line>
 
@@ -3524,7 +3524,7 @@ everything's going to change?
 
 
 <line>
-[laughs] No, I'm not scared, BJ.
+<nonVerbComm>[laughs]</nonVerbComm> No, I'm not scared, BJ.
 
 The future is bright.
 

@@ -12,7 +12,7 @@
 
 
 <line>
-[newscast jingle playing]
+<nonVerbComm>[newscast jingle playing]</nonVerbComm>
 
 </line>
 
@@ -80,7 +80,7 @@ of the last days of Sarah Lynn.
 
 
 <line>
-[Paige] I don't believe it.
+<nonVerbComm>[Paige]</nonVerbComm> I don't believe it.
 
 </line>
 
@@ -204,7 +204,7 @@ We're from Fresno.
 
 
 <line>
-[theme music playing]
+<nonVerbComm>[theme music playing]</nonVerbComm>
 
 </line>
 
@@ -630,7 +630,7 @@ Makes sense.
 
 
 <line>
-[jingle playing]
+<nonVerbComm>[jingle playing]</nonVerbComm>
 
 </line>
 
@@ -726,7 +726,7 @@ I just had it.
 
 
 <line>
-[Biscuits] You just had heroin?
+<nonVerbComm>[Biscuits]</nonVerbComm> You just had heroin?
 
 Lying around.
 
@@ -740,7 +740,7 @@ No, no, no, no, not <ital>lying around.</ital>
 
 
 <line>
-[scoffs] You're making it sound
+<nonVerbComm>[scoffs]</nonVerbComm> You're making it sound
 
 like I had extra heroin,
 
@@ -1030,7 +1030,7 @@ how sorry I am.
 
 
 <line>
-[gasps]
+<nonVerbComm>[gasps]</nonVerbComm>
 
 </line>
 
@@ -1206,7 +1206,7 @@ and I still haven't met your son.
 
 
 <line>
-[stammers] Okay. But you don't really
+<nonVerbComm>[stammers]</nonVerbComm> Okay. But you don't really
 
 wanna meet Sonny.
 
@@ -1234,31 +1234,31 @@ Let's get dinner tomorrow.
 
 
 <line>
-[birds chirping]
+<nonVerbComm>[birds chirping]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs, mumbles]
+<nonVerbComm>[sighs, mumbles]</nonVerbComm>
 
 </line>
 
 
 <line>
-[inhales, exhales]
+<nonVerbComm>[inhales, exhales]</nonVerbComm>
 
 </line>
 
 
 <line>
-[phone buzzes]
+<nonVerbComm>[phone buzzes]</nonVerbComm>
 
 </line>
 
 
 <line>
-[inhales, exhales]
+<nonVerbComm>[inhales, exhales]</nonVerbComm>
 
 </line>
 
@@ -1270,13 +1270,13 @@ Huh.
 
 
 <line>
-[camera shutter clicks]
+<nonVerbComm>[camera shutter clicks]</nonVerbComm>
 
 </line>
 
 
 <line>
-[rings]
+<nonVerbComm>[rings]</nonVerbComm>
 
 </line>
 
@@ -1392,7 +1392,7 @@ that strips us for office furniture.
 
 
 <line>
-[grunts]
+<nonVerbComm>[grunts]</nonVerbComm>
 
 </line>
 
@@ -1508,19 +1508,19 @@ if I don't do another interview, right?
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Pinky] <ital>I mean, I wasn't gonna say it.</ital>
+<nonVerbComm>[Pinky]</nonVerbComm> <ital>I mean, I wasn't gonna say it.</ital>
 
 </line>
 
 
 <line>
-[jingle playing]
+<nonVerbComm>[jingle playing]</nonVerbComm>
 
 </line>
 
@@ -1550,7 +1550,7 @@ Because this is my house.
 
 
 <line>
-[light crashes]
+<nonVerbComm>[light crashes]</nonVerbComm>
 
 </line>
 
@@ -1578,7 +1578,7 @@ I think you're addicted to Sarah Lynn!
 
 
 <line>
-[chuckles] You told the police
+<nonVerbComm>[chuckles]</nonVerbComm> You told the police
 
 you weren't with her when she died.
 
@@ -1916,7 +1916,7 @@ Plus, she's a great mom.
 
 
 <line>
-[chuckles] Oh, fish! Mom!
+<nonVerbComm>[chuckles]</nonVerbComm> Oh, fish! Mom!
 
 </line>
 
@@ -1930,7 +1930,7 @@ Plus, she's a great mom.
 
 
 <line>
-[whispers] Thank you.
+<nonVerbComm>[whispers]</nonVerbComm> Thank you.
 
 </line>
 
@@ -1960,7 +1960,7 @@ about Marcy Jerominek?
 
 
 <line>
-[sighs] Marcy. Yes.
+<nonVerbComm>[sighs]</nonVerbComm> Marcy. Yes.
 
 She was the president of my fan club.
 
@@ -2734,7 +2734,7 @@ I'm going home to my daughter.
 
 
 <line>
-[engine starts]
+<nonVerbComm>[engine starts]</nonVerbComm>
 
 </line>
 
@@ -2900,7 +2900,7 @@ You're so mean!
 
 
 <line>
-[sobs]
+<nonVerbComm>[sobs]</nonVerbComm>
 
 </line>
 
@@ -3064,7 +3064,7 @@ Unless they repaint.
 
 
 <line>
-[Coltrane] Anybody from out of town?
+<nonVerbComm>[Coltrane]</nonVerbComm> Anybody from out of town?
 
 It's a trick question, it's LA.
 
@@ -3096,7 +3096,7 @@ isn't even in Los Angeles.
 
 
 <line>
-[audience laughing, applauding]
+<nonVerbComm>[audience laughing, applauding]</nonVerbComm>
 
 </line>
 
@@ -3198,7 +3198,7 @@ a kick out of it even if you suck.
 
 
 <line>
-[stammers] I don't think so.
+<nonVerbComm>[stammers]</nonVerbComm> I don't think so.
 
 Thanks, though.
 
@@ -3206,7 +3206,7 @@ Thanks, though.
 
 
 <line>
-[mumbles, sighs]
+<nonVerbComm>[mumbles, sighs]</nonVerbComm>
 
 </line>
 
@@ -3218,7 +3218,7 @@ Oh.
 
 
 <line>
-[audience laughing]
+<nonVerbComm>[audience laughing]</nonVerbComm>
 
 </line>
 
@@ -3262,7 +3262,7 @@ and drugs and John Goodman.
 
 
 <line>
-[Bess] Maude? I heard a man's voice!
+<nonVerbComm>[Bess]</nonVerbComm> Maude? I heard a man's voice!
 
 </line>
 
@@ -3390,7 +3390,7 @@ but you shared it with someone?
 
 
 <line>
-[chuckles] But Maude,
+<nonVerbComm>[chuckles]</nonVerbComm> But Maude,
 
 you're my girlfriend.
 
@@ -3484,7 +3484,7 @@ Oh.
 
 
 <line>
-[audience laughing]
+<nonVerbComm>[audience laughing]</nonVerbComm>
 
 </line>
 
@@ -3542,7 +3542,7 @@ to go with that?" I mean...
 
 
 <line>
-[applause]
+<nonVerbComm>[applause]</nonVerbComm>
 
 </line>
 
@@ -3556,7 +3556,7 @@ to go with that?" I mean...
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3582,25 +3582,25 @@ Eh... Hmm.
 
 
 <line>
-[keyboard clacking]
+<nonVerbComm>[keyboard clacking]</nonVerbComm>
 
 </line>
 
 
 <line>
-[tapping]
+<nonVerbComm>[tapping]</nonVerbComm>
 
 </line>
 
 
 <line>
-[exhales]
+<nonVerbComm>[exhales]</nonVerbComm>
 
 </line>
 
 
 <line>
-[TV playing]
+<nonVerbComm>[TV playing]</nonVerbComm>
 
 </line>
 
@@ -3702,7 +3702,7 @@ Oh.
 
 
 <line>
-[BoJack] <ital>Yeah. It's me.</ital>
+<nonVerbComm>[BoJack]</nonVerbComm> <ital>Yeah. It's me.</ital>
 
 </line>
 

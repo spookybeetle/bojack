@@ -12,13 +12,13 @@
 
 
 <line>
-[wind blowing]
+<nonVerbComm>[wind blowing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[shuddering]
+<nonVerbComm>[shuddering]</nonVerbComm>
 
 </line>
 
@@ -46,7 +46,7 @@ Yes, yes, I see you. Get in. Get in.
 
 
 <line>
-[music playing over radio]
+<nonVerbComm>[music playing over radio]</nonVerbComm>
 
 </line>
 
@@ -158,7 +158,7 @@ the little noise and snot factory!
 
 
 <line>
-[tires screech, horn honking]
+<nonVerbComm>[tires screech, horn honking]</nonVerbComm>
 
 </line>
 
@@ -260,7 +260,7 @@ of making your mother.
 
 
 <line>
-[sighs] No. It's not her fault.
+<nonVerbComm>[sighs]</nonVerbComm> No. It's not her fault.
 
 </line>
 
@@ -336,7 +336,7 @@ You're actually very lucky.
 
 
 <line>
-[music continues over radio]
+<nonVerbComm>[music continues over radio]</nonVerbComm>
 
 </line>
 
@@ -348,7 +348,7 @@ You're actually very lucky.
 
 
 <line>
-[theme music playing]
+<nonVerbComm>[theme music playing]</nonVerbComm>
 
 </line>
 
@@ -502,7 +502,7 @@ and more with the frying, huh?"
 
 
 <line>
-[inhales] And the girl apologizes, again,
+<nonVerbComm>[inhales]</nonVerbComm> And the girl apologizes, again,
 
 and she offers me a free churro
 
@@ -530,13 +530,13 @@ you get a free churro.
 
 
 <line>
-[people murmuring]
+<nonVerbComm>[people murmuring]</nonVerbComm>
 
 </line>
 
 
 <line>
-[clears throat] Anyway, I'm sorry,
+<nonVerbComm>[clears throat]</nonVerbComm> Anyway, I'm sorry,
 
 that's not part of the...
 
@@ -568,7 +568,7 @@ can I get like a, like an organ flourish?
 
 
 <line>
-[organ plays]
+<nonVerbComm>[organ plays]</nonVerbComm>
 
 </line>
 
@@ -598,7 +598,7 @@ was an organ donor!
 
 
 <line>
-[rimshot plays]
+<nonVerbComm>[rimshot plays]</nonVerbComm>
 
 </line>
 
@@ -634,7 +634,7 @@ Can you show a little respect?
 
 
 <line>
-[trumpet whines]
+<nonVerbComm>[trumpet whines]</nonVerbComm>
 
 </line>
 
@@ -694,7 +694,7 @@ Truly a remarkable woman.
 
 
 <line>
-[rustling]
+<nonVerbComm>[rustling]</nonVerbComm>
 
 </line>
 
@@ -910,7 +910,7 @@ Tuesday! My mom called it Tuesday.
 
 
 <line>
-[woman coughs]
+<nonVerbComm>[woman coughs]</nonVerbComm>
 
 </line>
 
@@ -924,7 +924,7 @@ You like that?
 
 
 <line>
-[woman coughs]
+<nonVerbComm>[woman coughs]</nonVerbComm>
 
 </line>
 
@@ -936,7 +936,7 @@ You never did care for my comedy.
 
 
 <line>
-[clears throat]
+<nonVerbComm>[clears throat]</nonVerbComm>
 
 </line>
 
@@ -1210,7 +1210,7 @@ a little bit brighter.
 
 
 <line>
-[owl chirping]
+<nonVerbComm>[owl chirping]</nonVerbComm>
 
 </line>
 
@@ -1630,7 +1630,7 @@ Who were you talking to, Mom?
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -1802,7 +1802,7 @@ and bashed his head on a rock.
 
 
 <line>
-[murmur]
+<nonVerbComm>[murmur]</nonVerbComm>
 
 </line>
 
@@ -1852,7 +1852,7 @@ and everything is worse now."
 
 
 <line>
-[clearing throat]
+<nonVerbComm>[clearing throat]</nonVerbComm>
 
 </line>
 
@@ -2092,7 +2092,7 @@ and now you're dead.
 
 
 <line>
-[woman sighs]
+<nonVerbComm>[woman sighs]</nonVerbComm>
 
 </line>
 
@@ -2126,7 +2126,7 @@ She used to make me sing
 
 
 <line>
-[organ playing tune]
+<nonVerbComm>[organ playing tune]</nonVerbComm>
 
 </line>
 
@@ -2248,19 +2248,19 @@ you can swim.
 
 
 <line>
-[flashback]
+<nonVerbComm>[flashback]</nonVerbComm>
 
 </line>
 
 
 <line>
-[partygoers laughing]
+<nonVerbComm>[partygoers laughing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[classical music playing]
+<nonVerbComm>[classical music playing]</nonVerbComm>
 
 </line>
 
@@ -2806,7 +2806,7 @@ I guess until there isn't.
 
 
 <line>
-[chuckles]
+<nonVerbComm>[chuckles]</nonVerbComm>
 
 </line>
 
@@ -2962,7 +2962,7 @@ All I had was you!
 
 
 <line>
-[inhales]
+<nonVerbComm>[inhales]</nonVerbComm>
 
 </line>
 
@@ -3158,7 +3158,7 @@ So... it's good my mother is dead.
 
 
 <line>
-[gulps, sighs]
+<nonVerbComm>[gulps, sighs]</nonVerbComm>
 
 </line>
 
@@ -3188,13 +3188,13 @@ to be seen.
 
 
 <line>
-[slurps]
+<nonVerbComm>[slurps]</nonVerbComm>
 
 </line>
 
 
 <line>
-[blows nose]
+<nonVerbComm>[blows nose]</nonVerbComm>
 
 </line>
 
@@ -3206,7 +3206,7 @@ Is this Funeral Parlor B?
 
 
 <line>
-[funeral music]
+<nonVerbComm>[funeral music]</nonVerbComm>
 
 
 

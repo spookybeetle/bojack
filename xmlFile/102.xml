@@ -17,7 +17,7 @@
   <line> When. </line>
 
 
-  <line> [woman] Yeah, you'll never guess who's here. </line>
+  <line> <nonVerbComm>[woman]</nonVerbComm> Yeah, you'll never guess who's here. </line>
 
 
   <line> Think '90s. </line>
@@ -33,13 +33,13 @@
   <line> He looks really sad. It's hilarious. </line>
 
 
-  <line> [laughs] </line>
+  <line> <nonVerbComm>[laughs]</nonVerbComm> </line>
 
 
   <line> Get over here now. </line>
 
 
-  <line> [upbeat ringtone] [cell phone vibrates] </line>
+  <line> <nonVerbComm>[upbeat ringtone] [cell phone vibrates]</nonVerbComm> </line>
 
 
   <line> I told you, I don't know where it is. </line>
@@ -48,7 +48,7 @@
   <line> Don't put things in my butt if you want them back. </line>
 
 
-  <line> [phone rings] </line>
+  <line> <nonVerbComm>[phone rings]</nonVerbComm> </line>
 
 
   <line> And hold for Princess Carolyn, please. </line>
@@ -130,7 +130,7 @@
   <line> She got it. [camera shutter clicks] </line>
 
 
-  <line> [laughter] </line>
+  <line> <nonVerbComm>[laughter]</nonVerbComm> </line>
 
 
   <line> Oh, my God. Take another one. </line>
@@ -177,7 +177,7 @@
   <line> You think I'm pretty? </line>
 
 
-  <line> [chuffs] </line>
+  <line> <nonVerbComm>[chuffs]</nonVerbComm> </line>
 
 
   <line> Well, that was another in a long series of regrettable life choices. </line>
@@ -189,7 +189,7 @@
   <line> I was tweeting about all the weird stuff you do in bed. </line>
 
 
-  <line> [funky electronic music] </line>
+  <line> <nonVerbComm>[funky electronic music]</nonVerbComm> </line>
 
 
   <line>
@@ -372,7 +372,7 @@
   <line> I'm kind of on a date right now. </line>
 
 
-  <line> [speaking Japanese] In America, </line>
+  <line> <nonVerbComm>[speaking Japanese]</nonVerbComm> In America, </line>
 
 
   <line> I am actually considered very handsome. </line>
@@ -394,7 +394,7 @@
   <line> Right. You definitely should have already been gone. </line>
 
 
-  <line> [tires screech] </line>
+  <line> <nonVerbComm>[tires screech]</nonVerbComm> </line>
 
 
   <line> I really shouldn't eat chocolate </line>
@@ -409,7 +409,7 @@
   <line> - But I love chocolate. - Story of my life. </line>
 
 
-  <line> [laughter] </line>
+  <line> <nonVerbComm>[laughter]</nonVerbComm> </line>
 
 
   <line> Hey, excuse me. </line>
@@ -504,7 +504,7 @@
   <line> You're going to regret this, BoJack Horseman. </line>
 
 
-  <line> [laughing] Oh, really? </line>
+  <line> <nonVerbComm>[laughing]</nonVerbComm> Oh, really? </line>
 
 
   <line> I'm gonna regret buying muffins? </line>
@@ -608,7 +608,7 @@
   <line> Stop being so crazy, crazy. </line>
 
 
-  <line> [laughing] Why are you calling me crazy? </line>
+  <line> <nonVerbComm>[laughing]</nonVerbComm> Why are you calling me crazy? </line>
 
 
   <line> Okay. Was your father-- [upbeat ringtone] </line>
@@ -675,7 +675,7 @@
   <line> Ooh! Good things, I hope. </line>
 
 
-  <line> [sighs] </line>
+  <line> <nonVerbComm>[sighs]</nonVerbComm> </line>
 
 
   <line>
@@ -1006,7 +1006,7 @@
   <line> That's hiding? </line>
 
 
-  <line> [yelling] How did you survive in Afghanistan? </line>
+  <line> <nonVerbComm>[yelling]</nonVerbComm> How did you survive in Afghanistan? </line>
 
 
   <line> Those are my muffins! </line>
@@ -1062,7 +1062,7 @@
   <line> There's your goddamn news story, the mystery of my missing goddamn self-respect! </line>
 
 
-  <line> [pants] </line>
+  <line> <nonVerbComm>[pants]</nonVerbComm> </line>
 
 
   <line> How'd I come off? </line>
@@ -1306,7 +1306,7 @@
   </line>
 
 
-  <line> [upbeat ringtone] Hello? </line>
+  <line> <nonVerbComm>[upbeat ringtone]</nonVerbComm> Hello? </line>
 
 
   <line>
@@ -1593,7 +1593,7 @@
   <line> Don't worry, I've got a plan. </line>
 
 
-  <line> [tires screech] Whoa! </line>
+  <line> <nonVerbComm>[tires screech]</nonVerbComm> Whoa! </line>
 
 
   <line> Jeez. </line>
@@ -1622,7 +1622,7 @@
   <line> Hey, I meant I was rich because I have friends like George Bailey. </line>
 
 
-  <line> [speaking Japanese] Who the shit is George Bailey? </line>
+  <line> <nonVerbComm>[speaking Japanese]</nonVerbComm> Who the shit is George Bailey? </line>
 
 
   <line> Do you have any idea how much work went into scamming you? </line>
@@ -1783,7 +1783,7 @@
   <line> Yes, this is all very authentic and natural. </line>
 
 
-  <line> [doorbell rings] </line>
+  <line> <nonVerbComm>[doorbell rings]</nonVerbComm> </line>
 
 
   <line> Oh, someone's at the door! </line>
@@ -1913,7 +1913,7 @@
   <line> Who gave him a bucket? </line>
 
 
-  <line> [laughter] </line>
+  <line> <nonVerbComm>[laughter]</nonVerbComm> </line>
 
 
   <line> Uh, actually, I had another point I wanted to make. </line>
@@ -1928,7 +1928,7 @@
   <line> Bucket! Bucket! </line>
 
 
-  <line> [crowd] Bucket! </line>
+  <line> <nonVerbComm>[crowd]</nonVerbComm> Bucket! </line>
 
 
   <line> Bucket! Bucket! Bucket! Bucket! </line>
@@ -1937,7 +1937,7 @@
   <line> Hey, can anyone find a handle? </line>
 
 
-  <line> [howls] [all cheer] </line>
+  <line> <nonVerbComm>[howls] [all cheer]</nonVerbComm> </line>
 
 
   <line> Oh, thank you, my friend. </line>
@@ -1961,7 +1961,7 @@
   <line> Please tell me we got that. </line>
 
 
-  <line> [chuffs] </line>
+  <line> <nonVerbComm>[chuffs]</nonVerbComm> </line>
 
 
   <line> You want a day-old hamburger bun? </line>
@@ -2010,7 +2010,7 @@
   <line> You certainly haven't. </line>
 
 
-  <line> [sighs] </line>
+  <line> <nonVerbComm>[sighs]</nonVerbComm> </line>
 
 
   <line> Okay, from now on, full truth, warts and all. </line>

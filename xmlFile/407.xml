@@ -12,13 +12,13 @@
 
 
 <line>
-[dials rapidly]
+<nonVerbComm>[dials rapidly]</nonVerbComm>
 
 </line>
 
 
 <line>
-[line ringing]
+<nonVerbComm>[line ringing]</nonVerbComm>
 
 </line>
 
@@ -62,13 +62,13 @@ Whew.
 
 
 <line>
-[sighs] Ugh.
+<nonVerbComm>[sighs]</nonVerbComm> Ugh.
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -180,7 +180,7 @@ with the right number of ears!
 
 
 <line>
-[growls]
+<nonVerbComm>[growls]</nonVerbComm>
 
 </line>
 
@@ -288,7 +288,7 @@ Whoa.
 
 
 <line>
-[munches]
+<nonVerbComm>[munches]</nonVerbComm>
 
 </line>
 
@@ -316,7 +316,7 @@ is talking to my other ex-wife.
 
 
 <line>
-[Peanutbutter] And Jessica Biel loves
+<nonVerbComm>[Peanutbutter]</nonVerbComm> And Jessica Biel loves
 
 getting photographed at fancy fundraisers.
 
@@ -370,7 +370,7 @@ I will get $20,000 worth of drinks.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -390,7 +390,7 @@ Oh, Norman, we have to support the--
 
 
 <line>
-[grunts]
+<nonVerbComm>[grunts]</nonVerbComm>
 
 </line>
 
@@ -438,7 +438,7 @@ Boo!
 
 
 <line>
-[cheering]
+<nonVerbComm>[cheering]</nonVerbComm>
 
 </line>
 
@@ -506,7 +506,7 @@ I'm the dog who cried earthquake.
 
 
 <line>
-[laughing]
+<nonVerbComm>[laughing]</nonVerbComm>
 
 </line>
 
@@ -558,7 +558,7 @@ where the mom is a zombie!
 
 
 <line>
-[moans]
+<nonVerbComm>[moans]</nonVerbComm>
 
 It's called<ital> Mombie, </ital>and it's terrible!
 
@@ -624,13 +624,13 @@ I regret <ital>everything!</ital>
 
 
 <line>
-[theme music playing]
+<nonVerbComm>[theme music playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[voices overlapping]
+<nonVerbComm>[voices overlapping]</nonVerbComm>
 
 </line>
 
@@ -682,7 +682,7 @@ Not me, I'm Jessica Biel.
 
 
 <line>
-[woman] Yeah, that's right.
+<nonVerbComm>[woman]</nonVerbComm> Yeah, that's right.
 
 </line>
 
@@ -734,7 +734,7 @@ how much we have down here.
 
 
 <line>
-[guests screaming]
+<nonVerbComm>[guests screaming]</nonVerbComm>
 
 </line>
 
@@ -816,7 +816,7 @@ Hmm.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -848,7 +848,7 @@ Oh, what the shit?
 
 
 <line>
-[creaks, crashes]
+<nonVerbComm>[creaks, crashes]</nonVerbComm>
 
 </line>
 
@@ -910,7 +910,7 @@ Come on, let's go.
 
 
 <line>
-[Todd] Whoa...!
+<nonVerbComm>[Todd]</nonVerbComm> Whoa...!
 
 </line>
 
@@ -1056,7 +1056,7 @@ we will be out of here in no time.
 
 
 <line>
-[cheering]
+<nonVerbComm>[cheering]</nonVerbComm>
 
 </line>
 
@@ -1182,7 +1182,7 @@ You're killing me, Zach.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 Mr. Peanutbutter, you can do this.
 
@@ -1394,7 +1394,7 @@ Three cheers for Woodchuck!
 
 
 <line>
-[all]
+<nonVerbComm>[all]</nonVerbComm>
 
 Hip, hip, hooray!
 
@@ -1426,7 +1426,7 @@ The tunnel is very delicate.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -1456,7 +1456,7 @@ The tunnel is very delicate.
 
 
 <line>
-[screams]
+<nonVerbComm>[screams]</nonVerbComm>
 
 </line>
 
@@ -1470,7 +1470,7 @@ an adequate number of cheers.
 
 
 <line>
-[rumbling]
+<nonVerbComm>[rumbling]</nonVerbComm>
 
 </line>
 
@@ -1548,7 +1548,7 @@ Oh!
 
 
 <line>
-[yelps]
+<nonVerbComm>[yelps]</nonVerbComm>
 
 </line>
 
@@ -1568,13 +1568,13 @@ What are we gonna do, Princess Carolyn?
 
 
 <line>
-[ants gasp]
+<nonVerbComm>[ants gasp]</nonVerbComm>
 
 </line>
 
 
 <line>
-[chattering]
+<nonVerbComm>[chattering]</nonVerbComm>
 
 </line>
 
@@ -1616,7 +1616,7 @@ You could be of service, Manager Carolyn.
 
 
 <line>
-[ant leader laughs]
+<nonVerbComm>[ant leader laughs]</nonVerbComm>
 
 </line>
 
@@ -1660,7 +1660,7 @@ another collapse that would crush us all.
 
 
 <line>
-[all gasp]
+<nonVerbComm>[all gasp]</nonVerbComm>
 
 </line>
 
@@ -1690,7 +1690,7 @@ that show, huh?
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -1720,13 +1720,13 @@ and see how much we've got.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
 
 <line>
-[guests chuckling]
+<nonVerbComm>[guests chuckling]</nonVerbComm>
 
 </line>
 
@@ -1952,7 +1952,7 @@ Oh, my God. I'm the problem!
 
 
 <line>
-[sobbing]
+<nonVerbComm>[sobbing]</nonVerbComm>
 
 </line>
 
@@ -2008,7 +2008,7 @@ I'm a pit!
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -2110,7 +2110,7 @@ that makes sense to me.
 
 
 <line>
-[Diane sighs, moans]
+<nonVerbComm>[Diane sighs, moans]</nonVerbComm>
 
 </line>
 
@@ -2236,7 +2236,7 @@ why are we still here?
 
 
 <line>
-[all] Yeah!
+<nonVerbComm>[all]</nonVerbComm> Yeah!
 
 </line>
 
@@ -2308,7 +2308,7 @@ the guy whose house this is.
 
 
 <line>
-[chanting]
+<nonVerbComm>[chanting]</nonVerbComm>
 
 Peanutbutter, Peanutbutter.
 
@@ -2322,7 +2322,7 @@ Peanutbutter-- everybody.
 
 
 <line>
-[chanting]
+<nonVerbComm>[chanting]</nonVerbComm>
 
 Peanutbutter! Peanutbutter!
 
@@ -2352,7 +2352,7 @@ Peanutbutter!
 
 
 <line>
-[faint chanting]
+<nonVerbComm>[faint chanting]</nonVerbComm>
 
 Peanutbutter! Peanutbutter...
 
@@ -2574,7 +2574,7 @@ for you.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 What are your demands?
 
@@ -2582,7 +2582,7 @@ What are your demands?
 
 
 <line>
-[whispers]
+<nonVerbComm>[whispers]</nonVerbComm>
 
 </line>
 
@@ -2600,7 +2600,7 @@ They want to have sex with your drones.
 
 
 <line>
-[dance music plays]
+<nonVerbComm>[dance music plays]</nonVerbComm>
 
 </line>
 
@@ -2626,7 +2626,7 @@ can I get a new towel?
 
 
 <line>
-[guests chanting]
+<nonVerbComm>[guests chanting]</nonVerbComm>
 
 </line>
 
@@ -2648,7 +2648,7 @@ but how does he know? What if he's lying?
 
 
 <line>
-[wails]
+<nonVerbComm>[wails]</nonVerbComm>
 
 And I have still not been validated!
 
@@ -2684,13 +2684,13 @@ President-for-life of Underground.
 
 
 <line>
-[guests] Yeah!
+<nonVerbComm>[guests]</nonVerbComm> Yeah!
 
 </line>
 
 
 <line>
-[grunting]
+<nonVerbComm>[grunting]</nonVerbComm>
 
 Uh, uh, oh!
 
@@ -2776,13 +2776,13 @@ whatever they want!
 
 
 <line>
-[all] Yeah!
+<nonVerbComm>[all]</nonVerbComm> Yeah!
 
 </line>
 
 
 <line>
-[crashing]
+<nonVerbComm>[crashing]</nonVerbComm>
 
 </line>
 
@@ -2862,7 +2862,7 @@ in his name!
 
 
 <line>
-[all] Yeah!
+<nonVerbComm>[all]</nonVerbComm> Yeah!
 
 </line>
 
@@ -3056,7 +3056,7 @@ Listen to reason... this time!
 
 
 <line>
-[gulps] Ah-hh!
+<nonVerbComm>[gulps]</nonVerbComm> Ah-hh!
 
 </line>
 
@@ -3230,7 +3230,7 @@ pursuant on success of the first."
 
 
 <line>
-[hissing]
+<nonVerbComm>[hissing]</nonVerbComm>
 
 </line>
 
@@ -3352,7 +3352,7 @@ we could eat whatever we wanted?
 
 
 <line>
-[all] Peanutbutter!
+<nonVerbComm>[all]</nonVerbComm> Peanutbutter!
 
 </line>
 
@@ -3464,13 +3464,13 @@ Nothing can defeat the fire. Only--
 
 
 <line>
-[Diane] Water!
+<nonVerbComm>[Diane]</nonVerbComm> Water!
 
 </line>
 
 
 <line>
-[Jessica] What? [gasps]
+<nonVerbComm>[Jessica] What? [gasps]</nonVerbComm>
 
 </line>
 
@@ -3540,7 +3540,7 @@ H-2-Oh, no!
 
 
 <line>
-[guests whimpering]
+<nonVerbComm>[guests whimpering]</nonVerbComm>
 
 </line>
 
@@ -3560,7 +3560,7 @@ Well, I guess this is it.
 
 
 <line>
-[all screaming]
+<nonVerbComm>[all screaming]</nonVerbComm>
 
 </line>
 
@@ -3572,7 +3572,7 @@ How is this happening?
 
 
 <line>
-[ants] Heave! Heave! Heave!
+<nonVerbComm>[ants]</nonVerbComm> Heave! Heave! Heave!
 
 </line>
 
@@ -3596,7 +3596,7 @@ No! Please! I'm important down here!
 
 
 <line>
-[guests]
+<nonVerbComm>[guests]</nonVerbComm>
 
 Whoa, whoa, whoa, whoa!
 
@@ -3604,7 +3604,7 @@ Whoa, whoa, whoa, whoa!
 
 
 <line>
-[crashes]
+<nonVerbComm>[crashes]</nonVerbComm>
 
 </line>
 
@@ -3852,7 +3852,7 @@ Yeah, that's good bread.
 
 
 <line>
-[man] <ital>Boxer vs. Raptor,</ital>
+<nonVerbComm>[man]</nonVerbComm> <ital>Boxer vs. Raptor,</ital>
 
 <ital><music>♪ Na-na, na-na, na-na, na-na ♪</music></ital>
 

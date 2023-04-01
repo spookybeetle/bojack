@@ -12,7 +12,7 @@
 
 
 <line>
-[snoring]
+<nonVerbComm>[snoring]</nonVerbComm>
 
 </line>
 
@@ -98,7 +98,7 @@ No. Kites are sky trash.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 Why is it so daytime right now?
 
@@ -112,7 +112,7 @@ Wanda?
 
 
 <line>
-[groaning]
+<nonVerbComm>[groaning]</nonVerbComm>
 
 </line>
 
@@ -248,13 +248,13 @@ So, that's, like, the whole day. Sorry.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -390,7 +390,7 @@ Ha, good one.
 
 
 <line>
-[♪♪]
+<nonVerbComm>[♪♪]</nonVerbComm>
 
 </line>
 
@@ -412,7 +412,7 @@ Calculus can blow a mind away."
 
 
 <line>
-[Abe] Cut!
+<nonVerbComm>[Abe]</nonVerbComm> Cut!
 
 </line>
 
@@ -430,7 +430,7 @@ That's the day, everybody.
 
 
 <line>
-[slurping]
+<nonVerbComm>[slurping]</nonVerbComm>
 
 </line>
 
@@ -584,7 +584,7 @@ So, we ain't making <ital>Casablanca.</ital>
 
 
 <line>
-[slurping]
+<nonVerbComm>[slurping]</nonVerbComm>
 
 </line>
 
@@ -750,7 +750,7 @@ Now, that's a lot of apple sauce.
 
 
 <line>
-[all] Apple sauce!
+<nonVerbComm>[all]</nonVerbComm> Apple sauce!
 
 </line>
 
@@ -798,7 +798,7 @@ Suggestions?
 
 
 <line>
-[all laughing]
+<nonVerbComm>[all laughing]</nonVerbComm>
 
 </line>
 
@@ -888,7 +888,7 @@ Oh, Bryan.
 
 
 <line>
-[all laughing]
+<nonVerbComm>[all laughing]</nonVerbComm>
 
 </line>
 
@@ -1052,7 +1052,7 @@ Okay.
 
 
 <line>
-[in softer voice]
+<nonVerbComm>[in softer voice]</nonVerbComm>
 
 Hello. I am refugee from village.
 
@@ -1124,7 +1124,7 @@ It's Copernicus.
 
 
 <line>
-[all gasp]
+<nonVerbComm>[all gasp]</nonVerbComm>
 
 </line>
 
@@ -1464,7 +1464,7 @@ Right?
 
 
 <line>
-[Abe slurps]
+<nonVerbComm>[Abe slurps]</nonVerbComm>
 
 </line>
 
@@ -1634,7 +1634,7 @@ Because it's a different kind of pie?
 
 
 <line>
-[slurs] That's right.
+<nonVerbComm>[slurs]</nonVerbComm> That's right.
 
 </line>
 
@@ -1794,7 +1794,7 @@ Not a suggestion.
 
 
 <line>
-[mimics farting]
+<nonVerbComm>[mimics farting]</nonVerbComm>
 
 </line>
 
@@ -1926,7 +1926,7 @@ Would you talk to her?
 
 
 <line>
-[sighs] Yes.
+<nonVerbComm>[sighs]</nonVerbComm> Yes.
 
 </line>
 
@@ -1950,7 +1950,7 @@ Please stop.
 
 
 <line>
-[panting]
+<nonVerbComm>[panting]</nonVerbComm>
 
 </line>
 
@@ -1964,13 +1964,13 @@ Get away from that fire hose!
 
 
 <line>
-[all] Fire hose!
+<nonVerbComm>[all]</nonVerbComm> Fire hose!
 
 </line>
 
 
 <line>
-[grunts] Sorry I'm late, guys!
+<nonVerbComm>[grunts]</nonVerbComm> Sorry I'm late, guys!
 
 </line>
 
@@ -2054,13 +2054,13 @@ I mean, that's crazy, right?
 
 
 <line>
-[all laughing]
+<nonVerbComm>[all laughing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[coughs]
+<nonVerbComm>[coughs]</nonVerbComm>
 
 </line>
 
@@ -2116,7 +2116,7 @@ you want in your life.
 
 
 <line>
-[groans] I hate good hard thinks.
+<nonVerbComm>[groans]</nonVerbComm> I hate good hard thinks.
 
 </line>
 
@@ -2268,7 +2268,7 @@ Hmm.
 
 
 <line>
-[audience laughs]
+<nonVerbComm>[audience laughs]</nonVerbComm>
 
 </line>
 
@@ -2302,7 +2302,7 @@ Oh!
 
 
 <line>
-[audience applauding]
+<nonVerbComm>[audience applauding]</nonVerbComm>
 
 </line>
 
@@ -2352,13 +2352,13 @@ so why bother doing anything?
 
 
 <line>
-[the horse]<ital> Oh, you didn't.</ital>
+<nonVerbComm>[the horse]</nonVerbComm><ital> Oh, you didn't.</ital>
 
 </line>
 
 
 <line>
-[audience laughing]
+<nonVerbComm>[audience laughing]</nonVerbComm>
 
 </line>
 
@@ -2370,7 +2370,7 @@ so why bother doing anything?
 
 
 <line>
-[sitcom theme plays over TV]
+<nonVerbComm>[sitcom theme plays over TV]</nonVerbComm>
 
 </line>
 
@@ -2622,7 +2622,7 @@ Yeah! Go home, Goober!
 
 
 <line>
-[coughs] Goober sucks.
+<nonVerbComm>[coughs]</nonVerbComm> Goober sucks.
 
 Why doesn't he ever go home?
 
@@ -2724,7 +2724,7 @@ if you came.
 
 
 <line>
-[groans] I'm gonna go down to the basement
+<nonVerbComm>[groans]</nonVerbComm> I'm gonna go down to the basement
 
 to practice my space work.
 
@@ -2738,7 +2738,7 @@ And here I am going downstairs.
 
 
 <line>
-[cell phone ringing]
+<nonVerbComm>[cell phone ringing]</nonVerbComm>
 
 </line>
 
@@ -2822,7 +2822,7 @@ You can't just not go to work.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -2852,7 +2852,7 @@ but I'm tired of running in circles.
 
 
 <line>
-[Abe] Cut!
+<nonVerbComm>[Abe]</nonVerbComm> Cut!
 
 </line>
 
@@ -2888,7 +2888,7 @@ You know, for safety.
 
 
 <line>
-[slurps] And again?
+<nonVerbComm>[slurps]</nonVerbComm> And again?
 
 </line>
 
@@ -2936,13 +2936,13 @@ I'm tired of running in circles.
 
 
 <line>
-[Abe] Let's get it ten more times.
+<nonVerbComm>[Abe]</nonVerbComm> Let's get it ten more times.
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3468,13 +3468,13 @@ You microchipped my penis? Check, please!
 
 
 <line>
-[all] Microchip.
+<nonVerbComm>[all]</nonVerbComm> Microchip.
 
 </line>
 
 
 <line>
-[laughs]
+<nonVerbComm>[laughs]</nonVerbComm>
 
 </line>
 
@@ -3486,19 +3486,19 @@ Ah.
 
 
 <line>
-[audience applauding]
+<nonVerbComm>[audience applauding]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[doorbell rings]
+<nonVerbComm>[doorbell rings]</nonVerbComm>
 
 </line>
 
@@ -3510,7 +3510,7 @@ Oh.
 
 
 <line>
-[all] Todd!
+<nonVerbComm>[all]</nonVerbComm> Todd!
 
 </line>
 
@@ -3524,7 +3524,7 @@ Oh.
 
 
 <line>
-[laughs] Yeah.
+<nonVerbComm>[laughs]</nonVerbComm> Yeah.
 
 </line>
 

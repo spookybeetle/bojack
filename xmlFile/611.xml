@@ -12,7 +12,7 @@
 
 
 <line>
-[Todd] Watch out!
+<nonVerbComm>[Todd]</nonVerbComm> Watch out!
 
 </line>
 
@@ -48,7 +48,7 @@ Because you kids are so talented!
 
 
 <line>
-[students cheering]
+<nonVerbComm>[students cheering]</nonVerbComm>
 
 </line>
 
@@ -136,7 +136,7 @@ I need to-- Air.
 
 
 <line>
-[students singing]
+<nonVerbComm>[students singing]</nonVerbComm>
 
 <ital><music>♪ For he's our trusty director ♪</music></ital>
 
@@ -202,13 +202,13 @@ I'd be delighted to talk!
 
 
 <line>
-[theme music playing]
+<nonVerbComm>[theme music playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[music playing over stereo]
+<nonVerbComm>[music playing over stereo]</nonVerbComm>
 
 </line>
 
@@ -442,13 +442,13 @@ Go buy some nice cast party things.
 
 
 <line>
-[students cheering]
+<nonVerbComm>[students cheering]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Joshua] This is gonna be
+<nonVerbComm>[Joshua]</nonVerbComm> This is gonna be
 
 the best night ever!
 
@@ -560,7 +560,7 @@ you ever did.
 
 
 <line>
-[sighs] This is gonna be a long night.
+<nonVerbComm>[sighs]</nonVerbComm> This is gonna be a long night.
 
 </line>
 
@@ -1002,7 +1002,7 @@ washing dishes?
 
 
 <line>
-[both panting]
+<nonVerbComm>[both panting]</nonVerbComm>
 
 </line>
 
@@ -1038,7 +1038,7 @@ I'll tell you all about it!
 
 
 <line>
-[students] Cast party! Cast party!
+<nonVerbComm>[students]</nonVerbComm> Cast party! Cast party!
 
 </line>
 
@@ -1200,7 +1200,7 @@ Call me when new BoJack's back.
 
 
 <line>
-[door opens, closes]
+<nonVerbComm>[door opens, closes]</nonVerbComm>
 
 </line>
 
@@ -1308,7 +1308,7 @@ in the first place!
 
 
 <line>
-[scoffs]
+<nonVerbComm>[scoffs]</nonVerbComm>
 
 </line>
 
@@ -1436,7 +1436,7 @@ even to herself.
 
 
 <line>
-[gasps] And what about the boy?
+<nonVerbComm>[gasps]</nonVerbComm> And what about the boy?
 
 </line>
 
@@ -1556,7 +1556,7 @@ please?
 
 
 <line>
-[beatboxing]
+<nonVerbComm>[beatboxing]</nonVerbComm>
 
 </line>
 
@@ -1582,7 +1582,7 @@ Oh!
 
 
 <line>
-[sputtering]
+<nonVerbComm>[sputtering]</nonVerbComm>
 
 </line>
 
@@ -1664,7 +1664,7 @@ of the "Hollywoo Reporter."
 
 
 <line>
-[BoJack and Carolyn gasp]
+<nonVerbComm>[BoJack and Carolyn gasp]</nonVerbComm>
 
 </line>
 
@@ -1720,13 +1720,13 @@ Their story is about you and Sarah Lynn.
 
 
 <line>
-[exhales sharply]
+<nonVerbComm>[exhales sharply]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Pickles sighs]
+<nonVerbComm>[Pickles sighs]</nonVerbComm>
 
 </line>
 
@@ -1752,7 +1752,7 @@ Well, see ya later.
 
 
 <line>
-[shuddering]
+<nonVerbComm>[shuddering]</nonVerbComm>
 
 </line>
 
@@ -2172,7 +2172,7 @@ Oh. Hey. Uh, what's up?
 
 
 <line>
-[Helena] We're doing
+<nonVerbComm>[Helena]</nonVerbComm> We're doing
 
 end-of-year superlatives,
 
@@ -2196,7 +2196,7 @@ Just, uh, give me a minute.
 
 
 <line>
-[muffled chatter]
+<nonVerbComm>[muffled chatter]</nonVerbComm>
 
 </line>
 
@@ -2394,7 +2394,7 @@ Okay, everyone. Enjoy your party.
 
 
 <line>
-[chuckles]
+<nonVerbComm>[chuckles]</nonVerbComm>
 
 </line>
 
@@ -2598,7 +2598,7 @@ So why don't you just leave him alone?
 
 
 <line>
-[huffs]
+<nonVerbComm>[huffs]</nonVerbComm>
 
 </line>
 
@@ -2748,7 +2748,7 @@ Everybody does. I'm Paige Sinclair!
 
 
 <line>
-[tires screeching]
+<nonVerbComm>[tires screeching]</nonVerbComm>
 
 </line>
 
@@ -2934,7 +2934,7 @@ Wesleyan University Theater Department.
 
 
 <line>
-[Paige] <ital>Paige Sinclair,</ital>
+<nonVerbComm>[Paige]</nonVerbComm> <ital>Paige Sinclair,</ital>
 
 <ital>"Hollywoo Reporter."</ital>
 
@@ -3108,7 +3108,7 @@ I have a book to write.
 
 
 <line>
-[grunts] Oh, my God!
+<nonVerbComm>[grunts]</nonVerbComm> Oh, my God!
 
 </line>
 
@@ -3292,7 +3292,7 @@ Thank you, for everything. [kisses]
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3360,7 +3360,7 @@ to not sound like bullshit.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3502,7 +3502,7 @@ Yeah, sunk cost.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3566,13 +3566,13 @@ you helped me do the right thing.
 
 
 <line>
-[laughs]
+<nonVerbComm>[laughs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 

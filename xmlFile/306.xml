@@ -170,7 +170,7 @@ Oh, no. We said different things.
 
 
 <line>
-[funky electronic music]
+<nonVerbComm>[funky electronic music]</nonVerbComm>
 
 </line>
 
@@ -182,7 +182,7 @@ Oh, no. We said different things.
 
 
 <line>
-[host]
+<nonVerbComm>[host]</nonVerbComm>
 
 <ital>The Oscar race is heating up,</ital>
 
@@ -212,7 +212,7 @@ that is The Exhausting Road To Oscar.
 
 
 <line>
-[presenter] <ital>The nominees for best actor</ital>
+<nonVerbComm>[presenter]</nonVerbComm> <ital>The nominees for best actor</ital>
 
 <ital>in a motion picture or Vine are...</ital>
 
@@ -332,7 +332,7 @@ to go tell A.O. Scott how great you are.
 
 
 <line>
-[yelling]
+<nonVerbComm>[yelling]</nonVerbComm>
 
 Hey, yo, Scott!
 
@@ -718,7 +718,7 @@ and drive me here to fire someone.
 
 
 <line>
-[background] <ital><music>♪ Sextina! ♪</music></ital>
+<nonVerbComm>[background]</nonVerbComm> <ital><music>♪ Sextina! ♪</music></ital>
 
 </line>
 
@@ -900,7 +900,7 @@ of the pro-choice movement.
 
 
 <line>
-[crowd chattering]
+<nonVerbComm>[crowd chattering]</nonVerbComm>
 
 </line>
 
@@ -1052,13 +1052,13 @@ goes to Bread Poot.
 
 
 <line>
-[screaming]
+<nonVerbComm>[screaming]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighing]
+<nonVerbComm>[sighing]</nonVerbComm>
 
 </line>
 
@@ -1344,7 +1344,7 @@ a clean afterparty.
 
 
 <line>
-[groaning]
+<nonVerbComm>[groaning]</nonVerbComm>
 
 </line>
 
@@ -1712,7 +1712,7 @@ might make you... think?
 
 
 <line>
-[groaning]
+<nonVerbComm>[groaning]</nonVerbComm>
 
 Jurj. He likes pranks, huh?
 
@@ -1812,13 +1812,13 @@ To the limousine repository.
 
 
 <line>
-[paparazzi yelling]
+<nonVerbComm>[paparazzi yelling]</nonVerbComm>
 
 </line>
 
 
 <line>
-[with accent]
+<nonVerbComm>[with accent]</nonVerbComm>
 
 Good afternoon, Mr. Clooners.
 
@@ -2144,7 +2144,7 @@ I am not your driver. It is I, BoJack.
 
 
 <line>
-[gasping]
+<nonVerbComm>[gasping]</nonVerbComm>
 
 BoJack? What are you doing?
 
@@ -2286,7 +2286,7 @@ I do. I just did.
 
 
 <line>
-[scoffing] Who's gonna set up
+<nonVerbComm>[scoffing]</nonVerbComm> Who's gonna set up
 
 your press appearances?
 
@@ -2582,7 +2582,7 @@ Is there something you want to say to me?
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -2626,7 +2626,7 @@ I won't be a part of this.
 
 
 <line>
-[groaning]
+<nonVerbComm>[groaning]</nonVerbComm>
 
 </line>
 
@@ -2848,7 +2848,7 @@ she gets on the news and--
 
 
 <line>
-[gasping]
+<nonVerbComm>[gasping]</nonVerbComm>
 
 That's it, the news.
 
@@ -2898,7 +2898,7 @@ that Sextina is a total fraud.
 
 
 <line>
-[girl] You know Sextina Aquafina?
+<nonVerbComm>[girl]</nonVerbComm> You know Sextina Aquafina?
 
 </line>
 
@@ -2996,7 +2996,7 @@ it makes it less scary, you know?
 
 
 <line>
-[sighing]
+<nonVerbComm>[sighing]</nonVerbComm>
 
 Yeah.
 
@@ -3004,7 +3004,7 @@ Yeah.
 
 
 <line>
-[nurse]
+<nonVerbComm>[nurse]</nonVerbComm>
 
 Diane?
 
@@ -3254,7 +3254,7 @@ You have my undivided attention now.
 
 
 <line>
-[doctor]
+<nonVerbComm>[doctor]</nonVerbComm>
 
 <ital>How are you feeling, Sextina?</ital>
 
@@ -3262,7 +3262,7 @@ You have my undivided attention now.
 
 
 <line>
-[Sextina] <ital>A little queasy</ital>
+<nonVerbComm>[Sextina]</nonVerbComm> <ital>A little queasy</ital>
 
 <ital>but on the whole, wonderful.</ital>
 
@@ -3270,7 +3270,7 @@ You have my undivided attention now.
 
 
 <line>
-[doctor] <ital>Good. Now, I do accept tips.</ital>
+<nonVerbComm>[doctor]</nonVerbComm> <ital>Good. Now, I do accept tips.</ital>
 
 </line>
 
@@ -3346,7 +3346,7 @@ to explain anything to anyone.
 
 
 <line>
-[phone buzzing]
+<nonVerbComm>[phone buzzing]</nonVerbComm>
 
 </line>
 
@@ -3454,7 +3454,7 @@ we'll say she adopted a baby.
 
 
 <line>
-[Carolyn] People are going to love that.
+<nonVerbComm>[Carolyn]</nonVerbComm> People are going to love that.
 
 [Diane] Yeah. Everyone loves a baby.
 
@@ -3542,7 +3542,7 @@ we'll say she adopted a baby.
 
 
 <line>
-[dolphin squeaking]
+<nonVerbComm>[dolphin squeaking]</nonVerbComm>
 
 </line>
 

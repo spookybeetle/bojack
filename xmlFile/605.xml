@@ -58,7 +58,7 @@ Do me a favor. Make her day.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -254,13 +254,13 @@ It's time to go home.
 
 
 <line>
-[theme music playing]
+<nonVerbComm>[theme music playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Shannon] Oh, sorry. Uh, not this way.
+<nonVerbComm>[Shannon]</nonVerbComm> Oh, sorry. Uh, not this way.
 
 </line>
 
@@ -400,7 +400,7 @@ collected on one...
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -692,7 +692,7 @@ Hmm.
 
 
 <line>
-[indistinct chattering]
+<nonVerbComm>[indistinct chattering]</nonVerbComm>
 
 </line>
 
@@ -720,7 +720,7 @@ a non-alcoholic toast to Denise.
 
 
 <line>
-[man] Ow! My gluten intolerance!
+<nonVerbComm>[man]</nonVerbComm> Ow! My gluten intolerance!
 
 </line>
 
@@ -764,13 +764,13 @@ Or sweet, sweet Bongo?
 
 
 <line>
-[all] Denise!
+<nonVerbComm>[all]</nonVerbComm> Denise!
 
 </line>
 
 
 <line>
-[man laughs]
+<nonVerbComm>[man laughs]</nonVerbComm>
 
 </line>
 
@@ -850,7 +850,7 @@ I might do another six weeks.
 
 
 <line>
-[chuckles] You've already re-upped
+<nonVerbComm>[chuckles]</nonVerbComm> You've already re-upped
 
 three times.
 
@@ -978,7 +978,7 @@ Huh.
 
 
 <line>
-[Sharona]<ital> Oh, boy,</ital>
+<nonVerbComm>[Sharona]</nonVerbComm><ital> Oh, boy,</ital>
 
 <ital>did he do a number on you.</ital>
 
@@ -1086,7 +1086,7 @@ person who can drink as much as you do.
 
 
 <line>
-[people clamoring]
+<nonVerbComm>[people clamoring]</nonVerbComm>
 
 </line>
 
@@ -1194,7 +1194,7 @@ One more hike down Funyun Canyon?
 
 
 <line>
-[inhales] Whew.
+<nonVerbComm>[inhales]</nonVerbComm> Whew.
 
 </line>
 
@@ -1476,7 +1476,7 @@ Worth it.
 
 
 <line>
-[car horns blaring]
+<nonVerbComm>[car horns blaring]</nonVerbComm>
 
 </line>
 
@@ -1626,7 +1626,7 @@ an emotional connection.
 
 
 <line>
-[sighs] That might be a lot of guys,
+<nonVerbComm>[sighs]</nonVerbComm> That might be a lot of guys,
 
 but if that's what it's gonna take
 
@@ -1796,7 +1796,7 @@ Oh.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -1978,13 +1978,13 @@ just waiting to love you as you love them.
 
 
 <line>
-[groaning]
+<nonVerbComm>[groaning]</nonVerbComm>
 
 </line>
 
 
 <line>
-[vibrates, beeps]
+<nonVerbComm>[vibrates, beeps]</nonVerbComm>
 
 </line>
 
@@ -2016,7 +2016,7 @@ Okay.
 
 
 <line>
-["Ode to Joy" tune]<ital> ♪ Todd, Todd, Todd,</ital>
+<nonVerbComm>["Ode to Joy" tune]</nonVerbComm><ital> ♪ Todd, Todd, Todd,</ital>
 
 <ital>Todd, Todd, Todd, Todd, Todd ♪</ital>
 
@@ -2200,7 +2200,7 @@ because I, uh...
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -2220,7 +2220,7 @@ You just wait one jiffy.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -2360,7 +2360,7 @@ Of what?
 
 
 <line>
-[BoJack] <ital>Sarah Lynn?</ital>
+<nonVerbComm>[BoJack]</nonVerbComm> <ital>Sarah Lynn?</ital>
 
 </line>
 
@@ -2572,7 +2572,7 @@ Enjoy my dressing room.
 
 
 <line>
-[sighs] Hey, I know you feel shitty,
+<nonVerbComm>[sighs]</nonVerbComm> Hey, I know you feel shitty,
 
 but don't take it out on a little girl.
 
@@ -2580,7 +2580,7 @@ but don't take it out on a little girl.
 
 
 <line>
-[BoJack] I don't feel shitty,
+<nonVerbComm>[BoJack]</nonVerbComm> I don't feel shitty,
 
 I feel great!
 
@@ -2670,7 +2670,7 @@ Yeah, and that's how they get you.
 
 
 <line>
-[sighs] I'm sorry. It's not your fault.
+<nonVerbComm>[sighs]</nonVerbComm> I'm sorry. It's not your fault.
 
 </line>
 
@@ -2732,7 +2732,7 @@ my sandwich has onions...
 
 
 <line>
-[phone beeps]
+<nonVerbComm>[phone beeps]</nonVerbComm>
 
 </line>
 
@@ -2858,7 +2858,7 @@ the only thing I wished for was a dad.
 
 
 <line>
-[sobs] And now you're here,
+<nonVerbComm>[sobs]</nonVerbComm> And now you're here,
 
 and it's like...
 
@@ -2866,7 +2866,7 @@ and it's like...
 
 
 <line>
-[coughs] ...paging Dr. Birthday!
+<nonVerbComm>[coughs]</nonVerbComm> ...paging Dr. Birthday!
 
 </line>
 
@@ -3026,7 +3026,7 @@ he's such a sad dog!
 
 
 <line>
-[gasps] Mr. Peanutbutter,
+<nonVerbComm>[gasps]</nonVerbComm> Mr. Peanutbutter,
 
 we didn't realize
 
@@ -3088,7 +3088,7 @@ for everyone when I say...
 
 
 <line>
-[all cheering]
+<nonVerbComm>[all cheering]</nonVerbComm>
 
 </line>
 
@@ -3116,7 +3116,7 @@ Oh, so I guess this all worked out.
 
 
 <line>
-[truck beeping]
+<nonVerbComm>[truck beeping]</nonVerbComm>
 
 </line>
 
@@ -3196,37 +3196,37 @@ Pack your things.
 
 
 <line>
-[huffs]
+<nonVerbComm>[huffs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[inhales] Don't belong here, huh?
+<nonVerbComm>[inhales]</nonVerbComm> Don't belong here, huh?
 
 </line>
 
 
 <line>
-[sniffs]
+<nonVerbComm>[sniffs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[spits, gags] God, what am I doing?
+<nonVerbComm>[spits, gags]</nonVerbComm> God, what am I doing?
 
 </line>
 
 
 <line>
-[grunts]
+<nonVerbComm>[grunts]</nonVerbComm>
 
 </line>
 
 
 <line>
-[whistles tune]
+<nonVerbComm>[whistles tune]</nonVerbComm>
 
 </line>
 
@@ -3252,25 +3252,25 @@ Nobody drink any water!
 
 
 <line>
-[gulping]
+<nonVerbComm>[gulping]</nonVerbComm>
 
 </line>
 
 
 <line>
-[belches] Ooh.
+<nonVerbComm>[belches]</nonVerbComm> Ooh.
 
 </line>
 
 
 <line>
-[gasps]
+<nonVerbComm>[gasps]</nonVerbComm>
 
 </line>
 
 
 <line>
-[door opens, closes]
+<nonVerbComm>[door opens, closes]</nonVerbComm>
 
 </line>
 
@@ -3336,7 +3336,7 @@ Please, write on.
 
 
 <line>
-[Doctor Champ] Oh, this is a fine
+<nonVerbComm>[Doctor Champ]</nonVerbComm> Oh, this is a fine
 
 how do you do.
 
@@ -3450,7 +3450,7 @@ all of sudden.
 
 
 <line>
-[slurring] Look who thinks
+<nonVerbComm>[slurring]</nonVerbComm> Look who thinks
 
 it's easy sober, hmm?
 
@@ -3520,7 +3520,7 @@ in my work luggage!
 
 
 <line>
-[audience laughter]
+<nonVerbComm>[audience laughter]</nonVerbComm>
 
 </line>
 

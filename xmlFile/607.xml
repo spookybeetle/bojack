@@ -12,7 +12,7 @@
 
 
 <line>
-[dramatic music playing]
+<nonVerbComm>[dramatic music playing]</nonVerbComm>
 
 </line>
 
@@ -64,7 +64,7 @@
 
 
 <line>
-[Todd]<ital> You are all the things</ital>
+<nonVerbComm>[Todd]</nonVerbComm><ital> You are all the things</ital>
 
 <ital>that are wrong with you.</ital>
 
@@ -72,13 +72,13 @@
 
 
 <line>
-[Diane]<ital> You haven't changed.</ital>
+<nonVerbComm>[Diane]</nonVerbComm><ital> You haven't changed.</ital>
 
 </line>
 
 
 <line>
-[BoJack] <ital>Yes, you are the last person</ital>
+<nonVerbComm>[BoJack]</nonVerbComm> <ital>Yes, you are the last person</ital>
 
 <ital>to get that. I'm not gonna change.</ital>
 
@@ -86,13 +86,13 @@
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -104,13 +104,13 @@ Goddamn...
 
 
 <line>
-[theme music playing]
+<nonVerbComm>[theme music playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[BoJack sighs]
+<nonVerbComm>[BoJack sighs]</nonVerbComm>
 
 </line>
 
@@ -122,7 +122,7 @@ Sharona?
 
 
 <line>
-[Sharona] Ow! You're hurting me.
+<nonVerbComm>[Sharona]</nonVerbComm> Ow! You're hurting me.
 
 Let me go! [grunting]
 
@@ -244,7 +244,7 @@ would you like to share? I...
 
 
 <line>
-[stammers] I'm sorry.
+<nonVerbComm>[stammers]</nonVerbComm> I'm sorry.
 
 I don't know who you are.
 
@@ -260,7 +260,7 @@ BoJack Horseman? Who's that?
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -290,7 +290,7 @@ And I'm an alcoholic.
 
 
 <line>
-[all] Hi, BoJack!
+<nonVerbComm>[all]</nonVerbComm> Hi, BoJack!
 
 </line>
 
@@ -310,7 +310,7 @@ This is an important job.
 
 
 <line>
-[laughs] It's the National Geographic
+<nonVerbComm>[laughs]</nonVerbComm> It's the National Geographic
 
 Swimsuit Edition.
 
@@ -388,7 +388,7 @@ when I hate myself.
 
 
 <line>
-[chuckles]
+<nonVerbComm>[chuckles]</nonVerbComm>
 
 What stuff? No stuff is coming out.
 
@@ -396,7 +396,7 @@ What stuff? No stuff is coming out.
 
 
 <line>
-[scoffs]
+<nonVerbComm>[scoffs]</nonVerbComm>
 
 </line>
 
@@ -510,19 +510,19 @@ to be a turtle in a two-piece,
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[knocks on door]
+<nonVerbComm>[knocks on door]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs] You're the most beautiful person
+<nonVerbComm>[sighs]</nonVerbComm> You're the most beautiful person
 
 in the world to me. You know that, right?
 
@@ -530,13 +530,13 @@ in the world to me. You know that, right?
 
 
 <line>
-[chuckles]
+<nonVerbComm>[chuckles]</nonVerbComm>
 
 </line>
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -718,7 +718,7 @@ with work and Ruthie.
 
 
 <line>
-[chuckles] You have no idea.
+<nonVerbComm>[chuckles]</nonVerbComm> You have no idea.
 
 </line>
 
@@ -814,13 +814,13 @@ It's implied.
 
 
 <line>
-[grunting]
+<nonVerbComm>[grunting]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -834,7 +834,7 @@ It's implied.
 
 
 <line>
-[exhales]
+<nonVerbComm>[exhales]</nonVerbComm>
 
 </line>
 
@@ -1034,7 +1034,7 @@ is flight servant.
 
 
 <line>
-[soft music playing]
+<nonVerbComm>[soft music playing]</nonVerbComm>
 
 </line>
 
@@ -1046,7 +1046,7 @@ To us! And depression!
 
 
 <line>
-[chuckles] Yes, but before I drink to that
+<nonVerbComm>[chuckles]</nonVerbComm> Yes, but before I drink to that
 
 and then depart with you
 
@@ -1100,7 +1100,7 @@ Oh, I know.
 
 
 <line>
-[sighs] Just as I suspected, half-full!
+<nonVerbComm>[sighs]</nonVerbComm> Just as I suspected, half-full!
 
 </line>
 
@@ -1240,13 +1240,13 @@ Okay.
 
 
 <line>
-[birds chirping]
+<nonVerbComm>[birds chirping]</nonVerbComm>
 
 </line>
 
 
 <line>
-[thunder rumbling]
+<nonVerbComm>[thunder rumbling]</nonVerbComm>
 
 </line>
 
@@ -1292,7 +1292,7 @@ or your feelings, you may suffer from...
 
 
 <line>
-[doorbell rings]
+<nonVerbComm>[doorbell rings]</nonVerbComm>
 
 </line>
 
@@ -1408,7 +1408,7 @@ So great.
 
 
 <line>
-[slurps]
+<nonVerbComm>[slurps]</nonVerbComm>
 
 </line>
 
@@ -1604,13 +1604,13 @@ Hmm.
 
 
 <line>
-[melancholic music playing]
+<nonVerbComm>[melancholic music playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[inhales, groans]
+<nonVerbComm>[inhales, groans]</nonVerbComm>
 
 </line>
 
@@ -1700,7 +1700,7 @@ It's Sylvia Plath wearing Saint Laurent.
 
 
 <line>
-[groans] Wesleyan.
+<nonVerbComm>[groans]</nonVerbComm> Wesleyan.
 
 </line>
 
@@ -1720,7 +1720,7 @@ Great. A music show? I love music.
 
 
 <line>
-[discordant sounds playing]
+<nonVerbComm>[discordant sounds playing]</nonVerbComm>
 
 </line>
 
@@ -2018,7 +2018,7 @@ No, I can't go back there. Not yet.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -2074,7 +2074,7 @@ before there's a bidding war.
 
 
 <line>
-[sighs] No, I'm not dating anyone.
+<nonVerbComm>[sighs]</nonVerbComm> No, I'm not dating anyone.
 
 Stay on topic, Mom.
 
@@ -2092,7 +2092,7 @@ and everybody cheered. The end.
 
 
 <line>
-[knocking on door]
+<nonVerbComm>[knocking on door]</nonVerbComm>
 
 </line>
 
@@ -2222,7 +2222,7 @@ because my assistant is terrible.
 
 
 <line>
-[cooing]
+<nonVerbComm>[cooing]</nonVerbComm>
 
 </line>
 
@@ -2236,7 +2236,7 @@ because my assistant is terrible.
 
 
 <line>
-[sniffles] Oh.
+<nonVerbComm>[sniffles]</nonVerbComm> Oh.
 
 </line>
 
@@ -2338,7 +2338,7 @@ to take care of you.
 
 
 <line>
-[Ruthie babbling]
+<nonVerbComm>[Ruthie babbling]</nonVerbComm>
 
 </line>
 
@@ -2376,7 +2376,7 @@ UCLA, USC, UTI.
 
 
 <line>
-[groans] Mr. Horseman, we have to allow
+<nonVerbComm>[groans]</nonVerbComm> Mr. Horseman, we have to allow
 
 other applicants time to apply.
 
@@ -2588,7 +2588,7 @@ They don't? Huh.
 
 
 <line>
-[cell phone ringing]
+<nonVerbComm>[cell phone ringing]</nonVerbComm>
 
 </line>
 
@@ -2656,7 +2656,7 @@ that I'm not interested in.
 
 
 <line>
-[man] So, why did you go out with me
+<nonVerbComm>[man]</nonVerbComm> So, why did you go out with me
 
 in the first place?
 
@@ -2726,13 +2726,13 @@ An app?
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
 
 <line>
-[woman on PA]
+<nonVerbComm>[woman on PA]</nonVerbComm>
 
 <ital>Welcome to Dulles International Airport.</ital>
 
@@ -2888,7 +2888,7 @@ Sad Dog. [chuckles]
 
 
 <line>
-[sniffing]
+<nonVerbComm>[sniffing]</nonVerbComm>
 
 </line>
 
@@ -2922,13 +2922,13 @@ You're in a museum! Pretty cool, huh?
 
 
 <line>
-[sighs] That makes sense.
+<nonVerbComm>[sighs]</nonVerbComm> That makes sense.
 
 </line>
 
 
 <line>
-[panting]
+<nonVerbComm>[panting]</nonVerbComm>
 
 </line>
 
@@ -2998,7 +2998,7 @@ a lot of time together, huh, our teens?
 
 
 <line>
-[in normal voice]
+<nonVerbComm>[in normal voice]</nonVerbComm>
 
 I hope they're not having S-E...
 
@@ -3038,7 +3038,7 @@ He's the National Face of Depression.
 
 
 <line>
-[woman]<ital> We have rescheduled your flight</ital>
+<nonVerbComm>[woman]</nonVerbComm><ital> We have rescheduled your flight</ital>
 
 <ital>to Connecticut for 8:45 a.m. tomorrow.</ital>
 
@@ -3060,7 +3060,7 @@ He's the National Face of Depression.
 
 
 <line>
-[phone beeps]
+<nonVerbComm>[phone beeps]</nonVerbComm>
 
 </line>
 
@@ -3084,7 +3084,7 @@ Hmm.
 
 
 <line>
-["Take Me Down Easy" playing]
+<nonVerbComm>["Take Me Down Easy" playing]</nonVerbComm>
 
 </line>
 
@@ -3204,7 +3204,7 @@ My pleasure.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3224,7 +3224,7 @@ Huh.
 
 
 <line>
-[cell phone buzzes, beeps]
+<nonVerbComm>[cell phone buzzes, beeps]</nonVerbComm>
 
 </line>
 
@@ -3330,7 +3330,7 @@ I do.
 
 
 <line>
-[laughs] Hanging in there. [grunts]
+<nonVerbComm>[laughs] Hanging in there. [grunts]</nonVerbComm>
 
 </line>
 
@@ -3408,7 +3408,7 @@ in the shadow of our sins?
 
 
 <line>
-[all] Nay!
+<nonVerbComm>[all]</nonVerbComm> Nay!
 
 </line>
 
@@ -3456,7 +3456,7 @@ No, no, no! [screaming]
 
 
 <line>
-[door slams]
+<nonVerbComm>[door slams]</nonVerbComm>
 
 </line>
 
@@ -3500,7 +3500,7 @@ in the name of the Lord.
 
 
 <line>
-[man] Peace be with you.
+<nonVerbComm>[man]</nonVerbComm> Peace be with you.
 
 </line>
 
@@ -3550,7 +3550,7 @@ of an early Horsey service! Thank you.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 

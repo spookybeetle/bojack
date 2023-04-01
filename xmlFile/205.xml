@@ -38,7 +38,7 @@ What, what, what?
 
 
 <line>
-[rapper] <ital><music>♪ Oh, it's Chicken 4 Dayz! ♪</music></ital>
+<nonVerbComm>[rapper]</nonVerbComm> <ital><music>♪ Oh, it's Chicken 4 Dayz! ♪</music></ital>
 
 </line>
 
@@ -72,7 +72,7 @@ I got a bucket full of mystery stuff!
 
 
 <line>
-[rapper]
+<nonVerbComm>[rapper]</nonVerbComm>
 
 <ital><music>♪ Chicken-4-Dayzy, totally crazy! ♪</music></ital>
 
@@ -228,43 +228,43 @@ BoJack, you're driving a car right now.
 
 
 <line>
-[BoJack] Whoa!
+<nonVerbComm>[BoJack]</nonVerbComm> Whoa!
 
 </line>
 
 
 <line>
-[tires screech, then crashing]
+<nonVerbComm>[tires screech, then crashing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[horn honks]
+<nonVerbComm>[horn honks]</nonVerbComm>
 
 </line>
 
 
 <line>
-[clucking]
+<nonVerbComm>[clucking]</nonVerbComm>
 
 </line>
 
 
 <line>
-[clucking]
+<nonVerbComm>[clucking]</nonVerbComm>
 
 </line>
 
 
 <line>
-[♪♪]
+<nonVerbComm>[♪♪]</nonVerbComm>
 
 </line>
 
 
 <line>
-[cawing]
+<nonVerbComm>[cawing]</nonVerbComm>
 
 </line>
 
@@ -420,7 +420,7 @@ Sounds great, old-woman-o.
 
 
 <line>
-[cell phone chirps]
+<nonVerbComm>[cell phone chirps]</nonVerbComm>
 
 </line>
 
@@ -706,13 +706,13 @@ when everyone is busy with other stuff.
 
 
 <line>
-[sighs] Okay.
+<nonVerbComm>[sighs]</nonVerbComm> Okay.
 
 </line>
 
 
 <line>
-[cell phone chirps]
+<nonVerbComm>[cell phone chirps]</nonVerbComm>
 
 </line>
 
@@ -794,7 +794,7 @@ They're about to step on the glass.
 
 
 <line>
-[clucks]
+<nonVerbComm>[clucks]</nonVerbComm>
 
 </line>
 
@@ -814,7 +814,7 @@ Uh, okay.
 
 
 <line>
-[sniffing]
+<nonVerbComm>[sniffing]</nonVerbComm>
 
 </line>
 
@@ -978,13 +978,13 @@ I changed the world.
 
 
 <line>
-[Todd whistling]
+<nonVerbComm>[Todd whistling]</nonVerbComm>
 
 </line>
 
 
 <line>
-[clucking]
+<nonVerbComm>[clucking]</nonVerbComm>
 
 </line>
 
@@ -1018,7 +1018,7 @@ Is that kind of weird?
 
 
 <line>
-[officer] Police!
+<nonVerbComm>[officer]</nonVerbComm> Police!
 
 </line>
 
@@ -1032,7 +1032,7 @@ Is that kind of weird?
 
 
 <line>
-[Todd] Oh, man. [sighs]
+<nonVerbComm>[Todd] Oh, man. [sighs]</nonVerbComm>
 
 </line>
 
@@ -1080,7 +1080,7 @@ No, I don't think so.
 
 
 <line>
-[clucking]
+<nonVerbComm>[clucking]</nonVerbComm>
 
 </line>
 
@@ -1148,7 +1148,7 @@ Baroque composer?
 
 
 <line>
-[clucks]
+<nonVerbComm>[clucks]</nonVerbComm>
 
 </line>
 
@@ -1204,7 +1204,7 @@ just so I can say I did my job.
 
 
 <line>
-[both chuckling]
+<nonVerbComm>[both chuckling]</nonVerbComm>
 
 </line>
 
@@ -1218,7 +1218,7 @@ Well, in that case,
 
 
 <line>
-[both chuckling]
+<nonVerbComm>[both chuckling]</nonVerbComm>
 
 </line>
 
@@ -1360,7 +1360,7 @@ Gonna do whatever the man says.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -1400,7 +1400,7 @@ Thank you, Becca.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -1412,7 +1412,7 @@ Here chicken, chicken, chicken.
 
 
 <line>
-[clucking]
+<nonVerbComm>[clucking]</nonVerbComm>
 
 </line>
 
@@ -1518,7 +1518,7 @@ chicken!
 
 
 <line>
-[news theme music plays]
+<nonVerbComm>[news theme music plays]</nonVerbComm>
 
 </line>
 
@@ -1796,7 +1796,7 @@ if it wasn't true.
 
 
 <line>
-[Diane groans]
+<nonVerbComm>[Diane groans]</nonVerbComm>
 
 </line>
 
@@ -1828,7 +1828,7 @@ It's me, I'm that star!
 
 
 <line>
-[all cheering]
+<nonVerbComm>[all cheering]</nonVerbComm>
 
 </line>
 
@@ -1864,7 +1864,7 @@ they'll be off their circadian rhythm--
 
 
 <line>
-[cell phone rings]
+<nonVerbComm>[cell phone rings]</nonVerbComm>
 
 </line>
 
@@ -2082,7 +2082,7 @@ We're gonna get to the bottom of this.
 
 
 <line>
-[Stone groans]
+<nonVerbComm>[Stone groans]</nonVerbComm>
 
 </line>
 
@@ -2190,7 +2190,7 @@ Either one? Both?
 
 
 <line>
-[Diane] Oh, wow,
+<nonVerbComm>[Diane]</nonVerbComm> Oh, wow,
 
 you guys have a movie night here?
 
@@ -2216,13 +2216,13 @@ See, Todd? She'll be happy here.
 
 
 <line>
-[Levi] She sure will.
+<nonVerbComm>[Levi]</nonVerbComm> She sure will.
 
 </line>
 
 
 <line>
-[both] Because no one knows chicken
+<nonVerbComm>[both]</nonVerbComm> Because no one knows chicken
 
 like chickens.
 
@@ -2302,7 +2302,7 @@ and you can't come with me.
 
 
 <line>
-[clucks]
+<nonVerbComm>[clucks]</nonVerbComm>
 
 </line>
 
@@ -2352,13 +2352,13 @@ I said get!
 
 
 <line>
-[sobbing]
+<nonVerbComm>[sobbing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Becca clucking]
+<nonVerbComm>[Becca clucking]</nonVerbComm>
 
 </line>
 
@@ -2460,19 +2460,19 @@ Probably should get it checked out.
 
 
 <line>
-[tire blows]
+<nonVerbComm>[tire blows]</nonVerbComm>
 
 </line>
 
 
 <line>
-[both yelling]
+<nonVerbComm>[both yelling]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -2616,7 +2616,7 @@ Ah. I guess you wouldn't understand.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -2700,13 +2700,13 @@ Go, go, go!
 
 
 <line>
-[men speaking indistinctly]
+<nonVerbComm>[men speaking indistinctly]</nonVerbComm>
 
 </line>
 
 
 <line>
-[news theme music plays]
+<nonVerbComm>[news theme music plays]</nonVerbComm>
 
 </line>
 
@@ -2998,19 +2998,19 @@ Ooh. Whoa, whoa, whoa!
 
 
 <line>
-[grunting]
+<nonVerbComm>[grunting]</nonVerbComm>
 
 </line>
 
 
 <line>
-[wind chimes tinkling]
+<nonVerbComm>[wind chimes tinkling]</nonVerbComm>
 
 </line>
 
 
 <line>
-[gong sounds]
+<nonVerbComm>[gong sounds]</nonVerbComm>
 
 </line>
 
@@ -3028,7 +3028,7 @@ Uh, that's probably a coincidence.
 
 
 <line>
-[Levi] Someone broke onto the farm!
+<nonVerbComm>[Levi]</nonVerbComm> Someone broke onto the farm!
 
 </line>
 
@@ -3044,13 +3044,13 @@ and someone just said the titular line?
 
 
 <line>
-[door opens]
+<nonVerbComm>[door opens]</nonVerbComm>
 
 </line>
 
 
 <line>
-[gasps] This way.
+<nonVerbComm>[gasps]</nonVerbComm> This way.
 
 </line>
 
@@ -3098,7 +3098,7 @@ Uh...
 
 
 <line>
-[clucking]
+<nonVerbComm>[clucking]</nonVerbComm>
 
 </line>
 
@@ -3118,7 +3118,7 @@ in my chicken coop?
 
 
 <line>
-[all clucking loudly]
+<nonVerbComm>[all clucking loudly]</nonVerbComm>
 
 </line>
 
@@ -3218,7 +3218,7 @@ they will tell your story!
 
 
 <line>
-[Todd panting]
+<nonVerbComm>[Todd panting]</nonVerbComm>
 
 </line>
 
@@ -3238,7 +3238,7 @@ Come on, come on. Oh, no!
 
 
 <line>
-[clucking]
+<nonVerbComm>[clucking]</nonVerbComm>
 
 </line>
 
@@ -3252,7 +3252,7 @@ Come on, come on. Oh, no!
 
 
 <line>
-[Levi] Only we know how to care
+<nonVerbComm>[Levi]</nonVerbComm> Only we know how to care
 
 for these creatures, you hear?
 
@@ -3386,13 +3386,13 @@ In Diane's body.
 
 
 <line>
-[Diane] Go, go, go!
+<nonVerbComm>[Diane]</nonVerbComm> Go, go, go!
 
 </line>
 
 
 <line>
-[all gasping]
+<nonVerbComm>[all gasping]</nonVerbComm>
 
 </line>
 
@@ -3456,13 +3456,13 @@ We're free, we're free! Oh, shit.
 
 
 <line>
-[siren whoops]
+<nonVerbComm>[siren whoops]</nonVerbComm>
 
 </line>
 
 
 <line>
-[tires screech]
+<nonVerbComm>[tires screech]</nonVerbComm>
 
 </line>
 
@@ -3616,7 +3616,7 @@ so you are all free to go.
 
 
 <line>
-[Stone yells]
+<nonVerbComm>[Stone yells]</nonVerbComm>
 
 </line>
 
@@ -3682,7 +3682,7 @@ all along, all about you.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 

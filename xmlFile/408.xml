@@ -244,7 +244,7 @@ Note to director.
 
 
 <line>
-[announcer]
+<nonVerbComm>[announcer]</nonVerbComm>
 
 <ital>Previously on </ital>F.H.B.A. Los Angeles...
 
@@ -280,7 +280,7 @@ I'm here to win and/or cure cancer.
 
 
 <line>
-[announcer] <ital>Tonight, the girls</ital>
+<nonVerbComm>[announcer]</nonVerbComm> <ital>Tonight, the girls</ital>
 
 <ital>return from Booty Boot Camp</ital>
 
@@ -322,13 +322,13 @@ Um... what's all this then?
 
 
 <line>
-[theme music playing]
+<nonVerbComm>[theme music playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[gavel raps]
+<nonVerbComm>[gavel raps]</nonVerbComm>
 
 </line>
 
@@ -638,7 +638,7 @@ I got all the power!
 
 
 <line>
-[laughing]
+<nonVerbComm>[laughing]</nonVerbComm>
 
 </line>
 
@@ -1238,7 +1238,7 @@ when what I need is a niblick.
 
 
 <line>
-[all laughing]
+<nonVerbComm>[all laughing]</nonVerbComm>
 
 </line>
 
@@ -1256,7 +1256,7 @@ Yes, that's exactly right. Golf.
 
 
 <line>
-[camera shutters clicking]
+<nonVerbComm>[camera shutters clicking]</nonVerbComm>
 
 </line>
 
@@ -1358,7 +1358,7 @@ What's with the gorilla feet?
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -1394,7 +1394,7 @@ find me more suitable replacements.
 
 
 <line>
-[laughs]
+<nonVerbComm>[laughs]</nonVerbComm>
 
 They sure made a monkey out of you, huh?
 
@@ -2090,13 +2090,13 @@ because you are <ital>on fire!</ital>
 
 
 <line>
-[groans] Aw, jeez.
+<nonVerbComm>[groans]</nonVerbComm> Aw, jeez.
 
 </line>
 
 
 <line>
-[all chuckling]
+<nonVerbComm>[all chuckling]</nonVerbComm>
 
 </line>
 
@@ -2116,7 +2116,7 @@ make an Arnold Palmer."
 
 
 <line>
-[all laughing]
+<nonVerbComm>[all laughing]</nonVerbComm>
 
 </line>
 
@@ -2190,7 +2190,7 @@ won't need any cat ears to look evil.
 
 
 <line>
-[piano music playing]
+<nonVerbComm>[piano music playing]</nonVerbComm>
 
 </line>
 
@@ -2238,7 +2238,7 @@ does not qualify.
 
 
 <line>
-[family laughing]
+<nonVerbComm>[family laughing]</nonVerbComm>
 
 </line>
 
@@ -2268,7 +2268,7 @@ does not qualify.
 
 
 <line>
-[Poppy]
+<nonVerbComm>[Poppy]</nonVerbComm>
 
 Oh! Right in the cat gut!
 
@@ -2348,7 +2348,7 @@ Oh-hh...
 
 
 <line>
-[clicks]
+<nonVerbComm>[clicks]</nonVerbComm>
 
 </line>
 
@@ -2378,13 +2378,13 @@ for five hours waiting to do this.
 
 
 <line>
-[huffing]
+<nonVerbComm>[huffing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[clicks]
+<nonVerbComm>[clicks]</nonVerbComm>
 
 </line>
 
@@ -2458,7 +2458,7 @@ Yeah, now. But come on, Hollyhock.
 
 
 <line>
-[stammers, sighs]
+<nonVerbComm>[stammers, sighs]</nonVerbComm>
 
 </line>
 
@@ -2988,7 +2988,7 @@ So it <ital>is </ital>about judging booties.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -3230,7 +3230,7 @@ a baby and I couldn't be happier!
 
 
 <line>
-[Mimi] Oh, my God.
+<nonVerbComm>[Mimi]</nonVerbComm> Oh, my God.
 
 </line>
 
@@ -3326,7 +3326,7 @@ Ugh!
 
 
 <line>
-[Tom Jumbo-Grumbo] <ital>With former rival</ital>
+<nonVerbComm>[Tom Jumbo-Grumbo]</nonVerbComm> <ital>With former rival</ital>
 
 <ital>Mr. Peanutbutter's support,</ital>
 
@@ -3522,7 +3522,7 @@ clown dentistry business.
 
 
 <line>
-[nose beeps]
+<nonVerbComm>[nose beeps]</nonVerbComm>
 
 </line>
 
@@ -3536,7 +3536,7 @@ the right thing for us.
 
 
 <line>
-[Woodchuck]
+<nonVerbComm>[Woodchuck]</nonVerbComm>
 
 This is an abomination.
 
@@ -3544,7 +3544,7 @@ This is an abomination.
 
 
 <line>
-[aide] It's only till the doctors
+<nonVerbComm>[aide]</nonVerbComm> It's only till the doctors
 
 find better ones.
 
@@ -3696,13 +3696,13 @@ and I already deeply regret this.
 
 
 <line>
-[beeping]
+<nonVerbComm>[beeping]</nonVerbComm>
 
 </line>
 
 
 <line>
-[changing channels on TV]
+<nonVerbComm>[changing channels on TV]</nonVerbComm>
 
 </line>
 
@@ -3888,7 +3888,7 @@ Let's get a pizza.
 
 
 <line>
-[TV audio switches rapidly]
+<nonVerbComm>[TV audio switches rapidly]</nonVerbComm>
 
 </line>
 
@@ -3958,7 +3958,7 @@ Let's get a pizza.
 
 
 <line>
-[man] <ital>Boxer vs. Raptor,</ital>
+<nonVerbComm>[man]</nonVerbComm> <ital>Boxer vs. Raptor,</ital>
 
 <ital><music>♪ Na-na, na-na, na-na, na-na ♪</music></ital>
 

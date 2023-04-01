@@ -12,7 +12,7 @@
 
 
 <line>
-[Mr. Peanutbutter]
+<nonVerbComm>[Mr. Peanutbutter]</nonVerbComm>
 
 <ital>If there's one thing I've learned</ital>
 
@@ -228,13 +228,13 @@ is another great idea for a movie!
 
 
 <line>
-[exhales] Yeah. Sounds like fun.
+<nonVerbComm>[exhales]</nonVerbComm> Yeah. Sounds like fun.
 
 </line>
 
 
 <line>
-[toy squeaks]
+<nonVerbComm>[toy squeaks]</nonVerbComm>
 
 </line>
 
@@ -248,7 +248,7 @@ is another great idea for a movie!
 
 
 <line>
-[theme music playing]
+<nonVerbComm>[theme music playing]</nonVerbComm>
 
 </line>
 
@@ -332,7 +332,7 @@ Good luck.
 
 
 <line>
-[coos]
+<nonVerbComm>[coos]</nonVerbComm>
 
 </line>
 
@@ -346,7 +346,7 @@ Good luck.
 
 
 <line>
-[grunts]
+<nonVerbComm>[grunts]</nonVerbComm>
 
 </line>
 
@@ -364,7 +364,7 @@ Ooh, there ya go. There ya go. [echoes]
 
 
 <line>
-[shushing]
+<nonVerbComm>[shushing]</nonVerbComm>
 
 </line>
 
@@ -378,25 +378,25 @@ Ooh, there ya go. There ya go. [echoes]
 
 
 <line>
-[crickets chirping]
+<nonVerbComm>[crickets chirping]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[coos]
+<nonVerbComm>[coos]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -416,7 +416,7 @@ Mommy's coming.
 
 
 <line>
-[shushes]
+<nonVerbComm>[shushes]</nonVerbComm>
 
 </line>
 
@@ -494,7 +494,7 @@ I always do!
 
 
 <line>
-[baby crying]
+<nonVerbComm>[baby crying]</nonVerbComm>
 
 </line>
 
@@ -522,7 +522,7 @@ Come on. [groans]
 
 
 <line>
-[ringing]
+<nonVerbComm>[ringing]</nonVerbComm>
 
 </line>
 
@@ -658,7 +658,7 @@ about any women's names.
 
 
 <line>
-[indistinct chattering]
+<nonVerbComm>[indistinct chattering]</nonVerbComm>
 
 </line>
 
@@ -772,7 +772,7 @@ I've got two words for you: Karen Kitada.
 
 
 <line>
-[Princess Carolyn]
+<nonVerbComm>[Princess Carolyn]</nonVerbComm>
 
 <ital>The creator of </ital>Med School Nights?
 
@@ -780,7 +780,7 @@ I've got two words for you: Karen Kitada.
 
 
 <line>
-[Amanda] <ital>Karen Kitada created</ital>
+<nonVerbComm>[Amanda]</nonVerbComm> <ital>Karen Kitada created</ital>
 
 <ital>the number one show on network television</ital>
 
@@ -820,7 +820,7 @@ Med School Nights: The Day Shift.
 
 
 <line>
-[Amanda]<ital> She took three weeks off.</ital>
+<nonVerbComm>[Amanda]</nonVerbComm><ital> She took three weeks off.</ital>
 
 <ital>Three weeks!</ital>
 
@@ -882,7 +882,7 @@ for my magazine.
 
 
 <line>
-[Amanda's voice echoes]
+<nonVerbComm>[Amanda's voice echoes]</nonVerbComm>
 
 <ital>Kitada, Kitada, Kitada...</ital>
 
@@ -890,13 +890,13 @@ for my magazine.
 
 
 <line>
-[line ringing]
+<nonVerbComm>[line ringing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[ringing]
+<nonVerbComm>[ringing]</nonVerbComm>
 
 </line>
 
@@ -924,7 +924,7 @@ for an hour or so.
 
 
 <line>
-[Todd] <ital>Well, you know</ital>
+<nonVerbComm>[Todd]</nonVerbComm> <ital>Well, you know</ital>
 
 <ital>how much I love hanging out</ital>
 
@@ -958,7 +958,7 @@ Um... okay?
 
 
 <line>
-[Amanda's voice echoes]
+<nonVerbComm>[Amanda's voice echoes]</nonVerbComm>
 
 <ital>Kitada, Kitada, Kitada, Kitada...</ital>
 
@@ -1054,7 +1054,7 @@ otherwise we'd just be "Women Who Do."
 
 
 <line>
-[phone rings]
+<nonVerbComm>[phone rings]</nonVerbComm>
 
 </line>
 
@@ -1068,7 +1068,7 @@ otherwise we'd just be "Women Who Do."
 
 
 <line>
-[Amanda's voice echoes]
+<nonVerbComm>[Amanda's voice echoes]</nonVerbComm>
 
 <ital>Kitada, Kitada...</ital>
 
@@ -1116,7 +1116,7 @@ something stupid like...
 
 
 <line>
-[stammers] Light Socket.
+<nonVerbComm>[stammers]</nonVerbComm> Light Socket.
 
 </line>
 
@@ -1376,7 +1376,7 @@ and planning to you.
 
 
 <line>
-[photographer] Okay! Watch the birdie!
+<nonVerbComm>[photographer]</nonVerbComm> Okay! Watch the birdie!
 
 One, two, three!
 
@@ -1392,13 +1392,13 @@ One, two, three!
 
 
 <line>
-[baby crying]
+<nonVerbComm>[baby crying]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Amanda's voice echoes]
+<nonVerbComm>[Amanda's voice echoes]</nonVerbComm>
 
 <ital>Kitada, Kitada, Kitada, Kitada...</ital>
 
@@ -1440,25 +1440,25 @@ One, two, three!
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[baby crying]
+<nonVerbComm>[baby crying]</nonVerbComm>
 
 </line>
 
 
 <line>
-[groaning]
+<nonVerbComm>[groaning]</nonVerbComm>
 
 </line>
 
@@ -1520,7 +1520,7 @@ you want to die on?
 
 
 <line>
-[giggles]
+<nonVerbComm>[giggles]</nonVerbComm>
 
 </line>
 
@@ -1596,7 +1596,7 @@ Here's a little trick I learned.
 
 
 <line>
-[coos]
+<nonVerbComm>[coos]</nonVerbComm>
 
 </line>
 
@@ -1610,7 +1610,7 @@ Here's a little trick I learned.
 
 
 <line>
-[Amanda's voices echoing]
+<nonVerbComm>[Amanda's voices echoing]</nonVerbComm>
 
 <ital>Kitada, Kitada, Kitada...</ital>
 
@@ -1618,7 +1618,7 @@ Here's a little trick I learned.
 
 
 <line>
-[phone ringing, beeps]
+<nonVerbComm>[phone ringing, beeps]</nonVerbComm>
 
 </line>
 
@@ -1712,7 +1712,7 @@ went missing in this wheat field?
 
 
 <line>
-[groans angrily]
+<nonVerbComm>[groans angrily]</nonVerbComm>
 
 </line>
 
@@ -1844,7 +1844,7 @@ but Fugees like Fiji and frigid Fuji--
 
 
 <line>
-[phone rings]
+<nonVerbComm>[phone rings]</nonVerbComm>
 
 </line>
 
@@ -1912,7 +1912,7 @@ come collect your "favorite client"?
 
 
 <line>
-[groans, sighs]
+<nonVerbComm>[groans, sighs]</nonVerbComm>
 
 </line>
 
@@ -2048,7 +2048,7 @@ and put it back together.
 
 
 <line>
-[Flea's voice echoes] <ital>Put it</ital>
+<nonVerbComm>[Flea's voice echoes]</nonVerbComm> <ital>Put it</ital>
 
 <ital>back together, put it back together...</ital>
 
@@ -2118,13 +2118,13 @@ Well, I guess a quick break couldn't hurt.
 
 
 <line>
-[camera shutter clicks]
+<nonVerbComm>[camera shutter clicks]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -2160,7 +2160,7 @@ Huh? What? [gasps]
 
 
 <line>
-[groans] Why am I here? Mr. Peanutbutter?
+<nonVerbComm>[groans]</nonVerbComm> Why am I here? Mr. Peanutbutter?
 
 </line>
 
@@ -2196,7 +2196,7 @@ Go home.
 
 
 <line>
-[Pickles] And I was like,
+<nonVerbComm>[Pickles]</nonVerbComm> And I was like,
 
 "Ilana, you have to be my maid of honor."
 
@@ -2226,7 +2226,7 @@ she's the Ilana I'm talking about.
 
 
 <line>
-[sighs] Okay.
+<nonVerbComm>[sighs]</nonVerbComm> Okay.
 
 </line>
 
@@ -2238,7 +2238,7 @@ she's the Ilana I'm talking about.
 
 
 <line>
-[pants] He's home, he's home,
+<nonVerbComm>[pants]</nonVerbComm> He's home, he's home,
 
 he's home, he's home, he's home!
 
@@ -2252,7 +2252,7 @@ Say hi to the Pickle Pack, Mister!
 
 
 <line>
-[chuckles] Hello, internet!
+<nonVerbComm>[chuckles]</nonVerbComm> Hello, internet!
 
 </line>
 
@@ -2712,7 +2712,7 @@ inconsiderate Doug!
 
 
 <line>
-[indistinct chattering]
+<nonVerbComm>[indistinct chattering]</nonVerbComm>
 
 </line>
 
@@ -2736,7 +2736,7 @@ Uh...
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -2776,7 +2776,7 @@ and it infects everything.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -2824,7 +2824,7 @@ Oh, my God, my baby!
 
 
 <line>
-[line ringing]
+<nonVerbComm>[line ringing]</nonVerbComm>
 
 </line>
 
@@ -2902,7 +2902,7 @@ Well...
 
 
 <line>
-[phone ringing]
+<nonVerbComm>[phone ringing]</nonVerbComm>
 
 </line>
 
@@ -2994,7 +2994,7 @@ I'll be right back.
 
 
 <line>
-[phone rings]
+<nonVerbComm>[phone rings]</nonVerbComm>
 
 </line>
 
@@ -3198,7 +3198,7 @@ whatever works best for you.
 
 
 <line>
-[baby giggles]
+<nonVerbComm>[baby giggles]</nonVerbComm>
 
 </line>
 
@@ -3256,7 +3256,7 @@ Todd, we need a show. We can't air a baby!
 
 
 <line>
-[blows raspberry]
+<nonVerbComm>[blows raspberry]</nonVerbComm>
 
 </line>
 
@@ -3372,7 +3372,7 @@ Yeah, like I said, we'll take anything.
 
 
 <line>
-[phone ringing, beeps]
+<nonVerbComm>[phone ringing, beeps]</nonVerbComm>
 
 </line>
 
@@ -3444,13 +3444,13 @@ Okay. Thank you.
 
 
 <line>
-[elevator dings]
+<nonVerbComm>[elevator dings]</nonVerbComm>
 
 </line>
 
 
 <line>
-[pants] Did I miss it?
+<nonVerbComm>[pants]</nonVerbComm> Did I miss it?
 
 Is the Do-It-All-Ball all done?
 
@@ -3478,7 +3478,7 @@ Shut up!
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3652,7 +3652,7 @@ Uh... no.
 
 
 <line>
-[cries]
+<nonVerbComm>[cries]</nonVerbComm>
 
 </line>
 
@@ -3686,7 +3686,7 @@ when they got interviewed by Regis.
 
 
 <line>
-[both giggling]
+<nonVerbComm>[both giggling]</nonVerbComm>
 
 </line>
 
@@ -3706,7 +3706,7 @@ Isn't that right...
 
 
 <line>
-[mellow music playing]
+<nonVerbComm>[mellow music playing]</nonVerbComm>
 
 
 

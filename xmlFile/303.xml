@@ -12,7 +12,7 @@
 
 
 <line>
-[<ital>Horsin' Around</ital> music playing]
+<nonVerbComm>[<ital>Horsin' Around</ital> music playing]</nonVerbComm>
 
 </line>
 
@@ -54,7 +54,7 @@ But you're welcome to check my pockets.
 
 
 <line>
-[man] <ital>Oh, I was a Goober, all right.</ital>
+<nonVerbComm>[man]</nonVerbComm> <ital>Oh, I was a Goober, all right.</ital>
 
 <ital>I Goobed with the best of 'em.</ital>
 
@@ -200,7 +200,7 @@ a fun, sexy time for the whole family.
 
 
 <line>
-[funky electronic music]
+<nonVerbComm>[funky electronic music]</nonVerbComm>
 
 </line>
 
@@ -212,7 +212,7 @@ a fun, sexy time for the whole family.
 
 
 <line>
-[piano music playing]
+<nonVerbComm>[piano music playing]</nonVerbComm>
 
 </line>
 
@@ -554,7 +554,7 @@ Ugh. Could you imagine having a kid? Eww.
 
 
 <line>
-[phone] <ital>I'm Terry Gross</ital>
+<nonVerbComm>[phone]</nonVerbComm> <ital>I'm Terry Gross</ital>
 
 <ital>and this is your ring tone.</ital>
 
@@ -576,7 +576,7 @@ Ugh. Could you imagine having a kid? Eww.
 
 
 <line>
-[Lethem] <ital>You know, Terry,</ital>
+<nonVerbComm>[Lethem]</nonVerbComm> <ital>You know, Terry,</ital>
 
 <ital>growing up in Brooklyn,</ital>
 
@@ -704,19 +704,19 @@ I gotta go right now.
 
 
 <line>
-[auto-dialing]
+<nonVerbComm>[auto-dialing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighing]
+<nonVerbComm>[sighing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[phone ringing]
+<nonVerbComm>[phone ringing]</nonVerbComm>
 
 </line>
 
@@ -976,7 +976,7 @@ and grab that thing I need to get.
 
 
 <line>
-[creaking]
+<nonVerbComm>[creaking]</nonVerbComm>
 
 </line>
 
@@ -1332,7 +1332,7 @@ Wait, was there a skunk in here?
 
 
 <line>
-[Princess Carolyn groans]
+<nonVerbComm>[Princess Carolyn groans]</nonVerbComm>
 
 </line>
 
@@ -1498,7 +1498,7 @@ for murder.
 
 
 <line>
-[gasps]
+<nonVerbComm>[gasps]</nonVerbComm>
 
 </line>
 
@@ -1678,7 +1678,7 @@ What am I supposed to tweet?
 
 
 <line>
-[grunts] Bat Mitzvah in Brentwood.
+<nonVerbComm>[grunts]</nonVerbComm> Bat Mitzvah in Brentwood.
 
 Hashtag Jewish stuff.
 
@@ -1800,7 +1800,7 @@ Maybe she knows something.
 
 
 <line>
-[Goober] <ital>Get off the phone,</ital>
+<nonVerbComm>[Goober]</nonVerbComm> <ital>Get off the phone,</ital>
 
 <ital>Skinny Gina. You're on the clock.</ital>
 
@@ -1808,7 +1808,7 @@ Maybe she knows something.
 
 
 <line>
-[female] <ital>I gotta go.</ital>
+<nonVerbComm>[female]</nonVerbComm> <ital>I gotta go.</ital>
 
 </line>
 
@@ -1888,7 +1888,7 @@ until after they lift the chair?
 
 
 <line>
-[Todd]
+<nonVerbComm>[Todd]</nonVerbComm>
 
 Oh, I taste delicious.
 
@@ -1976,7 +1976,7 @@ Oh, yeah.
 
 
 <line>
-[shuddering]
+<nonVerbComm>[shuddering]</nonVerbComm>
 
 </line>
 
@@ -2004,7 +2004,7 @@ Hooray! Following instructions.
 
 
 <line>
-[dance music playing]
+<nonVerbComm>[dance music playing]</nonVerbComm>
 
 </line>
 
@@ -2496,7 +2496,7 @@ I am very famous.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -2750,7 +2750,7 @@ They're never coming back.
 
 
 <line>
-[cackling]
+<nonVerbComm>[cackling]</nonVerbComm>
 
 </line>
 
@@ -2926,7 +2926,7 @@ Ohh. Oh, my God.
 
 
 <line>
-[phone] <ital>I'm Terry Gross</ital>
+<nonVerbComm>[phone]</nonVerbComm> <ital>I'm Terry Gross</ital>
 
 <ital>and this is your ring tone.</ital>
 
@@ -3022,7 +3022,7 @@ Wicka-wicka-wicka--
 
 
 <line>
-[gasps] BoJack, you didn't kill Nadia.
+<nonVerbComm>[gasps]</nonVerbComm> BoJack, you didn't kill Nadia.
 
 BoJack did.
 
@@ -3088,7 +3088,7 @@ What? No, Goober.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -3356,7 +3356,7 @@ killer whale caper.
 
 
 <line>
-[BoJack] You're doing 50 in a 35.
+<nonVerbComm>[BoJack]</nonVerbComm> You're doing 50 in a 35.
 
 [Diane] Oh, God, you're right.
 
@@ -3370,7 +3370,7 @@ I feel so alive.
 
 
 <line>
-[groans] This letter is really graphic.
+<nonVerbComm>[groans]</nonVerbComm> This letter is really graphic.
 
 </line>
 
@@ -3552,7 +3552,7 @@ We'll talk about this in the morning.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 

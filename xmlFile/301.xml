@@ -12,7 +12,7 @@
 
 
 <line>
-[BoJack]
+<nonVerbComm>[BoJack]</nonVerbComm>
 
 <ital>It's a dream come true.</ital>
 
@@ -20,7 +20,7 @@
 
 
 <line>
-[woman] <ital>You've been trying to get</ital>
+<nonVerbComm>[woman]</nonVerbComm> <ital>You've been trying to get</ital>
 
 <ital>this movie made for 20 years.</ital>
 
@@ -42,7 +42,7 @@ Sitting here? In this hotel room?
 
 
 <line>
-[clears throat]
+<nonVerbComm>[clears throat]</nonVerbComm>
 
 </line>
 
@@ -78,7 +78,7 @@ Dream come true.
 
 
 <line>
-[woman]
+<nonVerbComm>[woman]</nonVerbComm>
 
 <ital>How long you in New York for?</ital>
 
@@ -236,7 +236,7 @@ to help win you an Oscar.
 
 
 <line>
-[woman]
+<nonVerbComm>[woman]</nonVerbComm>
 
 <ital>What's it like to play Seabiscuit?</ital>
 
@@ -252,7 +252,7 @@ You'd have to ask Tobey Maguire.
 
 
 <line>
-[man] Your last attempt at a comeback
+<nonVerbComm>[man]</nonVerbComm> Your last attempt at a comeback
 
 was <ital>The BoJack Horseman Show.</ital>
 
@@ -266,7 +266,7 @@ Pass.
 
 
 <line>
-[man 2] People still see you as the guy
+<nonVerbComm>[man 2]</nonVerbComm> People still see you as the guy
 
 from that sucky show from the '90s.
 
@@ -390,7 +390,7 @@ so I'm not going to mince words.
 
 
 <line>
-[funky electronic music]
+<nonVerbComm>[funky electronic music]</nonVerbComm>
 
 </line>
 
@@ -500,7 +500,7 @@ Remember Octomom?
 
 
 <line>
-[Ana] <ital>Diane, are you stalling</ital>
+<nonVerbComm>[Ana]</nonVerbComm> <ital>Diane, are you stalling</ital>
 
 <ital>for Princess Carolyn?</ital>
 
@@ -516,7 +516,7 @@ was Joseph Stalin. [chuckles]
 
 
 <line>
-[BoJack] <ital>If anything,</ital>
+<nonVerbComm>[BoJack]</nonVerbComm> <ital>If anything,</ital>
 
 <ital>Stalin was ruthlessly efficient.</ital>
 
@@ -554,7 +554,7 @@ at the press junket?
 
 
 <line>
-[sighs] Endless. It was like
+<nonVerbComm>[sighs]</nonVerbComm> Endless. It was like
 
 the second act of a Judd Apatow movie.
 
@@ -598,7 +598,7 @@ I assumed you would know.
 
 
 <line>
-[clears throat]
+<nonVerbComm>[clears throat]</nonVerbComm>
 
 </line>
 
@@ -692,7 +692,7 @@ you were an authority on deal size.
 
 
 <line>
-[Princess Carolyn]
+<nonVerbComm>[Princess Carolyn]</nonVerbComm>
 
 <ital>Listen, Moussaka...</ital>
 
@@ -742,7 +742,7 @@ Now, pajamas.
 
 
 <line>
-[Ana] <ital>BoJack smuggled</ital>
+<nonVerbComm>[Ana]</nonVerbComm> <ital>BoJack smuggled</ital>
 
 <ital>a young boy into his room.</ital>
 
@@ -770,7 +770,7 @@ Bagels? Pizza?
 
 
 <line>
-[sniffing] Hipsters? Urine?
+<nonVerbComm>[sniffing]</nonVerbComm> Hipsters? Urine?
 
 </line>
 
@@ -796,7 +796,7 @@ Beats me. Sometimes I just am places.
 
 
 <line>
-[moaning]
+<nonVerbComm>[moaning]</nonVerbComm>
 
 I can't get to sleep. Oh, God.
 
@@ -804,7 +804,7 @@ I can't get to sleep. Oh, God.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -816,7 +816,7 @@ Yeah, that'll do it.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -830,7 +830,7 @@ Because I'm about to get cereal.
 
 
 <line>
-[moans]
+<nonVerbComm>[moans]</nonVerbComm>
 
 </line>
 
@@ -856,19 +856,19 @@ in our cave of possibilities.
 
 
 <line>
-[sighs and snores]
+<nonVerbComm>[sighs and snores]</nonVerbComm>
 
 </line>
 
 
 <line>
-[grunting]
+<nonVerbComm>[grunting]</nonVerbComm>
 
 </line>
 
 
 <line>
-[monitor beeps]
+<nonVerbComm>[monitor beeps]</nonVerbComm>
 
 </line>
 
@@ -932,7 +932,7 @@ and youthful exuberance.
 
 
 <line>
-[Todd]
+<nonVerbComm>[Todd]</nonVerbComm>
 
 <ital>Hooray, compliment!</ital>
 
@@ -994,7 +994,7 @@ I think I'm already in it.
 
 
 <line>
-[annoyed throat clearing]
+<nonVerbComm>[annoyed throat clearing]</nonVerbComm>
 
 </line>
 
@@ -1046,7 +1046,7 @@ but I'm kinda in New York right now.
 
 
 <line>
-[Peanutbutter] <ital>New York City?!</ital>
+<nonVerbComm>[Peanutbutter]</nonVerbComm> <ital>New York City?!</ital>
 
 <ital>They make such great salsa.</ital>
 
@@ -1132,7 +1132,7 @@ I'm just on the conference call.
 
 
 <line>
-[Todd] <ital>As Carrie from</ital>
+<nonVerbComm>[Todd]</nonVerbComm> <ital>As Carrie from</ital>
 
 Sex and the City <ital>might say...</ital>
 
@@ -1148,7 +1148,7 @@ Sex and the City <ital>might say...</ital>
 
 
 <line>
-[chuckling] <ital>That is going to lead</ital>
+<nonVerbComm>[chuckling]</nonVerbComm> <ital>That is going to lead</ital>
 
 <ital>to some wackiness. You mark my words.</ital>
 
@@ -1170,7 +1170,7 @@ We're in the middle of a meeting!
 
 
 <line>
-[Peanutbutter] G<ital>ot to go.</ital>
+<nonVerbComm>[Peanutbutter]</nonVerbComm> G<ital>ot to go.</ital>
 
 <ital>It's always "Rabbit, Run" with this guy.</ital>
 
@@ -1248,7 +1248,7 @@ telling robots that can make me big!
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -1582,13 +1582,13 @@ but I do... a little, miss sunshine.
 
 
 <line>
-[sobbing]
+<nonVerbComm>[sobbing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[gasps and growls]
+<nonVerbComm>[gasps and growls]</nonVerbComm>
 
 </line>
 
@@ -2084,7 +2084,7 @@ for being in <ital>Jerry Maguire.</ital>
 
 
 <line>
-[ringtone] <ital>♪ Who's that dog?</ital>
+<nonVerbComm>[ringtone]</nonVerbComm> <ital>♪ Who's that dog?</ital>
 
 <ital>Mister Peanutbutter ♪</ital>
 
@@ -2168,7 +2168,7 @@ Go get us some money.
 
 
 <line>
-[barking]
+<nonVerbComm>[barking]</nonVerbComm>
 
 </line>
 
@@ -2294,7 +2294,7 @@ Don't do it.
 
 
 <line>
-[both laughing]
+<nonVerbComm>[both laughing]</nonVerbComm>
 
 </line>
 
@@ -2560,13 +2560,13 @@ You know, because they have horns.
 
 
 <line>
-[both chuckling]
+<nonVerbComm>[both chuckling]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Todd] <ital>When I first came to New York</ital>
+<nonVerbComm>[Todd]</nonVerbComm> <ital>When I first came to New York</ital>
 
 <ital>I was young, full of hope.</ital>
 
@@ -2614,7 +2614,7 @@ I just came out here to commit suicide.
 
 
 <line>
-[chuckling and kissing]
+<nonVerbComm>[chuckling and kissing]</nonVerbComm>
 
 </line>
 
@@ -2662,7 +2662,7 @@ I want to get natural!
 
 
 <line>
-[laughing]
+<nonVerbComm>[laughing]</nonVerbComm>
 
 </line>
 
@@ -2740,13 +2740,13 @@ And they're off!
 
 
 <line>
-[chuckling]
+<nonVerbComm>[chuckling]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Heather] You like that, little horsie?
+<nonVerbComm>[Heather]</nonVerbComm> You like that, little horsie?
 
 [BoJack] Yeah.
 
@@ -2778,7 +2778,7 @@ And they're off!
 
 
 <line>
-[Heather] You want me to touch it,
+<nonVerbComm>[Heather]</nonVerbComm> You want me to touch it,
 
 blow on it, sing it happy birthday?
 
@@ -2786,7 +2786,7 @@ blow on it, sing it happy birthday?
 
 
 <line>
-[BoJack]
+<nonVerbComm>[BoJack]</nonVerbComm>
 
 No, no, just...
 
@@ -2816,7 +2816,7 @@ Just forget it. You ruined it.
 
 
 <line>
-[exhales]
+<nonVerbComm>[exhales]</nonVerbComm>
 
 </line>
 
@@ -2918,7 +2918,7 @@ you have to keep moving forward?
 
 
 <line>
-[sighs] Yeah.
+<nonVerbComm>[sighs]</nonVerbComm> Yeah.
 
 </line>
 
@@ -2998,13 +2998,13 @@ In the morning, everything will be okay.
 
 
 <line>
-[lamp clicks]
+<nonVerbComm>[lamp clicks]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3018,7 +3018,7 @@ In the morning, everything will be okay.
 
 
 <line>
-[moans]
+<nonVerbComm>[moans]</nonVerbComm>
 
 </line>
 
@@ -3030,7 +3030,7 @@ Oh, shit.
 
 
 <line>
-[cell phone vibrating]
+<nonVerbComm>[cell phone vibrating]</nonVerbComm>
 
 </line>
 
@@ -3056,7 +3056,7 @@ I'm calling from the future.
 
 
 <line>
-[drowsily] Is that BoJack Horseman?
+<nonVerbComm>[drowsily]</nonVerbComm> Is that BoJack Horseman?
 
 What is this, a crossover episode?
 
@@ -3166,7 +3166,7 @@ Spoiler from the future, you suck.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -3236,7 +3236,7 @@ You will not <ital>believe </ital>the night I had.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -3254,7 +3254,7 @@ I'm lost again!
 
 
 <line>
-[Peanutbutter]
+<nonVerbComm>[Peanutbutter]</nonVerbComm>
 
 <ital>All right, Oxnard.</ital>
 
@@ -3428,7 +3428,7 @@ in spaghetti strainers for this show.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3720,7 +3720,7 @@ the kind of work that I can be proud of.
 
 
 <line>
-[cheers and applause]
+<nonVerbComm>[cheers and applause]</nonVerbComm>
 
 </line>
 

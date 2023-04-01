@@ -12,7 +12,7 @@
 
 
 <line>
-[upbeat music]
+<nonVerbComm>[upbeat music]</nonVerbComm>
 
 </line>
 
@@ -24,13 +24,13 @@
 
 
 <line>
-[birds chirping]
+<nonVerbComm>[birds chirping]</nonVerbComm>
 
 </line>
 
 
 <line>
-[beeping]
+<nonVerbComm>[beeping]</nonVerbComm>
 
 </line>
 
@@ -56,7 +56,7 @@ Never travel without it.
 
 
 <line>
-[man] Stop holding up the line,
+<nonVerbComm>[man]</nonVerbComm> Stop holding up the line,
 
 idiot!
 
@@ -72,7 +72,7 @@ He's just doing his job.
 
 
 <line>
-[man] It's your fault, dummy.
+<nonVerbComm>[man]</nonVerbComm> It's your fault, dummy.
 
 </line>
 
@@ -166,7 +166,7 @@ I'll dance.
 
 
 <line>
-[gulping]
+<nonVerbComm>[gulping]</nonVerbComm>
 
 </line>
 
@@ -324,13 +324,13 @@ a full body cavity search.
 
 
 <line>
-[glove snaps]
+<nonVerbComm>[glove snaps]</nonVerbComm>
 
 </line>
 
 
 <line>
-[funky electronic music]
+<nonVerbComm>[funky electronic music]</nonVerbComm>
 
 </line>
 
@@ -342,13 +342,13 @@ a full body cavity search.
 
 
 <line>
-[swinging jazz music]
+<nonVerbComm>[swinging jazz music]</nonVerbComm>
 
 </line>
 
 
 <line>
-[grim music]
+<nonVerbComm>[grim music]</nonVerbComm>
 
 </line>
 
@@ -548,7 +548,7 @@ and call a less functional--
 
 
 <line>
-[shouting] What are you talking about?
+<nonVerbComm>[shouting]</nonVerbComm> What are you talking about?
 
 </line>
 
@@ -894,7 +894,7 @@ Oh, yeah.
 
 
 <line>
-[sneezes]
+<nonVerbComm>[sneezes]</nonVerbComm>
 
 </line>
 
@@ -940,7 +940,7 @@ I love our friendship.
 
 
 <line>
-[groaning]
+<nonVerbComm>[groaning]</nonVerbComm>
 
 </line>
 
@@ -1014,7 +1014,7 @@ you got the wrong house.
 
 
 <line>
-[all] Aww.
+<nonVerbComm>[all]</nonVerbComm> Aww.
 
 </line>
 
@@ -1074,7 +1074,7 @@ lives here.
 
 
 <line>
-[all] Hooray!
+<nonVerbComm>[all]</nonVerbComm> Hooray!
 
 </line>
 
@@ -1308,7 +1308,7 @@ I know.
 
 
 <line>
-[distant sirens]
+<nonVerbComm>[distant sirens]</nonVerbComm>
 
 </line>
 
@@ -1382,7 +1382,7 @@ Hello.
 
 
 <line>
-[in Boston accent]
+<nonVerbComm>[in Boston accent]</nonVerbComm>
 
 Hey, yeah, Deedee came home!
 
@@ -1404,7 +1404,7 @@ Come here!
 
 
 <line>
-[Boston accent] Game.
+<nonVerbComm>[Boston accent]</nonVerbComm> Game.
 
 Watching the game.
 
@@ -1442,13 +1442,13 @@ Buckner break your heart?
 
 
 <line>
-[both] 100 times.
+<nonVerbComm>[both]</nonVerbComm> 100 times.
 
 </line>
 
 
 <line>
-[Boston accent] Aw, thank God
+<nonVerbComm>[Boston accent]</nonVerbComm> Aw, thank God
 
 you're here, Deedee.
 
@@ -1484,7 +1484,7 @@ Yo, Deedee, get me a beer.
 
 
 <line>
-[Boston accent] Yeah,
+<nonVerbComm>[Boston accent]</nonVerbComm> Yeah,
 
 make that two, Deedee.
 
@@ -1516,7 +1516,7 @@ what the Pats dragged in.
 
 
 <line>
-[Boston accent] Oh, hello!
+<nonVerbComm>[Boston accent]</nonVerbComm> Oh, hello!
 
 Look who decided to come home.
 
@@ -1798,7 +1798,7 @@ he was wicked hung over.
 
 
 <line>
-[laugh]
+<nonVerbComm>[laugh]</nonVerbComm>
 
 In your face, Dad!
 
@@ -1812,7 +1812,7 @@ In your face forever.
 
 
 <line>
-[Todd] <ital>Welcome to the home</ital>
+<nonVerbComm>[Todd]</nonVerbComm> <ital>Welcome to the home</ital>
 
 <ital>of David Boreanaz,</ital>
 
@@ -1912,19 +1912,19 @@ something again?
 
 
 <line>
-[muffled talking]
+<nonVerbComm>[muffled talking]</nonVerbComm>
 
 </line>
 
 
 <line>
-[panting]
+<nonVerbComm>[panting]</nonVerbComm>
 
 </line>
 
 
 <line>
-[phone vibrates]
+<nonVerbComm>[phone vibrates]</nonVerbComm>
 
 <ital><music>♪ Dun-dun-dun-dun ♪</music></ital>
 
@@ -2030,7 +2030,7 @@ Who is this?
 
 
 <line>
-[psychedelic music]
+<nonVerbComm>[psychedelic music]</nonVerbComm>
 
 </line>
 
@@ -2050,7 +2050,7 @@ Diane!
 
 
 <line>
-[sigh]
+<nonVerbComm>[sigh]</nonVerbComm>
 
 </line>
 
@@ -2176,7 +2176,7 @@ Come on!
 
 
 <line>
-[knock at door]
+<nonVerbComm>[knock at door]</nonVerbComm>
 
 </line>
 
@@ -2276,7 +2276,7 @@ where-- Is that Mila Kunis?
 
 
 <line>
-[all] Ooh!
+<nonVerbComm>[all]</nonVerbComm> Ooh!
 
 </line>
 
@@ -2298,7 +2298,7 @@ That stands for
 
 
 <line>
-[camera shutters clicking]
+<nonVerbComm>[camera shutters clicking]</nonVerbComm>
 
 </line>
 
@@ -2360,7 +2360,7 @@ Ben Affleck eats grapes.
 
 
 <line>
-[Ma] He don't eat grapes!
+<nonVerbComm>[Ma]</nonVerbComm> He don't eat grapes!
 
 </line>
 
@@ -2556,7 +2556,7 @@ I like your boutonnière.
 
 
 <line>
-[cries]
+<nonVerbComm>[cries]</nonVerbComm>
 
 </line>
 
@@ -2732,7 +2732,7 @@ stole second base.
 
 
 <line>
-[laughs] Hey!
+<nonVerbComm>[laughs]</nonVerbComm> Hey!
 
 He knows our things!
 
@@ -2770,7 +2770,7 @@ Whoo-hoo!
 
 
 <line>
-[all] Funeral!
+<nonVerbComm>[all]</nonVerbComm> Funeral!
 
 </line>
 
@@ -2826,7 +2826,7 @@ Mr. Boreanaz himself.
 
 
 <line>
-[all] Ohh!
+<nonVerbComm>[all]</nonVerbComm> Ohh!
 
 </line>
 
@@ -2844,7 +2844,7 @@ Have a Boreanderful day.
 
 
 <line>
-[somber organ music]
+<nonVerbComm>[somber organ music]</nonVerbComm>
 
 </line>
 
@@ -3054,7 +3054,7 @@ his house.
 
 
 <line>
-[horns honking]
+<nonVerbComm>[horns honking]</nonVerbComm>
 
 </line>
 
@@ -3396,7 +3396,7 @@ our loaner closet?
 
 
 <line>
-[upbeat music]
+<nonVerbComm>[upbeat music]</nonVerbComm>
 
 </line>
 
@@ -3464,7 +3464,7 @@ He's in the truck.
 
 
 <line>
-[horn honks]
+<nonVerbComm>[horn honks]</nonVerbComm>
 
 </line>
 
@@ -3644,7 +3644,7 @@ Diane's a freeloader?
 
 
 <line>
-[laughter]
+<nonVerbComm>[laughter]</nonVerbComm>
 
 </line>
 
@@ -3662,13 +3662,13 @@ BoJack helping?
 
 
 <line>
-[screams]
+<nonVerbComm>[screams]</nonVerbComm>
 
 </line>
 
 
 <line>
-[glass breaking]
+<nonVerbComm>[glass breaking]</nonVerbComm>
 
 </line>
 
@@ -3752,7 +3752,7 @@ No, no, no!
 
 
 <line>
-[Diane] Suck a dick, dumb shits!
+<nonVerbComm>[Diane]</nonVerbComm> Suck a dick, dumb shits!
 
 </line>
 
@@ -3902,7 +3902,7 @@ Ah, um...
 
 
 <line>
-[sirens blaring]
+<nonVerbComm>[sirens blaring]</nonVerbComm>
 
 </line>
 
@@ -4002,7 +4002,7 @@ how are things with you?
 
 
 <line>
-[Diane] <ital>Not good.</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>Not good.</ital>
 
 </line>
 
@@ -4370,7 +4370,7 @@ Uh-oh.
 
 
 <line>
-[upbeat music]
+<nonVerbComm>[upbeat music]</nonVerbComm>
 
 </line>
 
@@ -4428,7 +4428,7 @@ Is that a barrel of chum?
 
 
 <line>
-[screams]
+<nonVerbComm>[screams]</nonVerbComm>
 
 </line>
 
@@ -4460,13 +4460,13 @@ Okay.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[line rings]
+<nonVerbComm>[line rings]</nonVerbComm>
 
 </line>
 
@@ -4572,7 +4572,7 @@ Obviously.
 
 
 <line>
-[phone buzzes]
+<nonVerbComm>[phone buzzes]</nonVerbComm>
 
 </line>
 

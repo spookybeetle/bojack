@@ -12,7 +12,7 @@
 
 
 <line>
-[Princess Carolyn] <ital>I got into</ital>
+<nonVerbComm>[Princess Carolyn]</nonVerbComm> <ital>I got into</ital>
 
 <ital>this business because I love stories.</ital>
 
@@ -96,7 +96,7 @@ And it's about time this story was told.
 
 
 <line>
-[Flip] <ital>It's about Detective John Philbert,</ital>
+<nonVerbComm>[Flip]</nonVerbComm> <ital>It's about Detective John Philbert,</ital>
 
 <ital>a man from another time.</ital>
 
@@ -104,13 +104,13 @@ And it's about time this story was told.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Flip] <ital>But now he finds himself</ital>
+<nonVerbComm>[Flip]</nonVerbComm> <ital>But now he finds himself</ital>
 
 <ital>in a new time.</ital>
 
@@ -200,13 +200,13 @@ none of this was Hollyhock's fault.
 
 
 <line>
-[man] <ital>Goodbye, BoJack.</ital>
+<nonVerbComm>[man]</nonVerbComm> <ital>Goodbye, BoJack.</ital>
 
 </line>
 
 
 <line>
-[Flip] <ital>A time in which he is alone.</ital>
+<nonVerbComm>[Flip]</nonVerbComm> <ital>A time in which he is alone.</ital>
 
 </line>
 
@@ -234,7 +234,7 @@ Yeah. Except for the newts.
 
 
 <line>
-[theme music playing]
+<nonVerbComm>[theme music playing]</nonVerbComm>
 
 </line>
 
@@ -640,7 +640,7 @@ back to normal.
 
 
 <line>
-[The Horse]
+<nonVerbComm>[The Horse]</nonVerbComm>
 
 <ital>How was I supposed to Sha Na know</ital>
 
@@ -656,7 +656,7 @@ back to normal.
 
 
 <line>
-[Sabrina]
+<nonVerbComm>[Sabrina]</nonVerbComm>
 
 <ital>You're supposed to be my dad.</ital>
 
@@ -672,13 +672,13 @@ back to normal.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Sabrina]
+<nonVerbComm>[Sabrina]</nonVerbComm>
 
 <ital>You're the worst dad in the world!</ital>
 
@@ -686,7 +686,7 @@ back to normal.
 
 
 <line>
-[The Horse] <ital>Well, too bad</ital>
+<nonVerbComm>[The Horse]</nonVerbComm> <ital>Well, too bad</ital>
 
 <ital>I'm the only dad you got.</ital>
 
@@ -694,7 +694,7 @@ back to normal.
 
 
 <line>
-[Sabrina grunts]
+<nonVerbComm>[Sabrina grunts]</nonVerbComm>
 
 </line>
 
@@ -708,7 +708,7 @@ back to normal.
 
 
 <line>
-[The Horse] <ital>O.J. Simpson lawyer</ital>
+<nonVerbComm>[The Horse]</nonVerbComm> <ital>O.J. Simpson lawyer</ital>
 
 <ital>and DNA expert Barry Scheck?</ital>
 
@@ -724,7 +724,7 @@ back to normal.
 
 
 <line>
-[Scheck] <ital>I guess it ran out of... juice.</ital>
+<nonVerbComm>[Scheck]</nonVerbComm> <ital>I guess it ran out of... juice.</ital>
 
 </line>
 
@@ -750,7 +750,7 @@ Just take a message--
 
 
 <line>
-[Sabrina] <ital>Wait, wait!</ital>
+<nonVerbComm>[Sabrina]</nonVerbComm> <ital>Wait, wait!</ital>
 
 <ital>You're a DNA expert?</ital>
 
@@ -766,7 +766,7 @@ Just take a message--
 
 
 <line>
-[Scheck] <ital>Well, sometimes,</ital>
+<nonVerbComm>[Scheck]</nonVerbComm> <ital>Well, sometimes,</ital>
 
 <ital>DNA can be a tricky thing.</ital>
 
@@ -824,7 +824,7 @@ Just take a message--
 
 
 <line>
-[doorbell chimes]
+<nonVerbComm>[doorbell chimes]</nonVerbComm>
 
 </line>
 
@@ -1594,13 +1594,13 @@ Look, I'm trying to do you a favor here!
 
 
 <line>
-[door slams]
+<nonVerbComm>[door slams]</nonVerbComm>
 
 </line>
 
 
 <line>
-[panting]
+<nonVerbComm>[panting]</nonVerbComm>
 
 </line>
 
@@ -1660,7 +1660,7 @@ to your waiting room.
 
 
 <line>
-[music playing at faster tempo]
+<nonVerbComm>[music playing at faster tempo]</nonVerbComm>
 
 </line>
 
@@ -1674,7 +1674,7 @@ to your waiting room.
 
 
 <line>
-[grunting, groaning]
+<nonVerbComm>[grunting, groaning]</nonVerbComm>
 
 </line>
 
@@ -1702,7 +1702,7 @@ What are we gonna do, Todd?
 
 
 <line>
-[horn honking]
+<nonVerbComm>[horn honking]</nonVerbComm>
 
 </line>
 
@@ -1714,7 +1714,7 @@ Run. Ouchie! Ouchie!
 
 
 <line>
-[both panting]
+<nonVerbComm>[both panting]</nonVerbComm>
 
 </line>
 
@@ -2084,7 +2084,7 @@ What other of my things do you like?
 
 
 <line>
-[man] Wow, yeah!
+<nonVerbComm>[man]</nonVerbComm> Wow, yeah!
 
 </line>
 
@@ -2096,7 +2096,7 @@ Okay, so...
 
 
 <line>
-[snoring]
+<nonVerbComm>[snoring]</nonVerbComm>
 
 </line>
 
@@ -2114,7 +2114,7 @@ Hey.
 
 
 <line>
-[Jose] So the supplier said,
+<nonVerbComm>[Jose]</nonVerbComm> So the supplier said,
 
 "I really oughta give Iowa a try."
 
@@ -2240,7 +2240,7 @@ But for Hollyhock, please, listen.
 
 
 <line>
-[clears throat]
+<nonVerbComm>[clears throat]</nonVerbComm>
 
 </line>
 
@@ -2376,7 +2376,7 @@ I'm not even her father biologically.
 
 
 <line>
-[BoJack] <ital>I went to every hospital</ital>
+<nonVerbComm>[BoJack]</nonVerbComm> <ital>I went to every hospital</ital>
 
 <ital>and clerk house in L.A.</ital>
 
@@ -2602,7 +2602,7 @@ Right now.
 
 
 <line>
-[sighs] Okay.
+<nonVerbComm>[sighs]</nonVerbComm> Okay.
 
 </line>
 
@@ -2640,7 +2640,7 @@ and they have very healthy teeth.
 
 
 <line>
-[chuckles] Okay, but not really, right?
+<nonVerbComm>[chuckles]</nonVerbComm> Okay, but not really, right?
 
 </line>
 
@@ -2768,7 +2768,7 @@ Huh.
 
 
 <line>
-[doorbell chimes, whinnies]
+<nonVerbComm>[doorbell chimes, whinnies]</nonVerbComm>
 
 </line>
 
@@ -2866,7 +2866,7 @@ You want a drink?
 
 
 <line>
-[chuckles] Very much not so.
+<nonVerbComm>[chuckles]</nonVerbComm> Very much not so.
 
 </line>
 
@@ -3180,7 +3180,7 @@ this would go at all.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3194,7 +3194,7 @@ Back to normal, right?
 
 
 <line>
-[chuckles]
+<nonVerbComm>[chuckles]</nonVerbComm>
 
 </line>
 
@@ -3256,13 +3256,13 @@ But...
 
 
 <line>
-[voice breaks] I'm so tired of squinting.
+<nonVerbComm>[voice breaks]</nonVerbComm> I'm so tired of squinting.
 
 </line>
 
 
 <line>
-[crying]
+<nonVerbComm>[crying]</nonVerbComm>
 
 </line>
 
@@ -3332,7 +3332,7 @@ what they're saying.
 
 
 <line>
-[chuckles] You're too smart
+<nonVerbComm>[chuckles]</nonVerbComm> You're too smart
 
 for your own good.
 
@@ -3688,7 +3688,7 @@ But... I've never had a brother.
 
 
 <line>
-[man] <ital>Boxer versus raptor,</ital>
+<nonVerbComm>[man]</nonVerbComm> <ital>Boxer versus raptor,</ital>
 
 <ital><music>♪ Na-na na-na na-na na-na! ♪</music></ital>
 

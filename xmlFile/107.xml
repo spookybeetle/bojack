@@ -386,7 +386,7 @@ Do the damn commercial.
 
 
 <line>
-[cell phone vibrates]
+<nonVerbComm>[cell phone vibrates]</nonVerbComm>
 
 </line>
 
@@ -472,7 +472,7 @@ like, an hour ago.
 
 
 <line>
-[funky electronic music]
+<nonVerbComm>[funky electronic music]</nonVerbComm>
 
 </line>
 
@@ -746,13 +746,13 @@ to a young Buster Keaton,
 
 
 <line>
-[jazzy music]
+<nonVerbComm>[jazzy music]</nonVerbComm>
 
 </line>
 
 
 <line>
-[overlapping shouting]
+<nonVerbComm>[overlapping shouting]</nonVerbComm>
 
 </line>
 
@@ -978,7 +978,7 @@ Who knows?
 
 
 <line>
-[cell phone rings]
+<nonVerbComm>[cell phone rings]</nonVerbComm>
 
 </line>
 
@@ -1552,13 +1552,13 @@ She's gone.
 
 
 <line>
-[jazzy music]
+<nonVerbComm>[jazzy music]</nonVerbComm>
 
 </line>
 
 
 <line>
-[elevator bell dings]
+<nonVerbComm>[elevator bell dings]</nonVerbComm>
 
 </line>
 
@@ -2090,7 +2090,7 @@ are really sticky.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -2102,7 +2102,7 @@ Oh, God, am I blowing this?
 
 
 <line>
-[glass shatters]
+<nonVerbComm>[glass shatters]</nonVerbComm>
 
 </line>
 
@@ -2134,7 +2134,7 @@ while I use Laura.
 
 
 <line>
-[phone rings]
+<nonVerbComm>[phone rings]</nonVerbComm>
 
 </line>
 
@@ -2432,13 +2432,13 @@ is not a romantic comedy.
 
 
 <line>
-[sing-song] Bye.
+<nonVerbComm>[sing-song]</nonVerbComm> Bye.
 
 </line>
 
 
 <line>
-[dramatic music]
+<nonVerbComm>[dramatic music]</nonVerbComm>
 
 </line>
 
@@ -2556,7 +2556,7 @@ Mm.
 
 
 <line>
-[soft piano music]
+<nonVerbComm>[soft piano music]</nonVerbComm>
 
 </line>
 
@@ -2652,7 +2652,7 @@ She's gone.
 
 
 <line>
-[cell phone rings]
+<nonVerbComm>[cell phone rings]</nonVerbComm>
 
 </line>
 
@@ -2806,13 +2806,13 @@ I'll be at work.
 
 
 <line>
-[sing-song] Bye.
+<nonVerbComm>[sing-song]</nonVerbComm> Bye.
 
 </line>
 
 
 <line>
-[sing-song] Bye.
+<nonVerbComm>[sing-song]</nonVerbComm> Bye.
 
 </line>
 
@@ -2824,7 +2824,7 @@ Ugh.
 
 
 <line>
-[phone rings]
+<nonVerbComm>[phone rings]</nonVerbComm>
 
 </line>
 
@@ -2908,7 +2908,7 @@ Good night, Charlie.
 
 
 <line>
-[ringtone jingles]
+<nonVerbComm>[ringtone jingles]</nonVerbComm>
 
 </line>
 
@@ -2972,13 +2972,13 @@ are you, buddy?
 
 
 <line>
-[beeps off]
+<nonVerbComm>[beeps off]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3040,7 +3040,7 @@ Getting gelato?
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3146,13 +3146,13 @@ need to be alone right now.
 
 
 <line>
-[tires squealing]
+<nonVerbComm>[tires squealing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -3238,7 +3238,7 @@ for having feelings.
 
 
 <line>
-[cell phone vibrates]
+<nonVerbComm>[cell phone vibrates]</nonVerbComm>
 
 </line>
 
@@ -3334,7 +3334,7 @@ Whoa.
 
 
 <line>
-[honks horn]
+<nonVerbComm>[honks horn]</nonVerbComm>
 
 </line>
 
@@ -3394,7 +3394,7 @@ Not interested.
 
 
 <line>
-[phone beeps]
+<nonVerbComm>[phone beeps]</nonVerbComm>
 
 </line>
 
@@ -3630,7 +3630,7 @@ Congratulations.
 
 
 <line>
-[Charlie] Thank you, Dad.
+<nonVerbComm>[Charlie]</nonVerbComm> Thank you, Dad.
 
 </line>
 
@@ -3872,7 +3872,7 @@ Again, I am not a crow.
 
 
 <line>
-[jazzy music]
+<nonVerbComm>[jazzy music]</nonVerbComm>
 
 </line>
 
@@ -4130,7 +4130,7 @@ you know who'd be great?
 
 
 <line>
-[cell phone vibrates]
+<nonVerbComm>[cell phone vibrates]</nonVerbComm>
 
 </line>
 
@@ -4216,7 +4216,7 @@ Nothing matters.
 
 
 <line>
-[beep]
+<nonVerbComm>[beep]</nonVerbComm>
 
 </line>
 
@@ -4248,13 +4248,13 @@ Where else would I go?
 
 
 <line>
-[upbeat music]
+<nonVerbComm>[upbeat music]</nonVerbComm>
 
 </line>
 
 
 <line>
-[cell phone vibrates]
+<nonVerbComm>[cell phone vibrates]</nonVerbComm>
 
 </line>
 
@@ -4268,7 +4268,7 @@ Where else would I go?
 
 
 <line>
-[sighs] Thanks, phone.
+<nonVerbComm>[sighs]</nonVerbComm> Thanks, phone.
 
 </line>
 
@@ -4280,7 +4280,7 @@ Where else would I go?
 
 
 <line>
-[soft music]
+<nonVerbComm>[soft music]</nonVerbComm>
 
 </line>
 

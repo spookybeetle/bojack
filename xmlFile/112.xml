@@ -380,7 +380,7 @@ All that exists is what's ahead.
 
 
 <line>
-[wind whooshes]
+<nonVerbComm>[wind whooshes]</nonVerbComm>
 
 </line>
 
@@ -402,7 +402,7 @@ All that exists is what's ahead.
 
 
 <line>
-[funky electronic music]
+<nonVerbComm>[funky electronic music]</nonVerbComm>
 
 </line>
 
@@ -436,7 +436,7 @@ for his book <ital>One Trick Pony.</ital>
 
 
 <line>
-[woman] This is a first win
+<nonVerbComm>[woman]</nonVerbComm> This is a first win
 
 for BoJack Horseman
 
@@ -942,13 +942,13 @@ maybe get a little more naked,
 
 
 <line>
-[woman moaning and panting]
+<nonVerbComm>[woman moaning and panting]</nonVerbComm>
 
 </line>
 
 
 <line>
-[BoJack groans]
+<nonVerbComm>[BoJack groans]</nonVerbComm>
 
 </line>
 
@@ -1008,7 +1008,7 @@ about those oranges, huh?
 
 
 <line>
-[cell phone vibrates]
+<nonVerbComm>[cell phone vibrates]</nonVerbComm>
 
 </line>
 
@@ -1290,7 +1290,7 @@ Great.
 
 
 <line>
-[whistles gleefully]
+<nonVerbComm>[whistles gleefully]</nonVerbComm>
 
 </line>
 
@@ -1748,7 +1748,7 @@ I mean middle-aged adult.
 
 
 <line>
-[whispers] Shh. No, no, no.
+<nonVerbComm>[whispers]</nonVerbComm> Shh. No, no, no.
 
 Put it here. Put it here.
 
@@ -2008,7 +2008,7 @@ Named him Gabe.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -2256,7 +2256,7 @@ Great. Let's get to it.
 
 
 <line>
-[stilted] Hey,
+<nonVerbComm>[stilted]</nonVerbComm> Hey,
 
 ain't you that horse
 
@@ -2406,7 +2406,7 @@ it's the best day of my life.
 
 
 <line>
-[Lenny] You don't say no
+<nonVerbComm>[Lenny]</nonVerbComm> You don't say no
 
 to Spider-Man.
 
@@ -2414,7 +2414,7 @@ to Spider-Man.
 
 
 <line>
-[Kelsey] This movie
+<nonVerbComm>[Kelsey]</nonVerbComm> This movie
 
 is gonna be amazing.
 
@@ -2756,7 +2756,7 @@ What a great ide-- Aah!
 
 
 <line>
-[thud]
+<nonVerbComm>[thud]</nonVerbComm>
 
 </line>
 
@@ -2874,13 +2874,13 @@ for the rest of-- Aah!
 
 
 <line>
-[thud]
+<nonVerbComm>[thud]</nonVerbComm>
 
 </line>
 
 
 <line>
-[man] Hello.
+<nonVerbComm>[man]</nonVerbComm> Hello.
 
 </line>
 
@@ -2946,7 +2946,7 @@ that that was something smart.
 
 
 <line>
-[hip-hop music]
+<nonVerbComm>[hip-hop music]</nonVerbComm>
 
 </line>
 
@@ -3044,7 +3044,7 @@ What?
 
 
 <line>
-[dance music]
+<nonVerbComm>[dance music]</nonVerbComm>
 
 </line>
 
@@ -3250,7 +3250,7 @@ Aah!
 
 
 <line>
-[thud]
+<nonVerbComm>[thud]</nonVerbComm>
 
 </line>
 
@@ -3384,7 +3384,7 @@ I'll call you.
 
 
 <line>
-[cell phone beeps]
+<nonVerbComm>[cell phone beeps]</nonVerbComm>
 
 </line>
 
@@ -3712,7 +3712,7 @@ I know.
 
 
 <line>
-[girl on TV] <ital>Sorry we didn't</ital>
+<nonVerbComm>[girl on TV]</nonVerbComm> <ital>Sorry we didn't</ital>
 
 <ital>get you a birthday present.</ital>
 
@@ -3814,13 +3814,13 @@ I know.
 
 
 <line>
-[overlapping chatter]
+<nonVerbComm>[overlapping chatter]</nonVerbComm>
 
 </line>
 
 
 <line>
-[laughter]
+<nonVerbComm>[laughter]</nonVerbComm>
 
 </line>
 

@@ -12,25 +12,25 @@
 
 
 <line>
-[galloping]
+<nonVerbComm>[galloping]</nonVerbComm>
 
 </line>
 
 
 <line>
-[cellphone ringing]
+<nonVerbComm>[cellphone ringing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[notification chime]
+<nonVerbComm>[notification chime]</nonVerbComm>
 
 </line>
 
 
 <line>
-["A Horse With No Name" playing]
+<nonVerbComm>["A Horse With No Name" playing]</nonVerbComm>
 
 </line>
 
@@ -98,7 +98,7 @@
 
 
 <line>
-[notification chime]
+<nonVerbComm>[notification chime]</nonVerbComm>
 
 </line>
 
@@ -242,7 +242,7 @@
 
 
 <line>
-[theme music playing]
+<nonVerbComm>[theme music playing]</nonVerbComm>
 
 </line>
 
@@ -276,7 +276,7 @@
 
 
 <line>
-[sniffing]
+<nonVerbComm>[sniffing]</nonVerbComm>
 
 </line>
 
@@ -370,7 +370,7 @@ the sacrifices you make, Joseph.
 
 
 <line>
-[laughter]
+<nonVerbComm>[laughter]</nonVerbComm>
 
 </line>
 
@@ -510,13 +510,13 @@ of warm molasses.
 
 
 <line>
-[together] <ital><music>♪ But memories, they last ♪</music></ital>
+<nonVerbComm>[together]</nonVerbComm> <ital><music>♪ But memories, they last ♪</music></ital>
 
 </line>
 
 
 <line>
-[laughing]
+<nonVerbComm>[laughing]</nonVerbComm>
 
 </line>
 
@@ -550,7 +550,7 @@ I didn't know arrows had legs.
 
 
 <line>
-[laughter]
+<nonVerbComm>[laughter]</nonVerbComm>
 
 </line>
 
@@ -646,19 +646,19 @@ so don't forget to look far away sad.
 
 
 <line>
-[flashbulb pops]
+<nonVerbComm>[flashbulb pops]</nonVerbComm>
 
 </line>
 
 
 <line>
-[moaning]
+<nonVerbComm>[moaning]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs, mutters]
+<nonVerbComm>[sighs, mutters]</nonVerbComm>
 
 </line>
 
@@ -672,7 +672,7 @@ so don't forget to look far away sad.
 
 
 <line>
-[grunts]
+<nonVerbComm>[grunts]</nonVerbComm>
 
 </line>
 
@@ -836,19 +836,19 @@ and that totally changes things.
 
 
 <line>
-[laughs] All right! Ow!
+<nonVerbComm>[laughs]</nonVerbComm> All right! Ow!
 
 </line>
 
 
 <line>
-[groans] No!
+<nonVerbComm>[groans]</nonVerbComm> No!
 
 </line>
 
 
 <line>
-[grunting]
+<nonVerbComm>[grunting]</nonVerbComm>
 
 </line>
 
@@ -860,19 +860,19 @@ Ohhh!
 
 
 <line>
-[grunting]
+<nonVerbComm>[grunting]</nonVerbComm>
 
 </line>
 
 
 <line>
-[glass shattering]
+<nonVerbComm>[glass shattering]</nonVerbComm>
 
 </line>
 
 
 <line>
-[growling]
+<nonVerbComm>[growling]</nonVerbComm>
 
 </line>
 
@@ -962,13 +962,13 @@ Ow! [grunts]
 
 
 <line>
-[sighs and groans]
+<nonVerbComm>[sighs and groans]</nonVerbComm>
 
 </line>
 
 
 <line>
-[grunting]
+<nonVerbComm>[grunting]</nonVerbComm>
 
 </line>
 
@@ -1026,7 +1026,7 @@ your goddamn business?
 
 
 <line>
-[shuddering]
+<nonVerbComm>[shuddering]</nonVerbComm>
 
 </line>
 
@@ -1094,7 +1094,7 @@ Oh, Joseph, I failed him.
 
 
 <line>
-[doctor] <ital>This was bound to happen.</ital>
+<nonVerbComm>[doctor]</nonVerbComm> <ital>This was bound to happen.</ital>
 
 <ital>That's just show business.</ital>
 
@@ -1138,7 +1138,7 @@ for peeving off Hitler so bad.
 
 
 <line>
-[Giamatti] <ital>♪ Three little orphans</ital>
+<nonVerbComm>[Giamatti]</nonVerbComm> <ital>♪ Three little orphans</ital>
 
 <ital>One, two, three ♪</ital>
 
@@ -1152,7 +1152,7 @@ for peeving off Hitler so bad.
 
 
 <line>
-[ringing]
+<nonVerbComm>[ringing]</nonVerbComm>
 
 </line>
 
@@ -1174,7 +1174,7 @@ for peeving off Hitler so bad.
 
 
 <line>
-[sobbing]
+<nonVerbComm>[sobbing]</nonVerbComm>
 
 </line>
 
@@ -1200,7 +1200,7 @@ It's only ghosts here in the winter.
 
 
 <line>
-[rustling, hammering]
+<nonVerbComm>[rustling, hammering]</nonVerbComm>
 
 </line>
 
@@ -1212,7 +1212,7 @@ What? Wait.
 
 
 <line>
-[rattling]
+<nonVerbComm>[rattling]</nonVerbComm>
 
 </line>
 
@@ -1230,7 +1230,7 @@ That is a dick move, buddy!
 
 
 <line>
-[grunting]
+<nonVerbComm>[grunting]</nonVerbComm>
 
 </line>
 
@@ -1256,7 +1256,7 @@ Hey! Stop fixing my door, asshole!
 
 
 <line>
-[grunting]
+<nonVerbComm>[grunting]</nonVerbComm>
 
 Why did you fix this so good?
 
@@ -1310,7 +1310,7 @@ Uh... oh... oh, oh...
 
 
 <line>
-[scoffs] I believe
+<nonVerbComm>[scoffs]</nonVerbComm> I believe
 
 something got plastered.
 
@@ -1346,7 +1346,7 @@ you get some manners ta-day?"
 
 
 <line>
-[sighs] Let me get my toolkit.
+<nonVerbComm>[sighs]</nonVerbComm> Let me get my toolkit.
 
 </line>
 
@@ -1552,7 +1552,7 @@ That was the reaction I was going for.
 
 
 <line>
-[sander scraping]
+<nonVerbComm>[sander scraping]</nonVerbComm>
 
 </line>
 
@@ -1620,13 +1620,13 @@ Time's arrow marches.
 
 
 <line>
-[song melody, slowly]
+<nonVerbComm>[song melody, slowly]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sobbing, sighs]
+<nonVerbComm>[sobbing, sighs]</nonVerbComm>
 
 </line>
 
@@ -1672,13 +1672,13 @@ Take care, you two.
 
 
 <line>
-[panting]
+<nonVerbComm>[panting]</nonVerbComm>
 
 </line>
 
 
 <line>
-[tires screeching]
+<nonVerbComm>[tires screeching]</nonVerbComm>
 
 </line>
 
@@ -1752,13 +1752,13 @@ Oh. Uh, all right.
 
 
 <line>
-[Eddie] Oh, lordy.
+<nonVerbComm>[Eddie]</nonVerbComm> Oh, lordy.
 
 </line>
 
 
 <line>
-[chuckling]
+<nonVerbComm>[chuckling]</nonVerbComm>
 
 </line>
 
@@ -1828,7 +1828,7 @@ dumb fear of flying. See if I care.
 
 
 <line>
-["Stars &amp; Stripes Forever" playing]
+<nonVerbComm>["Stars &amp; Stripes Forever" playing]</nonVerbComm>
 
 </line>
 
@@ -1974,13 +1974,13 @@ Do not look up at the roof of that barn!
 
 
 <line>
-[grunts] Idiot.
+<nonVerbComm>[grunts]</nonVerbComm> Idiot.
 
 </line>
 
 
 <line>
-[playing melody]
+<nonVerbComm>[playing melody]</nonVerbComm>
 
 </line>
 
@@ -2012,7 +2012,7 @@ Do not look up at the roof of that barn!
 
 
 <line>
-[together] <ital><music>♪ But memories, they last ♪</music></ital>
+<nonVerbComm>[together]</nonVerbComm> <ital><music>♪ But memories, they last ♪</music></ital>
 
 </line>
 
@@ -2048,7 +2048,7 @@ Huh.
 
 
 <line>
-[together] <ital>♪ But thoughts of you</ital>
+<nonVerbComm>[together]</nonVerbComm> <ital>♪ But thoughts of you</ital>
 
 <ital>Haunt my heart ♪</ital>
 
@@ -2084,7 +2084,7 @@ Huh.
 
 
 <line>
-[Honey]
+<nonVerbComm>[Honey]</nonVerbComm>
 
 <ital><music>♪ Spring and autumn, up and down ♪</music></ital>
 
@@ -2092,7 +2092,7 @@ Huh.
 
 
 <line>
-[Eddie] <ital><music>♪ Up and down ♪</music></ital>
+<nonVerbComm>[Eddie]</nonVerbComm> <ital><music>♪ Up and down ♪</music></ital>
 
 </line>
 
@@ -2112,13 +2112,13 @@ Huh.
 
 
 <line>
-[together] <ital><music>♪ Maybe tomorrow, not tonight ♪</music></ital>
+<nonVerbComm>[together]</nonVerbComm> <ital><music>♪ Maybe tomorrow, not tonight ♪</music></ital>
 
 </line>
 
 
 <line>
-[light applause]
+<nonVerbComm>[light applause]</nonVerbComm>
 
 </line>
 
@@ -2140,7 +2140,7 @@ Huh.
 
 
 <line>
-[gulping] Ahh!
+<nonVerbComm>[gulping]</nonVerbComm> Ahh!
 
 </line>
 
@@ -2240,7 +2240,7 @@ I want to dance. I want to fly!
 
 
 <line>
-[sobbing]
+<nonVerbComm>[sobbing]</nonVerbComm>
 
 </line>
 
@@ -2384,7 +2384,7 @@ I'd do anything to feel alive.
 
 
 <line>
-[Eddie laughing]
+<nonVerbComm>[Eddie laughing]</nonVerbComm>
 
 </line>
 
@@ -2416,7 +2416,7 @@ who doesn't also think he's funny.
 
 
 <line>
-[grunts]
+<nonVerbComm>[grunts]</nonVerbComm>
 
 </line>
 
@@ -2504,7 +2504,7 @@ You're flying right now, asshole!
 
 
 <line>
-[gasps, groans]
+<nonVerbComm>[gasps, groans]</nonVerbComm>
 
 </line>
 
@@ -2604,7 +2604,7 @@ Aaaah!
 
 
 <line>
-[panting]
+<nonVerbComm>[panting]</nonVerbComm>
 
 </line>
 
@@ -2650,7 +2650,7 @@ I don't want to live!
 
 
 <line>
-[crying]
+<nonVerbComm>[crying]</nonVerbComm>
 
 </line>
 
@@ -2750,7 +2750,7 @@ I don't know how to be better, Joseph.
 
 
 <line>
-[panting]
+<nonVerbComm>[panting]</nonVerbComm>
 
 </line>
 
@@ -2764,7 +2764,7 @@ I don't know how to be better, Joseph.
 
 
 <line>
-[muffled gasp]
+<nonVerbComm>[muffled gasp]</nonVerbComm>
 
 </line>
 
@@ -2778,7 +2778,7 @@ Are you okay?
 
 
 <line>
-[panting] I don't know. I'm so sorry.
+<nonVerbComm>[panting]</nonVerbComm> I don't know. I'm so sorry.
 
 </line>
 
@@ -2792,7 +2792,7 @@ What's going on?
 
 
 <line>
-[BoJack] <ital>It's Michigan,</ital>
+<nonVerbComm>[BoJack]</nonVerbComm> <ital>It's Michigan,</ital>
 
 <ital>and it's beautiful here,</ital>
 
@@ -2908,7 +2908,7 @@ with him later.
 
 
 <line>
-[chuckling]
+<nonVerbComm>[chuckling]</nonVerbComm>
 
 </line>
 
@@ -2980,7 +2980,7 @@ and she'd like to meet you very much.
 
 
 <line>
-[note plays]
+<nonVerbComm>[note plays]</nonVerbComm>
 
 </line>
 
@@ -3036,7 +3036,7 @@ terrible things.
 
 
 <line>
-[sniffles, sighs]
+<nonVerbComm>[sniffles, sighs]</nonVerbComm>
 
 </line>
 
@@ -3064,7 +3064,7 @@ Why, I have half a mind...
 
 
 <line>
-[truck advancing, beeping]
+<nonVerbComm>[truck advancing, beeping]</nonVerbComm>
 
 </line>
 
@@ -3206,7 +3206,7 @@ suck a dick, dumbshit. [grunts]
 
 
 <line>
-[glass shatters]
+<nonVerbComm>[glass shatters]</nonVerbComm>
 
 </line>
 

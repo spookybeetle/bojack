@@ -12,7 +12,7 @@
 
 
 <line>
-[man] So you said let's do the show
+<nonVerbComm>[man]</nonVerbComm> So you said let's do the show
 
 about the horse,
 
@@ -28,7 +28,7 @@ about the horse,
 
 
 <line>
-[man] And I said,
+<nonVerbComm>[man]</nonVerbComm> And I said,
 
 "That's a terrible idea."
 
@@ -106,7 +106,7 @@ Plus, I'm too rad to be a dad.
 
 
 <line>
-[rhythmic grunting] Ooh!
+<nonVerbComm>[rhythmic grunting]</nonVerbComm> Ooh!
 
 </line>
 
@@ -126,7 +126,7 @@ And shake it up. Hah!
 
 
 <line>
-[klaxon blares]
+<nonVerbComm>[klaxon blares]</nonVerbComm>
 
 </line>
 
@@ -166,7 +166,7 @@ what I was doing to come inside.
 
 
 <line>
-[laughing]
+<nonVerbComm>[laughing]</nonVerbComm>
 
 </line>
 
@@ -188,7 +188,7 @@ You should have a character say,
 
 
 <line>
-[laughter]
+<nonVerbComm>[laughter]</nonVerbComm>
 
 </line>
 
@@ -422,19 +422,19 @@ Ohh...
 
 
 <line>
-[theme music playing]
+<nonVerbComm>[theme music playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Diane] <ital>Hey, BoJack, it's me again.</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>Hey, BoJack, it's me again.</ital>
 
 </line>
 
 
 <line>
-[yawns] Hmm?
+<nonVerbComm>[yawns]</nonVerbComm> Hmm?
 
 [groans]
 
@@ -458,7 +458,7 @@ Ohh...
 
 
 <line>
-[overlapping chatter]
+<nonVerbComm>[overlapping chatter]</nonVerbComm>
 
 </line>
 
@@ -484,7 +484,7 @@ you're thinking of Mr. Peanut.
 
 
 <line>
-[Diane] <ital>I don't know if you heard</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>I don't know if you heard</ital>
 
 </line>
 
@@ -642,7 +642,7 @@ Noted!
 
 
 <line>
-[Diane] <ital>Most women wouldn't like</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>Most women wouldn't like</ital>
 
 <ital>having their husband's ex-wife</ital>
 
@@ -750,7 +750,7 @@ and also for the future.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 Listen, I'm not feeling so hot.
 
@@ -868,7 +868,7 @@ for a BoJack Horseman--
 
 
 <line>
-[retching, clearing throat] Ugh!
+<nonVerbComm>[retching, clearing throat]</nonVerbComm> Ugh!
 
 </line>
 
@@ -1060,7 +1060,7 @@ And this cow likes getting tipped.
 
 
 <line>
-[Diane] <ital>Hey, BoJack, it's me again,</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>Hey, BoJack, it's me again,</ital>
 
 <ital>voicemail number 17.</ital>
 
@@ -1232,19 +1232,19 @@ to other young women all the time.
 
 
 <line>
-[moaning, slurping]
+<nonVerbComm>[moaning, slurping]</nonVerbComm>
 
 </line>
 
 
 <line>
-[doorbell rings]
+<nonVerbComm>[doorbell rings]</nonVerbComm>
 
 </line>
 
 
 <line>
-[gasps] Churro-flavored waffles!
+<nonVerbComm>[gasps]</nonVerbComm> Churro-flavored waffles!
 
 </line>
 
@@ -1258,7 +1258,7 @@ to other young women all the time.
 
 
 <line>
-[gasps]
+<nonVerbComm>[gasps]</nonVerbComm>
 
 </line>
 
@@ -1332,7 +1332,7 @@ So it's gonna take a miracle, huh?
 
 
 <line>
-[buzzer blaring]
+<nonVerbComm>[buzzer blaring]</nonVerbComm>
 
 </line>
 
@@ -1670,7 +1670,7 @@ Mic drop!
 
 
 <line>
-[Woodchuck]
+<nonVerbComm>[Woodchuck]</nonVerbComm>
 
 What the hell is he talking about?
 
@@ -1782,7 +1782,7 @@ it's a dem-ocracy.
 
 
 <line>
-[audience chants]
+<nonVerbComm>[audience chants]</nonVerbComm>
 
 Why won't Woodchuck race?
 
@@ -1964,7 +1964,7 @@ would never hoist me.
 
 
 <line>
-[Woodchuck] Unprecedented poppycock.
+<nonVerbComm>[Woodchuck]</nonVerbComm> Unprecedented poppycock.
 
 </line>
 
@@ -2026,7 +2026,7 @@ Do it for us.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -2184,13 +2184,13 @@ Hoo hoo hoo hoo! Whoo!
 
 
 <line>
-[chuckles] It tickles.
+<nonVerbComm>[chuckles]</nonVerbComm> It tickles.
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -2292,7 +2292,7 @@ to a ski race?
 
 
 <line>
-[chuckles] I didn't think
+<nonVerbComm>[chuckles]</nonVerbComm> I didn't think
 
 it would get this far.
 
@@ -2336,7 +2336,7 @@ Doggie-doggie what now?
 
 
 <line>
-[Diane] <ital>Hey, BoJack, it's me again.</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>Hey, BoJack, it's me again.</ital>
 
 </line>
 
@@ -2382,7 +2382,7 @@ so I can become the governor.
 
 
 <line>
-[Diane] Y<ital>ou'd say something like,</ital>
+<nonVerbComm>[Diane]</nonVerbComm> Y<ital>ou'd say something like,</ital>
 
 </line>
 
@@ -2410,7 +2410,7 @@ that's politics.
 
 
 <line>
-[Diane] <ital>Then you'd probably say,</ital>
+<nonVerbComm>[Diane]</nonVerbComm> <ital>Then you'd probably say,</ital>
 
 <ital>"A, that's not an old saying</ital>
 
@@ -2474,7 +2474,7 @@ This is so great!
 
 
 <line>
-[sighs] <ital>You know, it's funny,</ital>
+<nonVerbComm>[sighs]</nonVerbComm> <ital>You know, it's funny,</ital>
 
 <ital>because the last time I saw you</ital>
 
@@ -2522,7 +2522,7 @@ you <ital>told me that you needed me</ital>
 
 
 <line>
-[munching]
+<nonVerbComm>[munching]</nonVerbComm>
 
 </line>
 
@@ -2562,7 +2562,7 @@ Hey, get away! Get, get!
 
 
 <line>
-[gasping, choking]
+<nonVerbComm>[gasping, choking]</nonVerbComm>
 
 </line>
 
@@ -2744,7 +2744,7 @@ I love you.
 
 
 <line>
-[coughing]
+<nonVerbComm>[coughing]</nonVerbComm>
 
 </line>
 
@@ -2782,7 +2782,7 @@ Professor Thistlethorpe!
 
 
 <line>
-[weakly] Remember everything
+<nonVerbComm>[weakly]</nonVerbComm> Remember everything
 
 I taught you.
 
@@ -2812,7 +2812,7 @@ is to keep your legs ben...
 
 
 <line>
-[sobbing]
+<nonVerbComm>[sobbing]</nonVerbComm>
 
 </line>
 
@@ -2872,13 +2872,13 @@ I want to go inside and drink a cider.
 
 
 <line>
-[grunts, yelling]
+<nonVerbComm>[grunts, yelling]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Tom] Woodchuck, off to a great start.
+<nonVerbComm>[Tom]</nonVerbComm> Woodchuck, off to a great start.
 
 </line>
 
@@ -2910,7 +2910,7 @@ falling down technique.
 
 
 <line>
-[chuckles] Oh, wow, it's sparkly.
+<nonVerbComm>[chuckles]</nonVerbComm> Oh, wow, it's sparkly.
 
 </line>
 
@@ -2926,7 +2926,7 @@ and a little underboard with the glue.
 
 
 <line>
-[Ralph] "Let's move in together.
+<nonVerbComm>[Ralph]</nonVerbComm> "Let's move in together.
 
 I think I'm ready now."
 
@@ -3090,7 +3090,7 @@ Yes!
 
 
 <line>
-[grunting, yelling]
+<nonVerbComm>[grunting, yelling]</nonVerbComm>
 
 </line>
 
@@ -3136,7 +3136,7 @@ You served me well.
 
 
 <line>
-[gasps] Okay, all right, here we go.
+<nonVerbComm>[gasps]</nonVerbComm> Okay, all right, here we go.
 
 </line>
 
@@ -3154,25 +3154,25 @@ Ohh! [yelling]
 
 
 <line>
-[grunting, gasping]
+<nonVerbComm>[grunting, gasping]</nonVerbComm>
 
 </line>
 
 
 <line>
-[yelling]
+<nonVerbComm>[yelling]</nonVerbComm>
 
 </line>
 
 
 <line>
-[gasping]
+<nonVerbComm>[gasping]</nonVerbComm>
 
 </line>
 
 
 <line>
-[panting]
+<nonVerbComm>[panting]</nonVerbComm>
 
 </line>
 
@@ -3310,7 +3310,7 @@ They're swearing him in now.
 
 
 <line>
-[cheers and applause]
+<nonVerbComm>[cheers and applause]</nonVerbComm>
 
 </line>
 
@@ -3340,7 +3340,7 @@ So, can I not be governor?
 
 
 <line>
-[groaning and gasping]
+<nonVerbComm>[groaning and gasping]</nonVerbComm>
 
 </line>
 
@@ -3550,7 +3550,7 @@ let me hear what you want.
 
 
 <line>
-[chanting] Peanutbutter!
+<nonVerbComm>[chanting]</nonVerbComm> Peanutbutter!
 
 Peanutbutter!
 
@@ -3612,7 +3612,7 @@ Peanutbutter!
 
 
 <line>
-[line ringing]
+<nonVerbComm>[line ringing]</nonVerbComm>
 
 </line>
 
@@ -3642,7 +3642,7 @@ Peanutbutter!
 
 
 <line>
-[laughing]
+<nonVerbComm>[laughing]</nonVerbComm>
 
 </line>
 

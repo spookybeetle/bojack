@@ -102,7 +102,7 @@ It appears we are at an impasse.
 
 
 <line>
-[people clamoring]
+<nonVerbComm>[people clamoring]</nonVerbComm>
 
 </line>
 
@@ -140,25 +140,25 @@ a reservation at Little Dom's?
 
 
 <line>
-[car alarm blaring]
+<nonVerbComm>[car alarm blaring]</nonVerbComm>
 
 </line>
 
 
 <line>
-[theme song playing]
+<nonVerbComm>[theme song playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[birds chirping]
+<nonVerbComm>[birds chirping]</nonVerbComm>
 
 </line>
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -200,7 +200,7 @@ in this building who are counting on me.
 
 
 <line>
-[stammers] Of course.
+<nonVerbComm>[stammers]</nonVerbComm> Of course.
 
 </line>
 
@@ -228,7 +228,7 @@ without anyone seeing me?
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -298,7 +298,7 @@ Up!
 
 
 <line>
-[engine starts]
+<nonVerbComm>[engine starts]</nonVerbComm>
 
 </line>
 
@@ -346,7 +346,7 @@ Jack Twist, Jack nasty!"
 
 
 <line>
-[knocking on door]
+<nonVerbComm>[knocking on door]</nonVerbComm>
 
 </line>
 
@@ -596,19 +596,19 @@ Field trip to the organ market!
 
 
 <line>
-[wind howling]
+<nonVerbComm>[wind howling]</nonVerbComm>
 
 </line>
 
 
 <line>
-[dial tone blaring]
+<nonVerbComm>[dial tone blaring]</nonVerbComm>
 
 </line>
 
 
 <line>
-[thunder rumbles]
+<nonVerbComm>[thunder rumbles]</nonVerbComm>
 
 </line>
 
@@ -710,7 +710,7 @@ was not to be an assistant anymore.
 
 
 <line>
-[gasps] Princess Carolyn, I'll say to you
+<nonVerbComm>[gasps]</nonVerbComm> Princess Carolyn, I'll say to you
 
 what I said to David Levy
 
@@ -754,7 +754,7 @@ when I almost hit you with my car?
 
 
 <line>
-[chuckles] No! That was outside!
+<nonVerbComm>[chuckles]</nonVerbComm> No! That was outside!
 
 </line>
 
@@ -898,19 +898,19 @@ your commentary is very helpful.
 
 
 <line>
-[slurps]
+<nonVerbComm>[slurps]</nonVerbComm>
 
 </line>
 
 
 <line>
-[inhales, exhales]
+<nonVerbComm>[inhales, exhales]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -988,7 +988,7 @@ Please replenish me with another mar-gar.
 
 
 <line>
-["Toccata and Fugue in D Minor" plays]
+<nonVerbComm>["Toccata and Fugue in D Minor" plays]</nonVerbComm>
 
 </line>
 
@@ -1118,7 +1118,7 @@ who wants to live forever.
 
 
 <line>
-[organ plays]
+<nonVerbComm>[organ plays]</nonVerbComm>
 
 </line>
 
@@ -1182,7 +1182,7 @@ Yeah, give me the anesthesia.
 
 
 <line>
-[Diane] You could sneak in
+<nonVerbComm>[Diane]</nonVerbComm> You could sneak in
 
 during the party
 
@@ -1478,13 +1478,13 @@ to the hospital and wait?
 
 
 <line>
-[sighs] Okay. I'm in.
+<nonVerbComm>[sighs]</nonVerbComm> Okay. I'm in.
 
 </line>
 
 
 <line>
-[thunder rumbling]
+<nonVerbComm>[thunder rumbling]</nonVerbComm>
 
 </line>
 
@@ -1518,7 +1518,7 @@ grow into your role as strike captain.
 
 
 <line>
-[gasps] You know, there's an opening
+<nonVerbComm>[gasps]</nonVerbComm> You know, there's an opening
 
 at my company for a development exec.
 
@@ -1618,25 +1618,25 @@ and your troubles are over.
 
 
 <line>
-[breathes heavily, exhales]
+<nonVerbComm>[breathes heavily, exhales]</nonVerbComm>
 
 </line>
 
 
 <line>
-[thunder strikes]
+<nonVerbComm>[thunder strikes]</nonVerbComm>
 
 </line>
 
 
 <line>
-[groans, shrieks]
+<nonVerbComm>[groans, shrieks]</nonVerbComm>
 
 </line>
 
 
 <line>
-[both cackling]
+<nonVerbComm>[both cackling]</nonVerbComm>
 
 </line>
 
@@ -1692,7 +1692,7 @@ You're gonna love the new job.
 
 
 <line>
-[both] Hmm...
+<nonVerbComm>[both]</nonVerbComm> Hmm...
 
 </line>
 
@@ -1714,7 +1714,7 @@ Saoirse and Rescue.
 
 
 <line>
-[Turteltaub] Mm-hmm.
+<nonVerbComm>[Turteltaub]</nonVerbComm> Mm-hmm.
 
 </line>
 
@@ -1752,19 +1752,19 @@ and orchestrate your own great escape.
 
 
 <line>
-[Princess Carolyn chuckles]
+<nonVerbComm>[Princess Carolyn chuckles]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Turteltaub] Ooh.
+<nonVerbComm>[Turteltaub]</nonVerbComm> Ooh.
 
 </line>
 
 
 <line>
-[car horns honking]
+<nonVerbComm>[car horns honking]</nonVerbComm>
 
 </line>
 
@@ -1900,13 +1900,13 @@ and I haven't for several years now! Hey!
 
 
 <line>
-[both grunting]
+<nonVerbComm>[both grunting]</nonVerbComm>
 
 </line>
 
 
 <line>
-[speaking in Spanish]
+<nonVerbComm>[speaking in Spanish]</nonVerbComm>
 
 </line>
 
@@ -1930,7 +1930,7 @@ Uh... go ahead.
 
 
 <line>
-[indistinct chatter]
+<nonVerbComm>[indistinct chatter]</nonVerbComm>
 
 </line>
 
@@ -2234,7 +2234,7 @@ Why do you keep bringing me checks?
 
 
 <line>
-[glasses clanking]
+<nonVerbComm>[glasses clanking]</nonVerbComm>
 
 </line>
 
@@ -2246,7 +2246,7 @@ Uh... Doctor Champ?
 
 
 <line>
-[elevator dings]
+<nonVerbComm>[elevator dings]</nonVerbComm>
 
 </line>
 
@@ -2296,7 +2296,7 @@ putting ketchup on a hot dog.
 
 
 <line>
-[elevator dings]
+<nonVerbComm>[elevator dings]</nonVerbComm>
 
 </line>
 
@@ -2310,7 +2310,7 @@ putting ketchup on a hot dog.
 
 
 <line>
-[gasps] Ooh, wow. Hmm.
+<nonVerbComm>[gasps]</nonVerbComm> Ooh, wow. Hmm.
 
 </line>
 
@@ -2338,7 +2338,7 @@ Yes, sir.
 
 
 <line>
-[beeps]
+<nonVerbComm>[beeps]</nonVerbComm>
 
 </line>
 
@@ -2506,7 +2506,7 @@ because she's in a coma, right?
 
 
 <line>
-[sighs] Yeah.
+<nonVerbComm>[sighs]</nonVerbComm> Yeah.
 
 </line>
 
@@ -2526,7 +2526,7 @@ What are they talking about?
 
 
 <line>
-[groans] Chavezes! You got company!
+<nonVerbComm>[groans]</nonVerbComm> Chavezes! You got company!
 
 </line>
 
@@ -2538,7 +2538,7 @@ Get out of there now! Do you read me?
 
 
 <line>
-[Diane on radio] <ital>Hello? Hello?</ital>
+<nonVerbComm>[Diane on radio]</nonVerbComm> <ital>Hello? Hello?</ital>
 
 </line>
 
@@ -2568,7 +2568,7 @@ is for shopping center customers only.
 
 
 <line>
-[groans] Okay, fine, I'll buy a pretzel.
+<nonVerbComm>[groans]</nonVerbComm> Okay, fine, I'll buy a pretzel.
 
 </line>
 
@@ -2582,7 +2582,7 @@ is for shopping center customers only.
 
 
 <line>
-[Guy]<ital> Hey, Diane, get me a pretzel,</ital>
+<nonVerbComm>[Guy]</nonVerbComm><ital> Hey, Diane, get me a pretzel,</ital>
 
 <ital>too, please. Love you, okay?</ital>
 
@@ -2590,7 +2590,7 @@ is for shopping center customers only.
 
 
 <line>
-[Jorge gasps] Someone's coming.
+<nonVerbComm>[Jorge gasps]</nonVerbComm> Someone's coming.
 
 We have to go.
 
@@ -2676,13 +2676,13 @@ Um...
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -2772,7 +2772,7 @@ I get a promotion, too?
 
 
 <line>
-[Marv] Princess Carolyn,
+<nonVerbComm>[Marv]</nonVerbComm> Princess Carolyn,
 
 I'd love to give you a raise,
 
@@ -2832,7 +2832,7 @@ and report back where they pinch.
 
 
 <line>
-[gasps] Oh.
+<nonVerbComm>[gasps]</nonVerbComm> Oh.
 
 </line>
 
@@ -2926,7 +2926,7 @@ Well, this is my car.
 
 
 <line>
-[scoffs] So why did we walk
+<nonVerbComm>[scoffs]</nonVerbComm> So why did we walk
 
 three blocks in the rain?
 
@@ -3130,7 +3130,7 @@ Judah.
 
 
 <line>
-[clears throat]
+<nonVerbComm>[clears throat]</nonVerbComm>
 
 Todd, I, uh... owe you an apology.
 
@@ -3228,7 +3228,7 @@ Hmm...
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -3370,7 +3370,7 @@ And you ruin people who care about you.
 
 
 <line>
-[exhales] Well, best of luck.
+<nonVerbComm>[exhales]</nonVerbComm> Well, best of luck.
 
 </line>
 
@@ -3390,31 +3390,31 @@ I remember everything. I'm sober now.
 
 
 <line>
-[melancholic music playing]
+<nonVerbComm>[melancholic music playing]</nonVerbComm>
 
 </line>
 
 
 <line>
-[grunts]
+<nonVerbComm>[grunts]</nonVerbComm>
 
 </line>
 
 
 <line>
-[inhales, grunts]
+<nonVerbComm>[inhales, grunts]</nonVerbComm>
 
 </line>
 
 
 <line>
-[keys jangling]
+<nonVerbComm>[keys jangling]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 

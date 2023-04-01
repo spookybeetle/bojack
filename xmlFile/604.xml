@@ -12,7 +12,7 @@
 
 
 <line>
-[Pickles]<ital> Okay, guys,</ital>
+<nonVerbComm>[Pickles]</nonVerbComm><ital> Okay, guys,</ital>
 
 <ital>that is my cat eye tutorial.</ital>
 
@@ -66,7 +66,7 @@
 
 
 <line>
-[Franco] <ital>Demi!</ital>
+<nonVerbComm>[Franco]</nonVerbComm> <ital>Demi!</ital>
 
 </line>
 
@@ -96,7 +96,7 @@
 
 
 <line>
-[sighs] <ital>I'm sorry, I shouldn't be talking</ital>
+<nonVerbComm>[sighs]</nonVerbComm> <ital>I'm sorry, I shouldn't be talking</ital>
 
 <ital>about my personal life.</ital>
 
@@ -186,7 +186,7 @@
 
 
 <line>
-[barks and licks]
+<nonVerbComm>[barks and licks]</nonVerbComm>
 
 </line>
 
@@ -252,7 +252,7 @@
 
 
 <line>
-[automated voice] <ital>Closing. </ital>[clunks] 
+<nonVerbComm>[automated voice] <ital>Closing. </ital>[clunks]</nonVerbComm> 
 
 <ital>Thunder Room secure.</ital>
 
@@ -324,7 +324,7 @@
 
 
 <line>
-[sighs] <ital>I'm sure glad we're not like that,</ital>
+<nonVerbComm>[sighs]</nonVerbComm> <ital>I'm sure glad we're not like that,</ital>
 
 <ital>right, Mister?</ital>
 
@@ -370,7 +370,7 @@
 
 
 <line>
-[theme music playing]
+<nonVerbComm>[theme music playing]</nonVerbComm>
 
 </line>
 
@@ -384,7 +384,7 @@
 
 
 <line>
-[exhales]
+<nonVerbComm>[exhales]</nonVerbComm>
 
 </line>
 
@@ -492,7 +492,7 @@ He's here to keep me out of trouble.
 
 
 <line>
-[chuckles] Say, aren't you
+<nonVerbComm>[chuckles]</nonVerbComm> Say, aren't you
 
 one of those fainting goats?
 
@@ -500,7 +500,7 @@ one of those fainting goats?
 
 
 <line>
-[laughs] Only if I panic.
+<nonVerbComm>[laughs]</nonVerbComm> Only if I panic.
 
 </line>
 
@@ -544,7 +544,7 @@ to know me.
 
 
 <line>
-[chuckles] That sure is nerve-racking,
+<nonVerbComm>[chuckles]</nonVerbComm> That sure is nerve-racking,
 
 but the only thing that makes me panic
 
@@ -586,7 +586,7 @@ why I got invited to this party.
 
 
 <line>
-[Ruthie crying]
+<nonVerbComm>[Ruthie crying]</nonVerbComm>
 
 </line>
 
@@ -598,7 +598,7 @@ You know, I got a few TV ideas myself.
 
 
 <line>
-[chuckles] Franco, nobody wants to hear
+<nonVerbComm>[chuckles]</nonVerbComm> Franco, nobody wants to hear
 
 your time-travelling orthodontist pitch!
 
@@ -620,7 +620,7 @@ Oh, whoop. And a big one at that.
 
 
 <line>
-[inhales, exhales]
+<nonVerbComm>[inhales, exhales]</nonVerbComm>
 
 </line>
 
@@ -940,7 +940,7 @@ Everybody hide and stay quiet.
 
 
 <line>
-[slapping and groaning]
+<nonVerbComm>[slapping and groaning]</nonVerbComm>
 
 </line>
 
@@ -1122,7 +1122,7 @@ so racked with guilt I left the door open.
 
 
 <line>
-[muffled voice] Help! Please!
+<nonVerbComm>[muffled voice]</nonVerbComm> Help! Please!
 
 </line>
 
@@ -1462,13 +1462,13 @@ And they have never strayed. Unsubscribe!
 
 
 <line>
-[crying]
+<nonVerbComm>[crying]</nonVerbComm>
 
 </line>
 
 
 <line>
-[Diane grunts]
+<nonVerbComm>[Diane grunts]</nonVerbComm>
 
 </line>
 
@@ -1526,7 +1526,7 @@ Bedroom lights, on!
 
 
 <line>
-[crying, groaning]
+<nonVerbComm>[crying, groaning]</nonVerbComm>
 
 </line>
 
@@ -1538,7 +1538,7 @@ The wedding is off!
 
 
 <line>
-[sobbing]
+<nonVerbComm>[sobbing]</nonVerbComm>
 
 </line>
 
@@ -1586,7 +1586,7 @@ Oh, I have to talk to her! [pants]
 
 
 <line>
-[clamoring]
+<nonVerbComm>[clamoring]</nonVerbComm>
 
 </line>
 
@@ -1624,7 +1624,7 @@ But this... I just feel so stupid.
 
 
 <line>
-[knocks]
+<nonVerbComm>[knocks]</nonVerbComm>
 
 Hi. I know you are quite upset, but--
 
@@ -1672,7 +1672,7 @@ like a crying, pugly freak!
 
 
 <line>
-[Pickles] <ital>So, you're gonna want a mascara</ital>
+<nonVerbComm>[Pickles]</nonVerbComm> <ital>So, you're gonna want a mascara</ital>
 
 <ital>that really runs...</ital>
 
@@ -1750,7 +1750,7 @@ I think we're done here.
 
 
 <line>
-[cooing]
+<nonVerbComm>[cooing]</nonVerbComm>
 
 </line>
 
@@ -1786,7 +1786,7 @@ Ooh! Duck! [grunts]
 
 
 <line>
-[Mr. Peanutbutter whimpering]
+<nonVerbComm>[Mr. Peanutbutter whimpering]</nonVerbComm>
 
 </line>
 
@@ -1836,13 +1836,13 @@ I like to get high.
 
 
 <line>
-[gasps] Ruthie's a climber!
+<nonVerbComm>[gasps]</nonVerbComm> Ruthie's a climber!
 
 </line>
 
 
 <line>
-[panting]
+<nonVerbComm>[panting]</nonVerbComm>
 
 </line>
 
@@ -1854,7 +1854,7 @@ Just as I suspected.
 
 
 <line>
-[licks] Fresh drool. It's Ruthie.
+<nonVerbComm>[licks]</nonVerbComm> Fresh drool. It's Ruthie.
 
 </line>
 
@@ -1874,7 +1874,7 @@ Todd!
 
 
 <line>
-[sighs] So, I obviously can't
+<nonVerbComm>[sighs]</nonVerbComm> So, I obviously can't
 
 marry him, right?
 
@@ -1908,7 +1908,7 @@ What mouse?
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -2054,13 +2054,13 @@ Of course, right away!
 
 
 <line>
-[BoJack grunts]
+<nonVerbComm>[BoJack grunts]</nonVerbComm>
 
 </line>
 
 
 <line>
-[groans] Of course he'll make
+<nonVerbComm>[groans]</nonVerbComm> Of course he'll make
 
 my drink perfect.
 
@@ -2116,7 +2116,7 @@ What else has he been hiding from me?
 
 
 <line>
-[sighs] I mean, is it me?
+<nonVerbComm>[sighs]</nonVerbComm> I mean, is it me?
 
 Was I not good enough?
 
@@ -2124,7 +2124,7 @@ Was I not good enough?
 
 
 <line>
-[text popping]
+<nonVerbComm>[text popping]</nonVerbComm>
 
 </line>
 
@@ -2150,7 +2150,7 @@ In fact, why am I even in his house?
 
 
 <line>
-[groans] I'm going
+<nonVerbComm>[groans]</nonVerbComm> I'm going
 
 to a fancy-ass hotel.
 
@@ -2216,7 +2216,7 @@ Wait a minute! Why should I leave?
 
 
 <line>
-[grunting]
+<nonVerbComm>[grunting]</nonVerbComm>
 
 </line>
 
@@ -2230,7 +2230,7 @@ for all I care!
 
 
 <line>
-[text popping]
+<nonVerbComm>[text popping]</nonVerbComm>
 
 </line>
 
@@ -2286,13 +2286,13 @@ Boba Maker. Uh... boba make?
 
 
 <line>
-[whirs and squirts]
+<nonVerbComm>[whirs and squirts]</nonVerbComm>
 
 </line>
 
 
 <line>
-[automated voice]
+<nonVerbComm>[automated voice]</nonVerbComm>
 
 <ital>Would you like whipped cream?</ital>
 
@@ -2312,7 +2312,7 @@ Hey, so, uh, sobriety. How is it?
 
 
 <line>
-[scoffs] Impossible.
+<nonVerbComm>[scoffs]</nonVerbComm> Impossible.
 
 </line>
 
@@ -2346,7 +2346,7 @@ No. I need to go.
 
 
 <line>
-[Mr. Peanutbutter] Pickles? Precious?
+<nonVerbComm>[Mr. Peanutbutter]</nonVerbComm> Pickles? Precious?
 
 Possible point of complexity...
 
@@ -2360,7 +2360,7 @@ Son of a bitch.
 
 
 <line>
-[grunting]
+<nonVerbComm>[grunting]</nonVerbComm>
 
 </line>
 
@@ -2400,7 +2400,7 @@ I just wanted to circle back.
 
 
 <line>
-[music playing over earbuds]
+<nonVerbComm>[music playing over earbuds]</nonVerbComm>
 
 </line>
 
@@ -2442,7 +2442,7 @@ Where's the baby?
 
 
 <line>
-[glass shatters]
+<nonVerbComm>[glass shatters]</nonVerbComm>
 
 </line>
 
@@ -2462,7 +2462,7 @@ prepared exactly the way you want it!
 
 
 <line>
-[Princess Carolyn grunts]
+<nonVerbComm>[Princess Carolyn grunts]</nonVerbComm>
 
 </line>
 
@@ -2522,13 +2522,13 @@ It would not be improved by salsa.
 
 
 <line>
-[Pickles] Door, open!
+<nonVerbComm>[Pickles]</nonVerbComm> Door, open!
 
 </line>
 
 
 <line>
-[both gasp, grunting]
+<nonVerbComm>[both gasp, grunting]</nonVerbComm>
 
 </line>
 
@@ -2560,7 +2560,7 @@ Sunshine, I have your boba.
 
 
 <line>
-[Pickles] No whipped cream, I hope.
+<nonVerbComm>[Pickles]</nonVerbComm> No whipped cream, I hope.
 
 </line>
 
@@ -2590,7 +2590,7 @@ Intimately, rigorously, lengthily?
 
 
 <line>
-[inhales, exhales]
+<nonVerbComm>[inhales, exhales]</nonVerbComm>
 
 </line>
 
@@ -2754,13 +2754,13 @@ You are a bad dog!
 
 
 <line>
-[Pickles crying]
+<nonVerbComm>[Pickles crying]</nonVerbComm>
 
 </line>
 
 
 <line>
-[crying continues]
+<nonVerbComm>[crying continues]</nonVerbComm>
 
 </line>
 
@@ -2796,7 +2796,7 @@ No! [thuds]
 
 
 <line>
-[whirring]
+<nonVerbComm>[whirring]</nonVerbComm>
 
 </line>
 
@@ -2932,13 +2932,13 @@ Okay.
 
 
 <line>
-[both sigh, grunt]
+<nonVerbComm>[both sigh, grunt]</nonVerbComm>
 
 </line>
 
 
 <line>
-[normal voice] Is this mess
+<nonVerbComm>[normal voice]</nonVerbComm> Is this mess
 
 why you're moving to Chicago?
 
@@ -2946,7 +2946,7 @@ why you're moving to Chicago?
 
 
 <line>
-[normal voice] I told you,
+<nonVerbComm>[normal voice]</nonVerbComm> I told you,
 
 I'm moving for me.
 
@@ -3130,13 +3130,13 @@ like Cameron Diaz
 
 
 <line>
-[music playing over earbuds]
+<nonVerbComm>[music playing over earbuds]</nonVerbComm>
 
 </line>
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 

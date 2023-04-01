@@ -11,7 +11,7 @@
 
 
 <line>
-[Mr. Peanutbutter]
+<nonVerbComm>[Mr. Peanutbutter]</nonVerbComm>
 
 So, did you have a good birthday?
 
@@ -165,7 +165,7 @@ Now let's party!
 
 
 <line>
-[♪♪]
+<nonVerbComm>[♪♪]</nonVerbComm>
 
 </line>
 
@@ -441,7 +441,7 @@ Ooh!
 
 
 <line>
-[Carolyn]
+<nonVerbComm>[Carolyn]</nonVerbComm>
 
 I'd know that face anywhere.
 
@@ -563,13 +563,13 @@ It's because he's so sneaky.
 
 
 <line>
-[doorbell rings]
+<nonVerbComm>[doorbell rings]</nonVerbComm>
 
 </line>
 
 
 <line>
-[boy] Princess Carolyn.
+<nonVerbComm>[boy]</nonVerbComm> Princess Carolyn.
 
 </line>
 
@@ -695,7 +695,7 @@ Oh, nope.
 
 
 <line>
-[man on radio]
+<nonVerbComm>[man on radio]</nonVerbComm>
 
 <ital>It's </ital>A Prairie Home Companion.
 
@@ -709,7 +709,7 @@ Phone, I'm bored.
 
 
 <line>
-[phone]
+<nonVerbComm>[phone]</nonVerbComm>
 
 <ital>I am sorry to hear that, Todd.</ital>
 
@@ -897,7 +897,7 @@ Oh, um...
 
 
 <line>
-[phone 2] <ital>No, Todd's Phone.</ital>
+<nonVerbComm>[phone 2]</nonVerbComm> <ital>No, Todd's Phone.</ital>
 
 <ital>But I am in love... with you.</ital>
 
@@ -951,7 +951,7 @@ Oh, um...
 
 
 <line>
-[phone 2] <ital>We must do kisses</ital>
+<nonVerbComm>[phone 2]</nonVerbComm> <ital>We must do kisses</ital>
 
 <ital>to each other.</ital>
 
@@ -1005,7 +1005,7 @@ Okay.
 
 
 <line>
-[Kevin grunting]
+<nonVerbComm>[Kevin grunting]</nonVerbComm>
 
 </line>
 
@@ -1115,7 +1115,7 @@ Oh, ha, ha. Well, that's true. Okay.
 
 
 <line>
-[hums]
+<nonVerbComm>[hums]</nonVerbComm>
 
 </line>
 
@@ -1173,25 +1173,25 @@ out the window.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
 
 <line>
-[both phones]<ital> Kiss, kiss, kiss.</ital>
+<nonVerbComm>[both phones]</nonVerbComm><ital> Kiss, kiss, kiss.</ital>
 
 </line>
 
 
 <line>
-[phone beeps]
+<nonVerbComm>[phone beeps]</nonVerbComm>
 
 </line>
 
 
 <line>
-[phone 1] <ital>Todd, would you like to update</ital>
+<nonVerbComm>[phone 1]</nonVerbComm> <ital>Todd, would you like to update</ital>
 
 <ital>my operating system?</ital>
 
@@ -1685,7 +1685,7 @@ about this gardener
 
 
 <line>
-[Wanda] <ital>You wouldn't have</ital>
+<nonVerbComm>[Wanda]</nonVerbComm> <ital>You wouldn't have</ital>
 
 <ital>a bush of orchids.</ital>
 
@@ -1693,7 +1693,7 @@ about this gardener
 
 
 <line>
-[BoJack]
+<nonVerbComm>[BoJack]</nonVerbComm>
 
 <ital>You said this gardener was the best.</ital>
 
@@ -1701,7 +1701,7 @@ about this gardener
 
 
 <line>
-[Wanda] <ital>Okay, fine, all right,</ital>
+<nonVerbComm>[Wanda]</nonVerbComm> <ital>Okay, fine, all right,</ital>
 
 <ital>beautiful orchid bushes.</ital>
 
@@ -1931,7 +1931,7 @@ the middle of the road? Are you crazy?
 
 
 <line>
-[groaning and grunting]
+<nonVerbComm>[groaning and grunting]</nonVerbComm>
 
 </line>
 
@@ -1993,7 +1993,7 @@ I'll wait here, just me and my tunes.
 
 
 <line>
-[man on radio]
+<nonVerbComm>[man on radio]</nonVerbComm>
 
 <ital>It's </ital>A Prairie Home Companion...
 
@@ -2033,7 +2033,7 @@ I'll wait here, just me and my tunes.
 
 
 <line>
-[sighs]
+<nonVerbComm>[sighs]</nonVerbComm>
 
 </line>
 
@@ -2045,7 +2045,7 @@ Damn it.
 
 
 <line>
-[BoJack panting]
+<nonVerbComm>[BoJack panting]</nonVerbComm>
 
 </line>
 
@@ -2161,7 +2161,7 @@ A deer in arrears. Ha, ha.
 
 
 <line>
-[in English accent]
+<nonVerbComm>[in English accent]</nonVerbComm>
 
 What's that? She can't hear you.
 
@@ -2225,7 +2225,7 @@ Okay.
 
 
 <line>
-[shouting]
+<nonVerbComm>[shouting]</nonVerbComm>
 
 </line>
 
@@ -2475,7 +2475,7 @@ I told you. Some things take time.
 
 
 <line>
-[Carolyn] I'll take you home.
+<nonVerbComm>[Carolyn]</nonVerbComm> I'll take you home.
 
 </line>
 
@@ -2505,7 +2505,7 @@ Really. It just flew by.
 
 
 <line>
-[mumbling]
+<nonVerbComm>[mumbling]</nonVerbComm>
 
 </line>
 
@@ -2749,7 +2749,7 @@ Who's Ming?
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 </line>
 
@@ -2857,7 +2857,7 @@ Oh, sure. Fine. Just walk away.
 
 
 <line>
-[shouts]
+<nonVerbComm>[shouts]</nonVerbComm>
 
 </line>
 
@@ -3077,7 +3077,7 @@ I filled it up with Jell-O.
 
 
 <line>
-[Diane] Ah.
+<nonVerbComm>[Diane]</nonVerbComm> Ah.
 
 </line>
 
@@ -3095,7 +3095,7 @@ Would you believe I'm 35?
 
 
 <line>
-[chuckles]
+<nonVerbComm>[chuckles]</nonVerbComm>
 
 </line>
 
@@ -3457,7 +3457,7 @@ to go jump in that ball pit right now?
 
 
 <line>
-[Diane] Well, maybe a little.
+<nonVerbComm>[Diane]</nonVerbComm> Well, maybe a little.
 
 </line>
 

@@ -60,7 +60,7 @@ Yeah.
 
 
 <line>
-[man] <ital>Good morning, Hollywood.</ital>
+<nonVerbComm>[man]</nonVerbComm> <ital>Good morning, Hollywood.</ital>
 
 <ital>It's a beautiful morning in sunny 2007.</ital>
 
@@ -200,7 +200,7 @@ Yeah.
 
 
 <line>
-[funky electronic music]
+<nonVerbComm>[funky electronic music]</nonVerbComm>
 
 </line>
 
@@ -212,7 +212,7 @@ Yeah.
 
 
 <line>
-[pop music playing]
+<nonVerbComm>[pop music playing]</nonVerbComm>
 
 </line>
 
@@ -536,7 +536,7 @@ Jessica, obviously. I'm Jessica Biel?
 
 
 <line>
-[sighs] Girl from <ital>Seventh Heaven </ital>who
+<nonVerbComm>[sighs]</nonVerbComm> Girl from <ital>Seventh Heaven </ital>who
 
 took her clothes off for that magazine?
 
@@ -730,7 +730,7 @@ BoJack Horseman.
 
 
 <line>
-[laughing]
+<nonVerbComm>[laughing]</nonVerbComm>
 
 </line>
 
@@ -830,7 +830,7 @@ Hmm...
 
 
 <line>
-[doorbell rings]
+<nonVerbComm>[doorbell rings]</nonVerbComm>
 
 </line>
 
@@ -864,7 +864,7 @@ Are you trying to get me drunk?
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 You <ital>were </ital>trying to get me drunk.
 
@@ -962,7 +962,7 @@ from <ital>Horsin' Around?</ital>
 
 
 <line>
-[sighs] You see, this is why I don't
+<nonVerbComm>[sighs]</nonVerbComm> You see, this is why I don't
 
 go out amongst the not-famouses.
 
@@ -1088,7 +1088,7 @@ Jill Filipowicz.
 
 
 <line>
-[grunts]
+<nonVerbComm>[grunts]</nonVerbComm>
 
 </line>
 
@@ -1118,7 +1118,7 @@ Jill Filipowicz.
 
 
 <line>
-[both chuckling]
+<nonVerbComm>[both chuckling]</nonVerbComm>
 
 </line>
 
@@ -1210,7 +1210,7 @@ Cuddlywhiskers@harvard.edu.
 
 
 <line>
-[gasps]
+<nonVerbComm>[gasps]</nonVerbComm>
 
 </line>
 
@@ -1560,7 +1560,7 @@ No, I don't!
 
 
 <line>
-[chuckles]
+<nonVerbComm>[chuckles]</nonVerbComm>
 
 </line>
 
@@ -1634,7 +1634,7 @@ We did not make eye contact.
 
 
 <line>
-[man] <ital>Good morning, Los Angeles.</ital>
+<nonVerbComm>[man]</nonVerbComm> <ital>Good morning, Los Angeles.</ital>
 
 </line>
 
@@ -1646,7 +1646,7 @@ We did not make eye contact.
 
 
 <line>
-[man 2] <ital>Two months later?</ital>
+<nonVerbComm>[man 2]</nonVerbComm> <ital>Two months later?</ital>
 
 <ital>Two months later than what?</ital>
 
@@ -1654,7 +1654,7 @@ We did not make eye contact.
 
 
 <line>
-[man 1] <ital>Did I say two months later?</ital>
+<nonVerbComm>[man 1]</nonVerbComm> <ital>Did I say two months later?</ital>
 
 </line>
 
@@ -1840,7 +1840,7 @@ make it appeal to middle America.
 
 
 <line>
-[groans] That's the worst part of America.
+<nonVerbComm>[groans]</nonVerbComm> That's the worst part of America.
 
 </line>
 
@@ -1892,7 +1892,7 @@ Just lay on the notes.
 
 
 <line>
-[laughs] Our only note? No notes.
+<nonVerbComm>[laughs]</nonVerbComm> Our only note? No notes.
 
 </line>
 
@@ -1920,7 +1920,7 @@ as <ital>Horsin' Around.</ital>
 
 
 <line>
-[gulps]
+<nonVerbComm>[gulps]</nonVerbComm>
 
 </line>
 
@@ -2304,7 +2304,7 @@ Okay, best of luck.
 
 
 <line>
-[clears throat]
+<nonVerbComm>[clears throat]</nonVerbComm>
 
 </line>
 
@@ -2348,7 +2348,7 @@ I want to be an agent. I think I'm ready.
 
 
 <line>
-[groans] Again with this
+<nonVerbComm>[groans]</nonVerbComm> Again with this
 
 "I wanna be a female agent" thing.
 
@@ -2420,7 +2420,7 @@ to the mean woman who worked at the DMV.
 
 
 <line>
-[sighs] All I have is regrets.
+<nonVerbComm>[sighs]</nonVerbComm> All I have is regrets.
 
 </line>
 
@@ -2754,7 +2754,7 @@ I'm A with a circle around it,
 
 
 <line>
-[chuckling] Erica, you know you're not
+<nonVerbComm>[chuckling]</nonVerbComm> Erica, you know you're not
 
 allowed to vote in national elections.
 
@@ -2762,7 +2762,7 @@ allowed to vote in national elections.
 
 
 <line>
-[electronic music playing]
+<nonVerbComm>[electronic music playing]</nonVerbComm>
 
 </line>
 
@@ -2928,7 +2928,7 @@ Oh, shit.
 
 
 <line>
-[grunts]
+<nonVerbComm>[grunts]</nonVerbComm>
 
 Sorry.
 
@@ -2936,7 +2936,7 @@ Sorry.
 
 
 <line>
-[panting]
+<nonVerbComm>[panting]</nonVerbComm>
 
 </line>
 
@@ -3126,7 +3126,7 @@ this could be my next big break.
 
 
 <line>
-[groans]
+<nonVerbComm>[groans]</nonVerbComm>
 
 This podunk benefit is below us.
 
@@ -3188,7 +3188,7 @@ Biel with it.
 
 
 <line>
-[sobbing]
+<nonVerbComm>[sobbing]</nonVerbComm>
 
 </line>
 
@@ -3310,7 +3310,7 @@ And I was like, "Ooh! Validation."
 
 
 <line>
-[groans] This monkey suit is killing me.
+<nonVerbComm>[groans]</nonVerbComm> This monkey suit is killing me.
 
 </line>
 
@@ -3352,7 +3352,7 @@ as I'm saying it, isn't much of a joke.
 
 
 <line>
-[laughing]
+<nonVerbComm>[laughing]</nonVerbComm>
 
 </line>
 
@@ -3538,7 +3538,7 @@ in three, two, one.
 
 
 <line>
-[BoJack on TV]
+<nonVerbComm>[BoJack on TV]</nonVerbComm>
 
 <ital>Whassup, bitches?</ital>
 
