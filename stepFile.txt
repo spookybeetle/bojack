@@ -17,3 +17,7 @@ Bojack Horseman HTML => TXT => XML
 12. Find all music notes and put them in <music></music> tags ♪.+♪ (<music>\0</music>)
 13. Remove whatever this is ({\an8})
 14. Rename .txt extension to .xml extension.
+
+
+15. Manually open each xml file to find where <ital></ital> tags were not properly formatted. 
+16. Update schema to reflect addition of name tags and attributes. 

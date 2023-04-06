@@ -1,8 +1,10 @@
-# STAGE 2: LET'S WORK WITH SELECT DATA FROM XML, PULLED WITH XPATH
+# STAGE 5: LET'S CLEAN THIS UP: DEALING WITH MESSY NLP TAGGING
+# We will try adding an EntityRuler to guide spaCy.
 # pip install saxonche
 # The library above lets you read and pull data with XPath
 import os
 import spacy
+from spacy.pipeline import EntityRuler
 import re as regex
 from saxonche import PySaxonProcessor
 # ebb: The line above imports the PySaxonProcessor from SaxonCHE (free "home edition")
@@ -11,28 +13,40 @@ from saxonche import PySaxonProcessor
 
 # nlp = spacy.cli.download("en_core_web_lg")
 nlp = spacy.load('en_core_web_lg')
-# ebb: In the line above I'm loading one of the spaCy language models: use either _md or _lg.
-# If you change versions, you need to uncomment the line above and import it, and it can take
-# a little while to finish importing.
-# LOTR PROJECT NOTE: When I ran this with the _md language model, Frodo was being tagged as a PRODUCT.
-# The _lg model seemed more accurate (Frodo as PERSON)
 
-# workingDir = os.getcwd()
-# print("source-txt" + workingDir)
-#
-# insideDir = os.listdir(workingDir)
-# print(str(insideDir))
-#
-# CollPath = os.path.join(workingDir, '../source-xml')
-# print(CollPath)
 ###############################################################################
 ################################################################################
-# 1. ebb: CollPath can also simply be defined more simply as a relative path
-# defined from this Python file's location, like this, because you climb up one directory
-# and then down into your source XML files:
+# 1. ebb: Define the paths to the source collection and the target collection.
+# We can use a relative path defined from this Python file's location.
 ##################################################################################
-CollPath = '../../xmlFile'
+CollPath = '../../xmlFile/originalXML'
+TargetPath = '../../xmlFile/outputXML'
 
+#########################################################################################
+# ebb: After reading the sorted dictionary output, we know spaCy is making some mistakes.
+# So, here let's try adding an EntityRuler to customize spaCy's classification. We need
+# to configure this BEFORE we send the tokens off to nlp() for processing.
+##########################################################################################
+# Create the EntityRuler and set it so the ner comes after, so OUR rules take precedence
+# Sources:
+#   W. J. B. Mattingly: https://ner.pythonhumanities.com/02_01_spaCy_Entity_Ruler.html
+#   spaCy documentation on NER Entity Ruler: https://spacy.io/usage/rule-based-matching#entityruler
+
+config = {"spans_key": None, "annotate_ents": True, "overwrite": True, "validate": True}
+ruler = nlp.add_pipe("span_ruler", before="ner", config=config)
+# Notes: Mattingly has this: ruler = nlp.add_pipe("entity_ruler", after="ner", config={"validate": True})
+# But this only works when spaCy doesn't recognize a word / phrase as a named entity of any kind.
+# If it recognizes a named entity but tags it wrong, we correct it with the span_ruler, not the entity_ruler
+patterns = [
+    {"label": "Person", "pattern": "Bojack Horseman"},
+    {"label": "Person", "pattern": "Bojack"},
+{"label": "Person", "pattern": "BoJack"},
+{"label": "Person", "pattern": "Charlotte"},
+{"label": "ORG", "pattern": "What Time Is It Right Now"},
+{"label": "Person", "pattern": "Secretariat"},
+
+]
+ruler.add_patterns(patterns)
 
 # 3. Here, the function imports each individual file, one at a time
 # (received from the for-loop below.
@@ -54,82 +68,106 @@ def readTextFiles(filepath):
         # instead of a new string for every <p> element.
         # string = xpath.__str__()
         string = str(xpath)
-
-        # ebb: Using REGEX to remove element tags for the moment so they don't get involved in the NLP.
-        # elementsRemoved = regex.sub('<.+?>', '', xpath)
-        # ebb: Now I don't have to remove elements because I pulled a string value out of my XML.
-        # Should we remove the single quotation marks? Not sure. If we do, uncomment the next line:
-        # cleanedUp = string.replace("'", '')
-        # ebb: I noticed some sentences didn't have a space between end punctuation and the first word of the next sentence.
-        cleanedUp = regex.sub("(\.)([A-Z']])", "\1 \2", string)
-        # NOT REALLY DOING THIS, but just for illustration if we want to continue refining the input in multiple stages:
-        # cleanedUp = regex.sub("(\d)", "NUMBER", cleanedUp)
-        # print(cleanedUp)
+        # ebb: Doing some regex replacements to clean up punctuation issues that are getting in the way of the NER tagger
+        cleanedUp = regex.sub("_", " ", string)
+        cleanedUp = regex.sub("'([A-Z])]", " \1", cleanedUp)
+        cleanedUp = regex.sub("([.!?;'`])([A-Z'`]])", "\1 \2", cleanedUp)
+        # send to spaCy to collect nlp data on the big string
         tokens = nlp(cleanedUp)
-        # print(tokens)
-        listEntities = entitycollector(tokens)
+        # tokens = nlp.pipe(cleanedUp, disable=["tagger", "parser", "attribute_ruler", "lemmatizer"])
+
+        dictEntities = entitycollector(tokens)
         # ebb: The line above sends our nlp tokens to the named entity collector function.
         # THIS current function will receive and print a simple form of their output in the next line.
-        # print(listEntities)
-        return(listEntities)
+        print(f"{dictEntities=}")
+        return(dictEntities)
 
 #########################################################################################
 # ebb: NEXT AFTER RETURNING ALL THE ENTITIES
-# Remove duplicates (get the distinct values of the list of entities (DONE! below)
-# Output this information in a useful way (TO DO)
-# Map it back into the XML files (TO DO)
+# Remove duplicates (get the distinct values of the list of entities
+# Output this information in a useful way
+# Map it back into the XML files
+# GO LOOK AT 2. and 5. below: functions involved: assemblAllNames and xmlTagger
 ##########################################################################################
 
 # 4. ebb: The function below returns a simple list of named entities.
 # But on the way, we're printing out as much we can from spaCy's classification of named entities:
 def entitycollector(tokens):
-    with open('output.txt', 'w') as f:
-        entities = []
-        for entity in tokens.ents:
-        # if entity.label_ == "NORP" or entity.label_ == "LOC" or entity.label_=="GPE":
+    entities = {}
+    for ent in sorted(tokens.ents):
+        if ent.label_ == "LOC" or ent.label_=="FAC" or ent.label_=="ORG" or ent.label_=="GPE" or ent.label_=="NORP":
+            if not regex.match(r"\w*[.,!?;:']\w*", ent.text):
         # ebb: The line helps experiment with different spaCy named entity classifiers, in combination if you like:
         # When using it, remember to indent the next lines for the for loop.
-            # print(entity.text, entity.label_, spacy.explain(entity.label_))
-            entityInfo = [entity.text, entity.label_, spacy.explain(entity.label_)]
-            stringify = str(entityInfo)
-            print(stringify)
-            f.write(stringify)
-            f.write('\n')
-            entities.append(entity.text)
-        print(f"{entities=}")
-        return entities
+            # stringify = (ent.text + ': ' + ent.label_ + ': ' + spacy.explain(ent.label_) + '\n')
+            # stringify is a string-formatted version of this designed to provide an easily readable file output.
+            # print(f"{stringify=}")
+                entities[ent.text] = ent.label_
+    print(f"{entities=}")
+    return entities
     # ebb: Keep the return line in position at same indentation level as the definition of the entities variable.
 
 
-# 2. ebb: The for loop below is working with your CollPath, and going through each file inside,
+# 2. and 5. ebb: The for loop below is working with your CollPath, and going through each file inside,
 # and sending it up to readTextFiles, where the nlp processing will happen.
 def assembleAllNames(CollPath):
-    AllNames = []
+    AllNames = {}
     for file in os.listdir(CollPath):
         if file.endswith(".xml"):
             filepath = f"{CollPath}/{file}"
-            # print(filepath)
-            # print(readTextFiles(filepath))
-            eachFileList = readTextFiles(filepath)
-            print(eachFileList)
-            AllNames.append(eachFileList)
-    # print(AllNames)
-    # print(len(AllNames))
-    # ebb: Okay. Now let's return distinct values of this giant list!
-    # ebb: NOTE: AllNames is a list of 3 nested lists (one for each book of LOTR, or each turn of the for loop.
-    # We need to flatten the nested list before we can properly get distinct values from it.
-    # We'll use a list comprehension for that.
-    flatList = [element for innerList in AllNames for element in innerList]
-    # ebb: This strange looking thing in the line above is a "list comprehension". It unpacks elements from the 3 inner lists
-    # and organizes them out on the same level.
-    distinctNames = set(flatList)
-    # ebb: Converting a list to a set() removes duplicates from the list. Yay.
-    print(f"{distinctNames=}")
-    print('AllNames Count: ' + str(len(AllNames)) + ' : ' + 'Distinct Names Count: ' + str(len(distinctNames)) + ' : ' + 'flatList Count ' + str(len(flatList)))
-    with open('distNames.txt', 'w') as f:
-        f.write(str(distinctNames))
-    return distinctNames
+
+            eachFileDict = readTextFiles(filepath)
+            print(f"{eachFileDict=}")
+            AllNames.update(eachFileDict)
+            # ebb: The line above adds each file's new NLP data to the dictionary.
+
+    print(f"{AllNames=}")
+    AllNamesKeys = list(AllNames.keys())
+    AllNamesKeys.sort()
+    SortedDict =  {i: AllNames[i] for i in AllNamesKeys}
+    print(f"{SortedDict=}")
+    writeSortedEntries(SortedDict)
+        # ebb: The function call in the above line will print the file to a useful output for review.
+        # In a previous version of this file, we were printing the entire dictionary out to a file, and it was printing all the entries
+        # out in one extremely long line. So I defined a simple function that will
+        # output each entry as a string, line-by-line in the output file so the entries are easy
+        # to read and review. We keep the dictionary as key-value pairs to send on to the xmlTagger function.
+
+    for file in os.listdir(CollPath):
+        if file.endswith(".xml"):
+            sourcePath = f"{CollPath}/{file}"
+            eachFileData = xmlTagger(sourcePath, SortedDict)
+            # ebb: In the lines above, we send to the xmlTagger to add the nlp info as XML elements and attributes to the source files.
+    return eachFileData
+    # Python functions don't really need to have return lines, but we can set the return to the function's most important output.
+
+def writeSortedEntries(dictionary):
+    with open('distTrained-ORG-LOC-GPE-NORP.txt', 'w') as f:
+        for key, value in dictionary.items():
+            f.write(key + ' : ' + value + '\n')
+def xmlTagger(sourcePath, SortedDict):
+    with open(sourcePath, 'r', encoding='utf8') as f:
+        readFile = f.read()
+        stringFile = str(readFile)
+
+        # ebb: Get the current filename. We need to know it to write its new output version
+        filename = os.path.basename(f.name)
+        print(f"{filename=}")
+        targetFile = f"{TargetPath}/{filename}"
+        print(f"{targetFile=}")
+
+        # ebb: Work with stringFile variable to look for matches from the distinctNames set.
+        for key, val in SortedDict.items():
+            replacement = '<name type="' + val + '">' + key + '</name>'
+            # print(f"{replacement=}")
+            stringFile = stringFile.replace(key, replacement)
+            # print(f"{stringFile=}")
+
+        # ebb: Output goes in the taggedOutput directory: ../taggedOutput
+        with open(targetFile, 'w') as f:
+            f.write(stringFile)
 
 assembleAllNames(CollPath)
+
 # ebb: The functions are all initiated here now.
 # This just delivers the collection path up to the first function in the sequence.

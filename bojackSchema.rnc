@@ -4,5 +4,9 @@ start = script
 
 script = element script {title, line}
 
-title = element title {text}
-line = element line {text}
+title = element title {name, text}
+line = element line {name, text}
+
+name = element name {type}
+
+type = attribute type {text}
