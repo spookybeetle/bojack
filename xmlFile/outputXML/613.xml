@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>The Horny Unicorn - BoJack <name type="ORG">Horse</name>man</title>
+  <title><name type="PERSON">T</name>he Horny Unicorn - <name type="PERSON">Bo</name><name type="PERSON">Jack</name> <name type="ORG">Horse</name>man</title>
   
   
 
@@ -12,13 +12,13 @@
 
 
 <line>
-<nonVerbComm>[line ringing]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[line ringing]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-<nonVerbComm>[voicemail]</nonVerbComm> <ital>Hey, it's <name type="ORG">Hollyhock</name>.</ital>
+<nonVerbCo<name type="PERSON">mm</name>>[voicemail]</nonVerbCo<name type="PERSON">mm</name>> <ital>Hey, it's <name type="PERSON">Holly</name><name type="PERSON">ho</name>ck.</ital>
 
 </line>
 
@@ -32,7 +32,7 @@
 
 
 <line>
-Hey, <name type="ORG">Hollyhock</name>.
+Hey, <name type="PERSON">Holly</name><name type="PERSON">ho</name>ck.
 
 </line>
 
@@ -48,9 +48,9 @@ my last call, which is fine.
 <line>
 I just... I know you're going back
 
-to school soon,
+to sc<name type="PERSON">ho</name>ol soon,
 
-and you should know I won't be there.
+and you s<name type="PERSON">ho</name>uld know I won't be there.
 
 </line>
 
@@ -78,7 +78,7 @@ But I would love to talk.
 
 
 <line>
--It's BoJack.
+-It's <name type="PERSON">Bo</name><name type="PERSON">Jack</name>.
 
 -[beeps]
 
@@ -86,7 +86,7 @@ But I would love to talk.
 
 
 <line>
-<nonVerbComm>[man]</nonVerbComm> <ital>Welcome to Burritos and Mo!</ital>
+<nonVerbCo<name type="PERSON">mm</name>>[man]</nonVerbCo<name type="PERSON">mm</name>> <ital>Welcome to <name type="PERSON">Burritos</name> and <name type="PERSON">Mo</name>!</ital>
 
 <ital>Home of burritos and much, much mo!</ital>
 
@@ -96,13 +96,13 @@ But I would love to talk.
 <line>
 -Give me a large number three.
 
-<ital>-Oh, my God. Ellie! Look at the monitor.</ital>
+<ital>-Oh, my <name type="PERSON">God</name>. <name type="PERSON">Ellie</name>! <name type="PERSON">Lo</name>ok at the monitor.</ital>
 
 </line>
 
 
 <line>
-<ital>It's fricking BoJack <name type="ORG">Horse</name>man.</ital>
+<ital>It's fricking <name type="PERSON">Bo</name><name type="PERSON">Jack</name> <name type="ORG">Horse</name>man.</ital>
 
 <ital>Don't worry, I muted it.</ital>
 
@@ -110,7 +110,7 @@ But I would love to talk.
 
 
 <line>
--[Ellie] <ital>He looks like crap.</ital>
+-[<name type="PERSON">Ellie</name>] <ital>He looks like crap.</ital>
 
 <ital>-Yeah. His tie is all loosened up,</ital>
 
@@ -126,7 +126,7 @@ But I would love to talk.
 
 
 <line>
-<nonVerbComm>[Ellie]</nonVerbComm> <ital>Probably because he just came</ital>
+<nonVerbCo<name type="PERSON">mm</name>>[<name type="PERSON">Ellie</name>]</nonVerbCo<name type="PERSON">mm</name>> <ital>Probably because he just came</ital>
 
 <ital>from court. It's all over the news.</ital>
 
@@ -134,7 +134,7 @@ But I would love to talk.
 
 
 <line>
-<ital>He just settled with Sarah Lynn's family</ital>
+<ital>He just settled with <name type="PERSON">Sarah</name> <name type="PERSON">Lynn</name>'s family</ital>
 
 <ital>for five million dollars.</ital>
 
@@ -142,9 +142,9 @@ But I would love to talk.
 
 
 <line>
-<nonVerbComm>[man]</nonVerbComm> <ital>Makes sense. He seemed like</ital>
+<nonVerbCo<name type="PERSON">mm</name>>[man]</nonVerbCo<name type="PERSON">mm</name>> <ital><name type="PERSON">Ma</name>kes sense. He seemed like</ital>
 
-<ital>a real psycho in that interview</ital>
+<ital>a real psyc<name type="PERSON">ho</name> in that interview</ital>
 
 </line>
 
@@ -152,15 +152,15 @@ But I would love to talk.
 <line>
 <ital>-he did a few months back.</ital>
 
--Yeah. Guys.
+-Yeah. <name type="PERSON">Guy</name>s.
 
 </line>
 
 
 <line>
-<nonVerbComm>[Ellie]</nonVerbComm> <ital>I'm surprised he'd still</ital>
+<nonVerbCo<name type="PERSON">mm</name>>[<name type="PERSON">Ellie</name>]</nonVerbCo<name type="PERSON">mm</name>> <ital>I'm surprised he'd still</ital>
 
-<ital>wanna show his face in public.</ital>
+<ital>wanna s<name type="PERSON">ho</name>w his face in public.</ital>
 
 </line>
 
@@ -174,7 +174,7 @@ But I would love to talk.
 
 
 <line>
-<ital>-The cover of every magazine.</ital>
+<ital>-<name type="PERSON">T</name>he cover of every ma<name type="PERSON">ga</name>zine.</ital>
 
 -Okay.
 
@@ -184,7 +184,7 @@ But I would love to talk.
 <line>
 <ital>Even got the number-one slot</ital>
 
-<ital>for H<name type="ORG">un</name>dred Most <name type="ORG">Hatted</name> Men.</ital>
+<ital>for <name type="PERSON">Hu</name>ndred <name type="PERSON">Mo</name>st <name type="ORG">Hatted</name> Men.</ital>
 
 </line>
 
@@ -192,13 +192,13 @@ But I would love to talk.
 <line>
 -No, it--
 
--[Ellie] <ital>Most <name type="ORG">Hatted</name> Men? What is that?</ital>
+-[<name type="PERSON">Ellie</name>] <ital><name type="PERSON">Mo</name>st <name type="ORG">Hatted</name> Men? What is that?</ital>
 
 </line>
 
 
 <line>
-<nonVerbComm>[man]</nonVerbComm> <ital>List of men in hats, I guess.</ital>
+<nonVerbCo<name type="PERSON">mm</name>>[man]</nonVerbCo<name type="PERSON">mm</name>> <ital>List of men in hats, I guess.</ital>
 
 <ital>He was wearing a fedora.</ital>
 
@@ -206,13 +206,13 @@ But I would love to talk.
 
 
 <line>
-It was Most Hated Men!
+It was <name type="PERSON">Mo</name>st Hated Men!
 
 </line>
 
 
 <line>
--[Ellie gasps]
+-[<name type="PERSON">Ellie</name> <name type="PERSON">ga</name>sps]
 
 -[man] <ital>What?</ital>
 
@@ -220,7 +220,7 @@ It was Most Hated Men!
 
 
 <line>
-It was the H<name type="ORG">un</name>dred Most Hated Men,
+It was the <name type="PERSON">Hu</name>ndred <name type="PERSON">Mo</name>st Hated Men,
 
 it was a newsboy cap,
 
@@ -232,21 +232,21 @@ you've been saying!
 
 
 <line>
-<nonVerbComm>[Ellie]</nonVerbComm> <ital>Uh...</ital>
+<nonVerbCo<name type="PERSON">mm</name>>[<name type="PERSON">Ellie</name>]</nonVerbCo<name type="PERSON">mm</name>> <ital>Uh...</ital>
 
 </line>
 
 
 <line>
--[man] <ital>Get his bags, Ellie!</ital>
+-[man] <ital>Get his bags, <name type="PERSON">Ellie</name>!</ital>
 
-<ital>-You said you muted it!</ital>
+<ital>-<name type="PERSON">Yo</name>u said you muted it!</ital>
 
 </line>
 
 
 <line>
-<nonVerbComm>[BoJack gr<name type="ORG">un</name>ting]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[<name type="PERSON">Bo</name><name type="PERSON">Jack</name> gr<name type="ORG">un</name>ting]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -254,7 +254,7 @@ you've been saying!
 <line>
 -[man] Have a burrito-ful day!
 
--[man 2] Hey! [gr<name type="ORG">un</name>ts] You suck, asshole!
+-[man 2] Hey! [gr<name type="ORG">un</name>ts] <name type="PERSON">Yo</name>u suck, ass<name type="PERSON">ho</name>le!
 
 </line>
 
@@ -268,7 +268,7 @@ you've been saying!
 
 
 <line>
-<nonVerbComm>[bleating]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[bleating]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -276,13 +276,13 @@ you've been saying!
 <line>
 I don't think it's wise
 
-to be burning Bridges at this j<name type="ORG">un</name>cture.
+to be burning <name type="PERSON">Bridges</name> at this j<name type="ORG">un</name>cture.
 
 </line>
 
 
 <line>
-I'm sorry, just don't like Beau.
+I'm sorry, just don't like <name type="PERSON">Bea</name>u.
 
 </line>
 
@@ -290,19 +290,19 @@ I'm sorry, just don't like Beau.
 <line>
 -Greetings, strangers!
 
--Maude?
+-<name type="PERSON">Ma</name>ude?
 
 </line>
 
 
 <line>
-That's what they want you to think!
+<name type="PERSON">T</name>hat's what they want you to think!
 
 </line>
 
 
 <line>
-I'm Maude's twin sister Fergus,
+I'm <name type="PERSON">Ma</name>ude's twin sister <name type="PERSON">Fergus</name>,
 
 we have never met before,
 
@@ -336,7 +336,7 @@ Has this ever happened to you?
 
 
 <line>
-Todd? At the office?
+<name type="PERSON">T</name>odd? At the office?
 
 </line>
 
@@ -350,7 +350,7 @@ Can we wrap whatever this is up?
 <line>
 I'm supposed to head over
 
-to the "Birthday Dad" set.
+to the "Birthday <name type="PERSON">Dad</name>" set.
 
 </line>
 
@@ -370,7 +370,7 @@ at one baby and I'm ready for more.
 
 
 <line>
-You do have several employees
+<name type="PERSON">Yo</name>u do have several employees
 
 with children.
 
@@ -378,7 +378,7 @@ with children.
 
 
 <line>
-If you employ Todd through the company,
+If you employ <name type="PERSON">T</name>odd through the company,
 
 </line>
 
@@ -398,7 +398,7 @@ Great. It's done.
 
 
 <line>
-Hooray! Corporate tax loophole!
+<name type="PERSON">Hooray</name>! Corporate tax loop<name type="PERSON">ho</name>le!
 
 </line>
 
@@ -412,13 +412,13 @@ Plus, we can carpool to the office.
 <line>
 Which leads me to my next point.
 
-I am moving out to live with Maude.
+I am moving out to live with <name type="PERSON">Ma</name>ude.
 
 </line>
 
 
 <line>
-It's me! It's Maude.
+It's me! It's <name type="PERSON">Ma</name>ude.
 
 I don't really have a twin sister.
 
@@ -440,7 +440,7 @@ Um...
 
 
 <line>
--You can stay here! Live with me forever!
+-<name type="PERSON">Yo</name>u can stay here! Live with me forever!
 
 -[director] Cut!
 
@@ -448,15 +448,15 @@ Um...
 
 
 <line>
-The line is,
+<name type="PERSON">T</name>he line is,
 
-"Thank you for the birthday pizza.
+"<name type="PERSON">T</name>hank you for the birthday pizza.
 
 </line>
 
 
 <line>
-Today, I am your dad."
+<name type="PERSON">T</name>oday, I am your dad."
 
 </line>
 
@@ -478,9 +478,9 @@ Today, I am your dad."
 
 
 <line>
-Ever since Pickles left, I've been
+Ever since <name type="PERSON">Pickles</name> left, I've been
 
-so lonely in that big, empty house.
+so lonely in that big, empty <name type="PERSON">ho</name>use.
 
 </line>
 
@@ -494,7 +494,7 @@ someone to take care of.
 
 
 <line>
-Princess Carolyn,
+Princess <name type="PERSON">Carol</name>yn,
 
 you're perpetually alone.
 
@@ -514,7 +514,7 @@ I went to the doctor to see
 
 if he could make me feel better,
 
-he said, "You should check out
+he said, <name type="PERSON">"<name type="PERSON">Yo</name>u</name> s<name type="PERSON">ho</name>uld check out
 
 this Internet meme,
 
@@ -524,13 +524,13 @@ it always cheers me up: Sad Dog."
 
 
 <line>
-And I said, "But Doctor, I am Sad Dog."
+And I said, "But <name type="PERSON">Doc</name>tor, I am Sad Dog."
 
 </line>
 
 
 <line>
-Guys, I'm really sorry
+<name type="PERSON">Guy</name>s, I'm really sorry
 
 this keeps happening.
 
@@ -538,7 +538,7 @@ this keeps happening.
 
 
 <line>
-When I got home, I fo<name type="ORG">un</name>d my wife
+When I got <name type="PERSON">ho</name>me, I fo<name type="ORG">un</name>d my wife
 
 and daughter had moved out.
 
@@ -554,13 +554,13 @@ All they left behind was this picture.
 <line>
 -Okay. Rude.
 
--Shh!
+<name type="PERSON">-Shh</name>!
 
 </line>
 
 
 <line>
-It's the stock photo
+It's the stock p<name type="PERSON">ho</name>to
 
 that came in the frame.
 
@@ -578,7 +578,7 @@ of our family, but I was always too dr<name type="ORG">un</name>k.
 <line>
 But because of all of you
 
-and my sponsor Leo,
+and my sponsor <name type="PERSON">Leo</name>,
 
 </line>
 
@@ -586,7 +586,7 @@ and my sponsor Leo,
 <line>
 I'm no longer just the man
 
-who's not in this picture.
+w<name type="PERSON">ho</name>'s not in this picture.
 
 </line>
 
@@ -594,19 +594,19 @@ who's not in this picture.
 <line>
 I'm a different, better man
 
-who is also not in this picture.
+w<name type="PERSON">ho</name> is also not in this picture.
 
 </line>
 
 
 <line>
-Who's next?
+W<name type="PERSON">ho</name>'s next?
 
 </line>
 
 
 <line>
-<nonVerbComm>[sighs]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[sighs]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -620,7 +620,7 @@ Who's next?
 
 
 <line>
-Things have been pretty brutal
+<name type="PERSON">T</name>hings have been pretty brutal
 
 for me lately.
 
@@ -628,9 +628,9 @@ for me lately.
 
 
 <line>
--Most people hate me...
+-<name type="PERSON">Mo</name>st people hate me...
 
--Mm-hmm.
+-Mm-h<name type="PERSON">mm</name>.
 
 </line>
 
@@ -644,7 +644,7 @@ so that's not great.
 
 
 <line>
-Could probably use a Leo
+Could probably use a <name type="PERSON">Leo</name>
 
 of my own right about now.
 
@@ -658,13 +658,13 @@ Wow, tough room.
 
 
 <line>
-This <name type="ORG">AA</name> meeting is a tough room.
+<name type="PERSON">T</name>his <name type="ORG">AA</name> meeting is a tough room.
 
 </line>
 
 
 <line>
-<nonVerbComm>[sighs]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[sighs]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -684,19 +684,19 @@ Oh! Um...
 <line>
 I know what you're thinking,
 
-"Vance Waggoner?
+"<name type="PERSON">Vance</name> <name type="PERSON">Waggoner</name>?
 
 </line>
 
 
 <line>
-That guy's gonna be my sponsor?
+<name type="PERSON">T</name>hat guy's <name type="PERSON">gonna</name> be my sponsor?
 
 </line>
 
 
 <line>
-The guy Charlie Sheen
+<name type="PERSON">T</name>he guy <name type="PERSON">Char</name>lie Sheen
 
 once called 'a little much'?"
 
@@ -706,13 +706,13 @@ once called 'a little much'?"
 <line>
 -Uh...
 
--"Vance Waggoner?
+<name type="PERSON">-"<name type="PERSON">Vance</name></name> <name type="PERSON">Waggoner</name>?
 
 </line>
 
 
 <line>
-That guy's got more domestic assault
+<name type="PERSON">T</name>hat guy's got more domestic assault
 
 convictions than Sean <name type="ORG">Penn</name>!"
 
@@ -726,7 +726,7 @@ And now you're thinking,
 
 
 <line>
-"Did Sean <name type="ORG">Penn</name> get convicted
+"<name type="PERSON">Di</name>d Sean <name type="ORG">Penn</name> get convicted
 
 of domestic assault
 
@@ -754,15 +754,15 @@ and put-together wanna sponsor me,
 
 
 <line>
--dumb slob BoJack <name type="ORG">Horse</name>man?"
+-dumb slob <name type="PERSON">Bo</name><name type="PERSON">Jack</name> <name type="ORG">Horse</name>man?"
 
--That's not--
+-<name type="PERSON">T</name>hat's not--
 
 </line>
 
 
 <line>
-Wait. I've been where you've been, BoJack.
+Wait. I've been where you've been, <name type="PERSON">Bo</name><name type="PERSON">Jack</name>.
 
 And everyone abandoned me.
 
@@ -796,7 +796,7 @@ my number is boobs.
 
 
 <line>
-<nonVerbComm>[phone buzzing]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[p<name type="PERSON">ho</name>ne buzzing]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -810,13 +810,13 @@ my number is boobs.
 
 
 <line>
-Diane! How are the revisions going?
+<name type="PERSON">Di</name>ane! How are the revisions going?
 
 </line>
 
 
 <line>
-Good! Usually at this stage
+<name type="PERSON">Goo</name>d! Usually at this stage
 
 I hate everything I've ever written
 
@@ -836,13 +836,13 @@ the not-terrible sequel,
 
 
 <line>
-"Ivy Tran Two: A Tran for All Seasons"?
+"Ivy <name type="PERSON">T</name>ran <name type="PERSON">T</name>wo: A <name type="PERSON">T</name>ran for All Seasons"?
 
 </line>
 
 
 <line>
-I don't know, Ivy Tran was f<name type="ORG">un</name>
+I don't know, Ivy <name type="PERSON">T</name>ran was f<name type="ORG">un</name>
 
 but I'm a grown-up writer.
 
@@ -850,9 +850,9 @@ but I'm a grown-up writer.
 
 
 <line>
-<ital>There are other things I wanna write.</ital>
+<ital><name type="PERSON">T</name>here are other things I wanna write.</ital>
 
-<ital>Did you know Eleanor Roosevelt--</ital>
+<ital><name type="PERSON">Di</name>d you know <name type="PERSON">Ele</name>anor <name type="PERSON">Roosevelt</name>--</ital>
 
 </line>
 
@@ -886,15 +886,15 @@ if you're interested in writing books
 
 that people actually read,
 
-you'll get to work on "Ivy Tran Two:
+you'll get to work on "Ivy <name type="PERSON">T</name>ran <name type="PERSON">T</name>wo:
 
-Last Tran to <name type="GPE">Clarksville</name>."
+Last <name type="PERSON">T</name>ran to <name type="GPE">Clarksville</name>."
 
 </line>
 
 
 <line>
--Eleanor Roosevelt once--
+-<name type="PERSON">Ele</name>anor <name type="PERSON">Roosevelt</name> once--
 
 <ital>-Interesting!</ital>
 
@@ -902,19 +902,19 @@ Last Tran to <name type="GPE">Clarksville</name>."
 
 
 <line>
-<nonVerbComm>[disconnect tone]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[disconnect tone]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-<nonVerbComm>[audience laughing]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[audience laughing]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-<nonVerbComm>[woman]</nonVerbComm> <ital>And those <name type="ORG">congress</name>ional</ital>
+<nonVerbCo<name type="PERSON">mm</name>>[woman]</nonVerbCo<name type="PERSON">mm</name>> <ital>And t<name type="PERSON">ho</name>se <name type="ORG">congress</name>ional</ital>
 
 <ital>turd-weasels</ital>
 
@@ -930,9 +930,9 @@ Last Tran to <name type="GPE">Clarksville</name>."
 
 
 <line>
-<ital>That's like if BoJack <name type="ORG">Horse</name>man</ital>
+<ital><name type="PERSON">T</name>hat's like if <name type="PERSON">Bo</name><name type="PERSON">Jack</name> <name type="ORG">Horse</name>man</ital>
 
-<ital>wore a T-shirt that said,</ital>
+<ital>wore a <name type="PERSON">T</name>-shirt that said,</ital>
 
 </line>
 
@@ -950,7 +950,7 @@ Hey, that is an <name type="ORG">un</name>fair drive-by!
 
 
 <line>
-<ital>Now, I know this <name type="ORG">Pho</name>toshop is not up</ital>
+<ital>Now, I know this <name type="ORG">P<name type="PERSON">ho</name></name>tos<name type="PERSON">ho</name>p is not up</ital>
 
 <ital>to our program's usual standards,</ital>
 
@@ -972,7 +972,7 @@ Hey, that is an <name type="ORG">un</name>fair drive-by!
 
 
 <line>
-<ital>without their uteruses</ital>
+<ital>wit<name type="PERSON">ho</name>ut their uteruses</ital>
 
 <ital>literally throwing up.</ital>
 
@@ -980,7 +980,7 @@ Hey, that is an <name type="ORG">un</name>fair drive-by!
 
 
 <line>
--[phone ringing, buzzing]
+-[p<name type="PERSON">ho</name>ne ringing, buzzing]
 
 -Ugh!
 
@@ -996,9 +996,9 @@ Hey, that is an <name type="ORG">un</name>fair drive-by!
 
 
 <line>
-BoJack, it's your very good
+<name type="PERSON">Bo</name><name type="PERSON">Jack</name>, it's your very good
 
-acco<name type="ORG">un</name>tant Gaz.
+acco<name type="ORG">un</name>tant <name type="PERSON">Gaz</name>.
 
 </line>
 
@@ -1006,7 +1006,7 @@ acco<name type="ORG">un</name>tant Gaz.
 <line>
 -I'm here with...
 
--Your very good lawyer Chaz!
+-<name type="PERSON">Yo</name>ur very good lawyer Chaz!
 
 </line>
 
@@ -1018,9 +1018,9 @@ Okay.
 
 
 <line>
-The good news is the Sarah Lynn settlement
+<name type="PERSON">T</name>he good news is the <name type="PERSON">Sarah</name> <name type="PERSON">Lynn</name> settlement
 
-isn't gonna kill us.
+isn't <name type="PERSON">gonna</name> kill us.
 
 </line>
 
@@ -1032,7 +1032,7 @@ What's the bad news?
 
 
 <line>
-The bad news is you're being sued
+<name type="PERSON">T</name>he bad news is you're being sued
 
 for a h<name type="ORG">un</name>dred million dollars.
 
@@ -1052,7 +1052,7 @@ to yourself as "a <name type="ORG">Xerox</name> of a <name type="ORG">Xerox</nam
 
 
 <line>
-The <name type="ORG">Xerox</name> Corporation did not appreciate
+<name type="PERSON">T</name>he <name type="ORG">Xerox</name> Corporation did not appreciate
 
 being implicated
 
@@ -1062,13 +1062,13 @@ in your <name type="ORG">un</name>toward behavior.
 
 
 <line>
-Just so I'm clear, Sarah Lynn's death
+Just so I'm clear, <name type="PERSON">Sarah</name> <name type="PERSON">Lynn</name>'s death
 
 cost me five million dollars,
 
 but saying something bad about a brand
 
-is gonna cost me a h<name type="ORG">un</name>dred million?
+is <name type="PERSON">gonna</name> cost me a h<name type="ORG">un</name>dred million?
 
 </line>
 
@@ -1098,7 +1098,7 @@ Okay, so what's the move?
 
 
 <line>
--F<name type="ORG">un</name>ny you should mention "move."
+-F<name type="ORG">un</name>ny you s<name type="PERSON">ho</name>uld mention "move."
 
 -[doorbell rings]
 
@@ -1106,17 +1106,17 @@ Okay, so what's the move?
 
 
 <line>
-Your acco<name type="ORG">un</name>tant told me
+<name type="PERSON">Yo</name>ur acco<name type="ORG">un</name>tant told me
 
- you wanted to sell your house?
+ you wanted to sell your <name type="PERSON">ho</name>use?
 
 </line>
 
 
 <line>
--Okay, I'm gonna call you back.
+-Okay, I'm <name type="PERSON">gonna</name> call you back.
 
--So, I sold your house!
+-So, I sold your <name type="PERSON">ho</name>use!
 
 </line>
 
@@ -1128,7 +1128,7 @@ Wow-ee! It looks better than the pictures!
 
 
 <line>
--You sold my house?
+-<name type="PERSON">Yo</name>u sold my <name type="PERSON">ho</name>use?
 
 -Golly, are you...?
 
@@ -1160,7 +1160,7 @@ the pool?
 
 
 <line>
-You sold my house?
+<name type="PERSON">Yo</name>u sold my <name type="PERSON">ho</name>use?
 
 </line>
 
@@ -1168,7 +1168,7 @@ You sold my house?
 <line>
 I fo<name type="ORG">un</name>d this sweet, sweet family from <name type="GPE">Ohio</name>
 
-whose kid just got cast in a movie!
+w<name type="PERSON">ho</name>se kid just got cast in a movie!
 
 </line>
 
@@ -1176,11 +1176,11 @@ whose kid just got cast in a movie!
 <line>
 I wanted to make sure the ink dried
 
-on the mortgage
+on the mort<name type="PERSON">ga</name>ge
 
 before they find out the movie's
 
-being shot in <name type="GPE">Saskatchewan</name>. [chuckles]
+being s<name type="PERSON">ho</name>t in <name type="GPE">Saskatchewan</name>. [chuckles]
 
 </line>
 
@@ -1206,13 +1206,13 @@ What do I look like, a real estate agent?
 
 
 <line>
-Your mail came.
+<name type="PERSON">Yo</name>ur mail came.
 
 </line>
 
 
 <line>
--Now leave. You're harshing the buzz.
+-Now leave. <name type="PERSON">Yo</name>u're harshing the buzz.
 
 -But...
 
@@ -1220,7 +1220,7 @@ Your mail came.
 
 
 <line>
-Huh?
+<name type="PERSON">Hu</name>h?
 
 </line>
 
@@ -1244,25 +1244,25 @@ and my own apartment all in the same day.
 <line>
 -I never realized my boyfriend was butter.
 
--You're right. I am on a roll!
+-<name type="PERSON">Yo</name>u're right. I am on a roll!
 
 </line>
 
 
 <line>
-What should I do next?
+What s<name type="PERSON">ho</name>uld I do next?
 
 </line>
 
 
 <line>
-<nonVerbComm>[ringing]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[ringing]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-Chavez residence, this is Jorge.
+<name type="PERSON">Chavez</name> residence, this is <name type="PERSON">Jorge</name>.
 
 Please state the purpose of your call
 
@@ -1274,13 +1274,13 @@ modulate my tone.
 
 
 <line>
-Hey, it's Todd. Is Mom there?
+Hey, it's <name type="PERSON">T</name>odd. Is <name type="PERSON">Mo</name>m there?
 
 </line>
 
 
 <line>
-Ah! Todd! Yes.
+Ah! <name type="PERSON">T</name>odd! Yes.
 
 </line>
 
@@ -1310,7 +1310,7 @@ to prove to her,
 <line>
 -I'd have proven it by now.
 
--Well, that's wonderful, Todd.
+-Well, that's wonderful, <name type="PERSON">T</name>odd.
 
 </line>
 
@@ -1332,7 +1332,7 @@ And she won't even talk to me.
 
 
 <line>
-We'd love to see your home
+We'd love to see your <name type="PERSON">ho</name>me
 
 once you're settled.
 
@@ -1342,7 +1342,7 @@ once you're settled.
 <line>
 What's that supposed to mean?
 
-I'm settled! I'm a grown-ass Todd!
+I'm settled! I'm a grown-ass <name type="PERSON">T</name>odd!
 
 </line>
 
@@ -1360,7 +1360,7 @@ Why don't you come
 
 to my fancy, sophisticated
 
-housewarming party tomorrow night
+<name type="PERSON">ho</name>usewarming party tomorrow night
 
 and see for yourself!
 
@@ -1374,7 +1374,7 @@ Consider us there. What can we bring?
 
 
 <line>
--Two chairs!
+-<name type="PERSON">T</name>wo chairs!
 
 -[beeps]
 
@@ -1402,7 +1402,7 @@ Um...
 
 
 <line>
-There are no offers.
+<name type="PERSON">T</name>here are no offers.
 
 </line>
 
@@ -1416,17 +1416,17 @@ There are no offers.
 
 
 <line>
--[gasps] There are no offers.
+-[<name type="PERSON">ga</name>sps] <name type="PERSON">T</name>here are no offers.
 
--But I'm broke and homeless.
+-But I'm broke and <name type="PERSON">ho</name>meless.
 
 </line>
 
 
 <line>
-<nonVerbComm>[scoffs]</nonVerbComm> I can get you a small role
+<nonVerbCo<name type="PERSON">mm</name>>[scoffs]</nonVerbCo<name type="PERSON">mm</name>> I can get you a small role
 
-on "Birthday Dad."
+on "Birthday <name type="PERSON">Dad</name>."
 
 </line>
 
@@ -1434,39 +1434,39 @@ on "Birthday Dad."
 <line>
 Great. Have my pages delivered
 
-to me at the Chateau Marmoset.
+to me at the Chateau <name type="PERSON">Ma</name>rmoset.
 
 </line>
 
 
 <line>
--You just said you're broke!
+-<name type="PERSON">Yo</name>u just said you're broke!
 
--And homeless.
-
-</line>
-
-
-<line>
-You are not staying at a fancy hotel.
+-And <name type="PERSON">ho</name>meless.
 
 </line>
 
 
 <line>
-Who else would have me?
+<name type="PERSON">Yo</name>u are not staying at a fancy <name type="PERSON">ho</name>tel.
 
 </line>
 
 
 <line>
-You could stay here! Live with me forever!
+W<name type="PERSON">ho</name> else would have me?
 
 </line>
 
 
 <line>
-<nonVerbComm>[sighs]</nonVerbComm>
+<name type="PERSON">Yo</name>u could stay here! Live with me forever!
+
+</line>
+
+
+<line>
+<nonVerbCo<name type="PERSON">mm</name>>[sighs]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -1474,19 +1474,19 @@ You could stay here! Live with me forever!
 <line>
 -[sizzling]
 
--[Mr. <name type="ORG">Peanutbutter</name> humming]
+-[Mr. <name type="PERSON">Peanut</name>butter hu<name type="PERSON">mm</name>ing]
 
 </line>
 
 
 <line>
-And flip! Morning, s<name type="ORG">un</name>shine!
+And flip! <name type="PERSON">Mo</name>rning, <name type="PERSON">s<name type="ORG">un</name></name>shine!
 
 </line>
 
 
 <line>
-I hope I didn't wake you
+I <name type="PERSON">ho</name>pe I didn't wake you
 
 with the delicious smell
 
@@ -1496,9 +1496,9 @@ of a well-balanced breakfast.
 
 
 <line>
--Less talky. More coffee.
+-Less talky. <name type="PERSON">Mo</name>re coffee.
 
--You got it, roomie!
+-<name type="PERSON">Yo</name>u got it, roomie!
 
 </line>
 
@@ -1512,7 +1512,7 @@ of a well-balanced breakfast.
 
 
 <line>
-Took the liberty of doing your la<name type="ORG">un</name>dry
+<name type="PERSON">T</name>ook the li<name type="PERSON">bert</name>y of doing your la<name type="ORG">un</name>dry
 
 and this letter was in your pocket.
 
@@ -1520,9 +1520,9 @@ and this letter was in your pocket.
 
 
 <line>
--[gasps, screams]
+-[<name type="PERSON">ga</name>sps, screams]
 
--Ooh-hoo! A mysterious pen pal!
+-Ooh-<name type="PERSON">ho</name>o! A mysterious pen pal!
 
 </line>
 
@@ -1536,7 +1536,7 @@ or the snowman killer still at large?
 
 
 <line>
-It's from <name type="ORG">Hollyhock</name>. But... [sighs]
+It's from <name type="PERSON">Holly</name><name type="PERSON">ho</name>ck. But... [sighs]
 
 </line>
 
@@ -1544,21 +1544,21 @@ It's from <name type="ORG">Hollyhock</name>. But... [sighs]
 <line>
 I can't open it. What if she says
 
-she never wants to hear from me again?
+she never wants to hear from me a<name type="PERSON">ga</name>in?
 
 </line>
 
 
 <line>
-Or maybe it says "I got rid of my TV
+Or maybe it says "I got rid of my <name type="PERSON">T</name>V
 
-three months ago. What's new, BoJack?"
+three months ago. What's new, <name type="PERSON">Bo</name><name type="PERSON">Jack</name>?"
 
 </line>
 
 
 <line>
-I should just call her.
+I s<name type="PERSON">ho</name>uld just call her.
 
 </line>
 
@@ -1572,7 +1572,7 @@ I feel like I could explain that--
 
 
 <line>
-<nonVerbComm>[voicemail]</nonVerbComm> <ital>Hey, it's <name type="ORG">Hollyhock</name>.</ital>
+<nonVerbCo<name type="PERSON">mm</name>>[voicemail]</nonVerbCo<name type="PERSON">mm</name>> <ital>Hey, it's <name type="PERSON">Holly</name><name type="PERSON">ho</name>ck.</ital>
 
 <ital>Leave a message, if you're a h<name type="ORG">un</name>dred.</ital>
 
@@ -1582,15 +1582,15 @@ I feel like I could explain that--
 <line>
 -[voicemail beeps]
 
--Hey, <name type="ORG">Hollyhock</name>. It's me again.
+-Hey, <name type="PERSON">Holly</name><name type="PERSON">ho</name>ck. It's me a<name type="PERSON">ga</name>in.
 
 </line>
 
 
 <line>
-And his good friend and roommate
+And his good friend and roo<name type="PERSON">mm</name>ate
 
-and coworker, Mr. <name type="ORG">Peanutbutter</name>!
+and coworker, Mr. <name type="PERSON">Peanut</name>butter!
 
 </line>
 
@@ -1620,7 +1620,7 @@ your voicemail voice.
 
 
 <line>
--Just give me a call. It's BoJack.
+-Just give me a call. It's <name type="PERSON">Bo</name><name type="PERSON">Jack</name>.
 
 -[beeps]
 
@@ -1638,7 +1638,7 @@ your voicemail voice.
 <line>
 We don't have time for that!
 
-You can feed me while I drive, let's go!
+<name type="PERSON">Yo</name>u can feed me while I drive, let's go!
 
 </line>
 
@@ -1646,13 +1646,13 @@ You can feed me while I drive, let's go!
 <line>
 <ital>-<music>♪ Precision... ♪</music></ital>
 
--[Todd] Oh, whoa!
+-[<name type="PERSON">T</name>odd] Oh, w<name type="PERSON">ho</name>a!
 
 </line>
 
 
 <line>
--Easy. Okay. Whoa, whoa, whoa. Stop!
+-Easy. Okay. W<name type="PERSON">ho</name>a, w<name type="PERSON">ho</name>a, w<name type="PERSON">ho</name>a. Stop!
 
 -[kids giggling]
 
@@ -1698,7 +1698,7 @@ of your famous <name type="GPE">Judah</name> tantrums!
 <line>
  So<name type="ORG">un</name>ds like you need to throw together
 
-a scheme in a short amo<name type="ORG">un</name>t of time.
+a scheme in a s<name type="PERSON">ho</name>rt amo<name type="ORG">un</name>t of time.
 
 </line>
 
@@ -1710,7 +1710,7 @@ In situations like this, I often think,
 
 
 <line>
--"What would Todd do?"
+-"What would <name type="PERSON">T</name>odd do?"
 
 -And?
 
@@ -1724,7 +1724,7 @@ for <name type="ORG">un</name>deremployed actors,
 
 tell them they've been hired
 
-for a site-specific immersive
+for a site-specific i<name type="PERSON">mm</name>ersive
 
 theater piece as cosmopolitan partygoers,
 
@@ -1732,7 +1732,7 @@ invite just enough real friends
 
 to lend it an air of legitimacy
 
-and raid the "Birthday Dad" set
+and raid the "Birthday <name type="PERSON">Dad</name>" set
 
 for furniture.
 
@@ -1740,9 +1740,9 @@ for furniture.
 
 
 <line>
-That's brilliant!
+<name type="PERSON">T</name>hat's brilliant!
 
-Todd, I've done it again!
+<name type="PERSON">T</name>odd, I've done it a<name type="PERSON">ga</name>in!
 
 </line>
 
@@ -1784,7 +1784,7 @@ And for what?
 <line>
 -A couple trophies? A parade?
 
--[BoJack groans]
+-[<name type="PERSON">Bo</name><name type="PERSON">Jack</name> groans]
 
 </line>
 
@@ -1796,7 +1796,7 @@ No. Not for me.
 
 
 <line>
-Maybe I'm just a crazy,
+<name type="PERSON">Ma</name>ybe I'm just a crazy,
 
 old birthday person,
 
@@ -1812,9 +1812,9 @@ old birthday person,
 
 
 <line>
-Great job, Mr. <name type="ORG">Peanutbutter</name>.
+Great job, Mr. <name type="PERSON">Peanut</name>butter.
 
-You're changing hearts and minds.
+<name type="PERSON">Yo</name>u're changing hearts and minds.
 
 </line>
 
@@ -1828,7 +1828,7 @@ Isn't this great? Working together?
 <line>
 For the next take,
 
-can we get Dead Body <name type="ORG">Nu</name>mber Four
+can we get Dead <name type="PERSON">Bo</name>dy <name type="ORG">Nu</name>mber Four
 
 to face away from the camera?
 
@@ -1836,7 +1836,7 @@ to face away from the camera?
 
 
 <line>
--Oh! That's you!
+-Oh! <name type="PERSON">T</name>hat's you!
 
 -Yeah.
 
@@ -1852,7 +1852,7 @@ to face away from the camera?
 
 
 <line>
-<nonVerbComm>[director]</nonVerbComm> All the way away
+<nonVerbCo<name type="PERSON">mm</name>>[director]</nonVerbCo<name type="PERSON">mm</name>> All the way away
 
 from the camera.
 
@@ -1860,19 +1860,19 @@ from the camera.
 
 
 <line>
-<nonVerbComm>[gr<name type="ORG">un</name>ts, groans]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[gr<name type="ORG">un</name>ts, groans]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-<nonVerbComm>[muffled]</nonVerbComm> I can't really breathe.
+<nonVerbCo<name type="PERSON">mm</name>>[muffled]</nonVerbCo<name type="PERSON">mm</name>> I can't really breathe.
 
 </line>
 
 
 <line>
-That's okay. Let's r<name type="ORG">un</name> it again.
+<name type="PERSON">T</name>hat's okay. Let's r<name type="ORG">un</name> it a<name type="PERSON">ga</name>in.
 
 </line>
 
@@ -1892,9 +1892,9 @@ And great work on that scene.
 
 
 <line>
-You really seemed like
+<name type="PERSON">Yo</name>u really seemed like
 
-a hollowed-out corpse.
+a <name type="PERSON">ho</name>llowed-out corpse.
 
 </line>
 
@@ -1902,7 +1902,7 @@ a hollowed-out corpse.
 <line>
 Once animated by the fire of life,
 
-now consumed by horror
+now consumed by <name type="PERSON">ho</name>rror
 
 and regret, and for what?
 
@@ -1910,7 +1910,7 @@ and regret, and for what?
 
 
 <line>
-Great. You wanna get dinner?
+Great. <name type="PERSON">Yo</name>u wanna get dinner?
 
 </line>
 
@@ -1918,7 +1918,7 @@ Great. You wanna get dinner?
 <line>
 Oh, I'd love to, buddy,
 
-but I have like five more scenes to shoot.
+but I have like five more scenes to s<name type="PERSON">ho</name>ot.
 
 </line>
 
@@ -1926,7 +1926,7 @@ but I have like five more scenes to shoot.
 <line>
 Oh. Of course, yeah.
 
-I'll see you back at the house then?
+I'll see you back at the <name type="PERSON">ho</name>use then?
 
 </line>
 
@@ -1934,25 +1934,25 @@ I'll see you back at the house then?
 <line>
 Yeah. Oh! I'm probably going to head
 
-right to Todd's fancy party after work.
+right to <name type="PERSON">T</name>odd's fancy party after work.
 
 </line>
 
 
 <line>
-Todd's having a fancy party?
+<name type="PERSON">T</name>odd's having a fancy party?
 
 </line>
 
 
 <line>
-Mr. <name type="ORG">Peanutbutter</name>,
+Mr. <name type="PERSON">Peanut</name>butter,
 
 we're ready for the scene
 
 where you help an <name type="GPE">America</name>n soldier
 
-and a <name type="ORG">Taliban</name> insurgent
+and a <name type="PERSON">T</name>aliban insurgent
 
 realize they both have the same birthday.
 
@@ -1968,19 +1968,19 @@ realize they both have the same birthday.
 
 
 <line>
-<nonVerbComm>[line ringing]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[line ringing]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-BoJack!
+<name type="PERSON">Bo</name><name type="PERSON">Jack</name>!
 
 </line>
 
 
 <line>
-<nonVerbComm>[Todd]</nonVerbComm> Greetings, cast!
+<nonVerbCo<name type="PERSON">mm</name>>[<name type="PERSON">T</name>odd]</nonVerbCo<name type="PERSON">mm</name>> Greetings, cast!
 
 </line>
 
@@ -2006,13 +2006,13 @@ please say one
 
 of the three following phrases
 
-that elegant adults say all the time:
+that ele<name type="PERSON">ga</name>nt adults say all the time:
 
 </line>
 
 
 <line>
-"I'm starting to think smart phones
+"I'm starting to think smart p<name type="PERSON">ho</name>nes
 
 are actually making us less connected."
 
@@ -2028,7 +2028,7 @@ are actually making us less connected."
 
 
 <line>
-Or, "Sir, you cannot remove your shoes
+Or, "Sir, you cannot remove your s<name type="PERSON">ho</name>es
 
 inside this Applebee's."
 
@@ -2036,7 +2036,7 @@ inside this Applebee's."
 
 
 <line>
-<nonVerbComm>[all]</nonVerbComm> Ooh!
+<nonVerbCo<name type="PERSON">mm</name>>[all]</nonVerbCo<name type="PERSON">mm</name>> Ooh!
 
 </line>
 
@@ -2058,7 +2058,7 @@ What's that?
 <line>
 It's a case of <name type="ORG">Ass-Jolt</name>,
 
-Pickles' favorite alcoholic energy drink.
+<name type="PERSON">Pickles</name>' favorite alco<name type="PERSON">ho</name>lic energy drink.
 
 </line>
 
@@ -2072,13 +2072,13 @@ I don't need them anymore.
 <line>
 -Oh, fish, I forgot a gift.
 
--You have two options.
+-<name type="PERSON">Yo</name>u have two options.
 
 </line>
 
 
 <line>
-This sourdough starter
+<name type="PERSON">T</name>his sourdough starter
 
 or a haiku I wrote on a grain of rice
 
@@ -2108,7 +2108,7 @@ Yeah.
 
 
 <line>
--[woman gasps] Ugh.
+<name type="PERSON">-[woman</name> <name type="PERSON">ga</name>sps] Ugh.
 
 -And you don't wanna open it?
 
@@ -2132,7 +2132,7 @@ why we stay sober.
 
 
 <line>
-That's what my daughter is for me.
+<name type="PERSON">T</name>hat's what my daughter is for me.
 
 </line>
 
@@ -2146,13 +2146,13 @@ Chef made it just for you.
 
 
 <line>
-Hmph, <name type="ORG">hmph</name>, <name type="ORG">hmph</name>.
+<name type="PERSON">Hmph</name>, <name type="ORG">hmph</name>, <name type="ORG">hmph</name>.
 
 </line>
 
 
 <line>
-Okay, do I have a horn?
+Okay, do I have a <name type="PERSON">ho</name>rn?
 
 </line>
 
@@ -2166,7 +2166,7 @@ like I'm some kind of freak.
 
 
 <line>
-Well, if you've got a horn,
+Well, if you've got a <name type="PERSON">ho</name>rn,
 
 you're the ugliest <name type="ORG">un</name>icorn I ever saw.
 
@@ -2174,7 +2174,7 @@ you're the ugliest <name type="ORG">un</name>icorn I ever saw.
 
 
 <line>
-You'd be kicked out of the <name type="ORG">un</name>icorn kingdom
+<name type="PERSON">Yo</name>u'd be kicked out of the <name type="ORG">un</name>icorn kingdom
 
 because you couldn't get a date
 
@@ -2192,15 +2192,15 @@ all the magic fairy glitter.
 
 
 <line>
-<nonVerbComm>[deep voice]</nonVerbComm> "This summer:
+<nonVerbCo<name type="PERSON">mm</name>>[deep voice]</nonVerbCo<name type="PERSON">mm</name>> "<name type="PERSON">T</name>his su<name type="PERSON">mm</name>er:
 
-Dumbass Unicorn."
+<name type="PERSON">Dumbass Unicorn</name>."
 
 </line>
 
 
 <line>
-<nonVerbComm>[chuckles]</nonVerbComm> That's so stupid.
+<nonVerbCo<name type="PERSON">mm</name>>[chuckles]</nonVerbCo<name type="PERSON">mm</name>> <name type="PERSON">T</name>hat's so stupid.
 
 No, that's exactly what they'd do.
 
@@ -2210,13 +2210,13 @@ No, that's exactly what they'd do.
 <line>
 It would be like
 
-"Nasty Unicorn: The Unicorn Who Parties."
+"Nasty Unicorn: <name type="PERSON">T</name>he Unicorn W<name type="PERSON">ho</name> Parties."
 
 </line>
 
 
 <line>
-<nonVerbComm>[normal voice]</nonVerbComm> Yeah, and his horn
+<nonVerbCo<name type="PERSON">mm</name>>[normal voice]</nonVerbCo<name type="PERSON">mm</name>> Yeah, and his <name type="PERSON">ho</name>rn
 
 is like a corkscrew,
 
@@ -2270,13 +2270,13 @@ Now we have to do it.
 
 
 <line>
-<nonVerbComm>[chuckles]</nonVerbComm> What do you mean "do it"?
+<nonVerbCo<name type="PERSON">mm</name>>[chuckles]</nonVerbCo<name type="PERSON">mm</name>> What do you mean "do it"?
 
 </line>
 
 
 <line>
-The movie. You're <name type="ORG">the Horny Unicorn</name>.
+<name type="PERSON">T</name>he movie. <name type="PERSON">Yo</name>u're <name type="ORG">the Horny Unicorn</name>.
 
 I'll direct. We're doing it.
 
@@ -2302,7 +2302,7 @@ be <ital><name type="ORG">Secre</name>tariat</ital> or raising orphans.
 <line>
 But they will see you be a rude dude
 
-who says all the things polite society
+w<name type="PERSON">ho</name> says all the things polite society
 
 is too limp-dicked to say.
 
@@ -2310,15 +2310,15 @@ is too limp-dicked to say.
 
 
 <line>
-This is your way back in.
+<name type="PERSON">T</name>his is your way back in.
 
-This is how you get that love back.
+<name type="PERSON">T</name>his is <name type="PERSON">ho</name>w you get that love back.
 
 </line>
 
 
 <line>
-"The Horny Unicorn"?
+"<name type="PERSON">T</name>he Horny Unicorn"?
 
 </line>
 
@@ -2326,7 +2326,7 @@ This is how you get that love back.
 <line>
 Yeah, 'cause deep down, he's wo<name type="ORG">un</name>ded.
 
-He's mis<name type="ORG">un</name>derstood.
+He's mi<name type="PERSON">s<name type="ORG">un</name></name>derstood.
 
 </line>
 
@@ -2338,7 +2338,7 @@ It's not his fault he's the way he is!
 
 
 <line>
--And people are gonna see that!
+-And people are <name type="PERSON">gonna</name> see that!
 
 -Yeah?
 
@@ -2348,23 +2348,23 @@ It's not his fault he's the way he is!
 <line>
 Yeah! He's like, "Hey, buddy!
 
-I never asked to be the horny <name type="ORG">un</name>icorn!
+I never asked to be the <name type="PERSON">ho</name>rny <name type="ORG">un</name>icorn!
 
 </line>
 
 
 <line>
-What? You think I like it that
+What? <name type="PERSON">Yo</name>u think I like it that
 
 I gotta jizz rainbows every 20 minutes
 
-to keep my horn from going soft?"
+to keep my <name type="PERSON">ho</name>rn from going soft?"
 
 </line>
 
 
 <line>
-<nonVerbComm>[chuckles]</nonVerbComm> I don't know.
+<nonVerbCo<name type="PERSON">mm</name>>[chuckles]</nonVerbCo<name type="PERSON">mm</name>> I don't know.
 
 </line>
 
@@ -2376,7 +2376,7 @@ Come on. I know you need the money.
 
 
 <line>
-When are you gonna stop
+When are you <name type="PERSON">gonna</name> stop
 
 p<name type="ORG">un</name>ishing yourself?
 
@@ -2384,21 +2384,21 @@ p<name type="ORG">un</name>ishing yourself?
 
 
 <line>
-<nonVerbComm>[video game noises]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[video <name type="PERSON">ga</name>me noises]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-Flip it. No, you gotta... [sighs]
+<name type="PERSON">Flip</name> it. No, you gotta... [sighs]
 
-Flip the thing. Flip it.
+<name type="PERSON">Flip</name> the thing. <name type="PERSON">Flip</name> it.
 
 </line>
 
 
 <line>
-Hey, Sonny, do you know
+Hey, <name type="PERSON">Son</name>ny, do you know
 
 where the advance copy of my book is?
 
@@ -2406,7 +2406,7 @@ where the advance copy of my book is?
 
 
 <line>
-Your stupid book about the mall?
+<name type="PERSON">Yo</name>ur stupid book about the mall?
 
 </line>
 
@@ -2428,13 +2428,13 @@ Haven't seen it.
 
 
 <line>
-You can just say losers.
+<name type="PERSON">Yo</name>u can just say losers.
 
 </line>
 
 
 <line>
-Girls can be losers without specifying
+Girls can be losers wit<name type="PERSON">ho</name>ut specifying
 
 that they're girls.
 
@@ -2450,13 +2450,13 @@ I need to get revisions to my publisher.
 
 
 <line>
-<nonVerbComm>[chuckles]</nonVerbComm> So<name type="ORG">un</name>ds like a "you" problem.
+<nonVerbCo<name type="PERSON">mm</name>>[chuckles]</nonVerbCo<name type="PERSON">mm</name>> So<name type="ORG">un</name>ds like a "you" problem.
 
 </line>
 
 
 <line>
-<nonVerbComm>[sniggering]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[sniggering]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -2496,7 +2496,7 @@ Uh, just one <name type="ORG">sec</name>.
 
 
 <line>
-I'm starting to think smart phones
+I'm starting to think smart p<name type="PERSON">ho</name>nes
 
 are actually making us less connected.
 
@@ -2504,7 +2504,7 @@ are actually making us less connected.
 
 
 <line>
--They are!
+-<name type="PERSON">T</name>hey are!
 
 -Well, that's politics for you.
 
@@ -2534,7 +2534,7 @@ We brought a plant.
 
 
 <line>
-Look... [sighs] BoJack,
+<name type="PERSON">Lo</name>ok... [sighs] <name type="PERSON">Bo</name><name type="PERSON">Jack</name>,
 
 don't make me ask you to leave.
 
@@ -2542,7 +2542,7 @@ don't make me ask you to leave.
 
 
 <line>
--You don't have to--
+-<name type="PERSON">Yo</name>u don't have to--
 
 -Come on, dude. Let us in.
 
@@ -2550,9 +2550,9 @@ don't make me ask you to leave.
 
 
 <line>
--This plant's heavy as tits.
+-<name type="PERSON">T</name>his plant's heavy as tits.
 
--I don't want a whole thing here.
+-I don't want a w<name type="PERSON">ho</name>le thing here.
 
 </line>
 
@@ -2594,7 +2594,7 @@ I'm sober. Nothing is going to happen.
 
 
 <line>
-Yeah, bro, what do you think's gonna--
+Yeah, bro, what do you think's <name type="PERSON">gonna</name>--
 
 Oh, shit.
 
@@ -2634,9 +2634,9 @@ I'm sorry, but that's bullshit.
 
 
 <line>
-This is where you find out
+<name type="PERSON">T</name>his is where you find out
 
-who your real friends are.
+w<name type="PERSON">ho</name> your real friends are.
 
 </line>
 
@@ -2646,9 +2646,9 @@ Part of being sober is leaving behind
 
 all the people
 
-who can't stop seeing you as the person
+w<name type="PERSON">ho</name> can't stop seeing you as the person
 
-who pissed in the fo<name type="ORG">un</name>tain
+w<name type="PERSON">ho</name> pissed in the fo<name type="ORG">un</name>tain
 
 </line>
 
@@ -2662,7 +2662,7 @@ who pissed in the fo<name type="ORG">un</name>tain
 
 
 <line>
-You think you owe them something
+<name type="PERSON">Yo</name>u think you owe them something
 
 because they tolerated you at your worst,
 
@@ -2674,11 +2674,11 @@ because it lets them feel superior.
 
 
 <line>
-They don't know how to process it
+<name type="PERSON">T</name>hey don't know <name type="PERSON">ho</name>w to process it
 
 when you're no longer the huge screw-up
 
-who hijacked a Meals On Wheels van
+w<name type="PERSON">ho</name> hi<name type="PERSON">jack</name>ed a Meals On Wheels van
 
 to bring my friends to a strip club.
 
@@ -2688,33 +2688,33 @@ to bring my friends to a strip club.
 <line>
 -I don't know--
 
--I do. You know what else I know?
+-I do. <name type="PERSON">Yo</name>u know what else I know?
 
 </line>
 
 
 <line>
-You gotta go where the love is.
+<name type="PERSON">Yo</name>u gotta go where the love is.
 
 </line>
 
 
 <line>
-Yeah. Maybe.
+Yeah. <name type="PERSON">Ma</name>ybe.
 
 </line>
 
 
 <line>
-That's why we gotta make "Horny Unicorn."
+<name type="PERSON">T</name>hat's why we gotta make "Horny Unicorn."
 
 </line>
 
 
 <line>
-Because it's gonna make a billion dollars
+Because it's <name type="PERSON">gonna</name> make a billion dollars
 
-and drive all those assholes crazy!
+and drive all t<name type="PERSON">ho</name>se ass<name type="PERSON">ho</name>les crazy!
 
 </line>
 
@@ -2728,15 +2728,15 @@ to keep me busy.
 
 
 <line>
-See? That's what I'm talking about!
+See? <name type="PERSON">T</name>hat's what I'm talking about!
 
 </line>
 
 
 <line>
--There he is! There's my Horn-corn!
+-<name type="PERSON">T</name>here he is! <name type="PERSON">T</name>here's my Horn-corn!
 
--[phone buzzing]
+-[p<name type="PERSON">ho</name>ne buzzing]
 
 </line>
 
@@ -2750,7 +2750,7 @@ See? That's what I'm talking about!
 
 
 <line>
-You mind if we swing by EWE.S.C.
+<name type="PERSON">Yo</name>u mind if we swing by EWE.S.C.
 
 real quick?
 
@@ -2768,7 +2768,7 @@ a low profile.
 <line>
 -I don't think a college campus--
 
--BoJack, this is my daughter, okay?
+-<name type="PERSON">Bo</name><name type="PERSON">Jack</name>, this is my daughter, okay?
 
 </line>
 
@@ -2792,7 +2792,7 @@ the one thing keeping me sober.
 <line>
 When everyone else abandoned you,
 
-who was there for you?
+w<name type="PERSON">ho</name> was there for you?
 
 </line>
 
@@ -2820,7 +2820,7 @@ Okay. I'm in.
 
 
 <line>
-Or as the horny <name type="ORG">un</name>icorn would say,
+Or as the <name type="PERSON">ho</name>rny <name type="ORG">un</name>icorn would say,
 
 "Am I in?"
 
@@ -2834,7 +2834,7 @@ Oh, you're in, baby!
 
 
 <line>
-<nonVerbComm>[video game noises]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[video <name type="PERSON">ga</name>me noises]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -2848,7 +2848,7 @@ come on! Come on!
 
 
 <line>
--What the hell, Diane?
+-What the hell, <name type="PERSON">Di</name>ane?
 
 -Ah! I'm working! I'm just taking a break.
 
@@ -2858,13 +2858,13 @@ come on! Come on!
 <line>
 -Oh, you fo<name type="ORG">un</name>d my book?
 
--Yeah, and it sucked. Totally <name type="ORG">un</name>realistic.
+-Yeah, and it sucked. <name type="PERSON">T</name>otally <name type="ORG">un</name>realistic.
 
 </line>
 
 
 <line>
--You read my book?
+-<name type="PERSON">Yo</name>u read my book?
 
 -I've been reading it.
 
@@ -2872,7 +2872,7 @@ come on! Come on!
 
 
 <line>
-Obviously, I wasn't gonna say it
+Obviously, I wasn't <name type="PERSON">gonna</name> say it
 
 in front of my friends,
 
@@ -2898,7 +2898,7 @@ in <name type="GPE">Chicago</name>, but Ivy lives in <name type="GPE">Schaumburg
 
 
 <line>
-<name type="GPE">Schaumburg</name>, Diane?
+<name type="GPE">Schaumburg</name>, <name type="PERSON">Di</name>ane?
 
 <name type="GPE">Schaumburg</name>'s not <name type="GPE">Chicago</name>.
 
@@ -2912,7 +2912,7 @@ It's in the <name type="GPE">Chicago</name> metropolitan--
 
 
 <line>
-Oh, my God, what's next?!
+Oh, my <name type="PERSON">God</name>, what's next?!
 
 <name type="GPE">Evanston</name>, <name type="GPE">Chicago</name>?
 
@@ -2920,7 +2920,7 @@ Oh, my God, what's next?!
 
 
 <line>
-Morton <name type="LOC">Grove</name>, <name type="GPE">Chicago</name>?
+<name type="PERSON">Mo</name>rton <name type="LOC">Grove</name>, <name type="GPE">Chicago</name>?
 
 <name type="GPE">Naperville</name>, <name type="GPE">Chicago</name>?
 
@@ -2928,7 +2928,7 @@ Morton <name type="LOC">Grove</name>, <name type="GPE">Chicago</name>?
 
 
 <line>
--That's what you so<name type="ORG">un</name>d like!
+-<name type="PERSON">T</name>hat's what you so<name type="ORG">un</name>d like!
 
 -Okay, it's not too late to change it.
 
@@ -2936,7 +2936,7 @@ Morton <name type="LOC">Grove</name>, <name type="GPE">Chicago</name>?
 
 
 <line>
-Good. And while you're at it,
+<name type="PERSON">Goo</name>d. And while you're at it,
 
 </line>
 
@@ -2950,13 +2950,13 @@ Good. And while you're at it,
 
 
 <line>
-Like, okay. When Ivy told Moose
+Like, okay. When Ivy told <name type="PERSON">Mo</name>ose
 
 that he wasn't her best friend anymore
 
-and Moose said,
+and <name type="PERSON">Mo</name>ose said,
 
-"You're still <ital>my</ital> best friend
+<name type="PERSON">"<name type="PERSON">Yo</name>u</name>'re still <ital>my</ital> best friend
 
 whether you like it or not..." [sniffs]
 
@@ -2984,17 +2984,17 @@ even when they're disappointed in them?
 
 
 <line>
-Um, yeah, Sonny, that's real.
+Um, yeah, <name type="PERSON">Son</name>ny, that's real.
 
 </line>
 
 
 <line>
-Okay. And you know how Ivy
+Okay. And you know <name type="PERSON">ho</name>w Ivy
 
 kept her dad's watch in her locker
 
-because even though he wasn't aro<name type="ORG">un</name>d
+because even t<name type="PERSON">ho</name>ugh he wasn't aro<name type="ORG">un</name>d
 
 she still knew that he loved her?
 
@@ -3026,13 +3026,13 @@ Yeah. I know.
 <line>
 It's cool that you wrote a book.
 
-I mean, I think girls are gonna like it.
+I mean, I think girls are <name type="PERSON">gonna</name> like it.
 
 </line>
 
 
 <line>
-Especially girls who, like,
+Especially girls w<name type="PERSON">ho</name>, like,
 
 don't have good self-esteem.
 
@@ -3040,7 +3040,7 @@ don't have good self-esteem.
 
 
 <line>
--I hope so.
+-I <name type="PERSON">ho</name>pe so.
 
 -So, when's the next one coming out?
 
@@ -3058,13 +3058,13 @@ for other mistakes, you know. [sniffs]
 <line>
 Well, if I get started right away,
 
-it should be out by next fall.
+it s<name type="PERSON">ho</name>uld be out by next fall.
 
 </line>
 
 
 <line>
--Cool. You gotta flip it.
+-Cool. <name type="PERSON">Yo</name>u gotta flip it.
 
 -Oh, shit, shit, shit, shit!
 
@@ -3072,9 +3072,9 @@ it should be out by next fall.
 
 
 <line>
--Jagger! Jagger!
+-<name type="PERSON">Jagger</name>! <name type="PERSON">Jagger</name>!
 
--Shh, shh.
+<name type="PERSON">-Shh</name>, shh.
 
 </line>
 
@@ -3086,7 +3086,7 @@ Hey, hey, hey, keep it down maybe?
 
 
 <line>
-Oh, my God, Dad,
+Oh, my <name type="PERSON">God</name>, <name type="PERSON">Dad</name>,
 
 is this seriously happening?
 
@@ -3096,7 +3096,7 @@ is this seriously happening?
 <line>
 -Why are you here?
 
--You knew what you were doing
+-<name type="PERSON">Yo</name>u knew what you were doing
 
 when you liked
 
@@ -3118,7 +3118,7 @@ with her new boyfriend.
 
 
 <line>
-That's why we're here?
+<name type="PERSON">T</name>hat's why we're here?
 
 </line>
 
@@ -3134,7 +3134,7 @@ and five on your mother's acco<name type="ORG">un</name>t.
 
 
 <line>
-You heard what the judge mandated!
+<name type="PERSON">Yo</name>u heard what the judge mandated!
 
 </line>
 
@@ -3148,7 +3148,7 @@ People are starting to--
 
 
 <line>
--Are you BoJack <name type="ORG">Horse</name>man?
+-Are you <name type="PERSON">Bo</name><name type="PERSON">Jack</name> <name type="ORG">Horse</name>man?
 
 -No.
 
@@ -3158,7 +3158,7 @@ People are starting to--
 <line>
 -Yeah, you are.
 
--NoJack.
+-No<name type="PERSON">Jack</name>.
 
 </line>
 
@@ -3172,23 +3172,23 @@ Were you trying to get my attention?
 
 
 <line>
--Dad!
+-<name type="PERSON">Dad</name>!
 
--The story got picked up by TMZ!
-
-</line>
-
-
-<line>
-You're ruining my life!
+-<name type="PERSON">T</name>he story got picked up by <name type="PERSON">T</name>MZ!
 
 </line>
 
 
 <line>
-You're making me look like
+<name type="PERSON">Yo</name>u're ruining my life!
 
-a real cuck, Jagger.
+</line>
+
+
+<line>
+<name type="PERSON">Yo</name>u're making me look like
+
+a real cuck, <name type="PERSON">Jagger</name>.
 
 </line>
 
@@ -3200,7 +3200,7 @@ I'm getting cucked by my own daughter!
 
 
 <line>
-You don't even know what that word means!
+<name type="PERSON">Yo</name>u don't even know what that word means!
 
 </line>
 
@@ -3220,7 +3220,7 @@ I just want you to know,
 
 
 <line>
-You got massively sandbagged
+<name type="PERSON">Yo</name>u got massively sandbagged
 
 in that interview, bro.
 
@@ -3228,9 +3228,9 @@ in that interview, bro.
 
 
 <line>
--You were trying to apologize.
+-<name type="PERSON">Yo</name>u were trying to apologize.
 
--Thank you.
+-<name type="PERSON">T</name>hank you.
 
 </line>
 
@@ -3238,7 +3238,7 @@ in that interview, bro.
 <line>
 Everything these days is all
 
-"patriarchy" this and "male gaze" that.
+"patriarchy" this and "male <name type="PERSON">ga</name>ze" that.
 
 </line>
 
@@ -3246,7 +3246,7 @@ Everything these days is all
 <line>
 And, well, I think it's cool
 
- you're pushing back against that.
+ you're pushing back a<name type="PERSON">ga</name>inst that.
 
 </line>
 
@@ -3258,9 +3258,9 @@ Well, no, I'm not pushing back.
 
 
 <line>
-No, Bo, I'm saying it's cool.
+No, <name type="PERSON">Bo</name>, I'm saying it's cool.
 
-You can relax here. This is a safe space.
+<name type="PERSON">Yo</name>u can relax here. <name type="PERSON">T</name>his is a safe space.
 
 </line>
 
@@ -3268,7 +3268,7 @@ You can relax here. This is a safe space.
 <line>
 -Okay.
 
--You're embarrassing me!
+-<name type="PERSON">Yo</name>u're embarrassing me!
 
 </line>
 
@@ -3280,7 +3280,7 @@ Oh, yeah? How's this for embarrassing?
 
 
 <line>
-Your last spon-con post for L'Oréal?
+<name type="PERSON">Yo</name>ur last spon-con post for L'Oréal?
 
 It came off as disingenuous!
 
@@ -3288,7 +3288,7 @@ It came off as disingenuous!
 
 
 <line>
-<nonVerbComm>[gasps]</nonVerbComm> You know I love my wide array
+<nonVerbCo<name type="PERSON">mm</name>>[<name type="PERSON">ga</name>sps]</nonVerbCo<name type="PERSON">mm</name>> <name type="PERSON">Yo</name>u know I love my wide array
 
 of L'Oréal products!
 
@@ -3296,7 +3296,7 @@ of L'Oréal products!
 
 
 <line>
-From game days with the gals
+From <name type="PERSON">ga</name>me days with the <name type="PERSON">ga</name>ls
 
 to cram sessions at the creamery,
 
@@ -3318,7 +3318,7 @@ Do you wanna come back to <name type="LOC">Delta</name> <name type="ORG">House</
 
 
 <line>
-I think those guys
+I think t<name type="PERSON">ho</name>se guys
 
 would be super-stoked to meet you.
 
@@ -3326,9 +3326,9 @@ would be super-stoked to meet you.
 
 
 <line>
--They'd be stoked?
+-<name type="PERSON">T</name>hey'd be stoked?
 
--Super-stoked.
+-<name type="PERSON">Sup</name>er-stoked.
 
 </line>
 
@@ -3354,7 +3354,7 @@ Let's make one more stop.
 
 
 <line>
--Hey! Looking good!
+-Hey! <name type="PERSON">Lo</name>oking good!
 
 -Well, that's politics for you!
 
@@ -3362,7 +3362,7 @@ Let's make one more stop.
 
 
 <line>
-<nonVerbComm>[phone buzzes, beeps]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[p<name type="PERSON">ho</name>ne buzzes, beeps]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -3370,7 +3370,7 @@ Let's make one more stop.
 <line>
 -Hello?
 
--Your mother isn't feeling well.
+-<name type="PERSON">Yo</name>ur mother isn't feeling well.
 
 </line>
 
@@ -3408,7 +3408,7 @@ But thank you for inviting us.
 
 
 <line>
-Jorge, I'm trying to connect to her.
+<name type="PERSON">Jorge</name>, I'm trying to connect to her.
 
 </line>
 
@@ -3420,13 +3420,13 @@ I know. Please keep trying.
 
 
 <line>
-<nonVerbComm>[beeps]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[beeps]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-I'm starting to think that smart phones
+I'm starting to think that smart p<name type="PERSON">ho</name>nes
 
 are actually making us less connected.
 
@@ -3442,7 +3442,7 @@ Sploosh!
 
 
 <line>
-Luckily, Lindsay Lohan was there
+Luckily, <name type="PERSON">Lindsay</name> <name type="PERSON">Lo</name>han was there
 
 to perform CPR.
 
@@ -3458,13 +3458,13 @@ she got sober... that time.
 
 
 <line>
-<nonVerbComm>[chuckles]</nonVerbComm> Wow.
+<nonVerbCo<name type="PERSON">mm</name>>[chuckles]</nonVerbCo<name type="PERSON">mm</name>> Wow.
 
 </line>
 
 
 <line>
--Who's Lindsay Lohan?
+<name type="PERSON">-W<name type="PERSON">ho</name></name>'s <name type="PERSON">Lindsay</name> <name type="PERSON">Lo</name>han?
 
 -She's a celebrity from the olden days.
 
@@ -3472,7 +3472,7 @@ she got sober... that time.
 
 
 <line>
-Olden days? Jesus.
+Olden days? <name type="PERSON">Jesus</name>.
 
 </line>
 
@@ -3484,7 +3484,7 @@ Hey, look, buddy, I gotta go.
 
 
 <line>
-I'm gonna walk this co-ed back
+I'm <name type="PERSON">gonna</name> walk this co-ed back
 
 to her room.
 
@@ -3500,7 +3500,7 @@ to her room.
 <line>
 Are you serious?
 
-You're supposed to be my sponsor.
+<name type="PERSON">Yo</name>u're supposed to be my sponsor.
 
 </line>
 
@@ -3550,7 +3550,7 @@ Okay.
 
 
 <line>
-Hey, no. You come on.
+Hey, no. <name type="PERSON">Yo</name>u come on.
 
 I'm not here to be your cool story later.
 
@@ -3564,25 +3564,25 @@ Okay, sorry.
 
 
 <line>
-I shouldn't be here.
+I s<name type="PERSON">ho</name>uldn't be here.
 
 </line>
 
 
 <line>
-<nonVerbComm>[bottle clinks]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[bottle clinks]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-<nonVerbComm>[line ringing]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[line ringing]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-<nonVerbComm>[female voice]</nonVerbComm> <ital>The number you are trying</ital>
+<nonVerbCo<name type="PERSON">mm</name>>[female voice]</nonVerbCo<name type="PERSON">mm</name>> <ital><name type="PERSON">T</name>he number you are trying</ital>
 
 <ital>to reach has been disconnected.</ital>
 
@@ -3590,7 +3590,7 @@ I shouldn't be here.
 
 
 <line>
-<ital>Goodbye.</ital>
+<ital><name type="PERSON">Goo</name>dbye.</ital>
 
 </line>
 
@@ -3602,43 +3602,43 @@ What?
 
 
 <line>
-<nonVerbComm>[gasps, exhales]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[<name type="PERSON">ga</name>sps, exhales]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-Huh.
+<name type="PERSON">Hu</name>h.
 
 </line>
 
 
 <line>
-<nonVerbComm>[sighs]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[sighs]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-<nonVerbComm>[indistinct chatter]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[indistinct chatter]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-<nonVerbComm>[camera shutter clicks]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[camera shutter clicks]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-<nonVerbComm>[camera shutter clicks]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[camera shutter clicks]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-<nonVerbComm>[camera shutters click]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[camera shutters click]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -3646,21 +3646,21 @@ Huh.
 <line>
 <ital>♪ Back in the '90s</ital>
 
-<ital>I was in a very famous TV show ♪</ital>
+<ital>I was in a very famous <name type="PERSON">T</name>V s<name type="PERSON">ho</name>w ♪</ital>
 
 </line>
 
 
 <line>
-<ital>-<music>♪ I'm BoJack the <name type="ORG">Horse</name>man ♪</music></ital>
+<ital>-<music>♪ I'm <name type="PERSON">Bo</name><name type="PERSON">Jack</name> the <name type="ORG">Horse</name>man ♪</music></ital>
 
-<ital>-<music>♪ BoJack ♪</music></ital>
+<ital>-<music>♪ <name type="PERSON">Bo</name><name type="PERSON">Jack</name> ♪</music></ital>
 
 </line>
 
 
 <line>
-<ital>♪ BoJack the <name type="ORG">Horse</name>man</ital>
+<ital>♪ <name type="PERSON">Bo</name><name type="PERSON">Jack</name> the <name type="ORG">Horse</name>man</ital>
 
 <ital>Don't act like you don't know ♪</ital>
 
@@ -3668,7 +3668,7 @@ Huh.
 
 
 <line>
-<ital><music>♪ And I'm trying to hold on to my past ♪</music></ital>
+<ital><music>♪ And I'm trying to <name type="PERSON">ho</name>ld on to my past ♪</music></ital>
 
 </line>
 
@@ -3676,7 +3676,7 @@ Huh.
 <line>
 <ital>♪ It's been so long</ital>
 
-<ital>I don't think I'm gonna last ♪</ital>
+<ital>I don't think I'm <name type="PERSON">gonna</name> last ♪</ital>
 
 </line>
 
@@ -3684,21 +3684,21 @@ Huh.
 <line>
 <ital>♪ I guess I'm just trying</ital>
 
-<ital>To make you <name type="ORG">un</name>derstand ♪</ital>
+<ital><name type="PERSON">T</name>o make you <name type="ORG">un</name>derstand ♪</ital>
 
 </line>
 
 
 <line>
-<ital><music>♪ That I'm more horse than a man ♪</music></ital>
+<ital><music>♪ <name type="PERSON">T</name>hat I'm more <name type="PERSON">ho</name>rse than a man ♪</music></ital>
 
 </line>
 
 
 <line>
-<ital>-<music>♪ Or I'm more man than a horse ♪</music></ital>
+<ital>-<music>♪ Or I'm more man than a <name type="PERSON">ho</name>rse ♪</music></ital>
 
-<ital>-<music>♪ BoJack ♪</music></ital>
+<ital>-<music>♪ <name type="PERSON">Bo</name><name type="PERSON">Jack</name> ♪</music></ital>
 
 
 

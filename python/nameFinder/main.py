@@ -38,12 +38,13 @@ ruler = nlp.add_pipe("span_ruler", before="ner", config=config)
 # But this only works when spaCy doesn't recognize a word / phrase as a named entity of any kind.
 # If it recognizes a named entity but tags it wrong, we correct it with the span_ruler, not the entity_ruler
 patterns = [
-    {"label": "Person", "pattern": "Bojack Horseman"},
-    {"label": "Person", "pattern": "Bojack"},
-{"label": "Person", "pattern": "BoJack"},
-{"label": "Person", "pattern": "Charlotte"},
-{"label": "ORG", "pattern": "What Time Is It Right Now"},
-{"label": "Person", "pattern": "Secretariat"},
+    {"label": "PERSON", "pattern": "BoJack Horseman"},
+    {"label": "PERSON", "pattern": "BoJack"},
+    {"label": "PERSON", "pattern": "Charlotte"},
+    {"label": "ORG", "pattern": "What Time Is It Right Now"},
+    {"label": "ORG", "pattern": "whattimeisitrightnow.com"},
+    {"label": "PERSON", "pattern": "Secretariat"},
+    {"label": "PERSON", "pattern": "Hollyhock"},
 
 ]
 ruler.add_patterns(patterns)
@@ -95,7 +96,7 @@ def readTextFiles(filepath):
 def entitycollector(tokens):
     entities = {}
     for ent in sorted(tokens.ents):
-        if ent.label_ == "LOC" or ent.label_=="FAC" or ent.label_=="ORG" or ent.label_=="GPE" or ent.label_=="NORP":
+        if ent.label_ == "LOC" or ent.label_=="FAC" or ent.label_=="ORG" or ent.label_=="GPE" or ent.label_=="NORP" or ent.label_=="PERSON":
             if not regex.match(r"\w*[.,!?;:']\w*", ent.text):
         # ebb: The line helps experiment with different spaCy named entity classifiers, in combination if you like:
         # When using it, remember to indent the next lines for the for loop.

@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>Zoës and Zeldas - BoJack <name type="ORG">Horse</name>man</title>
+  <title>Zoës and <name type="PERSON">Zelda</name>s - <name type="PERSON">Bo</name><name type="PERSON">Jack</name> <name type="ORG">Horse</name>man</title>
   
   
 
@@ -12,7 +12,7 @@
 
 
 <line>
-<nonVerbComm>[f<name type="ORG">un</name>ky music]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[f<name type="ORG">un</name>ky music]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -40,7 +40,7 @@ I can't help it."
 
 
 <line>
-You get that? Long face.
+<name type="PERSON">Yo</name>u get that? <name type="PERSON">Lo</name>ng face.
 
 <name type="ORG">Horse</name>s have long faces.
 
@@ -48,17 +48,17 @@ You get that? Long face.
 
 
 <line>
-I am a horse, my face is long.
+I am a <name type="PERSON">ho</name>rse, my face is long.
 
-You get it, right?
+<name type="PERSON">Yo</name>u get it, right?
 
 </line>
 
 
 <line>
-<nonVerbComm>[dispassionate murmur]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[dispassionate murmur]</nonVerbCo<name type="PERSON">mm</name>>
 
-Good, good.
+<name type="PERSON">Goo</name>d, good.
 
 </line>
 
@@ -66,7 +66,7 @@ Good, good.
 <line>
 What about
 
-the Rock Hudson stuff?
+the Rock <name type="PERSON">Hu</name>dson stuff?
 
 </line>
 
@@ -80,7 +80,7 @@ over your heads.
 
 
 <line>
-Did you get that?
+<name type="PERSON">Di</name>d you get that?
 
 </line>
 
@@ -88,7 +88,7 @@ Did you get that?
 <line>
 Keep this up, and the only
 
-thing we're gonna get
+thing we're <name type="PERSON">gonna</name> get
 
 is our money back!
 
@@ -96,7 +96,7 @@ is our money back!
 
 
 <line>
-<nonVerbComm>[laughter]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[laughter]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -110,7 +110,7 @@ it wasn't that f<name type="ORG">un</name>ny.
 
 
 <line>
-Maybe you didn't get it.
+<name type="PERSON">Ma</name>ybe you didn't get it.
 
 [laughter]
 
@@ -126,19 +126,19 @@ Uh, hey, guys, guys--
 
 
 <line>
-<nonVerbComm>[stuttering]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[stuttering]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-<nonVerbComm>[laughter]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[laughter]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-<nonVerbComm>[whinnies]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[whinnies]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -158,7 +158,7 @@ Get cancer, jerk wad.
 
 
 <line>
-You've got some good material,
+<name type="PERSON">Yo</name>u've got some good material,
 
 you really do.
 
@@ -166,7 +166,7 @@ you really do.
 
 
 <line>
-The Gorbachev stuff,
+<name type="PERSON">T</name>he <name type="PERSON">Gorbachev</name> stuff,
 
 it's killer.
 
@@ -182,7 +182,7 @@ if they get things.
 
 
 <line>
-But then who do I know
+But then w<name type="PERSON">ho</name> do I know
 
 if they got it?
 
@@ -190,7 +190,7 @@ if they got it?
 
 
 <line>
-They'll laugh.
+<name type="PERSON">T</name>hey'll laugh.
 
 </line>
 
@@ -204,13 +204,13 @@ advice?
 
 
 <line>
-Look, I've been doing stand-up
+<name type="PERSON">Lo</name>ok, I've been doing stand-up
 
 for a year now,
 
 and it's the responsibility
 
-of big shots like me
+of big s<name type="PERSON">ho</name>ts like me
 
 to always be looking out
 
@@ -232,25 +232,25 @@ Oh, I don't drink.
 
 
 <line>
-BoJack <name type="ORG">Horse</name>man.
+<name type="PERSON">Bo</name><name type="PERSON">Jack</name> <name type="ORG">Horse</name>man.
 
 </line>
 
 
 <line>
-Herb <name type="GPE">Kazaz</name>z.
+<name type="PERSON">Herb</name> <name type="GPE">Kazaz</name>z.
 
 </line>
 
 
 <line>
-Oh, God!
+Oh, <name type="PERSON">God</name>!
 
 </line>
 
 
 <line>
-Goddamn it, Todd,
+<name type="PERSON">God</name>damn it, <name type="PERSON">T</name>odd,
 
 clean up your shit.
 
@@ -266,7 +266,7 @@ okay?
 
 
 <line>
-You don't give me
+<name type="PERSON">Yo</name>u don't give me
 
 any closet space.
 
@@ -284,27 +284,27 @@ once said, and I quote,
 
 
 <line>
-"It's the responsibility
+<name type="PERSON">"It</name>'s the responsibility
 
 of little guys like you
 
 to be looking out
 
-for big shots like me."
+for big s<name type="PERSON">ho</name>ts like me."
 
 </line>
 
 
 <line>
-Who said that?
+W<name type="PERSON">ho</name> said that?
 
 </line>
 
 
 <line>
-I don't know, Jesus, Ghandi,
+I don't know, <name type="PERSON">Jesus</name>, <name type="PERSON">Ghandi</name>,
 
-Malcolm-Jamal Warner.
+<name type="PERSON">Ma</name>lcolm-Jamal Warner.
 
 </line>
 
@@ -318,7 +318,7 @@ Oh!
 
 
 <line>
-<nonVerbComm>[f<name type="ORG">un</name>ky electronic music]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[f<name type="ORG">un</name>ky electronic music]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -330,13 +330,13 @@ Oh!
 
 
 <line>
-<nonVerbComm>[big band music]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[big band music]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-Gloria <name type="ORG">Steinem</name>,
+<name type="PERSON">Gloria Stein</name>em,
 
 one of the leading lights
 
@@ -346,13 +346,13 @@ of modern feminism.
 
 
 <line>
-You will surely go down
+<name type="PERSON">Yo</name>u will surely go down
 
 in the annals of history
 
 just as surely
 
-as Lisa Lampanelli
+as <name type="PERSON">Lisa Lampanelli</name>
 
 will go down in the locker room
 
@@ -362,13 +362,13 @@ of the <name type="GPE">Houston</name> Rockets.
 
 
 <line>
-<nonVerbComm>[laughter]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[laughter]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-Hey, BoJack,
+Hey, <name type="PERSON">Bo</name><name type="PERSON">Jack</name>,
 
 settle a bet.
 
@@ -376,7 +376,7 @@ settle a bet.
 
 
 <line>
-Are you a Zoe or a Zelda?
+Are you a <name type="PERSON">Zoe</name> or a <name type="PERSON">Zelda</name>?
 
 </line>
 
@@ -390,21 +390,21 @@ Don't know what that means.
 <line>
 Well, I was talking
 
-to Wayne.
+to <name type="PERSON">Wayne</name>.
 
 </line>
 
 
 <line>
-- Who's Wayne?
+- W<name type="PERSON">ho</name>'s <name type="PERSON">Wayne</name>?
 
-- I'm Wayne.
+- I'm <name type="PERSON">Wayne</name>.
 
 </line>
 
 
 <line>
-Wayne's writing an article
+<name type="PERSON">Wayne</name>'s writing an article
 
 about me for <ital><name type="ORG">BuzzFeed</name>.</ital>
 
@@ -420,7 +420,7 @@ What'll they think of next?
 
 
 <line>
-F<name type="ORG">un</name> fact: Wayne is also
+F<name type="ORG">un</name> fact: <name type="PERSON">Wayne</name> is also
 
 my ex-boyfriend.
 
@@ -428,19 +428,19 @@ my ex-boyfriend.
 
 
 <line>
-Ha! You're f<name type="ORG">un</name>ny.
+Ha! <name type="PERSON">Yo</name>u're f<name type="ORG">un</name>ny.
 
 </line>
 
 
 <line>
-<nonVerbComm>[<name type="ORG">Peanutbutter</name>]</nonVerbComm> Pretty cool, eh, BoJack?
+<nonVerbCo<name type="PERSON">mm</name>>[<name type="PERSON">Peanut</name>butter]</nonVerbCo<name type="PERSON">mm</name>> Pretty cool, eh, <name type="PERSON">Bo</name><name type="PERSON">Jack</name>?
 
 </line>
 
 
 <line>
-Diane's writing a book
+<name type="PERSON">Di</name>ane's writing a book
 
 about you,
 
@@ -448,7 +448,7 @@ about you,
 
 
 <line>
-Wayne's writing
+<name type="PERSON">Wayne</name>'s writing
 
 an article about me.
 
@@ -478,15 +478,15 @@ for h<name type="ORG">un</name>dreds of years.
 
 
 <line>
-Your <ital><name type="ORG">BuzzFeed</name></ital> article
+<name type="PERSON">Yo</name>ur <ital><name type="ORG">BuzzFeed</name></ital> article
 
-will be crammed
+will be cra<name type="PERSON">mm</name>ed
 
 </line>
 
 
 <line>
-between an animated GIF
+between an animated <name type="PERSON">GIF</name>
 
 of a cat falling asleep
 
@@ -496,13 +496,13 @@ of a cat falling asleep
 <line>
 and a list of f<name type="ORG">un</name> facts
 
-about <ital>Legally Blonde.</ital>
+about <ital>Le<name type="PERSON">ga</name>lly Blonde.</ital>
 
 </line>
 
 
 <line>
-Ha! Classic Zoe.
+Ha! <name type="PERSON">Classic <name type="PERSON">Zoe</name></name>.
 
 </line>
 
@@ -518,7 +518,7 @@ what that means.
 <line>
 Well, are you familiar
 
-with <ital>Mr. <name type="ORG">Peanutbutter</name>'s <name type="ORG">House</name>?</ital>
+with <ital>Mr. <name type="PERSON">Peanut</name>butter's <name type="ORG">House</name>?</ital>
 
 </line>
 
@@ -542,17 +542,17 @@ as my sitcom?
 <line>
 Not the exact same.
 
-<ital>Mr. <name type="ORG">Peanutbutter</name>'s <name type="ORG">House</name> </ital>
+<ital>Mr. <name type="PERSON">Peanut</name>butter's <name type="ORG">House</name> </ital>
 
 featured a pair of twins,
 
-Zoe and Zelda.
+<name type="PERSON">Zoe</name> and <name type="PERSON">Zelda</name>.
 
 </line>
 
 
 <line>
-<ital>Zelda was the s<name type="ORG">un</name>ny,</ital>
+<ital><name type="PERSON">Zelda</name> was the <name type="PERSON">s<name type="ORG">un</name></name>ny,</ital>
 
 <ital>f<name type="ORG">un</name>-loving extrovert.</ital>
 
@@ -560,27 +560,27 @@ Zoe and Zelda.
 
 
 <line>
-Look at my pumpkin,
+<name type="PERSON">Lo</name>ok at my pumpkin,
 
-Mr. <name type="ORG">Peanutbutter</name>.
-
-</line>
-
-
-<line>
-Pretty smile, Zelly-belly.
+Mr. <name type="PERSON">Peanut</name>butter.
 
 </line>
 
 
 <line>
-<nonVerbComm>[audience]</nonVerbComm> Aww...
+Pretty smile, <name type="PERSON">Zelly</name>-belly.
 
 </line>
 
 
 <line>
-<ital>Whereas Zoe was the smart,</ital>
+<nonVerbCo<name type="PERSON">mm</name>>[audience]</nonVerbCo<name type="PERSON">mm</name>> Aww...
+
+</line>
+
+
+<line>
+<ital>Whereas <name type="PERSON">Zoe</name> was the smart,</ital>
 
 <ital>cynical introvert.</ital>
 
@@ -594,7 +594,7 @@ because Halloween
 
 encourages excessive consumption
 
-of refined sugar
+of refined su<name type="PERSON">ga</name>r
 
 at a time when obesity rates
 
@@ -606,7 +606,7 @@ are sky high.
 <line>
 Plus, Halloween costumes are
 
-a gateway to casual racism.
+a <name type="PERSON">ga</name>teway to casual racism.
 
 </line>
 
@@ -614,25 +614,25 @@ a gateway to casual racism.
 <line>
 Why don't I keep the knife,
 
-Zo-bo?
+<name type="PERSON">Zo-bo</name>?
 
 </line>
 
 
 <line>
-<ital><music>♪ Who's that dog? ♪</music></ital>
+<ital><music>♪ W<name type="PERSON">ho</name>'s that dog? ♪</music></ital>
 
 </line>
 
 
 <line>
-<ital><music>♪ Mr. <name type="ORG">Peanutbutter</name> ♪</music></ital>
+<ital><music>♪ Mr. <name type="PERSON">Peanut</name>butter ♪</music></ital>
 
 </line>
 
 
 <line>
-<ital>♪ Knick-knack, paddywhack</ital>
+<ital>♪ <name type="PERSON">Knick</name>-knack, paddywhack</ital>
 
 <ital>Give a dog a bone ♪</ital>
 
@@ -640,7 +640,7 @@ Zo-bo?
 
 
 <line>
-Now, was the show's acting
+Now, was the s<name type="PERSON">ho</name>w's acting
 
 ham-fisted
 
@@ -656,7 +656,7 @@ N-n-no?
 
 
 <line>
-Yes, but the Zoe/Zelda
+Yes, but the <name type="PERSON">Zoe</name>/<name type="PERSON">Zelda</name>
 
 paradigm rang true.
 
@@ -666,23 +666,23 @@ paradigm rang true.
 <line>
 I believe everyone's
 
-either a Zoe or a Zelda.
+either a <name type="PERSON">Zoe</name> or a <name type="PERSON">Zelda</name>.
 
 </line>
 
 
 <line>
-For example, Nixon was a Zoe
+For example, <name type="PERSON">Nixon</name> was a <name type="PERSON">Zoe</name>
 
-and Kennedy, a Zelda.
+and <name type="PERSON">Kennedy</name>, a <name type="PERSON">Zelda</name>.
 
 </line>
 
 
 <line>
-Al Gore, Zoe.
+<name type="PERSON">Al Gore</name>, <name type="PERSON">Zoe</name>.
 
-George W. Bush, total Zelda.
+<name type="PERSON">George W. Bush</name>, total <name type="PERSON">Zelda</name>.
 
 </line>
 
@@ -690,21 +690,21 @@ George W. Bush, total Zelda.
 <line>
 It's R2-D2 and C-3PO,
 
-Zooey and Emily Deschanel.
+<name type="PERSON">Zooey</name> and <name type="PERSON">Emily</name> Deschanel.
 
 </line>
 
 
 <line>
-So Zooey's a Zoe?
+So <name type="PERSON">Zooey</name>'s a <name type="PERSON">Zoe</name>?
 
 </line>
 
 
 <line>
-No, Zooey's a Zelda.
+No, <name type="PERSON">Zooey</name>'s a <name type="PERSON">Zelda</name>.
 
-Emily's the Zoe.
+<name type="PERSON">Emily</name>'s the <name type="PERSON">Zoe</name>.
 
 </line>
 
@@ -718,7 +718,7 @@ What a crazy world.
 <line>
 So which one are you,
 
-BoJack?
+<name type="PERSON">Bo</name><name type="PERSON">Jack</name>?
 
 </line>
 
@@ -732,19 +732,19 @@ above this.
 
 
 <line>
-Said the Zoe.
+Said the <name type="PERSON">Zoe</name>.
 
 </line>
 
 
 <line>
-<nonVerbComm>[laughter]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[laughter]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-Well, I think I'm a Zelda.
+Well, I think I'm a <name type="PERSON">Zelda</name>.
 
 </line>
 
@@ -758,17 +758,17 @@ the third kind of person,
 
 
 <line>
-whose only f<name type="ORG">un</name>ction is to drain
+w<name type="PERSON">ho</name>se only f<name type="ORG">un</name>ction is to drain
 
 the energy and life force
 
-from his host organism.
+from his <name type="PERSON">ho</name>st or<name type="PERSON">ga</name>nism.
 
 </line>
 
 
 <line>
-Come on, BoJack.
+Come on, <name type="PERSON">Bo</name><name type="PERSON">Jack</name>.
 
 </line>
 
@@ -782,7 +782,7 @@ I'm pretty much worthless.
 
 
 <line>
-See? You say something
+See? <name type="PERSON">Yo</name>u say something
 
 to someone enough times,
 
@@ -798,7 +798,7 @@ he internalizes it.
 
 
 <line>
-The system works.
+<name type="PERSON">T</name>he system works.
 
 </line>
 
@@ -844,7 +844,7 @@ Why'd I ask that?
 
 
 <line>
-Basically, it's <ital>Tommy</ital>
+Basically, it's <ital><name type="PERSON">T</name>o<name type="PERSON">mm</name>y</ital>
 
 by way of <ital><name type="ORG">Cirque du Soleil</name></ital>
 
@@ -852,7 +852,7 @@ set in space,
 
 with heavy erotic overtones,
 
-and the gripping psychodrama
+and the gripping psyc<name type="PERSON">ho</name>drama
 
 of a thriller
 
@@ -866,25 +866,25 @@ and more than a little humor.
 <line>
 I call it
 
-<ital><name type="ORG">Newtopia</name> Rising, Book I:</ital>
+<ital><name type="ORG">Newtopia</name> Rising, <name type="PERSON">Bo</name>ok I:</ital>
 
 </line>
 
 
 <line>
-<ital>The Search for a New Utopia.</ital>
+<ital><name type="PERSON">T</name>he Search for a New Utopia.</ital>
 
 </line>
 
 
 <line>
-Book I?
+<name type="PERSON">Bo</name>ok I?
 
 </line>
 
 
 <line>
-You've got me
+<name type="PERSON">Yo</name>u've got me
 
 thinking sequel here.
 
@@ -898,19 +898,19 @@ Ugh.
 
 
 <line>
-<nonVerbComm>[playing fanfare]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[playing fanfare]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-<nonVerbComm>[laser effects]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[laser effects]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-<ital><music>♪ Traveling on a spaceship ♪</music></ital>
+<ital><music>♪ <name type="PERSON">T</name>raveling on a spaceship ♪</music></ital>
 
 </line>
 
@@ -924,13 +924,13 @@ Ugh.
 
 
 <line>
-<ital><music>♪ So far away from home ♪</music></ital>
+<ital><music>♪ So far away from <name type="PERSON">ho</name>me ♪</music></ital>
 
 </line>
 
 
 <line>
-<ital><music>♪ To find a new and better place ♪</music></ital>
+<ital><music>♪ <name type="PERSON">T</name>o find a new and better place ♪</music></ital>
 
 </line>
 
@@ -942,7 +942,7 @@ Ugh.
 
 
 <line>
-<name type="GPE">Loam</name>?
+<name type="PERSON">Lo</name>am?
 
 "Rich with loam?"
 
@@ -956,7 +956,7 @@ Yeah, it's a kind of soil.
 
 
 <line>
-These people are simple,
+<name type="PERSON">T</name>hese people are simple,
 
 agricultural types.
 
@@ -970,7 +970,7 @@ On a spaceship?
 
 
 <line>
-<nonVerbComm>[synthesizer music]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[synthesizer music]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -1012,13 +1012,13 @@ On a spaceship?
 <line>
 - [yawns]
 
-<ital>- <music>♪ Make u-u-u-us ♪</music></ital>
+<ital>- <music>♪ <name type="PERSON">Ma</name>ke u-u-u-us ♪</music></ital>
 
 </line>
 
 
 <line>
-<nonVerbComm>[synthesizer fills]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[synthesizer fills]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -1046,13 +1046,13 @@ Just say "slaves."
 
 
 <line>
-<nonVerbComm>[recorded applause plays]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[recorded applause plays]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-That was-- and I don't
+<name type="PERSON">T</name>hat was-- and I don't
 
 say this lightly...
 
@@ -1066,7 +1066,7 @@ September 11ths.
 <line>
 Yeah, you're right.
 
-This was stupid.
+<name type="PERSON">T</name>his was stupid.
 
 </line>
 
@@ -1088,7 +1088,7 @@ forever.
 
 
 <line>
-That's the spirit.
+<name type="PERSON">T</name>hat's the spirit.
 
 </line>
 
@@ -1114,9 +1114,9 @@ especially Blues music and its
 
 
 <line>
-I thought this story was about
+I t<name type="PERSON">ho</name>ught this story was about
 
-r<name type="ORG">un</name>ning into Paul McCartney
+r<name type="ORG">un</name>ning into Paul <name type="PERSON">McCartney</name>
 
 in the bathroom
 
@@ -1126,7 +1126,7 @@ at the Golden <name type="ORG">Globe</name>s.
 
 
 <line>
-It is. I thought you would
+It is. I t<name type="PERSON">ho</name>ught you would
 
 appreciate some context.
 
@@ -1142,13 +1142,13 @@ for a minute.
 
 
 <line>
-Tell me about Todd.
+<name type="PERSON">T</name>ell me about <name type="PERSON">T</name>odd.
 
 </line>
 
 
 <line>
-Todd?
+<name type="PERSON">T</name>odd?
 
 What's to tell?
 
@@ -1158,7 +1158,7 @@ What's to tell?
 <line>
 Five years ago, he fo<name type="ORG">un</name>d his way
 
-into one of my house parties
+into one of my <name type="PERSON">ho</name>use parties
 
 and never left.
 
@@ -1198,7 +1198,7 @@ really flourish.
 <line>
 I mean, didn't you have anyone
 
-who helped you
+w<name type="PERSON">ho</name> helped you
 
 when you were just
 
@@ -1214,7 +1214,7 @@ Um, actually, no.
 
 
 <line>
-Todd clearly thinks
+<name type="PERSON">T</name>odd clearly thinks
 
 the world of you.
 
@@ -1222,15 +1222,15 @@ the world of you.
 
 
 <line>
-Todd thinks the world
+<name type="PERSON">T</name>odd thinks the world
 
-of <name type="ORG">Pop-Tarts</name>.
+of <name type="ORG">Pop-<name type="PERSON">T</name>arts</name>.
 
 </line>
 
 
 <line>
-Look, I get that helping other
+<name type="PERSON">Lo</name>ok, I get that helping other
 
 people is not your thing, but--
 
@@ -1238,7 +1238,7 @@ people is not your thing, but--
 
 
 <line>
-What? I let Todd live
+What? I let <name type="PERSON">T</name>odd live
 
 rent-free in my stately manse.
 
@@ -1248,7 +1248,7 @@ rent-free in my stately manse.
 <line>
 I am his own personal
 
-Mother Teresa.
+<name type="PERSON">Mo</name>ther <name type="PERSON">T</name>eresa.
 
 </line>
 
@@ -1266,9 +1266,9 @@ of being alone?
 
 
 <line>
-<nonVerbComm>[laughing]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[laughing]</nonVerbCo<name type="PERSON">mm</name>>
 
-That is insane!
+<name type="PERSON">T</name>hat is insane!
 
 </line>
 
@@ -1276,13 +1276,13 @@ That is insane!
 <line>
 I would love to be alone.
 
-That is all I want.
+<name type="PERSON">T</name>hat is all I want.
 
 </line>
 
 
 <line>
-Mmm...if that were
+M<name type="PERSON">mm</name>...if that were
 
 really true,
 
@@ -1292,19 +1292,19 @@ really true,
 <line>
 I don't think you'd be clipping
 
-Todd's wings all the time.
+<name type="PERSON">T</name>odd's wings all the time.
 
 </line>
 
 
 <line>
-What? That's <name type="ORG">un</name>believable.
+What? <name type="PERSON">T</name>hat's <name type="ORG">un</name>believable.
 
 </line>
 
 
 <line>
-Todd!
+<name type="PERSON">T</name>odd!
 
 </line>
 
@@ -1340,7 +1340,7 @@ dumb-ass rock opera.
 <line>
 I-I don't <name type="ORG">un</name>derstand.
 
-Oh, my God, are you dying?
+Oh, my <name type="PERSON">God</name>, are you dying?
 
 </line>
 
@@ -1380,7 +1380,7 @@ about the ice skating,
 
 but then instead of ice skating,
 
-you left me at home
+you left me at <name type="PERSON">ho</name>me
 
 so you could go
 
@@ -1396,7 +1396,7 @@ ice skating?
 <line>
 - No.
 
-- Then hooray!
+- <name type="PERSON">T</name>hen <name type="PERSON">ho</name>oray!
 
 </line>
 
@@ -1424,7 +1424,7 @@ I hate everything about it.
 
 
 <line>
-The premise is bad
+<name type="PERSON">T</name>he premise is bad
 
 and the execution is also bad.
 
@@ -1440,19 +1440,19 @@ of shit.
 
 
 <line>
-Tough but fair.
+<name type="PERSON">T</name>ough but fair.
 
 </line>
 
 
 <line>
-Ahem.
+<name type="PERSON">Ahem</name>.
 
 </line>
 
 
 <line>
-That said,
+<name type="PERSON">T</name>hat said,
 
 I don't see why
 
@@ -1472,7 +1472,7 @@ I'll work on that.
 
 
 <line>
-<nonVerbComm>[panting]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[panting]</nonVerbCo<name type="PERSON">mm</name>>
 
 Are you close?
 
@@ -1500,7 +1500,7 @@ Now?
 
 
 <line>
-You're not even
+<name type="PERSON">Yo</name>u're not even
 
 inside of me.
 
@@ -1508,19 +1508,19 @@ inside of me.
 
 
 <line>
-Oh, God!
+Oh, <name type="PERSON">God</name>!
 
 </line>
 
 
 <line>
-Did you get there?
+<name type="PERSON">Di</name>d you get there?
 
 </line>
 
 
 <line>
-<nonVerbComm>[door opening]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[door opening]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -1532,7 +1532,7 @@ in the <name type="ORG">sec</name>ond act closer
 
 when the seekers of <name type="ORG">Newtopia</name>
 
-are in the <name type="NORP">Turbidians</name>' d<name type="ORG">un</name>geon
+are in the <name type="PERSON">T</name>urbidians' d<name type="ORG">un</name>geon
 
 and they learn their ship
 
@@ -1574,7 +1574,7 @@ Let me see what I can do.
 
 
 <line>
-<nonVerbComm>[playing keyboard]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[playing keyboard]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -1624,7 +1624,7 @@ than your rock opera.
 
 
 <line>
-That's not really a note.
+<name type="PERSON">T</name>hat's not really a note.
 
 </line>
 
@@ -1648,9 +1648,9 @@ not even listening.
 <line>
 Yeah, well, you know what?
 
-Maybe I would listen
+<name type="PERSON">Ma</name>ybe I would listen
 
-if the <name type="NORP">Turbidians</name>
+if the <name type="PERSON">T</name>urbidians
 
 had some reason
 
@@ -1662,13 +1662,13 @@ that didn't break the pact
 
 they made in act one
 
-with Queen Darneesa.
+with Queen <name type="PERSON">Darneesa</name>.
 
 </line>
 
 
 <line>
-You have been listening.
+<name type="PERSON">Yo</name>u have been listening.
 
 </line>
 
@@ -1680,7 +1680,7 @@ Just doesn't make sense.
 
 
 <line>
-The <name type="NORP">Turbidians</name>
+<name type="PERSON">T</name>he <name type="PERSON">T</name>urbidians
 
 are a loyal people.
 
@@ -1688,7 +1688,7 @@ are a loyal people.
 
 
 <line>
-They-- they wouldn't
+<name type="PERSON">T</name>hey-- they wouldn't
 
 betray their queen.
 
@@ -1702,11 +1702,11 @@ Unless...
 
 
 <line>
-<nonVerbComm>[both]</nonVerbComm> They were working
+<nonVerbCo<name type="PERSON">mm</name>>[both]</nonVerbCo<name type="PERSON">mm</name>> <name type="PERSON">T</name>hey were working
 
-for Queen Darneesa,
+for Queen <name type="PERSON">Darneesa</name>,
 
-who gave them a potion
+w<name type="PERSON">ho</name> <name type="PERSON">ga</name>ve them a potion
 
 that would co<name type="ORG">un</name>teract
 
@@ -1738,7 +1738,7 @@ Get this down!
 
 
 <line>
-<nonVerbComm>[gr<name type="ORG">un</name>ting]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[gr<name type="ORG">un</name>ting]</nonVerbCo<name type="PERSON">mm</name>>
 
 Oh, you like that.
 
@@ -1746,7 +1746,7 @@ Oh, you like that.
 
 
 <line>
-You like daddy's good stuff?
+<name type="PERSON">Yo</name>u like daddy's good stuff?
 
 </line>
 
@@ -1758,13 +1758,13 @@ Not especially.
 
 
 <line>
-<nonVerbComm>[groans]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[groans]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-Did you get there?
+<name type="PERSON">Di</name>d you get there?
 
 </line>
 
@@ -1786,7 +1786,7 @@ blew this thing wide open.
 
 
 <line>
-<nonVerbComm>[playing keyboard]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[playing keyboard]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -1812,21 +1812,21 @@ blew this thing wide open.
 
 
 <line>
-<nonVerbComm>[low note]</nonVerbComm> <ital><music>♪ A-a-ah ♪</music></ital>
+<nonVerbCo<name type="PERSON">mm</name>>[low note]</nonVerbCo<name type="PERSON">mm</name>> <ital><music>♪ A-a-ah ♪</music></ital>
 
 </line>
 
 
 <line>
-That was great!
+<name type="PERSON">T</name>hat was great!
 
-This train is moving.
+<name type="PERSON">T</name>his train is moving.
 
 </line>
 
 
 <line>
-<nonVerbComm>[laughs]</nonVerbComm> Let's take a break
+<nonVerbCo<name type="PERSON">mm</name>>[laughs]</nonVerbCo<name type="PERSON">mm</name>> Let's take a break
 
 and get l<name type="ORG">un</name>ch.
 
@@ -1878,7 +1878,7 @@ No.
 
 
 <line>
-Then hooray!
+<name type="PERSON">T</name>hen <name type="PERSON">ho</name>oray!
 
 </line>
 
@@ -1886,7 +1886,7 @@ Then hooray!
 <line>
 And that was a last time
 
-I worked with David O. Russell.
+I worked with <name type="PERSON">David</name> O. Russell.
 
 </line>
 
@@ -1916,9 +1916,9 @@ that is the expression.
 
 
 <line>
-- [phone ringing]
+- [p<name type="PERSON">ho</name>ne ringing]
 
-- Ooh, hold on.
+- Ooh, <name type="PERSON">ho</name>ld on.
 
 </line>
 
@@ -1930,7 +1930,7 @@ I gotta take this.
 
 
 <line>
-Erica, I don't have time
+<name type="PERSON">Eric</name>a, I don't have time
 
 to be charmed to death
 
@@ -1940,9 +1940,9 @@ right now.
 
 
 <line>
-So how long have you been
+So <name type="PERSON">ho</name>w long have you been
 
-dating Mr. <name type="ORG">Peanutbutter</name>?
+dating Mr. <name type="PERSON">Peanut</name>butter?
 
 </line>
 
@@ -1966,15 +1966,15 @@ to write a <ital><name type="ORG">BuzzFeed</name></ital> article?
 
 
 <line>
-I want to be thorough.
+I want to be t<name type="PERSON">ho</name>rough.
 
 </line>
 
 
 <line>
-What? Diane, Diane,
+What? <name type="PERSON">Di</name>ane, <name type="PERSON">Di</name>ane,
 
-Diane, Diane!
+<name type="PERSON">Di</name>ane, <name type="PERSON">Di</name>ane!
 
 </line>
 
@@ -1990,7 +1990,7 @@ Diane, Diane!
 <line>
 It's "burritos as big as your head" day
 
-at El Taco Loco!
+at El <name type="PERSON">T</name>aco <name type="PERSON">Lo</name>co!
 
 </line>
 
@@ -2002,19 +2002,19 @@ We gotta go right now!
 
 
 <line>
-I thought we were going to see
+I t<name type="PERSON">ho</name>ught we were going to see
 
-the Diane <name type="ORG">Arbus</name> show
+the <name type="PERSON">Di</name>ane <name type="ORG">Arbus</name> s<name type="PERSON">ho</name>w
 
 at <name type="GPE">LA</name>CMA today.
 
-You know I love Diane <name type="ORG">Arbus</name>.
+<name type="PERSON">Yo</name>u know I love <name type="PERSON">Di</name>ane <name type="ORG">Arbus</name>.
 
 </line>
 
 
 <line>
-<nonVerbComm>[chuckles]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[chuckles]</nonVerbCo<name type="PERSON">mm</name>>
 
 I see what's happening here.
 
@@ -2022,23 +2022,23 @@ I see what's happening here.
 
 
 <line>
-Her name is Diane,
+Her name is <name type="PERSON">Di</name>ane,
 
-and your name is Diane.
-
-</line>
-
-
-<line>
-That's not what's happening.
+and your name is <name type="PERSON">Di</name>ane.
 
 </line>
 
 
 <line>
-I can go to the <name type="ORG">Arbus</name> show
+<name type="PERSON">T</name>hat's not what's happening.
 
-with you, Diane.
+</line>
+
+
+<line>
+I can go to the <name type="ORG">Arbus</name> s<name type="PERSON">ho</name>w
+
+with you, <name type="PERSON">Di</name>ane.
 
 </line>
 
@@ -2072,7 +2072,7 @@ Why did you ever break up?
 
 
 <line>
-<nonVerbComm>[nervous laugh]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[nervous laugh]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -2102,13 +2102,13 @@ Here's your steak.
 <line>
 - Uh, sorry.
 
-- Mm-hmm.
+- Mm-h<name type="PERSON">mm</name>.
 
 </line>
 
 
 <line>
-You mean to tell me
+<name type="PERSON">Yo</name>u mean to tell me
 
 that for a full year
 
@@ -2134,41 +2134,41 @@ told me any of this stuff.
 
 
 <line>
-I just thought you were
+I just t<name type="PERSON">ho</name>ught you were
 
 a dumb freeloader
 
-who ate all my food
+w<name type="PERSON">ho</name> ate all my food
 
-and played video games all day.
-
-</line>
-
-
-<line>
-You should have seen me
-
-in high school.
+and played video <name type="PERSON">ga</name>mes all day.
 
 </line>
 
 
 <line>
-There was this one game,
+<name type="PERSON">Yo</name>u s<name type="PERSON">ho</name>uld have seen me
 
-Decapathon.
-
-</line>
-
-
-<line>
-I remember that game.
+in high sc<name type="PERSON">ho</name>ol.
 
 </line>
 
 
 <line>
-I was up for Dr. Decapitator
+<name type="PERSON">T</name>here was this one <name type="PERSON">ga</name>me,
+
+<name type="PERSON">Decapat<name type="PERSON">ho</name>n</name>.
+
+</line>
+
+
+<line>
+I remember that <name type="PERSON">ga</name>me.
+
+</line>
+
+
+<line>
+I was up for Dr. <name type="PERSON">Decapitator</name>
 
 in the movie version.
 
@@ -2176,13 +2176,13 @@ in the movie version.
 
 
 <line>
-They said they wanted
+<name type="PERSON">T</name>hey said they wanted
 
 someone hipper,
 
 but the part ended up
 
-going to Robert Downey.
+going to <name type="PERSON">Ro<name type="PERSON">bert</name> Downey</name>.
 
 </line>
 
@@ -2202,7 +2202,7 @@ I would have said, "J<name type="ORG">un</name>ior."
 
 
 <line>
-That game basically
+<name type="PERSON">T</name>hat <name type="PERSON">ga</name>me basically
 
 destroyed my life.
 
@@ -2210,7 +2210,7 @@ destroyed my life.
 
 
 <line>
-I fl<name type="ORG">un</name>ked out of school,
+I fl<name type="ORG">un</name>ked out of sc<name type="PERSON">ho</name>ol,
 
 my girlfriend left me.
 
@@ -2224,7 +2224,7 @@ I didn't stop playing
 
 <name type="ORG">un</name>til my mom
 
-threw me out of the house.
+threw me out of the <name type="PERSON">ho</name>use.
 
 </line>
 
@@ -2244,15 +2244,15 @@ I'm a total screw-up.
 
 
 <line>
-You're not a screw-up
+<name type="PERSON">Yo</name>u're not a screw-up
 
-anymore, Todd.
+anymore, <name type="PERSON">T</name>odd.
 
 </line>
 
 
 <line>
-You're about to have
+<name type="PERSON">Yo</name>u're about to have
 
 a hit rock opera on your hands.
 
@@ -2268,7 +2268,7 @@ you think that.
 
 
 <line>
-I got Princess Carolyn
+I got Princess <name type="PERSON">Carol</name>yn
 
 to invite
 
@@ -2276,7 +2276,7 @@ to invite
 
 
 <line>
-Virgil Van Cleef
+<name type="PERSON">Virgil</name> <name type="PERSON">Van Cleef</name>
 
 to our next rehearsal.
 
@@ -2284,13 +2284,13 @@ to our next rehearsal.
 
 
 <line>
-Who in the what Van?
+W<name type="PERSON">ho</name> in the what Van?
 
 </line>
 
 
 <line>
-Virgil Van Cleef is
+<name type="PERSON">Virgil</name> <name type="PERSON">Van Cleef</name> is
 
 the biggest name in rock opera.
 
@@ -2320,7 +2320,7 @@ He had a piece of all of them.
 
 
 <line>
-Wow, Todd, are you sure
+Wow, <name type="PERSON">T</name>odd, are you sure
 
 we're ready for that?
 
@@ -2354,7 +2354,7 @@ enough listening, buddy.
 
 
 <line>
-Maybe it's about time
+<name type="PERSON">Ma</name>ybe it's about time
 
 I start listening.
 
@@ -2364,7 +2364,7 @@ I start listening.
 <line>
 Well, I feel like--
 
-[phone ringing]
+[p<name type="PERSON">ho</name>ne ringing]
 
 </line>
 
@@ -2380,7 +2380,7 @@ Hello?
 <line>
 Hello?
 
-BoJack <name type="ORG">Horse</name>man?
+<name type="PERSON">Bo</name><name type="PERSON">Jack</name> <name type="ORG">Horse</name>man?
 
 </line>
 
@@ -2430,7 +2430,7 @@ I'm having l<name type="ORG">un</name>ch with my friend.
 
 
 <line>
-All right, gang, when Virgil Van
+All right, <name type="PERSON">ga</name>ng, when <name type="PERSON">Virgil</name> Van
 
 Cleef gets here, look alive.
 
@@ -2438,7 +2438,7 @@ Cleef gets here, look alive.
 
 
 <line>
-This could be Todd's big break,
+<name type="PERSON">T</name>his could be <name type="PERSON">T</name>odd's big break,
 
 so clap really hard
 
@@ -2460,31 +2460,31 @@ so, you know, look out.
 
 
 <line>
-<nonVerbComm>[laughs]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[laughs]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-- That was not a joke.
+- <name type="PERSON">T</name>hat was not a joke.
 
-- That was not a real laugh.
-
-</line>
-
-
-<line>
-I hope you don't mind
-
-I brought Wayne along.
+- <name type="PERSON">T</name>hat was not a real laugh.
 
 </line>
 
 
 <line>
-- Who's Wayne?
+I <name type="PERSON">ho</name>pe you don't mind
 
-- I'm Wayne.
+I brought <name type="PERSON">Wayne</name> along.
+
+</line>
+
+
+<line>
+- W<name type="PERSON">ho</name>'s <name type="PERSON">Wayne</name>?
+
+- I'm <name type="PERSON">Wayne</name>.
 
 </line>
 
@@ -2504,7 +2504,7 @@ cover story.
 <line>
 <ital><name type="ORG">BuzzFeed</name></ital> is a website.
 
-There is no cover.
+<name type="PERSON">T</name>here is no cover.
 
 </line>
 
@@ -2522,7 +2522,7 @@ It's "tomato," "to-mah-to."
 
 
 <line>
-You say, "tomato,"
+<name type="PERSON">Yo</name>u say, "tomato,"
 
 "to-mah-to,"
 
@@ -2536,13 +2536,13 @@ I say, "tomato," "tomato."
 
 
 <line>
-<nonVerbComm>[shudders]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[shudders]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-Oh, hey, Diane,
+Oh, hey, <name type="PERSON">Di</name>ane,
 
 I got you something.
 
@@ -2562,7 +2562,7 @@ Yep, to <name type="GPE">San Francisco</name>.
 
 
 <line>
-That's where the <name type="ORG">Arbus</name> exhibit
+<name type="PERSON">T</name>hat's where the <name type="ORG">Arbus</name> exhibit
 
 is heading next.
 
@@ -2570,21 +2570,21 @@ is heading next.
 
 
 <line>
-Oh, my God.
+Oh, my <name type="PERSON">God</name>.
 
-Thanks, Mr. <name type="ORG">Peanutbutter</name>.
-
-</line>
-
-
-<line>
-<nonVerbComm>[crash]</nonVerbComm>
+<name type="PERSON">T</name>hanks, Mr. <name type="PERSON">Peanut</name>butter.
 
 </line>
 
 
 <line>
-<nonVerbComm>[moose call]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[crash]</nonVerbCo<name type="PERSON">mm</name>>
+
+</line>
+
+
+<line>
+<nonVerbCo<name type="PERSON">mm</name>>[moose call]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -2624,7 +2624,7 @@ to that.
 
 
 <line>
-Todd is neither a singer
+<name type="PERSON">T</name>odd is neither a singer
 
 nor a trained musician.
 
@@ -2634,7 +2634,7 @@ nor a trained musician.
 <line>
 In fact, he never even
 
-graduated high school,
+graduated high sc<name type="PERSON">ho</name>ol,
 
 he told me in confidence.
 
@@ -2644,13 +2644,13 @@ he told me in confidence.
 <line>
 Keep all that in mind
 
-as you give it up for Todd.
+as you give it up for <name type="PERSON">T</name>odd.
 
 </line>
 
 
 <line>
-<nonVerbComm>[cheers and applause]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[cheers and applause]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -2658,13 +2658,13 @@ as you give it up for Todd.
 <line>
 Okay, so we start in 1887
 
-with a yo<name type="ORG">un</name>g Emma Goldman.
+with a yo<name type="ORG">un</name>g <name type="PERSON">E<name type="PERSON">mm</name>a</name> Goldman.
 
 </line>
 
 
 <line>
-<nonVerbComm>[playing keyboard]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[playing keyboard]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -2672,7 +2672,7 @@ with a yo<name type="ORG">un</name>g Emma Goldman.
 <line>
 <ital>♪ No they couldn-n-n-n't</ital>
 
-<ital>Make u-u-u-us ♪</ital>
+<ital><name type="PERSON">Ma</name>ke u-u-u-us ♪</ital>
 
 </line>
 
@@ -2686,7 +2686,7 @@ with a yo<name type="ORG">un</name>g Emma Goldman.
 <line>
 It needs
 
-a third act showstopper.
+a third act s<name type="PERSON">ho</name>wstopper.
 
 </line>
 
@@ -2706,13 +2706,13 @@ it's spellbinding.
 
 
 <line>
-<nonVerbComm>[BoJack]</nonVerbComm> All right!
+<nonVerbCo<name type="PERSON">mm</name>>[<name type="PERSON">Bo</name><name type="PERSON">Jack</name>]</nonVerbCo<name type="PERSON">mm</name>> All right!
 
 </line>
 
 
 <line>
-Whoo!
+W<name type="PERSON">ho</name>o!
 
 [applause]
 
@@ -2720,9 +2720,9 @@ Whoo!
 
 
 <line>
-You know, I r<name type="ORG">un</name> a small
+<name type="PERSON">Yo</name>u know, I r<name type="ORG">un</name> a small
 
-theater in North <name type="LOC">Hollywoo</name>d.
+theater in North <name type="PERSON">Holly</name>wood.
 
 </line>
 
@@ -2730,13 +2730,13 @@ theater in North <name type="LOC">Hollywoo</name>d.
 <line>
 We were supposed to mo<name type="ORG">un</name>t
 
-a <ital>J.C. Superstar </ital>revival
+a <ital>J.C. <name type="PERSON">Sup</name>erstar </ital>revival
 
 next month, but of course,
 
-Andrew Lloyd Webber has to be
+<name type="PERSON">Andrew</name> Lloyd Webber has to be
 
-a real hot penis
+a real <name type="PERSON">ho</name>t penis
 
 about everything.
 
@@ -2744,7 +2744,7 @@ about everything.
 
 
 <line>
-Oh, Andy.
+Oh, <name type="PERSON">Andy</name>.
 
 Fool me once, shame on you,
 
@@ -2758,7 +2758,7 @@ for the rest of my life.
 
 
 <line>
-Anyway, could this show
+Anyway, could this s<name type="PERSON">ho</name>w
 
 be ready to debut in six weeks?
 
@@ -2774,9 +2774,9 @@ Yeah, I guess so.
 
 
 <line>
-Marvelous! We'll schedule
+<name type="PERSON">Ma</name>rvelous! We'll schedule
 
-an investor showcase posthaste.
+an investor s<name type="PERSON">ho</name>wcase posthaste.
 
 </line>
 
@@ -2798,13 +2798,13 @@ Ah!
 <line>
 - Popping, what?
 
-- This is great.
+- <name type="PERSON">T</name>his is great.
 
 </line>
 
 
 <line>
-You know, just when you think
+<name type="PERSON">Yo</name>u know, just when you think
 
 you have a person pegged,
 
@@ -2816,7 +2816,7 @@ to surprise you.
 
 
 <line>
-Yeah, Todd really rose
+Yeah, <name type="PERSON">T</name>odd really rose
 
 to the occasion, didn't he?
 
@@ -2838,9 +2838,9 @@ it was nothing.
 
 
 <line>
-Maybe the Zoe has
+<name type="PERSON">Ma</name>ybe the <name type="PERSON">Zoe</name> has
 
-a little Zelda in him after all.
+a little <name type="PERSON">Zelda</name> in him after all.
 
 </line>
 
@@ -2850,13 +2850,13 @@ I appreciate the sentiment,
 
 but I still think
 
-that game is stupid.
+that <name type="PERSON">ga</name>me is stupid.
 
 </line>
 
 
 <line>
-Hey, BoJack, do you realize
+Hey, <name type="PERSON">Bo</name><name type="PERSON">Jack</name>, do you realize
 
 what this means?
 
@@ -2874,21 +2874,21 @@ I could finally move out.
 <line>
 Oh, uh,
 
-you're gonna move out?
+you're <name type="PERSON">gonna</name> move out?
 
 </line>
 
 
 <line>
-You won't have to yell,
+<name type="PERSON">Yo</name>u won't have to yell,
 
-"Hey, Todd, clean up your shit!"
+"Hey, <name type="PERSON">T</name>odd, clean up your shit!"
 
 </line>
 
 
 <line>
-Or, "Todd, why haven't you
+Or, "<name type="PERSON">T</name>odd, why haven't you
 
 cleaned up your shit yet?"
 
@@ -2896,7 +2896,7 @@ cleaned up your shit yet?"
 
 
 <line>
-Or, "Todd, what was the name of
+Or, "<name type="PERSON">T</name>odd, what was the name of
 
 that guy from <ital>Perfect Strangers?</ital>
 
@@ -2904,7 +2904,7 @@ that guy from <ital>Perfect Strangers?</ital>
 
 
 <line>
-Not Bronson Pinchot,
+Not Bronson Pinc<name type="PERSON">ho</name>t,
 
 but the other one?"
 
@@ -2912,9 +2912,9 @@ but the other one?"
 
 
 <line>
-Good, that's great.
+<name type="PERSON">Goo</name>d, that's great.
 
-That's great and good.
+<name type="PERSON">T</name>hat's great and good.
 
 </line>
 
@@ -2928,13 +2928,13 @@ So good, so great.
 <line>
 - Just great, and also good.
 
-- Mm-hmm.
+- Mm-h<name type="PERSON">mm</name>.
 
 </line>
 
 
 <line>
-<nonVerbComm>[big band music]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[big band music]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -2956,9 +2956,9 @@ progress has been swift.
 <line>
 For tomorrow's
 
-investor showcase,
+investor s<name type="PERSON">ho</name>wcase,
 
-we'll have choreography
+we'll have c<name type="PERSON">ho</name>reography
 
 and pyrotechnics for you.
 
@@ -2966,7 +2966,7 @@ and pyrotechnics for you.
 
 
 <line>
-This is all just
+<name type="PERSON">T</name>his is all just
 
 happening so fast.
 
@@ -2976,13 +2976,13 @@ happening so fast.
 <line>
 I don't-- I don't think
 
-Todd is ready for this.
+<name type="PERSON">T</name>odd is ready for this.
 
 </line>
 
 
 <line>
-Todd's not ready
+<name type="PERSON">T</name>odd's not ready
 
 or you're not ready?
 
@@ -3008,7 +3008,7 @@ It's not your fault.
 
 
 <line>
-I thought he was ready.
+I t<name type="PERSON">ho</name>ught he was ready.
 
 He seemed ready.
 
@@ -3022,11 +3022,11 @@ It's not... your... fault.
 
 
 <line>
-You're right.
+<name type="PERSON">Yo</name>u're right.
 
 In these heady times,
 
-what Todd needs is an agent.
+what <name type="PERSON">T</name>odd needs is an agent.
 
 Ha! Ha!
 
@@ -3042,7 +3042,7 @@ Ha! Ha!
 
 
 <line>
-- That third act showstopper...
+- <name type="PERSON">T</name>hat third act s<name type="PERSON">ho</name>wstopper...
 
 - Ha!
 
@@ -3058,9 +3058,9 @@ fully financed!
 
 
 <line>
-Todd can do it!
+<name type="PERSON">T</name>odd can do it!
 
-Todd can do anything!
+<name type="PERSON">T</name>odd can do anything!
 
 </line>
 
@@ -3102,7 +3102,7 @@ here, and here.
 <line>
 So I think the big
 
-third act number Virgil wants
+third act number <name type="PERSON">Virgil</name> wants
 
 might be a big anthem that--
 
@@ -3110,7 +3110,7 @@ might be a big anthem that--
 
 
 <line>
-Whoa, whoa, whoa,
+W<name type="PERSON">ho</name>a, w<name type="PERSON">ho</name>a, w<name type="PERSON">ho</name>a,
 
 buddy, buddy,
 
@@ -3118,7 +3118,7 @@ buddy, buddy,
 
 
 <line>
-I'm not gonna let you start
+I'm not <name type="PERSON">gonna</name> let you start
 
 on this <name type="ORG">un</name>til we stock up
 
@@ -3130,7 +3130,7 @@ on snacks and <name type="ORG">Red Bull</name>.
 <line>
 I do get snacky.
 
-You think of everything.
+<name type="PERSON">Yo</name>u think of everything.
 
 </line>
 
@@ -3144,7 +3144,7 @@ You think of everything.
 <line>
 Can you hand me
 
-that Ronnie Milsap cassingle
+that <name type="PERSON">Ronnie</name> Milsap cassingle
 
 in the 10-cent bin?
 
@@ -3158,21 +3158,21 @@ Sure thing, lady.
 
 
 <line>
-Oh, my God.
+Oh, my <name type="PERSON">God</name>.
 
-Decapathon VII?
-
-</line>
-
-
-<line>
-This just came out.
+<name type="PERSON">Decapat<name type="PERSON">ho</name>n</name> VII?
 
 </line>
 
 
 <line>
-Todd, put it down.
+<name type="PERSON">T</name>his just came out.
+
+</line>
+
+
+<line>
+<name type="PERSON">T</name>odd, put it down.
 
 </line>
 
@@ -3194,7 +3194,7 @@ that's the price.
 
 
 <line>
-Todd, this is no time
+<name type="PERSON">T</name>odd, this is no time
 
 for a relapse.
 
@@ -3202,7 +3202,7 @@ for a relapse.
 
 
 <line>
-Look, okay, I'll buy it now,
+<name type="PERSON">Lo</name>ok, okay, I'll buy it now,
 
 but I won't play it
 
@@ -3214,13 +3214,13 @@ the new song.
 
 
 <line>
-Todd, this is a bad idea!
+<name type="PERSON">T</name>odd, this is a bad idea!
 
 </line>
 
 
 <line>
-- Whoa!
+- W<name type="PERSON">ho</name>a!
 
 - All sales are final.
 
@@ -3254,23 +3254,23 @@ and child labor.
 
 
 <line>
-<nonVerbComm>[sighs]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[sighs]</nonVerbCo<name type="PERSON">mm</name>>
 
-Okay, here we go. Song time.
-
-</line>
-
-
-<line>
-<nonVerbComm>[plays a single scale]</nonVerbComm>
+Okay, here we go. <name type="PERSON">Son</name>g time.
 
 </line>
 
 
 <line>
-Or should I just play
+<nonVerbCo<name type="PERSON">mm</name>>[plays a single scale]</nonVerbCo<name type="PERSON">mm</name>>
 
-one game now,
+</line>
+
+
+<line>
+Or s<name type="PERSON">ho</name>uld I just play
+
+one <name type="PERSON">ga</name>me now,
 
 just to get
 
@@ -3282,7 +3282,7 @@ the creative juices flowing?
 <line>
 We both know that if you
 
-play that game tonight,
+play that <name type="PERSON">ga</name>me tonight,
 
 you'll never leave
 
@@ -3300,35 +3300,35 @@ of course.
 
 
 <line>
-- Thank you.
+- <name type="PERSON">T</name>hank you.
 
-- Good night.
-
-</line>
-
-
-<line>
-<nonVerbComm>[three single piano notes]</nonVerbComm>
+- <name type="PERSON">Goo</name>d night.
 
 </line>
 
 
 <line>
-<nonVerbComm>[heavy metal music]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[three single piano notes]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-Come on, Decapathon, come on.
+<nonVerbCo<name type="PERSON">mm</name>>[heavy metal music]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-<nonVerbComm>[mumbling]</nonVerbComm>
+Come on, <name type="PERSON">Decapat<name type="PERSON">ho</name>n</name>, come on.
 
-Oh, come on, Decapathon.
+</line>
+
+
+<line>
+<nonVerbCo<name type="PERSON">mm</name>>[mumbling]</nonVerbCo<name type="PERSON">mm</name>>
+
+Oh, come on, <name type="PERSON">Decapat<name type="PERSON">ho</name>n</name>.
 
 </line>
 
@@ -3348,17 +3348,17 @@ It's the morning!
 
 
 <line>
-Damn it, Todd, the investor
+Damn it, <name type="PERSON">T</name>odd, the investor
 
-showcase is in half an hour.
+s<name type="PERSON">ho</name>wcase is in half an <name type="PERSON">ho</name>ur.
 
 </line>
 
 
 <line>
-- Did you work on the song?
+- <name type="PERSON">Di</name>d you work on the song?
 
-- Huh?
+- <name type="PERSON">Hu</name>h?
 
 </line>
 
@@ -3388,13 +3388,13 @@ to have wasted your time.
 <line>
 I don't think our man
 
-is going to show.
+is going to s<name type="PERSON">ho</name>w.
 
 </line>
 
 
 <line>
-<nonVerbComm>[door slams open]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[door slams open]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -3406,7 +3406,7 @@ Wait!
 
 
 <line>
-- Good God, what's happened?
+- <name type="PERSON">Goo</name>d <name type="PERSON">God</name>, what's happened?
 
 - [groaning]
 
@@ -3420,7 +3420,7 @@ up all night
 
 playing some sort of
 
-videographic game.
+videographic <name type="PERSON">ga</name>me.
 
 </line>
 
@@ -3436,25 +3436,25 @@ to debut a song.
 <line>
 Give the kid a chance,
 
-Van Cleef.
+<name type="PERSON">Van Cleef</name>.
 
 </line>
 
 
 <line>
-<nonVerbComm>[groaning]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[groaning]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-<nonVerbComm>[playing piano intro]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[playing piano intro]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-<ital><music>♪ <name type="GPE">Loam</name>, loam, loam ♪</music></ital>
+<ital><music>♪ <name type="PERSON">Lo</name>am, loam, loam ♪</music></ital>
 
 </line>
 
@@ -3468,7 +3468,7 @@ Van Cleef.
 <line>
 <ital>♪ And on this planet</ital>
 
-<ital>It's our home ♪</ital>
+<ital>It's our <name type="PERSON">ho</name>me ♪</ital>
 
 </line>
 
@@ -3482,13 +3482,13 @@ Van Cleef.
 <line>
 Rock opera?
 
-More like "schlock flop-era."
+<name type="PERSON">Mo</name>re like "schlock flop-era."
 
 </line>
 
 
 <line>
-<nonVerbComm>[slams keys]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[slams keys]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -3500,7 +3500,7 @@ Ugh!
 
 
 <line>
-<ital><music>♪ <name type="GPE">Loam</name> ♪</music></ital>
+<ital><music>♪ <name type="PERSON">Lo</name>am ♪</music></ital>
 
 </line>
 
@@ -3514,7 +3514,7 @@ Enough!
 <line>
 Clearly,
 
-Van Cleef has shown
+<name type="PERSON">Van Cleef</name> has s<name type="PERSON">ho</name>wn
 
 a rare lapse in taste
 
@@ -3532,9 +3532,9 @@ time with this talentless imp.
 
 
 <line>
-Hey, Van Cleef,
+Hey, <name type="PERSON">Van Cleef</name>,
 
-Todd may not be ready
+<name type="PERSON">T</name>odd may not be ready
 
 for the high-flying world
 
@@ -3554,7 +3554,7 @@ He's a good friend.
 <line>
 I don't see
 
-how that's relevant.
+<name type="PERSON">ho</name>w that's relevant.
 
 </line>
 
@@ -3562,25 +3562,25 @@ how that's relevant.
 <line>
 No, of course you don't.
 
-Maybe Todd's worse off today,
+<name type="PERSON">Ma</name>ybe <name type="PERSON">T</name>odd's worse off today,
 
 but you're worse off
 
 in the long r<name type="ORG">un</name>,
 
-because you're gonna die
+because you're <name type="PERSON">gonna</name> die
 
 alone and <name type="ORG">un</name>loved,
 
 you pompous,
 
-affected asshole!
+affected ass<name type="PERSON">ho</name>le!
 
 </line>
 
 
 <line>
-<nonVerbComm>[gr<name type="ORG">un</name>ts]</nonVerbComm> <ital>Mon dieu!</ital>
+<nonVerbCo<name type="PERSON">mm</name>>[gr<name type="ORG">un</name>ts]</nonVerbCo<name type="PERSON">mm</name>> <ital><name type="PERSON">Mo</name>n dieu!</ital>
 
 Never have I ever!
 
@@ -3604,13 +3604,13 @@ for a <name type="ORG">sec</name>ond chance.
 
 
 <line>
-Shut your mouth, Todd.
+Shut your mouth, <name type="PERSON">T</name>odd.
 
 </line>
 
 
 <line>
-And you shut yours, Van Cleef,
+And you shut yours, <name type="PERSON">Van Cleef</name>,
 
 or I will buck it shut.
 
@@ -3626,7 +3626,7 @@ Suck a dick, dumb shits!
 
 
 <line>
-Oh, that damn video game.
+Oh, that damn video <name type="PERSON">ga</name>me.
 
 </line>
 
@@ -3634,7 +3634,7 @@ Oh, that damn video game.
 <line>
 No, it's not
 
-the video game's fault.
+the video <name type="PERSON">ga</name>me's fault.
 
 </line>
 
@@ -3684,7 +3684,7 @@ they don't call it
 
 
 <line>
-They call it
+<name type="PERSON">T</name>hey call it
 
 "the rock opera business."
 
@@ -3692,7 +3692,7 @@ They call it
 
 
 <line>
-<nonVerbComm>[sighs]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[sighs]</nonVerbCo<name type="PERSON">mm</name>>
 
 Guess I won't be needing
 
@@ -3730,7 +3730,7 @@ in the living room closet.
 
 
 <line>
-Thanks, BoJack,
+<name type="PERSON">T</name>hanks, <name type="PERSON">Bo</name><name type="PERSON">Jack</name>,
 
 for everything.
 
@@ -3738,7 +3738,7 @@ for everything.
 
 
 <line>
-This, I will get rid of.
+<name type="PERSON">T</name>his, I will get rid of.
 
 </line>
 
@@ -3746,19 +3746,19 @@ This, I will get rid of.
 <line>
 - What the--
 
-- Don't look at those!
+- Don't look at t<name type="PERSON">ho</name>se!
 
 </line>
 
 
 <line>
-- Those are private!
+- <name type="PERSON">T</name><name type="PERSON">ho</name>se are private!
 
 - Are these the notes
 
 you've been taking
 
-on Mr. <name type="ORG">Peanutbutter</name>?
+on Mr. <name type="PERSON">Peanut</name>butter?
 
 </line>
 
@@ -3772,7 +3772,7 @@ It's gibberish!
 <line>
 Have you just been mashing keys
 
-this whole time?
+this w<name type="PERSON">ho</name>le time?
 
 </line>
 
@@ -3792,7 +3792,7 @@ What's really going on here?
 
 
 <line>
-Look, I've been following
+<name type="PERSON">Lo</name>ok, I've been following
 
 you two aro<name type="ORG">un</name>d
 
@@ -3800,15 +3800,15 @@ for the last couple weeks,
 
 and I think it's pretty obvious
 
-to everyone that you shouldn't
+to everyone that you s<name type="PERSON">ho</name>uldn't
 
-be with Mr. <name type="ORG">Peanutbutter</name>.
+be with Mr. <name type="PERSON">Peanut</name>butter.
 
 </line>
 
 
 <line>
-You should be with me.
+<name type="PERSON">Yo</name>u s<name type="PERSON">ho</name>uld be with me.
 
 </line>
 
@@ -3832,15 +3832,15 @@ but you're also mean.
 <line>
 What's your article
 
-on Mr. <name type="ORG">Peanutbutter</name> called?
+on Mr. <name type="PERSON">Peanut</name>butter called?
 
 </line>
 
 
 <line>
-The working title is,
+<name type="PERSON">T</name>he working title is,
 
-"Nine Jokes From the '90s
+"Nine <name type="PERSON">Joke</name>s From the '90s
 
 </line>
 
@@ -3862,9 +3862,9 @@ Laughing at."
 
 
 <line>
-Like you're not gonna
+Like you're not <name type="PERSON">gonna</name>
 
-tear BoJack apart in your book.
+tear <name type="PERSON">Bo</name><name type="PERSON">Jack</name> apart in your book.
 
 </line>
 
@@ -3892,7 +3892,7 @@ doing different things.
 
 
 <line>
-Mr. <name type="ORG">Peanutbutter</name>
+Mr. <name type="PERSON">Peanut</name>butter
 
 is nice to me!
 
@@ -3908,11 +3908,11 @@ and he's loyal.
 
 
 <line>
-You know what your problem is?
+<name type="PERSON">Yo</name>u know what your problem is?
 
-You're trying to be a Zelda
+<name type="PERSON">Yo</name>u're trying to be a <name type="PERSON">Zelda</name>
 
-but you're so obviously a Zoe.
+but you're so obviously a <name type="PERSON">Zoe</name>.
 
 </line>
 
@@ -3920,19 +3920,19 @@ but you're so obviously a Zoe.
 <line>
 Ugh! Don't label me.
 
-You don't know who I am.
+<name type="PERSON">Yo</name>u don't know w<name type="PERSON">ho</name> I am.
 
 </line>
 
 
 <line>
-You can live your happy Zelda
+<name type="PERSON">Yo</name>u can live your happy <name type="PERSON">Zelda</name>
 
-life in this happy Zelda town
+life in this happy <name type="PERSON">Zelda</name> town
 
 and pretend you're
 
-a happy Zelda,
+a happy <name type="PERSON">Zelda</name>,
 
 but I know you,
 
@@ -3942,7 +3942,7 @@ and this isn't you.
 
 
 <line>
-<ital>People don't change, Diane,</ital>
+<ital>People don't change, <name type="PERSON">Di</name>ane,</ital>
 
 <ital>not really.</ital>
 
@@ -3950,7 +3950,7 @@ and this isn't you.
 
 
 <line>
-<ital>Mr. <name type="ORG">Peanutbutter</name>'s a Zelda.</ital>
+<ital>Mr. <name type="PERSON">Peanut</name>butter's a <name type="PERSON">Zelda</name>.</ital>
 
 </line>
 
@@ -3964,7 +3964,7 @@ and this isn't you.
 <line>
 <ital>and he's loving,</ital>
 
-<ital>but you and me, we're Zoes.</ital>
+<ital>but you and me, we're <name type="PERSON">Zoe</name>s.</ital>
 
 </line>
 
@@ -3988,7 +3988,7 @@ the receipt went.
 <line>
 I remember you.
 
-You came in yesterday.
+<name type="PERSON">Yo</name>u came in yesterday.
 
 </line>
 
@@ -4000,7 +4000,7 @@ No problem.
 
 
 <line>
-<nonVerbComm>[Wayne]</nonVerbComm> <ital>We're Zoes, Diane.</ital>
+<nonVerbCo<name type="PERSON">mm</name>>[<name type="PERSON">Wayne</name>]</nonVerbCo<name type="PERSON">mm</name>> <ital>We're <name type="PERSON">Zoe</name>s, <name type="PERSON">Di</name>ane.</ital>
 
 </line>
 
@@ -4014,7 +4014,7 @@ No problem.
 
 
 <line>
-Thanks for your help,
+<name type="PERSON">T</name>hanks for your help,
 
 character actress
 
@@ -4022,7 +4022,7 @@ character actress
 
 
 <line>
-Margo Martindale.
+<name type="PERSON">Ma</name>rgo <name type="PERSON">Ma</name>rtindale.
 
 </line>
 
@@ -4030,7 +4030,7 @@ Margo Martindale.
 <line>
 I don't feel good
 
-about what we did here, BoJack.
+about what we did here, <name type="PERSON">Bo</name><name type="PERSON">Jack</name>.
 
 </line>
 
@@ -4044,13 +4044,13 @@ what you're talking about.
 
 
 <line>
-This never happened.
+<name type="PERSON">T</name>his never happened.
 
 </line>
 
 
 <line>
-<nonVerbComm>[Wayne]</nonVerbComm> <ital>There's a darkness</ital>
+<nonVerbCo<name type="PERSON">mm</name>>[<name type="PERSON">Wayne</name>]</nonVerbCo<name type="PERSON">mm</name>> <ital><name type="PERSON">T</name>here's a darkness</ital>
 
 <ital>inside you,</ital>
 
@@ -4060,7 +4060,7 @@ in burritos as big as your head,
 
 but someday soon,
 
-that darkness is gonna come out,
+that darkness is <name type="PERSON">gonna</name> come out,
 
 and when it does,
 
@@ -4076,7 +4076,7 @@ I like that guy.
 
 
 <line>
-<nonVerbComm>[straining]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[straining]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -4088,7 +4088,7 @@ Ahh.
 
 
 <line>
-<nonVerbComm>[whistles]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[whistles]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -4100,7 +4100,7 @@ Ahh.
 
 
 <line>
-<ital><music>♪ I was in a very famous TV show ♪</music></ital>
+<ital><music>♪ I was in a very famous <name type="PERSON">T</name>V s<name type="PERSON">ho</name>w ♪</music></ital>
 
 </line>
 
@@ -4112,15 +4112,15 @@ Ahh.
 
 
 <line>
-<ital>- <music>♪ I'm BoJack the horse ♪</music></ital>
+<ital>- <music>♪ I'm <name type="PERSON">Bo</name><name type="PERSON">Jack</name> the <name type="PERSON">ho</name>rse ♪</music></ital>
 
-<ital>- <music>♪ BoJack ♪</music></ital>
+<ital>- <music>♪ <name type="PERSON">Bo</name><name type="PERSON">Jack</name> ♪</music></ital>
 
 </line>
 
 
 <line>
-<ital><music>♪ BoJack the horse ♪</music></ital>
+<ital><music>♪ <name type="PERSON">Bo</name><name type="PERSON">Jack</name> the <name type="PERSON">ho</name>rse ♪</music></ital>
 
 </line>
 
@@ -4138,7 +4138,7 @@ Ahh.
 
 
 <line>
-<ital><music>♪ And I'm trying to hold on to my past ♪</music></ital>
+<ital><music>♪ And I'm trying to <name type="PERSON">ho</name>ld on to my past ♪</music></ital>
 
 </line>
 
@@ -4150,7 +4150,7 @@ Ahh.
 
 
 <line>
-<ital><music>♪ I don't think I'm gonna last ♪</music></ital>
+<ital><music>♪ I don't think I'm <name type="PERSON">gonna</name> last ♪</music></ital>
 
 </line>
 
@@ -4168,25 +4168,25 @@ Ahh.
 
 
 <line>
-<ital><music>♪ That I'm more horse than a man ♪</music></ital>
+<ital><music>♪ <name type="PERSON">T</name>hat I'm more <name type="PERSON">ho</name>rse than a man ♪</music></ital>
 
 </line>
 
 
 <line>
-<ital><music>♪ Or I'm more man than a horse ♪</music></ital>
+<ital><music>♪ Or I'm more man than a <name type="PERSON">ho</name>rse ♪</music></ital>
 
 </line>
 
 
 <line>
-<ital><music>♪ BoJack ♪</music></ital>
+<ital><music>♪ <name type="PERSON">Bo</name><name type="PERSON">Jack</name> ♪</music></ital>
 
 </line>
 
 
 <line>
-<ital>Boxer versus raptor.</ital>
+<ital><name type="PERSON">Bo</name>xer versus raptor.</ital>
 
 </line>
 

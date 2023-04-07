@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>Free Churro - BoJack <name type="ORG">Horse</name>man</title>
+  <title>Free Churro - <name type="PERSON">Bo</name><name type="PERSON">Jack</name> <name type="ORG">Horse</name>man</title>
   
   
 
@@ -12,13 +12,13 @@
 
 
 <line>
-<nonVerbComm>[wind blowing]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[wind blowing]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-<nonVerbComm>[shuddering]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[shuddering]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -46,13 +46,13 @@ Yes, yes, I see you. Get in. Get in.
 
 
 <line>
-<nonVerbComm>[music playing over radio]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[music playing over radio]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-Your mother's having another one
+<name type="PERSON">Yo</name>ur mother's having another one
 
 of her episodes.
 
@@ -110,7 +110,7 @@ so, I'm the real hero of the story.
 
 
 <line>
--[horn honking]
+-[<name type="PERSON">ho</name>rn <name type="PERSON">ho</name>nking]
 
 -[tires screeching]
 
@@ -118,7 +118,7 @@ so, I'm the real hero of the story.
 
 
 <line>
-It was a couple hours later
+It was a couple <name type="PERSON">ho</name>urs later
 
 when I realized I was on a good r<name type="ORG">un</name>
 
@@ -132,7 +132,7 @@ I had this really interesting sentence
 
 that kept going for pages and pages,
 
-and I thought about how rare it is
+and I t<name type="PERSON">ho</name>ught about <name type="PERSON">ho</name>w rare it is
 
 to really get in the groove like that.
 
@@ -148,7 +148,7 @@ is blasting the television,
 
 and it suddenly dawned on me;
 
-hot cock on a rock,
+<name type="PERSON">ho</name>t cock on a rock,
 
 she never even picked up
 
@@ -158,7 +158,7 @@ the little noise and snot factory!
 
 
 <line>
-<nonVerbComm>[tires screech, horn honking]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[tires screech, <name type="PERSON">ho</name>rn <name type="PERSON">ho</name>nking]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -190,9 +190,9 @@ this isn't my fault!
 <line>
 Don't you sing no songs in your nightclub
 
-act called, "My Daddy was My Mommy,"
+act called, "My <name type="PERSON">Dad</name>dy was My <name type="PERSON">Mo</name><name type="PERSON">mm</name>y,"
 
-while gazing longingly
+while <name type="PERSON">ga</name>zing longingly
 
 at a tangled string of pearls.
 
@@ -200,7 +200,7 @@ at a tangled string of pearls.
 
 
 <line>
-Pearls are for ladies, BoJack.
+Pearls are for ladies, <name type="PERSON">Bo</name><name type="PERSON">Jack</name>.
 
 </line>
 
@@ -212,7 +212,7 @@ Pearls are for ladies.
 
 
 <line>
-You know S<name type="ORG">un</name>day is my writing day.
+<name type="PERSON">Yo</name>u know S<name type="ORG">un</name>day is my writing day.
 
 </line>
 
@@ -222,7 +222,7 @@ S<name type="ORG">un</name>days are the one day
 
 that are just for me and my craft,
 
-and still, you and the black hole
+and still, you and the black <name type="PERSON">ho</name>le
 
 that birthed you
 
@@ -242,7 +242,7 @@ Just go back to writing?
 <line>
 I'm out of the zone now,
 
-the whole day's shot!
+the w<name type="PERSON">ho</name>le day's s<name type="PERSON">ho</name>t!
 
 </line>
 
@@ -260,7 +260,7 @@ of making your mother.
 
 
 <line>
-<nonVerbComm>[sighs]</nonVerbComm> No. It's not her fault.
+<nonVerbCo<name type="PERSON">mm</name>>[sighs]</nonVerbCo<name type="PERSON">mm</name>> No. It's not her fault.
 
 </line>
 
@@ -280,7 +280,7 @@ you can't depend on women.
 
 
 <line>
-You can't depend on anyone.
+<name type="PERSON">Yo</name>u can't depend on anyone.
 
 </line>
 
@@ -290,13 +290,13 @@ Sooner or later, you need to learn
 
 that no one else
 
-is gonna take care of you.
+is <name type="PERSON">gonna</name> take care of you.
 
 </line>
 
 
 <line>
-That's what I learned
+<name type="PERSON">T</name>hat's what I learned
 
 when I had to make my own sandwich.
 
@@ -304,7 +304,7 @@ when I had to make my own sandwich.
 
 
 <line>
-You can't rely on other people, BoJack.
+<name type="PERSON">Yo</name>u can't rely on other people, <name type="PERSON">Bo</name><name type="PERSON">Jack</name>.
 
 </line>
 
@@ -324,37 +324,37 @@ for teaching you that.
 
 
 <line>
-You've got a head start on most kids.
+<name type="PERSON">Yo</name>u've got a head start on most kids.
 
 </line>
 
 
 <line>
-You're actually very lucky.
+<name type="PERSON">Yo</name>u're actually very lucky.
 
 </line>
 
 
 <line>
-<nonVerbComm>[music continues over radio]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[music continues over radio]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-<ital>Thaaaaank youuuuu?</ital>
+<ital><name type="PERSON">T</name>haaaaank youuuuu?</ital>
 
 </line>
 
 
 <line>
-<nonVerbComm>[theme music playing]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[theme music playing]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-So, I stopped at a Jack in the Box,
+So, I stopped at a <name type="PERSON">Jack</name> in the <name type="PERSON">Bo</name>x,
 
 on the way here,
 
@@ -380,13 +380,13 @@ the onus on me to disagree with her,
 
 like if I'm not having an "awesome day,"
 
-suddenly I'm the negative one.
+suddenly I'm the ne<name type="PERSON">ga</name>tive one.
 
 </line>
 
 
 <line>
-Usually, when people ask how I'm doing,
+Usually, when people ask <name type="PERSON">ho</name>w I'm doing,
 
 the real answer is I'm doing shitty,
 
@@ -416,7 +416,7 @@ And I have to be like,
 
 
 <line>
-So instead, when people ask how I'm doing,
+So instead, when people ask <name type="PERSON">ho</name>w I'm doing,
 
 I usually say, "I am doing so great."
 
@@ -424,7 +424,7 @@ I usually say, "I am doing so great."
 
 
 <line>
-But when this girl at the Jack in the Box
+But when this girl at the <name type="PERSON">Jack</name> in the <name type="PERSON">Bo</name>x
 
 asked me if I was having an awesome day,
 
@@ -432,7 +432,7 @@ asked me if I was having an awesome day,
 
 
 <line>
-I thought, well, today
+I t<name type="PERSON">ho</name>ught, well, today
 
 I'm actually allowed to feel shitty,
 
@@ -444,7 +444,7 @@ so I said to her, "Well, my mom died."
 
 
 <line>
-And she immediately burst into tears.
+And she i<name type="PERSON">mm</name>ediately burst into tears.
 
 </line>
 
@@ -458,13 +458,13 @@ and meanwhile, there's a line
 
 of people forming behind me,
 
-who are all giving me
+w<name type="PERSON">ho</name> are all giving me
 
 these real judgy looks
 
 because I made
 
-the Jack in the Box girl cry.
+the <name type="PERSON">Jack</name> in the <name type="PERSON">Bo</name>x girl cry.
 
 </line>
 
@@ -474,7 +474,7 @@ And she's bawling, and she's saying,
 
 "I'm sorry, I'm so sorry,"
 
-and I'm like, "It's fine. It's fine.
+and I'm like, <name type="PERSON">"It</name>'s fine. It's fine.
 
 </line>
 
@@ -490,7 +490,7 @@ but, you know, it's... fine.
 <line>
 And I would like to order
 
-a Double Jack Meal,
+a Double <name type="PERSON">Jack</name> Meal,
 
 and I've kinda got somewhere to be,
 
@@ -502,7 +502,7 @@ and more with the frying, huh?"
 
 
 <line>
-<nonVerbComm>[inhales]</nonVerbComm> And the girl apologizes, again,
+<nonVerbCo<name type="PERSON">mm</name>>[inhales]</nonVerbCo<name type="PERSON">mm</name>> And the girl apologizes, a<name type="PERSON">ga</name>in,
 
 and she offers me a free churro
 
@@ -530,13 +530,13 @@ you get a free churro.
 
 
 <line>
-<nonVerbComm>[people murmuring]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[people murmuring]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-<nonVerbComm>[clears throat]</nonVerbComm> Anyway, I'm sorry,
+<nonVerbCo<name type="PERSON">mm</name>>[clears throat]</nonVerbCo<name type="PERSON">mm</name>> Anyway, I'm sorry,
 
 that's not part of the...
 
@@ -552,7 +552,7 @@ Okay, here we go. Let's do this.
 
 
 <line>
-Here I am, BoJack <name type="ORG">Horse</name>man,
+Here I am, <name type="PERSON">Bo</name><name type="PERSON">Jack</name> <name type="ORG">Horse</name>man,
 
 doing a eulogy, let's go.
 
@@ -562,13 +562,13 @@ doing a eulogy, let's go.
 <line>
 Hey, piano man,
 
-can I get like a, like an organ flourish?
+can I get like a, like an or<name type="PERSON">ga</name>n flourish?
 
 </line>
 
 
 <line>
-<nonVerbComm>[organ plays]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[or<name type="PERSON">ga</name>n plays]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -576,7 +576,7 @@ can I get like a, like an organ flourish?
 <line>
 Nicely done.
 
-You know, I was a little worried
+<name type="PERSON">Yo</name>u know, I was a little worried
 
 </line>
 
@@ -592,21 +592,21 @@ accompaniment today.
 <line>
 I guess it's a good thing my mom
 
-was an organ donor!
+was an or<name type="PERSON">ga</name>n donor!
 
 </line>
 
 
 <line>
-<nonVerbComm>[rimshot plays]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[rims<name type="PERSON">ho</name>t plays]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
--What happened to the organ?
+-What happened to the or<name type="PERSON">ga</name>n?
 
--[horn "oogahs"]
+-[<name type="PERSON">ho</name>rn "oo<name type="PERSON">ga</name>hs"]
 
 </line>
 
@@ -620,7 +620,7 @@ the comedy to the professionals?
 
 
 <line>
-Okay? This is a f<name type="ORG">un</name>eral, sir,
+Okay? <name type="PERSON">T</name>his is a f<name type="ORG">un</name>eral, sir,
 
 for my mother.
 
@@ -628,13 +628,13 @@ for my mother.
 
 
 <line>
-Can you show a little respect?
+Can you s<name type="PERSON">ho</name>w a little respect?
 
 </line>
 
 
 <line>
-<nonVerbComm>[trumpet whines]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[trumpet whines]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -646,7 +646,7 @@ I'll take it.
 
 
 <line>
-<name type="ORG">Beatrice</name> <name type="ORG">Horse</name>man, who was she?
+<name type="PERSON">Bea</name>trice <name type="ORG">Horse</name>man, w<name type="PERSON">ho</name> was she?
 
 What was her deal?
 
@@ -654,7 +654,7 @@ What was her deal?
 
 
 <line>
-Well, she was a horse.
+Well, she was a <name type="PERSON">ho</name>rse.
 
 </line>
 
@@ -676,7 +676,7 @@ One time, she went to a parade,
 <line>
 and one time, she smoked
 
-an entire cigarette in one long inhale.
+an entire ci<name type="PERSON">ga</name>rette in one long inhale.
 
 </line>
 
@@ -688,13 +688,13 @@ I watched her do it.
 
 
 <line>
-Truly a remarkable woman.
+<name type="PERSON">T</name>ruly a remarkable woman.
 
 </line>
 
 
 <line>
-<nonVerbComm>[rustling]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[rustling]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -714,7 +714,7 @@ which is, uh, now, I guess.
 
 
 <line>
-Really makes you think, though, huh?
+Really makes you think, t<name type="PERSON">ho</name>ugh, huh?
 
 </line>
 
@@ -722,7 +722,7 @@ Really makes you think, though, huh?
 <line>
 Life, right? Goes by, stuff happens.
 
-Then you die.
+<name type="PERSON">T</name>hen you die.
 
 </line>
 
@@ -730,7 +730,7 @@ Then you die.
 <line>
 Well, that's my time,
 
-you've been great! Tip your waitress!
+you've been great! <name type="PERSON">T</name>ip your waitress!
 
 </line>
 
@@ -744,13 +744,13 @@ there's no waitress.
 
 
 <line>
-That's all I have to say about my mother.
+<name type="PERSON">T</name>hat's all I have to say about my mother.
 
 </line>
 
 
 <line>
-No point beating a dead horse, right?
+No point beating a dead <name type="PERSON">ho</name>rse, right?
 
 </line>
 
@@ -758,7 +758,7 @@ No point beating a dead horse, right?
 <line>
 So... [inhales] Now what?
 
-I don't know, Mom, you got any ideas?
+I don't know, <name type="PERSON">Mo</name>m, you got any ideas?
 
 </line>
 
@@ -770,7 +770,7 @@ Anything?
 
 
 <line>
-Mom?
+<name type="PERSON">Mo</name>m?
 
 </line>
 
@@ -790,11 +790,11 @@ Knock once if you're proud of me.
 
 
 <line>
-Can I just say how amazing it is
+Can I just say <name type="PERSON">ho</name>w amazing it is
 
 to be in a room with my mother,
 
-and I can just talk without her telling me
+and I can just talk wit<name type="PERSON">ho</name>ut her telling me
 
 to shut up and make her a drink?
 
@@ -802,15 +802,15 @@ to shut up and make her a drink?
 
 
 <line>
-Hey, Mom. Knock once
+Hey, <name type="PERSON">Mo</name>m. Knock once
 
-if you think I should shut up.
+if you think I s<name type="PERSON">ho</name>uld shut up.
 
 </line>
 
 
 <line>
-No? You sure?
+No? <name type="PERSON">Yo</name>u sure?
 
 </line>
 
@@ -832,7 +832,7 @@ I will not be offended.
 
 
 <line>
-No? Your f<name type="ORG">un</name>eral.
+No? <name type="PERSON">Yo</name>ur f<name type="ORG">un</name>eral.
 
 </line>
 
@@ -848,7 +848,7 @@ She wanted an open casket,
 
 but, you know, she's dead now,
 
-so who cares what she wanted?
+so w<name type="PERSON">ho</name> cares what she wanted?
 
 </line>
 
@@ -874,7 +874,7 @@ She looked like this.
 <line>
 -[groaning]
 
--[mourners gasping]
+-[mourners <name type="PERSON">ga</name>sping]
 
 </line>
 
@@ -882,7 +882,7 @@ She looked like this.
 <line>
 Kinda like a pissed-off toy dinosaur.
 
-The coroner couldn't get her eyes closed.
+<name type="PERSON">T</name>he coroner couldn't get her eyes closed.
 
 </line>
 
@@ -890,7 +890,7 @@ The coroner couldn't get her eyes closed.
 <line>
 So, now her face is forever frozen
 
-in a mask of tremendous horror
+in a mask of tremendous <name type="PERSON">ho</name>rror
 
 and anguish.
 
@@ -898,45 +898,45 @@ and anguish.
 
 
 <line>
-Or as my mom called it, Tuesday!
+Or as my mom called it, <name type="PERSON">T</name>uesday!
 
 </line>
 
 
 <line>
-Tuesday! My mom called it Tuesday.
+<name type="PERSON">T</name>uesday! My mom called it <name type="PERSON">T</name>uesday.
 
 </line>
 
 
 <line>
-<nonVerbComm>[woman coughs]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[woman coughs]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-Hey, Mom, what did you think of that joke?
+Hey, <name type="PERSON">Mo</name>m, what did you think of that joke?
 
-You like that?
-
-</line>
-
-
-<line>
-<nonVerbComm>[woman coughs]</nonVerbComm>
+<name type="PERSON">Yo</name>u like that?
 
 </line>
 
 
 <line>
-You never did care for my comedy.
+<nonVerbCo<name type="PERSON">mm</name>>[woman coughs]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-<nonVerbComm>[clears throat]</nonVerbComm>
+<name type="PERSON">Yo</name>u never did care for my comedy.
+
+</line>
+
+
+<line>
+<nonVerbCo<name type="PERSON">mm</name>>[clears throat]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -956,25 +956,25 @@ When I was a teenager,
 <line>
 I performed a comedy routine
 
-for my high school talent show.
+for my high sc<name type="PERSON">ho</name>ol talent s<name type="PERSON">ho</name>w.
 
 </line>
 
 
 <line>
-There was this cool jacket
+<name type="PERSON">T</name>here was this cool <name type="PERSON">jack</name>et
 
 that I wanted to wear
 
 because it would make me
 
-look like Albert Brooks.
+look like <name type="PERSON">Al<name type="PERSON">bert</name> Brooks</name>.
 
 </line>
 
 
 <line>
-For months, I saved up for this jacket,
+For months, I saved up for this <name type="PERSON">jack</name>et,
 
 but when I finally had enough,
 
@@ -984,21 +984,21 @@ I went to the store and it was gone.
 
 
 <line>
-They had just sold it to someone else.
+<name type="PERSON">T</name>hey had just sold it to someone else.
 
-So, I went home and I told my mother.
-
-</line>
-
-
-<line>
-She said, "Let that be a lesson.
+So, I went <name type="PERSON">ho</name>me and I told my mother.
 
 </line>
 
 
 <line>
-That's the good
+She said, <name type="PERSON">"Let</name> that be a lesson.
+
+</line>
+
+
+<line>
+<name type="PERSON">T</name>hat's the good
 
 that comes from wanting things."
 
@@ -1018,7 +1018,7 @@ to everything being my fault.
 
 
 <line>
-But then, on the day of the talent show,
+But then, on the day of the talent s<name type="PERSON">ho</name>w,
 
 my mother had a surprise for me.
 
@@ -1026,13 +1026,13 @@ my mother had a surprise for me.
 
 
 <line>
-She had bought me the jacket.
+She had bought me the <name type="PERSON">jack</name>et.
 
 </line>
 
 
 <line>
-Even though she didn't know how to say it,
+Even t<name type="PERSON">ho</name>ugh she didn't know <name type="PERSON">ho</name>w to say it,
 
 I knew this meant that she loved me.
 
@@ -1054,7 +1054,7 @@ but it's a good story, right?
 
 
 <line>
-I stole it from an episode of <ital>Maude </ital>I saw
+I stole it from an episode of <ital><name type="PERSON">Ma</name>ude </ital>I saw
 
 when i was a kid,
 
@@ -1088,15 +1088,15 @@ But I don't have any stories like that.
 <line>
 All I know about being good
 
-I learned from TV.
+I learned from <name type="PERSON">T</name>V.
 
 </line>
 
 
 <line>
-And in TV, flawed characters
+And in <name type="PERSON">T</name>V, flawed characters
 
-are constantly showing people they care
+are constantly s<name type="PERSON">ho</name>wing people they care
 
 with these surprising grand gestures.
 
@@ -1120,7 +1120,7 @@ the big gesture isn't enough.
 
 
 <line>
-You need to be consistent,
+<name type="PERSON">Yo</name>u need to be consistent,
 
 you need to be dependably good.
 
@@ -1128,7 +1128,7 @@ you need to be dependably good.
 
 
 <line>
-You can't just screw everything up,
+<name type="PERSON">Yo</name>u can't just screw everything up,
 
 and then take a boat out into the ocean
 
@@ -1140,7 +1140,7 @@ or solve a mystery, and fly to <name type="GPE">Kansas</name>.
 
 
 <line>
-You need to do it every day,
+<name type="PERSON">Yo</name>u need to do it every day,
 
 which is so... hard.
 
@@ -1158,11 +1158,11 @@ could be enough.
 
 
 <line>
-That even though your parents
+<name type="PERSON">T</name>hat even t<name type="PERSON">ho</name>ugh your parents
 
 aren't what you need them to be,
 
-over and over and over again,
+over and over and over a<name type="PERSON">ga</name>in,
 
 at any moment they might surprise you,
 
@@ -1174,7 +1174,7 @@ with something... wonderful.
 <line>
 I kept waiting for that, the proof,
 
-that even though my mother
+that even t<name type="PERSON">ho</name>ugh my mother
 
 was a hard woman,
 
@@ -1198,7 +1198,7 @@ Even now, I find myself waiting.
 
 
 <line>
-Hey, Mom, knock once if you love me
+Hey, <name type="PERSON">Mo</name>m, knock once if you love me
 
 and care about me,
 
@@ -1210,7 +1210,7 @@ a little bit brighter.
 
 
 <line>
-<nonVerbComm>[owl chirping]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[owl chirping]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -1234,7 +1234,7 @@ and thrashing, hence the face.
 <line>
 -[groaning]
 
--[mourners gasping]
+-[mourners <name type="PERSON">ga</name>sping]
 
 </line>
 
@@ -1246,7 +1246,7 @@ If you'd seen her,
 
 
 <line>
-I swear to God the only thing
+I swear to <name type="PERSON">God</name> the only thing
 
 you'd be thinking about right now
 
@@ -1256,7 +1256,7 @@ is that I am nailing this impression.
 
 
 <line>
--[woman clears her throat]
+<name type="PERSON">-[woman</name> clears her throat]
 
 -[chairs squeak]
 
@@ -1264,11 +1264,11 @@ is that I am nailing this impression.
 
 
 <line>
-I was in the hospital with her
+I was in the <name type="PERSON">ho</name>spital with her
 
-those last moments,
+t<name type="PERSON">ho</name>se last moments,
 
-and they were truly horrifying,
+and they were truly <name type="PERSON">ho</name>rrifying,
 
 full of nonsensical screams and cries,
 
@@ -1284,7 +1284,7 @@ and said, "I see you."
 
 
 <line>
-That's the last thing she said to me.
+<name type="PERSON">T</name>hat's the last thing she said to me.
 
 "I see you."
 
@@ -1304,7 +1304,7 @@ of another person in a room.
 
 
 <line>
-<name type="ORG">"Hello</name>, there. You are a person.
+<name type="ORG">"Hello</name>, there. <name type="PERSON">Yo</name>u are a person.
 
 And I see you."
 
@@ -1352,7 +1352,7 @@ It feels mean, like,
 
 
 <line>
-"Oh, it turns out that you knew
+<name type="PERSON">"Oh</name>, it turns out that you knew
 
 what I wanted,
 
@@ -1374,13 +1374,13 @@ I was sure that she would get
 
 in one final zinger,
 
-about how I let her down,
+about <name type="PERSON">ho</name>w I let her down,
 
-and about how I was fat and stupid,
+and about <name type="PERSON">ho</name>w I was fat and stupid,
 
 and too tall to be
 
-an effective Lindy-hopper.
+an effective <name type="PERSON">Lindy-<name type="PERSON">ho</name>pper</name>.
 
 </line>
 
@@ -1416,13 +1416,13 @@ on her way out.
 <line>
 But maybe I'm giving her too much credit.
 
-Maybe it wasn't about connection.
+<name type="PERSON">Ma</name>ybe it wasn't about connection.
 
 </line>
 
 
 <line>
-Maybe it was a... Maybe it was
+<name type="PERSON">Ma</name>ybe it was a... <name type="PERSON">Ma</name>ybe it was
 
 an "I see you," like, "I see you."
 
@@ -1430,17 +1430,17 @@ an "I see you," like, "I see you."
 
 
 <line>
-Like, "You might have the rest
+Like, <name type="PERSON">"<name type="PERSON">Yo</name>u</name> might have the rest
 
 of the world fooled,
 
-but I know exactly who you are."
+but I know exactly w<name type="PERSON">ho</name> you are."
 
 </line>
 
 
 <line>
-That's more my mom's speed.
+<name type="PERSON">T</name>hat's more my mom's speed.
 
 </line>
 
@@ -1454,7 +1454,7 @@ Or maybe she just literally meant
 
 
 <line>
-You are an object
+<name type="PERSON">Yo</name>u are an object
 
 that has entered my field of vision."
 
@@ -1472,7 +1472,7 @@ to try to attribute it to anything.
 
 
 <line>
--[woman sighs]
+<name type="PERSON">-[woman</name> sighs]
 
 -Back in the 90s,
 
@@ -1480,9 +1480,9 @@ to try to attribute it to anything.
 
 
 <line>
-I was in a very famous TV Show
+I was in a very famous <name type="PERSON">T</name>V S<name type="PERSON">ho</name>w
 
-called <ital><name type="ORG">Horsin</name>' Aro<name type="ORG">un</name>d.</ital>
+called <ital><name type="PERSON">Horsin</name>' Aro<name type="ORG">un</name>d.</ital>
 
 </line>
 
@@ -1490,7 +1490,7 @@ called <ital><name type="ORG">Horsin</name>' Aro<name type="ORG">un</name>d.</it
 <line>
 -[man coughs]
 
--Please hold your applause.
+-Please <name type="PERSON">ho</name>ld your applause.
 
 </line>
 
@@ -1504,11 +1504,11 @@ And I remember one time, a fan asked me,
 <line>
 "Hey, um, you know that episode
 
-where the horse has to give Ethan
+where the <name type="PERSON">ho</name>rse has to give <name type="PERSON">Ethan</name>
 
 a pep talk,
 
-after Ethan finds out his crush
+after <name type="PERSON">Ethan</name> finds out his crush
 
 only asked him to the dance
 
@@ -1520,13 +1520,13 @@ a dorkiest date contest?
 
 
 <line>
-In all the shots of the horse,
+In all the s<name type="PERSON">ho</name>ts of the <name type="PERSON">ho</name>rse,
 
 you can see a paper coffee cup
 
 on the kitchen co<name type="ORG">un</name>ter,
 
-but in the shots of Ethan,
+but in the s<name type="PERSON">ho</name>ts of <name type="PERSON">Ethan</name>,
 
 the coffee cup's missing.
 
@@ -1534,13 +1534,13 @@ the coffee cup's missing.
 
 
 <line>
-Was that because the show
+Was that because the s<name type="PERSON">ho</name>w
 
 was making a statement,
 
 about the fluctuant subjectivity of memory
 
-and how even two people
+and <name type="PERSON">ho</name>w even two people
 
 can experience the same moment
 
@@ -1558,7 +1558,7 @@ And I didn't have the heart to be, like,
 <line>
 "No, man, some crew guy
 
-just left their coffee cup in the shot."
+just left their coffee cup in the s<name type="PERSON">ho</name>t."
 
 </line>
 
@@ -1576,7 +1576,7 @@ And maybe this is like that coffee cup.
 
 
 <line>
-Maybe, we're dumb to try to pin
+<name type="PERSON">Ma</name>ybe, we're dumb to try to pin
 
 significance onto every little thing.
 
@@ -1584,7 +1584,7 @@ significance onto every little thing.
 
 
 <line>
-Maybe, when someone says,
+<name type="PERSON">Ma</name>ybe, when someone says,
 
 "I see you," it just means, "I see you."
 
@@ -1592,7 +1592,7 @@ Maybe, when someone says,
 
 
 <line>
-Then again, it's possible
+<name type="PERSON">T</name>hen a<name type="PERSON">ga</name>in, it's possible
 
 she wasn't even talking to me.
 
@@ -1600,13 +1600,13 @@ she wasn't even talking to me.
 
 
 <line>
-Because, if I'm being honest,
+Because, if I'm being <name type="PERSON">ho</name>nest,
 
 she wasn't really looking at me,
 
 she was looking past me.
 
-There was nobody else in the room.
+<name type="PERSON">T</name>here was nobody else in the room.
 
 </line>
 
@@ -1614,23 +1614,23 @@ There was nobody else in the room.
 <line>
 I think she was talking to me,
 
-but, honestly,
+but, <name type="PERSON">ho</name>nestly,
 
 she was so far gone at that point,
 
-who knows what she was seeing.
+w<name type="PERSON">ho</name> knows what she was seeing.
 
 </line>
 
 
 <line>
-Who were you talking to, Mom?
+W<name type="PERSON">ho</name> were you talking to, <name type="PERSON">Mo</name>m?
 
 </line>
 
 
 <line>
-<nonVerbComm>[sighs]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[sighs]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -1642,13 +1642,13 @@ Not saying, huh? Staying mum?
 
 
 <line>
-No rimshot there?
+No rims<name type="PERSON">ho</name>t there?
 
 </line>
 
 
 <line>
-God, whatever I'm paying you,
+<name type="PERSON">God</name>, whatever I'm paying you,
 
 it's too much.
 
@@ -1656,7 +1656,7 @@ it's too much.
 
 
 <line>
-Maybe, she saw my dad.
+<name type="PERSON">Ma</name>ybe, she saw my dad.
 
 </line>
 
@@ -1682,19 +1682,19 @@ Questions like,
 
 "Wait, did you say he died in a duel?"
 
-and "Who dies in a duel?"
+and <name type="PERSON">"W<name type="PERSON">ho</name></name> dies in a duel?"
 
 </line>
 
 
 <line>
-The whole thing was so stupid.
+<name type="PERSON">T</name>he w<name type="PERSON">ho</name>le thing was so stupid.
 
 </line>
 
 
 <line>
-Dad spent his entire life
+<name type="PERSON">Dad</name> spent his entire life
 
 writing this book,
 
@@ -1710,7 +1710,7 @@ or any newspapers to review it.
 <line>
 Finally, I guess this one newspaper
 
-thought he was pretty hilarious,
+t<name type="PERSON">ho</name>ught he was pretty hilarious,
 
 because they ran a review
 
@@ -1720,11 +1720,11 @@ and tore him to shreds.
 
 
 <line>
-So, my father, ever the Proud Mary,
+So, my father, ever the Proud <name type="PERSON">Ma</name>ry,
 
 decided he would not stand
 
-for this besmirchment of his honor.
+for this besmirchment of his <name type="PERSON">ho</name>nor.
 
 </line>
 
@@ -1744,7 +1744,7 @@ in the form of pistols at dawn.
 <line>
 He wrote the paper, this letter,
 
-saying anyone who didn't like his book,
+saying anyone w<name type="PERSON">ho</name> didn't like his book,
 
 he would challenge to a duel,
 
@@ -1756,7 +1756,7 @@ anyone in the world.
 <line>
 He'd even pay for airfare
 
-to <name type="GPE">San Francisco</name> and a night in a hotel.
+to <name type="GPE">San Francisco</name> and a night in a <name type="PERSON">ho</name>tel.
 
 </line>
 
@@ -1764,9 +1764,9 @@ to <name type="GPE">San Francisco</name> and a night in a hotel.
 <line>
 Well, eventually this fo<name type="ORG">un</name>d its way
 
-to some kook in <name type="GPE">Montana</name>,
+to some kook in <name type="PERSON">Mo</name>ntana,
 
-who was as batshit as he was
+w<name type="PERSON">ho</name> was as batshit as he was
 
 and took him up on the offer.
 
@@ -1774,9 +1774,9 @@ and took him up on the offer.
 
 
 <line>
-They met at <name type="FAC">Golden Gate Park</name> and agreed:
+<name type="PERSON">T</name>hey met at <name type="FAC">Golden Gate Park</name> and agreed:
 
-ten paces, then shoot.
+ten paces, then s<name type="PERSON">ho</name>ot.
 
 </line>
 
@@ -1788,9 +1788,9 @@ But in the middle of the ten paces,
 
 
 <line>
-Dad turned to ask the guy if he'd actually
+<name type="PERSON">Dad</name> turned to ask the guy if he'd actually
 
-read the book and what he thought,
+read the book and what he t<name type="PERSON">ho</name>ught,
 
 but, not looking where he was going,
 
@@ -1802,7 +1802,7 @@ and bashed his head on a rock.
 
 
 <line>
-<nonVerbComm>[murmur]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[murmur]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -1810,7 +1810,7 @@ and bashed his head on a rock.
 <line>
 I wish I'd known to go
 
-to Jack in the Box then.
+to <name type="PERSON">Jack</name> in the <name type="PERSON">Bo</name>x then.
 
 </line>
 
@@ -1820,7 +1820,7 @@ I could have gotten a free churro.
 
 It would've been nice
 
-to have something to show for being
+to have something to s<name type="PERSON">ho</name>w for being
 
 the son of <name type="ORG">Butterscotch</name> <name type="ORG">Horse</name>man.
 
@@ -1828,7 +1828,7 @@ the son of <name type="ORG">Butterscotch</name> <name type="ORG">Horse</name>man
 
 
 <line>
-My darling mother gave the eulogy.
+My darling mother <name type="PERSON">ga</name>ve the eulogy.
 
 </line>
 
@@ -1852,7 +1852,7 @@ and everything is worse now."
 
 
 <line>
-<nonVerbComm>[clearing throat]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[clearing throat]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -1868,7 +1868,7 @@ and everything is worse now."
 <line>
 I don't know why she said that.
 
-Maybe she felt that's the kind of thing
+<name type="PERSON">Ma</name>ybe she felt that's the kind of thing
 
 you're supposed to say at a f<name type="ORG">un</name>eral.
 
@@ -1876,7 +1876,7 @@ you're supposed to say at a f<name type="ORG">un</name>eral.
 
 
 <line>
-Maybe she hoped one day
+<name type="PERSON">Ma</name>ybe she <name type="PERSON">ho</name>ped one day
 
 someone would say that about her.
 
@@ -1910,23 +1910,23 @@ to leave your widow with.
 <line>
 "Bad news, you lost a husband,
 
-but don't worry, you also lost the house!"
+but don't worry, you also lost the <name type="PERSON">ho</name>use!"
 
 </line>
 
 
 <line>
-Maybe Mom knew she'd have to sell
+<name type="PERSON">Ma</name>ybe <name type="PERSON">Mo</name>m knew she'd have to sell
 
 all her fancy jewelry
 
-and move into a home.
+and move into a <name type="PERSON">ho</name>me.
 
 </line>
 
 
 <line>
-Maybe that's what she meant by
+<name type="PERSON">Ma</name>ybe that's what she meant by
 
 "everything is worse."
 
@@ -1934,7 +1934,7 @@ Maybe that's what she meant by
 
 
 <line>
-Is that what you meant, Mom?
+Is that what you meant, <name type="PERSON">Mo</name>m?
 
 </line>
 
@@ -1948,7 +1948,7 @@ I'm really carrying this double act.
 
 
 <line>
-At least with <name type="ORG">Penn</name> and Teller,
+At least with <name type="ORG">Penn</name> and <name type="PERSON">T</name>eller,
 
 the quiet one does card tricks.
 
@@ -1960,13 +1960,13 @@ Hey, piano man,
 
 when I say something f<name type="ORG">un</name>ny to my mom,
 
-how about you give me a rimshot?
+<name type="PERSON">ho</name>w about you give me a rims<name type="PERSON">ho</name>t?
 
 </line>
 
 
 <line>
--[rimshot plays]
+-[rims<name type="PERSON">ho</name>t plays]
 
 -Yeah, but not now.
 
@@ -1988,7 +1988,7 @@ and a disruptive expulsion of germs?
 
 
 <line>
-One's a coughin' fit
+One's a <name type="PERSON">coughin</name>' fit
 
 and the other fits a coffin!
 
@@ -1996,21 +1996,21 @@ and the other fits a coffin!
 
 
 <line>
--That's an example of a f<name type="ORG">un</name>ny thing.
+-<name type="PERSON">T</name>hat's an example of a f<name type="ORG">un</name>ny thing.
 
--[rimshot plays]
-
-</line>
-
-
-<line>
-Thank you. Let's try again.
+-[rims<name type="PERSON">ho</name>t plays]
 
 </line>
 
 
 <line>
-Hey, Mom. What's the difference between
+<name type="PERSON">T</name>hank you. Let's try a<name type="PERSON">ga</name>in.
+
+</line>
+
+
+<line>
+Hey, <name type="PERSON">Mo</name>m. What's the difference between
 
 my mother and a b<name type="ORG">un</name>ch of Easter eggs?
 
@@ -2026,7 +2026,7 @@ the other gets buried in a casket!
 
 
 <line>
--[rimshot plays]
+-[rims<name type="PERSON">ho</name>t plays]
 
 -Ready for one more? Last one.
 
@@ -2038,7 +2038,7 @@ What's the difference
 
 between a first-year lit major
 
-and my mother, <name type="ORG">Beatrice</name> <name type="ORG">Horse</name>man?
+and my mother, <name type="PERSON">Bea</name>trice <name type="ORG">Horse</name>man?
 
 </line>
 
@@ -2052,7 +2052,7 @@ and the other's a huge bitch!
 
 
 <line>
--[woman gasps]
+<name type="PERSON">-[woman</name> <name type="PERSON">ga</name>sps]
 
 -[murmers]
 
@@ -2068,7 +2068,7 @@ with that one.
 
 
 <line>
-That one might have been a little too
+<name type="PERSON">T</name>hat one might have been a little too
 
 "my mom's a huge bitch" for the room.
 
@@ -2076,15 +2076,15 @@ That one might have been a little too
 
 
 <line>
-I'm sorry, Mother.
+I'm sorry, <name type="PERSON">Mo</name>ther.
 
-You're not a huge bitch.
+<name type="PERSON">Yo</name>u're not a huge bitch.
 
 </line>
 
 
 <line>
-You were a huge bitch...
+<name type="PERSON">Yo</name>u were a huge bitch...
 
 and now you're dead.
 
@@ -2092,13 +2092,13 @@ and now you're dead.
 
 
 <line>
-<nonVerbComm>[woman sighs]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[woman sighs]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-You know, the first time I ever performed
+<name type="PERSON">Yo</name>u know, the first time I ever performed
 
 in front of an audience,
 
@@ -2108,7 +2108,7 @@ it actually was, uh, with my mom.
 
 
 <line>
-She used to put on these shows,
+She used to put on these s<name type="PERSON">ho</name>ws,
 
 with her supper club in the living room,
 
@@ -2120,25 +2120,25 @@ and she used to make... [inhales]
 <line>
 She used to make me sing
 
-"The Lollipop Song."
+"<name type="PERSON">T</name>he <name type="PERSON">Lo</name>llipop <name type="PERSON">Son</name>g."
 
 </line>
 
 
 <line>
-<nonVerbComm>[organ playing t<name type="ORG">un</name>e]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[or<name type="PERSON">ga</name>n playing t<name type="ORG">un</name>e]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-Those parties, they were really something.
+<name type="PERSON">T</name><name type="PERSON">ho</name>se parties, they were really something.
 
 </line>
 
 
 <line>
-There were skits and magic acts,
+<name type="PERSON">T</name>here were skits and magic acts,
 
 and ethnically insensitive
 
@@ -2168,7 +2168,7 @@ It was so beautiful and sad.
 
 
 <line>
-Dad hated the parties.
+<name type="PERSON">Dad</name> hated the parties.
 
 He'd lock himself in the study,
 
@@ -2176,7 +2176,7 @@ and bang on the walls
 
 for us to keep it down,
 
-but he always came out to see Mom dance.
+but he always came out to see <name type="PERSON">Mo</name>m dance.
 
 </line>
 
@@ -2196,7 +2196,7 @@ took flight.
 
 
 <line>
-And as a child who was completely
+And as a child w<name type="PERSON">ho</name> was completely
 
 terrified of both my parents,
 
@@ -2248,27 +2248,27 @@ you can swim.
 
 
 <line>
-<nonVerbComm>[flashback]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[flashback]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-<nonVerbComm>[partygoers laughing]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[partygoers laughing]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-<nonVerbComm>[classical music playing]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[classical music playing]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-But, then again, mostly not.
+But, then a<name type="PERSON">ga</name>in, mostly not.
 
-Mostly you're drowning.
+<name type="PERSON">Mo</name>stly you're drowning.
 
 </line>
 
@@ -2282,7 +2282,7 @@ She <name type="ORG">un</name>derstood that too.
 <line>
 And she recognized that I <name type="ORG">un</name>derstood it.
 
-And Dad.
+And <name type="PERSON">Dad</name>.
 
 </line>
 
@@ -2290,7 +2290,7 @@ And Dad.
 <line>
 All three of us were drowning,
 
-and we didn't know how to save each other,
+and we didn't know <name type="PERSON">ho</name>w to save each other,
 
 but there was an <name type="ORG">un</name>derstanding
 
@@ -2304,7 +2304,7 @@ I would like to think
 
 that's what she meant
 
-when we were in the hospital
+when we were in the <name type="PERSON">ho</name>spital
 
 and she said, "I see you."
 
@@ -2312,7 +2312,7 @@ and she said, "I see you."
 
 
 <line>
-The weird thing
+<name type="PERSON">T</name>he weird thing
 
 about both your parents being dead
 
@@ -2332,7 +2332,7 @@ like there's a wait list for dying.
 <line>
 Any one of us could get r<name type="ORG">un</name> over
 
-by a <name type="ORG">Snapchatting</name> teen at any moment.
+by a <name type="PERSON">Snapchat</name>ting teen at any moment.
 
 </line>
 
@@ -2378,9 +2378,9 @@ I'm an actor. I do my own st<name type="ORG">un</name>ts.
 
 
 <line>
-I'm on this new show <ital>Philbert.</ital>
+I'm on this new s<name type="PERSON">ho</name>w <ital><name type="PERSON">Phil</name><name type="PERSON">bert</name>.</ital>
 
-I'm Philbert. Star of the show.
+I'm <name type="PERSON">Phil</name><name type="PERSON">bert</name>. Star of the s<name type="PERSON">ho</name>w.
 
 </line>
 
@@ -2388,7 +2388,7 @@ I'm Philbert. Star of the show.
 <line>
 It hasn't come out yet,
 
-but it's already getting Emmy buzz.
+but it's already getting E<name type="PERSON">mm</name>y buzz.
 
 </line>
 
@@ -2408,7 +2408,7 @@ two of these every morning,
 
 but my days are so screwed up
 
-'cause of the shooting schedule,
+'cause of the s<name type="PERSON">ho</name>oting schedule,
 
 </line>
 
@@ -2422,11 +2422,11 @@ what morning means anymore.
 
 
 <line>
-There's a joke in there somewhere,
+<name type="PERSON">T</name>here's a joke in there somewhere,
 
 about a guy
 
-who's been to so many f<name type="ORG">un</name>erals,
+w<name type="PERSON">ho</name>'s been to so many f<name type="ORG">un</name>erals,
 
 he doesn't even know
 
@@ -2444,7 +2444,7 @@ for yourselves. [gulps]
 
 
 <line>
-Anyway, you know what I thought...
+Anyway, you know what I t<name type="PERSON">ho</name>ught...
 
 when I was falling off the building
 
@@ -2454,7 +2454,7 @@ and I went into panic mode?
 
 
 <line>
-The last thing that my stupid brain
+<name type="PERSON">T</name>he last thing that my stupid brain
 
 could come up with before I died?
 
@@ -2468,9 +2468,9 @@ could come up with before I died?
 
 
 <line>
--Cool thought, brain.
+-Cool t<name type="PERSON">ho</name>ught, brain.
 
--[rimshot plays]
+-[rims<name type="PERSON">ho</name>t plays]
 
 </line>
 
@@ -2482,7 +2482,7 @@ No, that wasn't...
 
 
 <line>
-Would you just... Dial it back, all right?
+Would you just... <name type="PERSON">Di</name>al it back, all right?
 
 </line>
 
@@ -2498,7 +2498,7 @@ I wanted to be sorry.
 <line>
 My mom, even before she died,
 
-could barely remember who I was.
+could barely remember w<name type="PERSON">ho</name> I was.
 
 </line>
 
@@ -2510,7 +2510,7 @@ And of course, my dad's dead.
 
 
 <line>
-The last conversation I ever had with him
+<name type="PERSON">T</name>he last conversation I ever had with him
 
 was about his novel.
 
@@ -2520,13 +2520,13 @@ was about his novel.
 <line>
 He was so certain
 
-this book was his legacy.
+this book was his le<name type="PERSON">ga</name>cy.
 
 </line>
 
 
 <line>
-Maybe he thought it would vindicate him
+<name type="PERSON">Ma</name>ybe he t<name type="PERSON">ho</name>ught it would vindicate him
 
 for all the shitty things he ever did
 
@@ -2536,7 +2536,7 @@ in his stupid worthless life.
 
 
 <line>
-Maybe it did. I don't know.
+<name type="PERSON">Ma</name>ybe it did. I don't know.
 
 I never read it.
 
@@ -2550,15 +2550,15 @@ Because why would I give him that?
 
 
 <line>
-I used to be on this TV show
+I used to be on this <name type="PERSON">T</name>V s<name type="PERSON">ho</name>w
 
-called <ital><name type="ORG">Horsin</name>' Aro<name type="ORG">un</name>d.</ital>
+called <ital><name type="PERSON">Horsin</name>' Aro<name type="ORG">un</name>d.</ital>
 
 </line>
 
 
 <line>
-Seriously, hold your applause.
+Seriously, <name type="PERSON">ho</name>ld your applause.
 
 </line>
 
@@ -2572,13 +2572,13 @@ Seriously, hold your applause.
 
 
 <line>
-It was written by my friend Herb Kazzaz,
+It was written by my friend <name type="PERSON">Herb</name> <name type="PERSON">Kazzaz</name>,
 
-who's also dead now,
+w<name type="PERSON">ho</name>'s also dead now,
 
 and it starred this little girl
 
-named Sarah Lynn.
+named <name type="PERSON">Sarah</name> <name type="PERSON">Lynn</name>.
 
 </line>
 
@@ -2592,7 +2592,7 @@ And early on, the network had a note,
 
 
 <line>
-"Maybe don't mention
+"<name type="PERSON">Ma</name>ybe don't mention
 
 they're orphans,
 
@@ -2604,13 +2604,13 @@ to find orphans sad and not relatable."
 
 
 <line>
-I never thought the orphans were sad.
+I never t<name type="PERSON">ho</name>ught the orphans were sad.
 
 </line>
 
 
 <line>
-I always thought they were lucky
+I always t<name type="PERSON">ho</name>ught they were lucky
 
 because they could imagine their parents
 
@@ -2620,7 +2620,7 @@ to be anything they wanted.
 
 
 <line>
-They had something to long for.
+<name type="PERSON">T</name>hey had something to long for.
 
 </line>
 
@@ -2628,7 +2628,7 @@ They had something to long for.
 <line>
 Anyway, we did this one season finale,
 
-where Olivia's birth mother comes to town.
+where <name type="PERSON">Olivia</name>'s birth mother comes to town.
 
 </line>
 
@@ -2640,7 +2640,7 @@ but she's gotten herself cleaned up,
 
 and she wants to be
 
-in Olivia's life again.
+in <name type="PERSON">Olivia</name>'s life a<name type="PERSON">ga</name>in.
 
 </line>
 
@@ -2648,7 +2648,7 @@ in Olivia's life again.
 <line>
 And of course, she's like a perfect
 
-grown-up version of Olivia,
+grown-up version of <name type="PERSON">Olivia</name>,
 
 and they go to the mall together
 
@@ -2662,7 +2662,7 @@ like she's always wanted and--
 <line>
 Sorry, spoiler alert for the season six
 
-finale of <ital><name type="ORG">Horsin</name>' Aro<name type="ORG">un</name>d,</ital>
+finale of <ital><name type="PERSON">Horsin</name>' Aro<name type="ORG">un</name>d,</ital>
 
 if you're still working
 
@@ -2672,7 +2672,7 @@ your way through it.
 
 
 <line>
-Anyway, the horse tries
+Anyway, the <name type="PERSON">ho</name>rse tries
 
 to warn her, "Be careful,
 
@@ -2682,9 +2682,9 @@ moms have a way of letting you down."
 
 
 <line>
-But Olivia just thinks
+But <name type="PERSON">Olivia</name> just thinks
 
-the horse is jealous,
+the <name type="PERSON">ho</name>rse is jealous,
 
 and when the mom says
 
@@ -2694,7 +2694,7 @@ she's moving to <name type="GPE">California</name>,
 
 
 <line>
-Olivia decides to go with her.
+<name type="PERSON">Olivia</name> decides to go with her.
 
 </line>
 
@@ -2708,13 +2708,13 @@ the cliffhanger:
 
 
 <line>
-''Is Olivia gone for good?''
+''Is <name type="PERSON">Olivia</name> gone for good?''
 
 </line>
 
 
 <line>
-But of course, because it's a TV show,
+But of course, because it's a <name type="PERSON">T</name>V s<name type="PERSON">ho</name>w,
 
 she was not gone for good.
 
@@ -2722,21 +2722,21 @@ she was not gone for good.
 
 
 <line>
-Of course, because it's a TV show,
+Of course, because it's a <name type="PERSON">T</name>V s<name type="PERSON">ho</name>w,
 
 </line>
 
 
 <line>
-Olivia's mother had a relapse
+<name type="PERSON">Olivia</name>'s mother had a relapse
 
 and had to go back to rehab,
 
-so Olivia had to hitchhike
+so <name type="PERSON">Olivia</name> had to hitchhike
 
-all the way home,
+all the way <name type="PERSON">ho</name>me,
 
-getting rides from Mr. T,
+getting rides from Mr. <name type="PERSON">T</name>,
 
 Alf, and the cast of <ital>Stomp.</ital>
 
@@ -2750,37 +2750,37 @@ Of course that's what happened.
 
 
 <line>
-Because, what are you gonna do,
+Because, what are you <name type="PERSON">gonna</name> do,
 
-just not have Olivia on the show?
+just not have <name type="PERSON">Olivia</name> on the s<name type="PERSON">ho</name>w?
 
 </line>
 
 
 <line>
-You can't have happy endings in sitcoms,
+<name type="PERSON">Yo</name>u can't have happy endings in sitcoms,
 
 not really,
 
 because, if everyone's happy,
 
-the show would be over,
+the s<name type="PERSON">ho</name>w would be over,
 
 and above all else,
 
-the show... has to keep going.
+the s<name type="PERSON">ho</name>w... has to keep going.
 
 </line>
 
 
 <line>
-There's always more show.
+<name type="PERSON">T</name>here's always more s<name type="PERSON">ho</name>w.
 
 </line>
 
 
 <line>
-And you can call <ital><name type="ORG">Horsin</name>' Aro<name type="ORG">un</name>d </ital>dumb,
+And you can call <ital><name type="PERSON">Horsin</name>' Aro<name type="ORG">un</name>d </ital>dumb,
 
 or bad, or <name type="ORG">un</name>realistic,
 
@@ -2792,9 +2792,9 @@ than that.
 
 
 <line>
-You never get a happy ending,
+<name type="PERSON">Yo</name>u never get a happy ending,
 
-'cause there's always more show.
+'cause there's always more s<name type="PERSON">ho</name>w.
 
 </line>
 
@@ -2806,7 +2806,7 @@ I guess <name type="ORG">un</name>til there isn't.
 
 
 <line>
-<nonVerbComm>[chuckles]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[chuckles]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -2816,7 +2816,7 @@ My mom would hate it if she knew
 
 that I spent so much time at her f<name type="ORG">un</name>eral
 
-talking about my old TV show.
+talking about my old <name type="PERSON">T</name>V s<name type="PERSON">ho</name>w.
 
 </line>
 
@@ -2826,7 +2826,7 @@ Or maybe she'd think it was f<name type="ORG">un</name>ny
 
 that her idiot son
 
-couldn't even do this right. Who knows?
+couldn't even do this right. W<name type="PERSON">ho</name> knows?
 
 </line>
 
@@ -2858,9 +2858,9 @@ I'll stand up here and pretend
 <line>
 I <name type="ORG">un</name>derstood
 
-how to please that woman,
+<name type="PERSON">ho</name>w to please that woman,
 
-even though so much of my life has been
+even t<name type="PERSON">ho</name>ugh so much of my life has been
 
 wasted in vain attempts to figure it out.
 
@@ -2888,7 +2888,7 @@ in the ICU when she looked at me, and...
 
 
 <line>
-Jesus Christ,
+<name type="PERSON">Jesus</name> Christ,
 
 we were in the intensive care <name type="ORG">un</name>it.
 
@@ -2910,7 +2910,7 @@ was this free churro.
 
 
 <line>
-You know the shittiest thing
+<name type="PERSON">Yo</name>u know the shittiest thing
 
 about all of this?
 
@@ -2920,13 +2920,13 @@ about all of this?
 <line>
 Is when that stranger behind the co<name type="ORG">un</name>ter
 
-gave me that free churro,
+<name type="PERSON">ga</name>ve me that free churro,
 
 that small act of kindness
 
-showed more compassion
+s<name type="PERSON">ho</name>wed more compassion
 
-than my mother gave me
+than my mother <name type="PERSON">ga</name>ve me
 
 her entire goddamn life.
 
@@ -2934,7 +2934,7 @@ her entire goddamn life.
 
 
 <line>
-Like, how hard is it to do something nice
+Like, <name type="PERSON">ho</name>w hard is it to do something nice
 
 for a person?
 
@@ -2942,7 +2942,7 @@ for a person?
 
 
 <line>
-This woman at the Jack in the Box
+<name type="PERSON">T</name>his woman at the <name type="PERSON">Jack</name> in the <name type="PERSON">Bo</name>x
 
 didn't even know me.
 
@@ -2962,7 +2962,7 @@ All I had was you!
 
 
 <line>
-<nonVerbComm>[inhales]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[inhales]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -3006,15 +3006,15 @@ through the same thing when my dad died.
 <line>
 And I'm going through the same thing now.
 
-You know what it's like?
+<name type="PERSON">Yo</name>u know what it's like?
 
 </line>
 
 
 <line>
-It's like that show <ital>Becker,</ital>
+It's like that s<name type="PERSON">ho</name>w <ital><name type="PERSON">Beck</name>er,</ital>
 
-you know, with Ted Danson?
+you know, with <name type="PERSON">T</name>ed Danson?
 
 </line>
 
@@ -3022,7 +3022,7 @@ you know, with Ted Danson?
 <line>
 I watched the entire r<name type="ORG">un</name> of it,
 
-hoping that it would get better,
+<name type="PERSON">ho</name>ping that it would get better,
 
 and it never did.
 
@@ -3044,9 +3044,9 @@ And when it got canceled,
 
 
 <line>
-I was really bummed out,
+I was really bu<name type="PERSON">mm</name>ed out,
 
-not because I liked the show,
+not because I liked the s<name type="PERSON">ho</name>w,
 
 but because I knew it could be
 
@@ -3060,7 +3060,7 @@ And that's what losing a parent is like.
 
 
 <line>
-It's like <ital>Becker.</ital>
+It's like <ital><name type="PERSON">Beck</name>er.</ital>
 
 </line>
 
@@ -3072,13 +3072,13 @@ the good relationship you wanted,
 
 and as long as they were alive,
 
-even though you'd never admit it,
+even t<name type="PERSON">ho</name>ugh you'd never admit it,
 
 part of you,
 
 the stupidest goddamn part of you,
 
-was still holding on to that chance.
+was still <name type="PERSON">ho</name>lding on to that chance.
 
 </line>
 
@@ -3104,7 +3104,7 @@ Because now I know
 
 I will never have a mother
 
-who looks at me from across a room
+w<name type="PERSON">ho</name> looks at me from across a room
 
 and says,
 
@@ -3112,7 +3112,7 @@ and says,
 
 
 <line>
-"BoJack <name type="ORG">Horse</name>man, I see you."
+"<name type="PERSON">Bo</name><name type="PERSON">Jack</name> <name type="ORG">Horse</name>man, I see you."
 
 </line>
 
@@ -3158,19 +3158,19 @@ So... it's good my mother is dead.
 
 
 <line>
-<nonVerbComm>[gulps, sighs]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[gulps, sighs]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-Well. No point beating a dead horse.
+Well. No point beating a dead <name type="PERSON">ho</name>rse.
 
 </line>
 
 
 <line>
-<name type="ORG">Beatrice</name> <name type="ORG">Horse</name>man was born in 1938,
+<name type="PERSON">Bea</name>trice <name type="ORG">Horse</name>man was born in 1938,
 
 and she died in 2018,
 
@@ -3188,13 +3188,13 @@ to be seen.
 
 
 <line>
-<nonVerbComm>[slurps]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[slurps]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
 
 <line>
-<nonVerbComm>[blows nose]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[blows nose]</nonVerbCo<name type="PERSON">mm</name>>
 
 </line>
 
@@ -3206,7 +3206,7 @@ Is this F<name type="ORG">un</name>eral Parlor B?
 
 
 <line>
-<nonVerbComm>[f<name type="ORG">un</name>eral music]</nonVerbComm>
+<nonVerbCo<name type="PERSON">mm</name>>[f<name type="ORG">un</name>eral music]</nonVerbCo<name type="PERSON">mm</name>>
 
 
 
