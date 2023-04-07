@@ -34,10 +34,21 @@ TargetPath = '../../xmlFile/outputXML'
 
 config = {"spans_key": None, "annotate_ents": True, "overwrite": True, "validate": True}
 ruler = nlp.add_pipe("span_ruler", before="ner", config=config)
+# 2023-04-07: ebb: NOTE: before="ner" setting seems to allow the spaCy NER rules to prevail over these patterns where
+# there is a conflict.
+# after="ner" means that the spaCy ner is TOTALLY OVERWRITTEN and invalidated by our patterns.
+
 # Notes: Mattingly has this: ruler = nlp.add_pipe("entity_ruler", after="ner", config={"validate": True})
 # But this only works when spaCy doesn't recognize a word / phrase as a named entity of any kind.
 # If it recognizes a named entity but tags it wrong, we correct it with the span_ruler, not the entity_ruler
 patterns = [
+    {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": "^-\w+?"}}]},
+    {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": "^[Mm]+$"}}]},
+    {"label": "NULL", "pattern": "Bo"},
+    {"label": "NULL", "pattern": "gonna"},
+    {"label": "NULL", "pattern": "Jack"},
+    {"label": "NULL", "pattern": "Horse"},
+    {"label": "NULL", "pattern": "Mm-mmm"},
     {"label": "PERSON", "pattern": "BoJack Horseman"},
     {"label": "PERSON", "pattern": "BoJack"},
     {"label": "PERSON", "pattern": "Charlotte"},
@@ -61,7 +72,7 @@ def readTextFiles(filepath):
         node = proc.parse_xml(xml_text=xml)
         xp.set_context(xdm_item=node)
 
-        xpath = xp.evaluate('//script//line ! normalize-space() => string-join()')
+        xpath = xp.evaluate('//script//line/text() ! normalize-space() => string-join()')
         # ebb: Let's get the string() value of all the <p> elements that are descendants of <book>.
         # The XPath function normalize-space() gets the string value and removes extra spaces.
         # That way we avoid the prologue, preface material.
@@ -71,8 +82,8 @@ def readTextFiles(filepath):
         string = str(xpath)
         # ebb: Doing some regex replacements to clean up punctuation issues that are getting in the way of the NER tagger
         cleanedUp = regex.sub("_", " ", string)
-        cleanedUp = regex.sub("'([A-Z])]", " \1", cleanedUp)
-        cleanedUp = regex.sub("([.!?;'`])([A-Z'`]])", "\1 \2", cleanedUp)
+        # cleanedUp = regex.sub(r"'([A-Z])]", r" \1", cleanedUp)
+        cleanedUp = regex.sub(r"([.!?;'`])([A-Z'`]])", r"\1 \2", cleanedUp)
         # send to spaCy to collect nlp data on the big string
         tokens = nlp(cleanedUp)
         # tokens = nlp.pipe(cleanedUp, disable=["tagger", "parser", "attribute_ruler", "lemmatizer"])
@@ -96,8 +107,8 @@ def readTextFiles(filepath):
 def entitycollector(tokens):
     entities = {}
     for ent in sorted(tokens.ents):
-        if ent.label_ == "LOC" or ent.label_=="FAC" or ent.label_=="ORG" or ent.label_=="GPE" or ent.label_=="NORP" or ent.label_=="PERSON":
-            if not regex.match(r"\w*[.,!?;:']\w*", ent.text):
+        if ent.label_ == "LOC" or ent.label_=="ORG" or ent.label_=="GPE" or ent.label_=="NORP" or ent.label_=="PERSON":
+            if not regex.match(r"^\w*[.,!?;:'\[\]]+\w*$", ent.text):
         # ebb: The line helps experiment with different spaCy named entity classifiers, in combination if you like:
         # When using it, remember to indent the next lines for the for loop.
             # stringify = (ent.text + ': ' + ent.label_ + ': ' + spacy.explain(ent.label_) + '\n')
@@ -118,6 +129,7 @@ def assembleAllNames(CollPath):
             filepath = f"{CollPath}/{file}"
 
             eachFileDict = readTextFiles(filepath)
+            # The line above is effectively the return of readTextFiles()
             print(f"{eachFileDict=}")
             AllNames.update(eachFileDict)
             # ebb: The line above adds each file's new NLP data to the dictionary.
@@ -162,11 +174,14 @@ def xmlTagger(sourcePath, SortedDict):
             replacement = '<name type="' + val + '">' + key + '</name>'
             # print(f"{replacement=}")
             stringFile = stringFile.replace(key, replacement)
+            cleanedUp = regex.sub(r"(\w*)<name type=\"\w+\">([^<>]+?)</name>(\w+)", r"\1\2\3", stringFile)
+            cleanedUp = regex.sub(r"(<nonV[^<>]+?)<name type=\".+?\">([^<>]+?)</name>([^<>]*>)", r"\1\2\3", cleanedUp)
+            # <nonVerbCo<name type="PERSON">mm</name>>
             # print(f"{stringFile=}")
 
         # ebb: Output goes in the taggedOutput directory: ../taggedOutput
         with open(targetFile, 'w') as f:
-            f.write(stringFile)
+            f.write(cleanedUp)
 
 assembleAllNames(CollPath)
 
