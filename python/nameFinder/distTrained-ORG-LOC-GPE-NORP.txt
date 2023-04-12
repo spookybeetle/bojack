@@ -1,162 +1,105 @@
 ""Brrap brrap : ORG
 ""Mitch : PERSON
 "- : PERSON
+"--Hi : PERSON
 "-Great : PERSON
 "-Hello : ORG
 "-I'll : PERSON
-"-It : PERSON
-"-Well-- : PERSON
-"-What : PERSON
 "-Whoa : PERSON
-"-[groans : NORP
 "Ah : PERSON
 "And : PERSON
 "Can't keep : ORG
+"Cut!We : PERSON
 "Hello : ORG
 "Here : ORG
+"Huh?Mummy!What : PERSON
 "It : PERSON
 "Knew : PERSON
 "Let : PERSON
 "Oh : PERSON
 "Okay : PERSON
 "Ooh : PERSON
-"Philbert : PERSON
 "Smart : ORG
 "Storky : PERSON
 "Who : PERSON
 "You : PERSON
 -"Vance : PERSON
 --Jill Pill? : PERSON
--Alex, : PERSON
--Amanda : ORG
--And?ABC : ORG
--Beantown : PERSON
--Boom!-That : PERSON
--Bryan : ORG
--Charlotte : ORG
--Cool.[grunts][Flip : PERSON
--Daniel Radcliffe : PERSON
--Diana : PERSON
--Diane : ORG
--Eddie : PERSON
--Fancy : PERSON
--Fancy room?He's : PERSON
--French : NORP
--God : PERSON
--Henry : PERSON
--Henry Fondle![robot : PERSON
--Hi : PERSON
--Home.[glass shatters]-[smashing : PERSON
--Huh?Come : ORG
--Huh?My : PERSON
--Humph.-No : ORG
--Jerb : ORG
--Jessica : PERSON
--Jill : PERSON
--Jill Pill?New York Magazine : ORG
--John : PERSON
--Kevin Kline : PERSON
--Kiss : PERSON
--Mark : PERSON
--Mister Whitewhale : PERSON
--No!It : PERSON
--Oh!-[chiming : PERSON
--Oh![both laugh]-Oh : PERSON
--Oh![sniffing]All : PERSON
--Oh-ho : PERSON
--Oh?My : PERSON
--Okay.-Lock : PERSON
--Okay.-Tomorrow : ORG
--Ooh!-Miss-a : PERSON
--Phew!Boba Maker : PERSON
--Rachel Kaplan's : PERSON
--Ralph : PERSON
--Rutabaga : PERSON
--Rutabaga Rabitowitz : PERSON
--Sarah Lynn : PERSON
--Sarah Lynn?-Sarah : PERSON
--Seeing : NORP
--Seriously?-Uh : PERSON
--Sharona : PERSON
--Shh : PERSON
--Shh.[Levi : PERSON
--So croosh : PERSON
--TMZ : ORG
--Todd : PERSON
--Todd Chavez : PERSON
--Todd-day : PERSON
--Vincent : PERSON
--Vincent D'Onofrio.-And : PERSON
--Wanda : GPE
--Weird.-Sorry : PERSON
--What?And : PERSON
--What?The : NORP
--What?You : PERSON
--Who : PERSON
--Who's Whitfield?-Nobody : ORG
--Who?Zach Braff : PERSON
--Whoa!I : PERSON
--Whoo-hoo!-[Stefani : ORG
--Wow : PERSON
--Wow!Oh : PERSON
--Yeah?And : PERSON
--Yes.-I'm : PERSON
+-[Giamatti]He's : ORG
 -[Gina growling]Okay : PERSON
+-[audience cheering]Oh-ho : PERSON
 -[beeps]-Ready : PERSON
--[beeps][Sarah Lynn : PERSON
 -[cawing]Hey : PERSON
 -[cheering]Oh : PERSON
 -[chuckles]Oh : PERSON
 -[clown : PERSON
 -[clucks]Yeah : PERSON
 -[coos]Todd : PERSON
--[crashes][groans : NORP
+-[drill whirring]-Oh : ORG
+-[exhales]-[Todd : GPE
 -[gasping]And : PERSON
--[gasps][both : PERSON
+-[giggles]The : NORP
 -[groaning]Ralph : PERSON
 -[groans]Can : ORG
--[groans][Amanda : ORG
+-[groans]Todd : PERSON
 -[grunts]Now : NORP
 -[laughing]You : ORG
--[screaming][both groan]Ow : PERSON
+-[moaning]You : PERSON
+-[ringtone]Todd : ORG
+-[sighs]Oh : PERSON
 -[sighs]See : NORP
 -[siren : NORP
 -[sputters]Well : ORG
+-[thinking]You : PERSON
 -[woman : PERSON
 -[woman moans]Dad : PERSON
 -[yawns]Hey : PERSON
-42nd Street : FAC
+100,000.Ah : NORP
+10:38.-Wait : ORG
+1492?-[audience : PERSON
+1963.The FBI : ORG
+1:00.1:00 : PERSON
+911.-Oh : ORG
 A Billy Bush Type : PERSON
 A Ryan Sea-- : PERSON
 A Ryan Seacrest Type : PERSON
 A haberdashery?-It : ORG
+A. Fox : PERSON
+A.O. Scott : PERSON
 AA : ORG
 ABC : ORG
+AIDS.- : GPE
 AOL-Time Warner-Pepsico- Viacom-Halliburton-Skynet- : ORG
 AOL-Time Warner-Pepsico-Viacom-Halliburton-Skynet-Toyota- : ORG
 AOL-Time-Warner-PepsiCo-ViacomHalliburton-Skynet-Toyota-Trader Joe's Auditorium for the Image Choice Spirit Awards : ORG
 ATTITUDE : ORG
+Aah!-Copernicus : PERSON
 Aaron : PERSON
 Aaron Eckhart : PERSON
 Abby : PERSON
 Abe : PERSON
 Abe Lincoln : PERSON
 Abel : PERSON
+Abel!-Oh : ORG
+Abort.-You : PERSON
 Abraham Lincoln : PERSON
 Academy : ORG
+Academy?- : PERSON
 Ace of Base?Because : ORG
 Achilles : PERSON
 Adam : PERSON
 Adam Brody-- : PERSON
-Adam Levine : PERSON
 Adam Levine's : PERSON
 Adelaide : GPE
 Adele : PERSON
 Advanced Physics : ORG
 Affleck : PERSON
-Afghanistan : GPE
 Africa : LOC
 Afro-Latin : NORP
+Afterfell : PERSON
+Ah!-Oh : PERSON
+Ah![ominous rock music]Okay : PERSON
+Aha!I'm : ORG
 Ahem : PERSON
 Al Capone : PERSON
 Al Gore : PERSON
@@ -167,24 +110,18 @@ Albert Brooks : PERSON
 Albert Hammond : PERSON
 Alec Guinness : PERSON
 Alex : PERSON
-Alexander : PERSON
+Alex.-Wanda : GPE
 Alexi Brosefino : PERSON
 Alfa Romeo : ORG
-Ali Sandler : PERSON
-Aliens : GPE
 Alison : ORG
 Alison F. : PERSON
-All Rings Considered.-I'm : ORG
 Allen Hu : PERSON
 Alma : PERSON
 Aloha : ORG
-Am I-- Am : PERSON
 Amanda : PERSON
 Amanda Hannity : PERSON
 Amazon : ORG
-Amelia : PERSON
 Amelia Earhart : PERSON
-Amelie : GPE
 America : GPE
 American : NORP
 American Greeting : ORG
@@ -196,14 +133,12 @@ Ana : PERSON
 Ana Spanakopita : PERSON
 Ana Spanikopita : PERSON
 Anaheim : GPE
-Andele : PERSON
 Andrew : PERSON
 Andrew Garfield : PERSON
 Andrew Garfield's : PERSON
-Andrew Garfield.[screams : PERSON
 Andrew Garfield?Oh : PERSON
 Andrew Lloyd Webber : PERSON
-Andrew The Social Network : ORG
+Andsaid : PERSON
 Andy : PERSON
 Andy Dick : PERSON
 Andy Dick's : PERSON
@@ -212,24 +147,19 @@ Angela : PERSON
 Angela Diaz : PERSON
 Angela Diaz's : PERSON
 Angelica : PERSON
-Angelina : PERSON
 Angelina J : PERSON
-Angels : ORG
-Angry Men : ORG
 Angsty : ORG
 Angsty Zebra : PERSON
 Ann Dowd : PERSON
 Anne : PERSON
 Anne Frank.- : PERSON
 Ansel Elgort : ORG
+Anyone?I'm : PERSON
 Aquafina : GPE
-Arab : NORP
 Arafat : PERSON
 Arbus : ORG
-Argo : ORG
+Argyle.-Because : PERSON
 Ari Emanuels : PERSON
-Arizona : GPE
-Armenian : NORP
 Artie : PERSON
 Arturo Fonzarelli : PERSON
 Aryan : NORP
@@ -237,24 +167,25 @@ Aryans : NORP
 Ashton : PERSON
 Asian : NORP
 Ass-Jolt : ORG
-Atkinson : PERSON
-Atta boy![barking]Daddy : PERSON
 Attagirl : ORG
 Atwater : LOC
-Audie Cornish : PERSON
 Audrey : PERSON
 Auschwitzes : ORG
 Austin : GPE
 Australian : NORP
 Ayako : PERSON
 Azusa : LOC
+B!- : PERSON
+B.D. Wong : PERSON
+B.H. : ORG
+B.J. Novak : PERSON
 BB : ORG
 BD : ORG
 BJ : PERSON
+BJ.- Put : ORG
+Ba-ba-ba-ba-ba : PERSON
 Baby Jessica : PERSON
-Bacardi : ORG
 Backstrom : ORG
-Bad Santa : ORG
 Bagel : PERSON
 Bahamas : GPE
 Bailey : PERSON
@@ -271,10 +202,10 @@ Barnes & Noble : ORG
 Barry : PERSON
 Barry Gibb : PERSON
 Basil : PERSON
+Bathe!"More : PERSON
 Batman : PERSON
 Baxter : PERSON
 Baxter Bellamy : PERSON
-Be Blood.- Firm : ORG
 Bea : PERSON
 Beardo : PERSON
 Beatle : PERSON
@@ -286,8 +217,8 @@ Beautifully : PERSON
 Becca : PERSON
 Becca back.-They're : ORG
 Becca go?She : PERSON
+Becca.-Becca Chavez : PERSON
 Beck : PERSON
-Becker : PERSON
 Beethoven : PERSON
 Bella : PERSON
 Belle : ORG
@@ -301,22 +232,18 @@ Benjamin Franklin : PERSON
 Benjamin-Franklin-Quotes.com : ORG
 Benny : PERSON
 Bernsen : PERSON
-Berry Farm : FAC
 Berto Eco's : PERSON
+Best Picture isWell : ORG
 Beth : PERSON
 Betty Buenaventura : PERSON
-Beverly : GPE
 Beverly Garbage : GPE
-Beverly Hillbillies : ORG
 Beverly Hills : GPE
-Beyoncé : ORG
+Beyoncé : PERSON
 Bi-Monthly Curated Box of Snacks : ORG
 Biel down?Yeah : GPE
 Bielist : PERSON
 Big Andy's : ORG
 Big Bear : ORG
-Big Momma's : ORG
-Bill Gates?And : PERSON
 Bill Murray : PERSON
 Billy Bob : PERSON
 Billy Crystal : PERSON
@@ -324,28 +251,54 @@ Billy Crystal Meth : PERSON
 Billy Zane.- : PERSON
 Biscuits : ORG
 Biscuits Braxby : ORG
-Biscuits Braxby.[chuckles : ORG
 Black Hawk : PERSON
-Black and Blue Number 7's : ORG
-Blade : PERSON
 Blake : PERSON
 Blake Lively : PERSON
 Blanchett : PERSON
-Blank Inside!Uh : PERSON
 Blarn : PERSON
-Blart : PERSON
+Blech : PERSON
 Bleh : PERSON
 Blinky : PERSON
 Blockbuster Video : ORG
 Bluff : LOC
-Bo : PERSON
-Bo Jackson : PERSON
-Bo-j : PERSON
 BoBo : PERSON
 BoHo : LOC
 BoJack : PERSON
+BoJack H. BoJack : PERSON
+BoJack Hor : PERSON
 BoJack Horseman : PERSON
+BoJack Horseman!And : PERSON
+BoJack Horseman!Is : PERSON
+BoJack Horseman!Sarah Lynn : PERSON
+BoJack Horseman!Thanks : ORG
+BoJack Horseman's : PERSON
+BoJack Horseman.-No : PERSON
+BoJack Horseman.suffered : ORG
+BoJack Horseman?I'd : PERSON
+BoJack Horseman?Oh : GPE
+BoJack did.- : PERSON
+BoJack kills?Something : PERSON
+BoJack now?Who's BoJack : PERSON
+BoJack!-It : PERSON
+BoJack!-No : ORG
+BoJack!-[grunting] : PERSON
+BoJack!I'm : ORG
+BoJack!No one's : PERSON
 BoJack-- : GPE
+BoJack.-Diane : ORG
+BoJack.-Getting : GPE
+BoJack.-Hello : ORG
+BoJack.-I'll : PERSON
+BoJack.-I'm : ORG
+BoJack.-Whoa : PERSON
+BoJack.-Yeah : ORG
+BoJack?"And : PERSON
+BoJack?"I : GPE
+BoJack?-Mom : PERSON
+BoJack?-Um : ORG
+BoJack?-Yeah : GPE
+BoJack?We're : PERSON
+BoJack?What?You'll : GPE
 BoJackitron Horsemaniac : PERSON
 BoJacks : LOC
 BoJark Hoseman : PERSON
@@ -357,10 +310,9 @@ Boj : GPE
 Bon Jovi : ORG
 Boner : PERSON
 Bonito : ORG
-Boop : PERSON
 Booth Cam : PERSON
 Booty Academy : ORG
-Booty Boot Campand : PERSON
+Booyah!It'll : PERSON
 Bora Bora : PERSON
 Bora Bora?-Uh : PERSON
 Boreabble : PERSON
@@ -372,14 +324,12 @@ Bostonand : ORG
 Bostwick : GPE
 Botticelli : PERSON
 Boulder : GPE
-Boxer : PERSON
+Bowiedead : PERSON
 Boy Wizard : ORG
 Brad : PERSON
 Brad Garrett : PERSON
 Brad Pitt's : PERSON
 Bradley Cooper?Bradley Cooper : ORG
-Brady : PERSON
-Brady Bunch : PERSON
 Braff : PERSON
 Braff Bucks : ORG
 Brandon : PERSON
@@ -387,19 +337,16 @@ Brangelinas : PERSON
 Bratt : ORG
 Braxby : ORG
 Bread : PERSON
-Bread Poot for City : PERSON
 Brendan : PERSON
 Brendan Fraser : PERSON
 Brentwood : GPE
 Bridges : PERSON
 Bridget : PERSON
-Bridget Jones : PERSON
 Brie brie.-[phone : PERSON
-Brighton Beach.[cheering : GPE
+Brighton Beach : GPE
 Bristol Farms : ORG
 British : NORP
-Broadway : FAC
-Brooklyn : GPE
+Bronson Pinchot : PERSON
 Brooklynites : GPE
 Brotherly Angels : ORG
 Brown : PERSON
@@ -417,23 +364,30 @@ Buckner : ORG
 Buenaventura : GPE
 Buffalo : GPE
 Bugles : ORG
-Buh-buh-buh-bye![ringtone : PERSON
+Buh-buh-buh-bye!Todd : PERSON
 Bundt : PERSON
-Burritos : PERSON
 Buster Keaton : PERSON
 Butler : PERSON
+Butterfly?I'll : PERSON
 Butterscotch : ORG
-Butterscotch Horseman : PERSON
+Butterscotch Horseman : ORG
 BuzzFeed : ORG
-Buzzfeed : ORG
 Buzzy : PERSON
+BuzzyTyler : ORG
+Bye![cat meowing][toilet : ORG
+Bye.--How : ORG
+Bye.-Weird.-Sorry : PERSON
+C.C.H. Pounder : PERSON
+C.P. : PERSON
 CBS : ORG
 CNN : ORG
 Cabo : LOC
 Cabracadabra : PERSON
+Cabracadabra.-That : ORG
 Cadbury Creme Eggs : ORG
 California : GPE
 California Pizza Kitchen : ORG
+California.-Really : PERSON
 Californians : NORP
 Calvin Klein : PERSON
 Cambridge : GPE
@@ -458,42 +412,33 @@ Carnegie : ORG
 Carol : PERSON
 Carol Himmelfarb-Richardson : PERSON
 Carolyn : PERSON
-Carolyn chuckles : PERSON
-Carolyn chuckles][Turteltaub] : PERSON
 Carolyn gasp : PERSON
-Carolyn gasp]Yes : PERSON
 Carolyn gasps]I : PERSON
-Carolyn groans]- : PERSON
 Carolyn groans]-Hey : PERSON
-Carolyn grunts]Here.-You : PERSON
 Carolyn pep talk.-Why : PERSON
-Carolyn shouts][baby : PERSON
-Carpenters : ORG
+Carolyn!-Hello : ORG
+Carolyn?-You : PERSON
+Carolyn?Charley Witherspoon : PERSON
 Carrie : PERSON
 Carrie Underwood : PERSON
 Carson : PERSON
-Casablanca : GPE
 Casanova : ORG
 Casey : PERSON
 Cassady : PERSON
-Castle : ORG
-Catcher : PERSON
 Cate : PERSON
 Cate Blanchett : PERSON
 Cathy Lee Crosby : PERSON
-Catwomanif : ORG
-Caveman : PERSON
 Cazador : PERSON
 Cedars : PERSON
-Center Theater Group : ORG
 Chad Michael Murray : PERSON
 Chadwick Boseman?-BoJack Horseman : PERSON
 Chandler : PERSON
+Chandler!Could Ia : PERSON
 Channing : PERSON
 Channing Tatum : PERSON
 Channing Tatum's : PERSON
+Channing?Jenna Dewan : PERSON
 Chaperoned : PERSON
-Char : PERSON
 Charles Lindbergh : PERSON
 Charles Regatta.- : PERSON
 Charley : PERSON
@@ -504,18 +449,25 @@ Charlie Sheen : PERSON
 Charlie Witherspoon : PERSON
 Charlize Theron : PERSON
 Charlotte : PERSON
+Charlotte.-This : ORG
 Chavez : PERSON
-Chavezes : ORG
+Chavez.-[clucks : PERSON
+Chaz!Okay. : PERSON
 Cheadle : PERSON
 Chechnya : GPE
+Check.- Burner : PERSON
 Cheez : ORG
 Chelsea Clinton : PERSON
 Chewbacca : PERSON
 Cheyenne : GPE
 Chicago : GPE
 Chicago Bulls : ORG
+Chicago!-Hi : ORG
+Chicago.-Come : ORG
+Chicago?Morton Grove : GPE
 Chicagoan : GPE
 Chicagoans : NORP
+Chickenson.-Todd : PERSON
 Chili : LOC
 Chin : PERSON
 Chinese : NORP
@@ -526,8 +478,6 @@ Chocolate-Hazelnut-Spread : ORG
 Chocolate-Hazelnut-Spread!-[man : ORG
 Chomsky : PERSON
 Chris Brown : PERSON
-Chris Hardwick.- : PERSON
-Chris Hemsworth's : PERSON
 Chris Kattan : PERSON
 Chris Kattan.-Got : PERSON
 Chris Klein : PERSON
@@ -536,9 +486,7 @@ Chris Martin's : PERSON
 Chris Pine : PERSON
 Chrissy Teigen : PERSON
 Christian : NORP
-Christopher : PERSON
 Christopher Nolan?Because : PERSON
-Chuck : PERSON
 Chuff : ORG
 Chuff Hollister : PERSON
 Châteauneuf-du-Pape : ORG
@@ -548,16 +496,14 @@ Cindy : PERSON
 Cindy Crawfish : PERSON
 Cindy Crawfish!When : PERSON
 Cinnabungalow : ORG
-Cirque du Soleil : ORG
 Clark Gerbil.-[humming : PERSON
 Clarksville : GPE
-Classic Zoe : PERSON
+Clemelia : PERSON
 Clemelia Bloodsworth : PERSON
 Clentists : PERSON
+Cliché.-I : ORG
 Cliffe : PERSON
-Clockwork Orange : LOC
 Clooners : PERSON
-Closetwhen : NORP
 Clyde : PERSON
 Coachella : PERSON
 Cobb : PERSON
@@ -573,7 +519,6 @@ Compound Streep : ORG
 Confederate : ORG
 Congress : ORG
 Connecticut : GPE
-Contemporary Family : ORG
 Content Spew : ORG
 Contra Costa County : LOC
 Coodchuck-Berkowitz : ORG
@@ -584,22 +529,20 @@ Cooper Thomas Rogers Wallace : ORG
 Cooper Three : ORG
 Coopers : ORG
 Copernicus : ORG
+Copernicus?Huh?Huh : PERSON
 Copperplate : ORG
 Corbin : PERSON
 Corbin C. Creamerman : PERSON
 Corbin Creamerman : ORG
 Cordovia : PERSON
 Cordovian : ORG
-Cordovian Airlines : ORG
 Cordovian Prince Gustav : ORG
 Corduroy : ORG
 Corduroy Jackson : PERSON
 Corduroy Jackson-Jackson : PERSON
 Corduroy Jackson-Jackson!Down : ORG
 Cornelius Vanderbilt : PERSON
-Cornish : PERSON
 Cosby : PERSON
-Cosmo : ORG
 Cottage Grove : GPE
 Court : ORG
 Courteney Cox : PERSON
@@ -612,38 +555,36 @@ Craig Bierko's : PERSON
 Craig Ferguson : PERSON
 Craig T. Nelson's : PERSON
 Cranky : PERSON
-Crazy"because : ORG
 Creamerman : ORG
 Creamy Cream : ORG
 Creed : PERSON
-Creek : GPE
 Crikey : PERSON
 Crispin Glover : PERSON
-Crooshcast : ORG
 CrossFit : ORG
 Cubs : ORG
 Cuddlywhiskers : ORG
 Cuddlywhiskers@harvard.edu.- That's : PERSON
 Cupe Robinson III : PERSON
+Cut!-[bell : PERSON
 Cutie Cutie : PERSON
-Cynthia : PERSON
 Cynthia Nixon : PERSON
 DC : GPE
 DTs : ORG
 Da White House : ORG
 Dad : PERSON
+Dad,"I : PERSON
 Dada : PERSON
 Dada coming?Yes : PERSON
 Daisy : PERSON
 Dakota : GPE
-Dane Cook : PERSON
+Damn!-[chiming]Huh : PERSON
 Daniel : PERSON
 Daniel Day-Lewis : PERSON
 Daniel Day-Lewis's : PERSON
 Daniel Radcliffe : PERSON
 Danny : PERSON
 Danny Bananas : PERSON
-Dare : PERSON
+Dare I?One forplease!-[barks : PERSON
 Darlene : PERSON
 Darnarius McQuimberton : PERSON
 Darneesa : PERSON
@@ -661,24 +602,21 @@ David Boreanaz.- : PERSON
 David Boreanaz?I : PERSON
 David Chase : PERSON
 David Copperfield : PERSON
-David Duchovny : PERSON
 David Gu-etta : PERSON
 David Hasselhoff : PERSON
 David Levy : PERSON
 David O. Russell : PERSON
 David Pincher : PERSON
 David Pincher's : PERSON
-Davie B.Never : PERSON
-Dawson : PERSON
+Davie B.Unbelievable : PERSON
 Day-Lewis : PERSON
 Daylight Savings : ORG
 Dayz : PERSON
 Dear Herb : PERSON
-Death : PERSON
-Decapathon : PERSON
 Decapitator : PERSON
 Dee : PERSON
 Deedee : PERSON
+Deedee.-I : PERSON
 Dehydration-Made-Me-Stupid : PERSON
 Delilah : PERSON
 Delta : LOC
@@ -687,6 +625,7 @@ Demi M."And : PERSON
 Demi Moore?You : PERSON
 Denis Leary : PERSON
 Denise : PERSON
+Denise.-[laughter : PERSON
 Dennis : PERSON
 Dennis Rodman : PERSON
 Derek Jeter : PERSON
@@ -695,38 +634,36 @@ Derek Jeter?No : PERSON
 Detective Philbert : PERSON
 Devil : PERSON
 Devon : PERSON
-Di : PERSON
 Di-isneyland : PERSON
 Diana : PERSON
 Diane : PERSON
 Diane Arbus : PERSON
-Diane Arbus.[chuckles : PERSON
 Diane Lane : PERSON
 Diane Nguyen : PERSON
 Diane Nguyen!I : PERSON
 Diane Nguyen?Oh : PERSON
-Diane Nguyenand : PERSON
 Diane Nyu-- Nyu-- : PERSON
 Diane Peninsula : PERSON
 Diane Warren : PERSON
 Diane grunts]Nighty-night : PERSON
+Diane!- : PERSON
 Diane-igans : PERSON
 Diane-y. : PERSON
 Diane-y?- : PERSON
-Dianein : PERSON
+Diane.- : PERSON
+Diane.-Where : PERSON
+Diane?"-Well : PERSON
+Diane?Diane?You : PERSON
 Dianes : PERSON
 Dick : PERSON
-Dick Van Dyke : PERSON
 Dick Wolf's : PERSON
 Diego : GPE
 Diego Mendoza's : PERSON
 Dillon : PERSON
-Dis : PERSON
 Disney : ORG
 Disney World : ORG
 Disney-Fox-AT&T-AOL-Time- : ORG
-Disneyland : FAC
-Doc : PERSON
+Disneyland : ORG
 Dodger : GPE
 Dog-Man : PERSON
 Doggie : PERSON
@@ -735,22 +672,23 @@ Domto : ORG
 Donald : PERSON
 Dong-Slinger-420 : PERSON
 Donna : PERSON
-Doonesbury : PERSON
 Doris : PERSON
 Dorothy : PERSON
 Doth : PERSON
-Doubt : PERSON
 Doug : PERSON
+Doug!-No : ORG
 Dow Chemical : ORG
 Downer : PERSON
 Drake : PERSON
+Dre, Abercrombie and Fitch : ORG
 Drew Barrymore : PERSON
 Drew Barrymore's : PERSON
 Drew Barrymore?-Yep : PERSON
 Driver : PERSON
+Driver's Ed : ORG
 Drop : PERSON
+Drop da : PERSON
 Dubai : GPE
-Dulles International Airport : FAC
 Dulls : ORG
 Dumbass Unicorn : PERSON
 Dunham : PERSON
@@ -758,14 +696,15 @@ Dustin Hoffman : PERSON
 Earth : LOC
 East Coast : LOC
 Ecch : PERSON
-Echo Park : FAC
 Ed : PERSON
 Ed Begley Sr. : PERSON
 Ed Porter : PERSON
 Eddie : PERSON
 Eddie Money : PERSON
 Eddie Redmayne : PERSON
+Eddie.-Whoa : PERSON
 Eden : LOC
+Eden.-When : PERSON
 Eduardo : PERSON
 Eesh : PERSON
 Egypt : GPE
@@ -776,12 +715,10 @@ Ejlert Løvborg.-[guard : PERSON
 El Taco Loco!We : ORG
 Elbridge Gerry : PERSON
 Ele : PERSON
-Eleanor Roosevelt : PERSON
 Elefante : PERSON
+Elefante.- Reservations : ORG
 Ella : PERSON
 Elle Fanning : PERSON
-Ellen : PERSON
-Ellie : PERSON
 Elliott Smith : PERSON
 Elton John : PERSON
 Elvsted : PERSON
@@ -793,11 +730,11 @@ Emily Deschanel : PERSON
 Emily Mortimer.- : PERSON
 Emily Van Camp : PERSON
 Emily VanCamp : PERSON
-Emma : PERSON
+Emily?!-Well : ORG
+Emma Goldman : PERSON
 Emperor Finger-Face!Good morning : PERSON
 England : GPE
 Ennis : PERSON
-Entertainment Weekly : ORG
 Eric : PERSON
 Eric McCormack?Look : PERSON
 Erica : PERSON
@@ -807,13 +744,10 @@ Ernest Contralto : PERSON
 Eskimo : NORP
 Eskimo blubber-munchers?You're : PERSON
 Estelle : PERSON
-Et Cru-Dités?-What : ORG
 Ethan : PERSON
-Ethan Around : PERSON
-Ethan Around.- : PERSON
 Ethan Hawke : PERSON
 Ethan Hawke know?-We'll : PERSON
-Ethan] : PERSON
+Ethan] BoJack : PERSON
 Ethiopian : NORP
 Europe : LOC
 Eva Braun : PERSON
@@ -821,27 +755,23 @@ Eva Braun?Why : PERSON
 Evanston : GPE
 Evelyn : PERSON
 Everywhereindustrial : ORG
-Excess Hollywoo : ORG
-Ezekiel : PERSON
-Ezekiel Whitewhale : PERSON
 FAB : ORG
 FBI : ORG
 FDA : ORG
 FX : ORG
 Fabiana : PERSON
 Facebook : ORG
-Fatheeeeeer : ORG
 Felicity Jones : PERSON
 Fergus : PERSON
-Ferris Bueller's : PERSON
 Fido : PERSON
-Fierstein : PERSON
 Fiji : NORP
 Fijis : LOC
-Finish it.[coughing]Jesus Christ : PERSON
+Filene's Basement : ORG
+Fine.-I'm : PERSON
 Finland : GPE
 Finnish : NORP
 Fireflame"?!-What : ORG
+Fireflame.-[yelps : PERSON
 Fitbit : ORG
 Flap : PERSON
 Flea Daniels : PERSON
@@ -853,12 +783,13 @@ Flippy : PERSON
 Flo : ORG
 Fog of Pulsating Yearning?Emperor Finger-Face : ORG
 Follies : ORG
+Fondle : PERSON
 Fonz : PERSON
-Fountain : FAC
 Fran Tarkenton : PERSON
 France : GPE
 Franch potench : PERSON
 Franco : PERSON
+Franco.-He : PERSON
 Frank Rich : PERSON
 Franken Berry : PERSON
 Franken Berry.-We : PERSON
@@ -870,6 +801,7 @@ Fred Durst : PERSON
 Free Tesla's : ORG
 Freeze : PERSON
 French : NORP
+Fresno : GPE
 Freudian : NORP
 Fricky-fricky : PERSON
 Frieda : PERSON
@@ -878,35 +810,34 @@ Friendster : PERSON
 Frito pie?Well : ORG
 Frito pies : ORG
 Fritz : PERSON
-Frozen Funnies : PERSON
+FromAnd : PERSON
 Fuddruckers : ORG
 Fugees : GPE
 Fuji : LOC
 Fuji koojee koojee : PERSON
 Funky Spider-Man : PERSON
+Funyun Canyon?Whew : ORG
 Fuzzyface : ORG
+G.D. : ORG
 GIF : PERSON
 Gabe : PERSON
 Gabe Jr. : PERSON
 Gabriela : PERSON
 Gaddafi : PERSON
 Galapagos : LOC
+Galore!-Uh : PERSON
 Gandhi : PERSON
-Garfield : PERSON
 Garmin : ORG
-Garry Marshall : PERSON
 Gary : PERSON
-Garçon : PERSON
-Gatsby : PERSON
 Gaz : PERSON
+Gaz.-I'm : PERSON
 Geico : ORG
 Gekko : PERSON
 Gekko Rabitowitz : PERSON
-Gekko-Rabitowitz : PERSON
 Gemberly : GPE
 Gemini : ORG
-Gentle Farms : FAC
-George Bailey.[speaking Japanese : PERSON
+Gentle Farms : ORG
+George Bailey : PERSON
 George Bailey?Do : PERSON
 George Clooney : PERSON
 George Foreman Grill : PERSON
@@ -916,17 +847,14 @@ Gere : PERSON
 German : NORP
 Germany : GPE
 Gerwig : PERSON
-Gesundheit : PERSON
 Get-- : PERSON
 Ghandi : PERSON
-Giggleship : PERSON
-Gillian : PERSON
-Gilligan : PERSON
 Gina : PERSON
 Gina Cazador : PERSON
-Gina naked.[BoJack : PERSON
+Gina.-I : NORP
 Ginny : PERSON
 Gino : PERSON
+Gino?"Oh : PERSON
 Ginsberg : PERSON
 Girl Croosh : PERSON
 GirlCroosh : ORG
@@ -939,11 +867,13 @@ Glee Club : ORG
 Glenn Close : PERSON
 Globe : ORG
 Gloria Stein : PERSON
-Glug : ORG
 Gnarls Barkley : PERSON
 God : PERSON
+God!-Diane : ORG
+God!-[Mrs : GPE
+God.-Jurj : GPE
+God.-Where : PERSON
 Goddamnit : PERSON
-Golden Gate Park : FAC
 Golden Globe : ORG
 Golden Globes : ORG
 Golden-Globe : ORG
@@ -951,8 +881,10 @@ Goldie : PERSON
 Gonna : PERSON
 Goo : PERSON
 Gooba Gooberry Falls : PERSON
-Goobed : PERSON
 Goober : PERSON
+Good.-Thank : ORG
+Goodbye, BoJack : PERSON
+Goodbye.- : ORG
 Goody Oats : ORG
 Google : ORG
 Goose : PERSON
@@ -961,11 +893,11 @@ Gorbachev : PERSON
 Gotten : PERSON
 Grandma Piccolino : PERSON
 Grauman : PERSON
+Great.-Wanna : PERSON
+Great.-Why : ORG
 Greek : NORP
-Green Lantern : ORG
 Greensboro : GPE
 Greg : PERSON
-Greg KingLear is?Two hours : PERSON
 Gregory Hines : PERSON
 Gregory Hsung : PERSON
 Gremlin : PERSON
@@ -983,14 +915,14 @@ Guy : PERSON
 Gwyneth : PERSON
 H&M : ORG
 H-U : ORG
-HBO : ORG
 Ha Long Bay : LOC
 Ha ha!Get : GPE
+Ha!-What : PERSON
+Ha!-Where : ORG
 Haberdasher : PERSON
 Haiti : GPE
 Haley Joel : PERSON
 Haley Joel Osment : PERSON
-Halfway Down : FAC
 Halle Berry : PERSON
 Hallmark : ORG
 Hambone : PERSON
@@ -999,29 +931,30 @@ Hammers : ORG
 Hank : PERSON
 Hank Hippopopalous : PERSON
 Hank Hippopopalous's : PERSON
+Hank Hippopopalous,-[baby : PERSON
 Hank Hippopopalous?Well : PERSON
-Hank Hippopopalous?[chuckles : PERSON
+Hanukkah!"That : GPE
 Harriet : PERSON
 Harry Chapin : PERSON
 Harry Potter : PERSON
 Harvard : ORG
-Harvard Lampoon : ORG
 Harvey Fierstein : PERSON
 Hasenpfeffer Incorporated : PERSON
-Hatted : ORG
 Hawaii : GPE
 Hawk : PERSON
-Hedda Gabler : PERSON
+He'd linger : PERSON
+Hea : PERSON
+Heather.-Hey : GPE
 Hee hee hee hee!Hey : PERSON
 Heelys : PERSON
 Heidi : PERSON
 Heidsieck Diamant : PERSON
-Heinie : PERSON
-Helen : PERSON
 Helen Molesworth : PERSON
 Helen Molesworth"?Are : PERSON
+Hello.-Oh : PERSON
+Hello?It's Oodles of Money : ORG
+Help!-Oh : PERSON
 Henrietta : GPE
-Henrietta Platchkey.-That's-- : ORG
 Henry : PERSON
 Henry Fondle : PERSON
 Henry Fondle.-Henry : PERSON
@@ -1036,14 +969,14 @@ Herb Kazzaz's : PERSON
 Herb at Habitat For Humanity : ORG
 Herb did?Would : PERSON
 Herb died?You : PERSON
+Herb?If Herb : PERSON
 Herbitat For Henranity : ORG
+Hey!-Now : ORG
 Hilary Swank's : PERSON
 Hill : PERSON
-Hills : LOC
 Hilton : ORG
-Hippopopalous : PERSON
-Hitch : PERSON
-Hitler : PERSON
+Hippopopalous : GPE
+Hmm.-I'm : ORG
 Hmph : PERSON
 Ho-ho : PERSON
 Ho-oh!Oh : PERSON
@@ -1053,84 +986,94 @@ Hogwarts : PERSON
 Hokey Pokey"?Yeah : ORG
 Hollister : PERSON
 Holly : PERSON
-Hollyhock : PERSON
+Hollyhock : ORG
+Hollyhock Manheim- : PERSON
+Hollyhock Manheim-Mannheim- Guerrero-Robinson-Zilberschlag- : PERSON
+Hollyhock Manheim-Mannheim-Guerrero : PERSON
+Hollyhock.-Hollyhock : ORG
+Hollyhock.-[door : PERSON
+Hollyhock?-Hollyhock : PERSON
 Hollywoo : LOC
 Hollywoo "Guild : ORG
-Hollywoo Heist : ORG
-Hollywoo Reporter : ORG
-Hollywoo Stars : ORG
 Hollywoo hobnobbing.-Oh : ORG
+Hollywoo!I'm A Ryan Seacrest Type : PERSON
+Hollywoo.-I'm : ORG
 Hollywoob : PERSON
 Hollywoob"?If : NORP
 Hollywood : GPE
-Home Alone : ORG
-Home Alone?[laughs : ORG
 Honeydew : GPE
-Hoo hoo : PERSON
 Hoo-hoo : PERSON
 Hooba : PERSON
 Hooray : PERSON
 Hooters : NORP
 Horny Unicorn"?Yeah : GPE
-Horse : ORG
 Horseman : PERSON
+Horseman?- Not : PERSON
 Horsey : GPE
-Horshack : PERSON
 Horsin : PERSON
-Horsing Around?-What : PERSON
-Hotcha : PERSON
+Horsin' AroundMessage : ORG
 House : ORG
 House of Noodles : ORG
-House reboot?Reboot : ORG
 Houseman : PERSON
 Houston : GPE
 Howie Mandel : PERSON
 Hsung : GPE
 Hu : PERSON
-Huffman : ORG
+Huffman : PERSON
 Hugh : PERSON
 Hugh Jackman : PERSON
 Hugh Jackman.-BoJack Horseman : PERSON
+Huh?-Hello : ORG
+Huh?-Uh : PERSON
+Huh?Kelsey Jannings : PERSON
 Hulk : ORG
 Hulk Hogan : PERSON
 Hummer : PERSON
-Hung : PERSON
 Hungry Hungry Hippos : ORG
-Hunt : PERSON
 Hyuk : PERSON
-I--[grunts][sighs]Well : ORG
+I know.- : PERSON
+I?-"I'm Eric : PERSON
+Ibeing : NORP
 Ibsen : PERSON
 Idaho : GPE
+Igetting : PERSON
+Iher : PERSON
 Ike : PERSON
 Ikea : ORG
 Ilana : PERSON
 Ilanas : ORG
 Ileanna : PERSON
 Illuminati : ORG
-Illusionist : PERSON
 Indianapolis : GPE
 Indir-- : PERSON
 Indira : PERSON
+Ino Christopher : PERSON
 Instagram : ORG
+Interesting!-Ay-yi-yi : PERSON
 Internal Affairs : ORG
-International Space Station : FAC
+Internet.-Charley : ORG
 Iowa : GPE
-Ira Glass : PERSON
 Irish : NORP
 Irving : PERSON
 Isabel : PERSON
+Isay : PERSON
 Israel : GPE
 Israeli : NORP
 It-- : ORG
 Italian : NORP
 Italians : NORP
+Ito : PERSON
+J. Abrams : PERSON
+J.C. Penney : ORG
+J.D. : PERSON
+J.D. Salinger : PERSON
+J.D. Salinger's : PERSON
+J.D. Salinger.-- : ORG
+J.D. Take : PERSON
+J.J. Abrams'reboot : PERSON
 JP Morgan Chase : ORG
 JV : ORG
 Jacinda : PERSON
-Jack : PERSON
-Jack Bauer : PERSON
-Jack Huston : PERSON
-Jack Twist : PERSON
 Jackie Bouv?Stomp : PERSON
 Jackie O : PERSON
 Jackie O.My : PERSON
@@ -1144,13 +1087,15 @@ Jamaican : NORP
 James Bond : PERSON
 James Bond.- Ehh : PERSON
 Jameson : PERSON
-Jameson H.![people laughing][gasps][panting][panting : PERSON
+Jameson H.!-[knocking : PERSON
 Jameson lives?Jameson H. : PERSON
+Jameson?-[door : GPE
 Jan-Ove Waldner : PERSON
 Janae : PERSON
 Janet : PERSON
 Janet Gaynor : PERSON
 Janitor : PERSON
+January?- : GPE
 Japan : GPE
 Japanese : NORP
 Jared Leto : PERSON
@@ -1163,37 +1108,29 @@ Jay Hernandez : PERSON
 Jeanne : PERSON
 Jeanne Tripplehorn : PERSON
 Jeers : ORG
-Jeezy Kableezy.[audience laughing]Well : PERSON
+Jeezy Kableezy : PERSON
 Jeff : PERSON
 Jeff Goldblum : PERSON
 Jeffretariat : PERSON
 Jeffrey Katzenberg : PERSON
 Jell-O : ORG
-Jell-O.[Diane : ORG
-Jelly : ORG
-Jelly Belle : ORG
+Jell-O.Ah : ORG
 Jennifer Garner's : PERSON
 Jennifer Jason Leigh : PERSON
 Jennifer Lawrence.-[people : PERSON
 Jennifer Picarello : PERSON
 Jenny Holzer : PERSON
-Jeopardy : ORG
 Jerb : PERSON
 Jerb Kazzaz?"Your : PERSON
 Jerb Kazzaz?Kind : PERSON
-Jeremiah : PERSON
 Jeremiah Whitewhale : PERSON
-Jerry : PERSON
 Jerry Lewis : PERSON
-Jerry Maguire : PERSON
-Jerry Maguire's : PERSON
-Jerry Maguire.[ringtone : PERSON
 Jessica : PERSON
 Jessica Alba : PERSON
+Jessica Atkinson : PERSON
 Jessica Biel : PERSON
 Jessica Biel.-Your : PERSON
-Jessica Biel.[woman : PERSON
-Jessica Biel?- Mmm : PERSON
+Jessica Biel?- : PERSON
 Jessica Chastain : PERSON
 Jessicas : GPE
 Jesus : PERSON
@@ -1202,13 +1139,14 @@ Jesus Christ!I : ORG
 Jesus thing?Fine : PERSON
 Jew : NORP
 Jewish : NORP
+Jewish?I'm : ORG
 Jews : NORP
 Jill : PERSON
 Jill Filipowicz.- : PERSON
 Jill Pill : PERSON
 Jill Pill.-She : PERSON
 Jill Pill?- Right : PERSON
-Jill] : PERSON
+Jill]- : PERSON
 Jim Carrey : PERSON
 Jimmy Fallon : PERSON
 Jimmy Fallon-- : PERSON
@@ -1218,7 +1156,7 @@ Joan : PERSON
 Joby : PERSON
 Jock-jam : PERSON
 Joe : PERSON
-Joe Pesci : PERSON
+Joe Pesci inYou : PERSON
 Joe-Joes : PERSON
 Joelle : PERSON
 Joey : PERSON
@@ -1230,11 +1168,9 @@ John Carpenter : PERSON
 John Carroll Lynch : PERSON
 John Davidson : PERSON
 John Edwards : PERSON
-John GetWellSoon : PERSON
 John Goodman.-Sounds : PERSON
 John Grisham : PERSON
 John Grisham?Oh : PERSON
-John Hughes : PERSON
 John Philbert : PERSON
 John Philbert's : PERSON
 John Stamos : PERSON
@@ -1244,22 +1180,24 @@ Johnny : PERSON
 Johnny Depp : PERSON
 Joke : PERSON
 Jonathan : PERSON
-Jonathan Lethem : PERSON
 Jonathan Taylor-Thomas : PERSON
 Jorge : PERSON
+Jorge.-I : PERSON
 Jose : GPE
 Jose Canseco : PERSON
 Jose Guerrero : PERSON
 Joseph : PERSON
 Joseph Stalin : PERSON
 Joseph Sugarman : PERSON
+Joseph.-Please : PERSON
 Josh Brolin : PERSON
 Josh Radnor : PERSON
 Josh Radnor?Nothing : PERSON
 Joss Whedon : PERSON
-Jove : PERSON
 Joyce DeWitt : PERSON
+Jr.Jamie Lee Curtis : PERSON
 Judah : GPE
+Judah!-You : PERSON
 Judd Apatow : PERSON
 Judd Nelson : PERSON
 Judith Butler : PERSON
@@ -1272,16 +1210,17 @@ Julia : PERSON
 Julie Brown's : PERSON
 Juliet : PERSON
 Julius Caesar : PERSON
-Jumbo-Grumbo : ORG
-Jumbo-Grumbo] Woodchuck : ORG
-Juneau : GPE
 Juniper : PERSON
+Jupiter?-This : GPE
 Jurj : PERSON
 Jurj Clooners : PERSON
+Jurj Clooners forSecretariat : PERSON
 Jurj Clooners.-[cameras : PERSON
+Jurj?Jurj Clooners : PERSON
 Justin : ORG
 Justin Kenyon says,"I : PERSON
 Justin Kenyon.-What's : PERSON
+Justin.-Yeah : GPE
 K"?Her : NORP
 K-Mart : ORG
 KFC : ORG
@@ -1294,16 +1233,21 @@ Kane : PERSON
 Kansas : GPE
 Kansas City's : GPE
 Kanye West : PERSON
+Kaplan : PERSON
 Kapleshky : PERSON
 Kaput : PERSON
 Kardashian : NORP
 Karen : PERSON
 Karen Kitada : PERSON
-Karen Kitada.[Princess : PERSON
+Karen?-Can : NORP
 Kathy Ireland : GPE
 Kathy Ireland's : PERSON
 Katie : PERSON
+Katie!"-Hey : PERSON
 Katrina : PERSON
+Katrina.-Huh : PERSON
+Katrina?-[applause : PERSON
+Kattan?-No : PERSON
 Katy Perry : PERSON
 Kazaz : GPE
 Kazzaz : PERSON
@@ -1324,13 +1268,14 @@ Kevin Kline : PERSON
 Kevin Kline.-You : PERSON
 Kevin Pollak.-[yelps : PERSON
 Kevin Spacey's : PERSON
-Kia : ORG
+Kevin?-Now : GPE
+Kevorkian?"Give : PERSON
 Kia Sportage Cash Grab : ORG
+Kia Sportage Cash Grab Booth : ORG
 Kiefer : PERSON
 Kiki : PERSON
 Kim Jong Un : PERSON
 Kimber : PERSON
-Kimmel : PERSON
 King Mutt : PERSON
 King Pusspuss : ORG
 King Tut?Because : ORG
@@ -1338,32 +1283,42 @@ Kings of : ORG
 Kinko : PERSON
 Kirkland : ORG
 Kirkman : PERSON
+Kiss : PERSON
 Kissinger : PERSON
 Kit Kat : PERSON
 Kit Kats : PERSON
-Kitada : GPE
 Kitchen"?You : GPE
 Klaus : PERSON
 Klimt : PERSON
-Knick : PERSON
 Knickerbocker : ORG
 Knicks : ORG
-Knockoff"?Me : ORG
+Knute.-Now : NORP
+Knute.-You : PERSON
 Kofi Makir : PERSON
+Koi?-Wait : GPE
 Kojak : PERSON
-Konichiwa : GPE
 Koontz : PERSON
 Korean : NORP
 Kramer : PERSON
-Krill & Grace : ORG
 Krissy Keating : PERSON
 Kubrick : PERSON
 Kyle : PERSON
 Kyle Bornheimer?-Because : PERSON
-Kyle here![Kyle : PERSON
+Kyle?-Dad : ORG
+Kyoto : GPE
+L'Oréal products!From game days : ORG
+L.A. : GPE
+L.A.?I : GPE
+L.A.And : PERSON
+L.A.Darling : PERSON
+L.A.Maybe : ORG
+L.A.She : PERSON
+L.L. Cool J : ORG
 LA : GPE
+LA.- : ORG
+LA.-Everybody : PERSON
+LA.-I : GPE
 LACMA : ORG
-LAPD : ORG
 La Cienega : PERSON
 La Jolla : GPE
 Labrador : GPE
@@ -1372,8 +1327,6 @@ Lady : PERSON
 Lady Footlocker : ORG
 Lady Ga : PERSON
 Lady Gaga : PERSON
-Lady Luck : PERSON
-Laika : PERSON
 Lake : LOC
 Lake Erie : LOC
 Lakes : LOC
@@ -1385,39 +1338,36 @@ Laughing Gassy : PERSON
 Laura : PERSON
 Laura Linney : PERSON
 Laura Linney!It's : PERSON
-Laura Linney.[Diane : PERSON
 Laurel : PERSON
 Lauryn : PERSON
-Law & Order : ORG
-Lazy Susans.[raspy : ORG
+Lazy Susans : ORG
 Lee : PERSON
 Leland Stanford : PERSON
-Lena Horne's : PERSON
 Lenny : PERSON
 Lenny Turteltaub : PERSON
+Lenny.was Vanessa's : ORG
 Leno : PERSON
 Leo : PERSON
 Leonard Cohen : PERSON
 Leonard Maltin : PERSON
 Lernernerner DiCarpricorn : PERSON
 Leslie Mann : PERSON
-Lexus : ORG
+Lights.-[applause : ORG
+Lil' Coop : ORG
 Linda : PERSON
 Lindsay : PERSON
 Lindsay Lohan : PERSON
 Lindy-hopper : PERSON
 Lionel Barrymore,"Eh : ORG
-Lionel Richie : ORG
 Lisa "Left Eye : PERSON
 Lisa Lampanelli : PERSON
-Lisa Loeb : PERSON
 Little Caesar's : PERSON
 LiveJournal : ORG
 Liverpool : GPE
 Lizzie Dunbar's : PERSON
 Lo : PERSON
 Lo-Fi Chill-Hop : PERSON
-Loam : GPE
+Loam : PERSON
 Lohan : PERSON
 Lokos : PERSON
 Lompoc : LOC
@@ -1425,36 +1375,32 @@ Lomu : PERSON
 Loo-- : ORG
 Lopez : PERSON
 Lora : PERSON
-Lori Laughlin : PERSON
 Lorraine : PERSON
 Los Angeles : GPE
 Los Angeles.-I : LOC
+Los Angeles.-Oh : GPE
 Los Angeles.-That's : GPE
-Los Angeles.-There's : GPE
 Lotta : ORG
 Lou Bega : PERSON
 Louis Kitton : PERSON
-Louisville : GPE
 Lubitsch : PERSON
 Lucille Eightball : PERSON
 Lucretia : PERSON
-Lucy Lawless : PERSON
-Lucy Liu : PERSON
 Luis Guzman : PERSON
 Luke Wilson : PERSON
 Lungs : PERSON
 Lyla K. : PERSON
 Lynn : PERSON
 Lynn giggles]-For : PERSON
-Lynn] : PERSON
+Lynn?Sarah Lynn : PERSON
 MBN : ORG
-MC Skat Kat.[man : ORG
+MC Skat Kat : PERSON
 MSNBSea : PERSON
 MTV : ORG
 Ma : PERSON
 MacArthur : ORG
 MacLaine : PERSON
-Machu Picchu : FAC
+Machu Picchu : PERSON
 Machu Picchu?-I : PERSON
 Maddy : PERSON
 Madeline : PERSON
@@ -1467,15 +1413,12 @@ Mainstage : ORG
 Maker : ORG
 Malcolm-Jamal Warner : PERSON
 Malibu : GPE
-Mall : FAC
-Malone : PERSON
-Manatee Fair : ORG
+Malibu.- : ORG
+Malibu?- : ORG
 Manhattan : GPE
 Manheim : GPE
-Manheim-Mannheim- Guerrero-Robinson-Zilberschlag- : PERSON
 Manheim-Mannheim-Guerrero... : ORG
 Mannheim : GPE
-Manny : PERSON
 Marc Cherry : PERSON
 MarciFartz : ORG
 Marcy : PERSON
@@ -1485,7 +1428,6 @@ Margo Mart-- : PERSON
 Margo Martindale : PERSON
 Margo Martindale!I : PERSON
 Margo Martindale?She's : PERSON
-Margo Martindaleis : PERSON
 Mariah : PERSON
 Marian : PERSON
 Marie : PERSON
@@ -1500,11 +1442,11 @@ Mark Feuerstein : PERSON
 Mark McGrath's : PERSON
 Mark Wahlberg : PERSON
 Marla : PERSON
-Marley & Me : ORG
 Mars : LOC
 Martian : NORP
 Martindale : PERSON
 Marty : PERSON
+Marty?Can't : ORG
 Marv : PERSON
 Mary : PERSON
 Mary-Beth : PERSON
@@ -1521,12 +1463,11 @@ Matthew McConaughey : PERSON
 Matthew Perry : PERSON
 Matthew Perry.-Matthew : PERSON
 Maude : PERSON
-Maury : PERSON
 Max : PERSON
 Max Headroom : PERSON
-Maximilian Banks : PERSON
 Maximillian Banks : PERSON
 Maya Angelou : PERSON
+Maybeshould : PERSON
 Mazda : ORG
 McBeal : ORG
 McCaitlyn : PERSON
@@ -1535,20 +1476,17 @@ McG : PERSON
 McGruff : PERSON
 Meagan : PERSON
 Med School : ORG
-Med School Nights : ORG
 Medgar Evers : PERSON
 Medicine Woman : ORG
 Mediterranean : LOC
 Meester Horseman : PERSON
 Megyn Kelly : PERSON
-Mein herr : PERSON
 Melodie : PERSON
 Memoriam : PERSON
 Mentos : PERSON
 Meow Meow : PERSON
 Meow Meow Fuzzyface : PERSON
 Meow Meow Fuzzyface Mystery : PERSON
-Meow-meow : PERSON
 Mercedes : ORG
 Meryl : PERSON
 Meryl Streep : PERSON
@@ -1556,13 +1494,10 @@ Meryl Streep.-[both : PERSON
 Meryl Streep?-Hah : PERSON
 Mexican : NORP
 Mexico City : GPE
-Mi casa es su casa : PERSON
 Mia : PERSON
 Mia McKibben : PERSON
 Miam : GPE
-Michael Barbaro : PERSON
 Michael Eisner : PERSON
-Michael Fassbender : PERSON
 Michael Jordan : PERSON
 Michael Morgan : PERSON
 Michael Vick : PERSON
@@ -1570,77 +1505,66 @@ Michelangelo : PERSON
 Michele : PERSON
 Michelle Monaghan : PERSON
 Michelle Pfeiffer : PERSON
-Michigan : GPE
+Michigan.-Michigan : PERSON
+Michigan:"Put : PERSON
 Mickey : PERSON
 Mickey Rourke : PERSON
 Mike : PERSON
-Mike Condolences : PERSON
 Mike Tyson : PERSON
+Mila : PERSON
 Mila Kunis : PERSON
 Miles : PERSON
 Milwaukee : GPE
-Milwaukee Waste Management : ORG
 Mimi : PERSON
 Minaj : PERSON
 Minding-Your-Own-Business-A-Lot"?I : PERSON
 Mindy : PERSON
+Ming?I'm : ORG
 Minneapolis : GPE
-Minnie Driver.[lawn : PERSON
 Minnowman : PERSON
 Miss : PERSON
 Miss Sinclair : PERSON
-Miss Sunshine : PERSON
 Mississippi : GPE
 Missy : PERSON
-Mitch : PERSON
 Mitt : PERSON
-Mitt Dermon : PERSON
 Mix-A-Lot?Because : PERSON
-Mm-mmm : PERSON
-Mo : PERSON
+Mmm.-[sad : PERSON
 Modern American : NORP
 Modesto : GPE
 Molly : PERSON
 Molly Ringwald : PERSON
-Momand : PERSON
-Mombie : PERSON
+Mom.-It : PERSON
 Mommy : PERSON
-Mondayabout : PERSON
 Monk : PERSON
+Monkey.-Sarah Lynn : PERSON
 Montana : GPE
 Moonves : PERSON
 Moose : PERSON
+More?-No : ORG
 Morgan : ORG
 Mork : PERSON
 Mort : PERSON
 Mort Creamerman : PERSON
-Motherland : GPE
 Motown : ORG
-Moulin Rouge : ORG
-Moussaka : PERSON
 Movie Star : PERSON
 Mozzarella Cinderella!But : ORG
 Muffin : PERSON
 Mulch : PERSON
-Mulholland : PERSON
 Multiple Choice Buzz-In Round : ORG
 Mummy : PERSON
 Muppet : NORP
-Murder Hospital : ORG
-Murphy : PERSON
 Musicalgoes : GPE
 Mustache Todd : PERSON
-Muy bien.[crowd gasping]-[whispering : PERSON
 Mwah : PERSON
+Mwah.-Well : ORG
 My Mommy : PERSON
 My hooray : PERSON
 MySpace : ORG
+N.U. : GPE
 NBC : ORG
 NETFLIX : ORG
 Na-goo- : PERSON
-Na-na-na-na-na-na-na-na : PERSON
 Nadia : PERSON
-Namaste : PERSON
 Nana Peanutbutter : PERSON
 Nancy : PERSON
 Nancy Reagan : PERSON
@@ -1664,10 +1588,9 @@ Nazis : NORP
 Neal : PERSON
 Neal McBeal : PERSON
 Neal McBeal?Ahem : PERSON
+Neat.-Let : ORG
 Neptune : LOC
 New England : LOC
-New Girl : ORG
-New Girl?--just : GPE
 New Haven : GPE
 New Media : ORG
 New Mexican : NORP
@@ -1678,25 +1601,33 @@ New Mexico?-Yeah : ORG
 New Orleans : GPE
 New Voice of Choice : ORG
 New York : GPE
-New York Magazine : ORG
-New York Times : ORG
-New Yorker?You : ORG
 New Zealand : GPE
 Newtopia : ORG
-Newtopia Rising : PERSON
-Ngu-yen?N-Ngu-yen?No one?[Charlotte : PERSON
+Ngu-yen?N-Ngu-yen?No : PERSON
 Nguyen : PERSON
+Nguyen.-Oh : ORG
 Nic Cage : PERSON
 Nick Nolte : PERSON
 Nickis : GPE
+Nickis.-Who : ORG
 Nicole : PERSON
-Nicole Brown?Sure : PERSON
 Nicole Holofcener?I : PERSON
+Nicole.-Why : GPE
 Nike Airs?Claire : GPE
 Nine-- really?Great : PERSON
 Nixon : PERSON
-No Country For Old Men.- : ORG
+No!-Do : PERSON
+No!Oh-ho-ho!Cabracadabblers : PERSON
+No!Your booty's : PERSON
+No.-Already : PERSON
+No.-Come : PERSON
+No.-Well : ORG
+No.-[line : PERSON
 NoHo : GPE
+Nobodypills.-You : PERSON
+Nofish : PERSON
+Nom, nom, nom : ORG
+Nom, nom, nom, nom, nom : ORG
 Non-Blondes : ORG
 Nora : PERSON
 Norman : PERSON
@@ -1706,6 +1637,8 @@ North Carolina?We're : LOC
 North Hollywood : GPE
 Northern Cordovia : LOC
 Northwestern : LOC
+Nothing?Samuel L. Jackson : PERSON
+Now.-Who : PERSON
 Nowheresville : GPE
 Nu : ORG
 Nyu-- : ORG
@@ -1714,46 +1647,59 @@ Oberlin : GPE
 Octavia Spenceror : PERSON
 Octomom : ORG
 Odysseus : ORG
-Oh-ho-ho!Cabracadabblers : PERSON
+Oh!-That : PERSON
+Oh!-[Guy : ORG
 Ohio : GPE
 Ohio sucks!Next : ORG
 Ojai : ORG
+Okay.-Ah : ORG
+Okay.-[inhales : NORP
+Okay?-[Carolyn]-[Carolyn]-[Carolyn]-I : ORG
 Okie-doke : PERSON
 Oklahoma : GPE
 Old Navy : ORG
-Oligopoly : ORG
 Olive : PERSON
-Oliver : PERSON
 Oliver North : PERSON
 Olivia : PERSON
-Ollie : PERSON
 Olympia : GPE
 Oodles of Money : ORG
 Oof : PERSON
+Ooh.-I : PERSON
+Ooh.-[moaning : PERSON
+Oooooooh : PERSON
 Oop : PERSON
-Ooοοοh : PERSON
 Oreo : NORP
 Oscar : PERSON
 Oscar nom : PERSON
+Oscar.-Oh : ORG
 Ottawa : GPE
 Ottawan : PERSON
 Ouija : NORP
 Oval Office : ORG
 Ove Waldner : PERSON
 Ovians : NORP
+Ow!-Hey : PERSON
 Oxnard : PERSON
+P.B. Livin : PERSON
+P.B. Livin' : PERSON
+P.C. : PERSON
+P.C.Braff : ORG
+P.C.Well : ORG
+P.F. : ORG
+P.F. Chang's : ORG
+P.R. standpoint?Yeah : PERSON
+P.S. : PERSON
 PA : GPE
 PB : ORG
 PB Livin' : ORG
 PCH : ORG
 POFF : ORG
-Pacific Ocean : LOC
+Pacific Ocean City : LOC
 Pacific Ocean City.-Oh : LOC
 Paige : PERSON
 Paige Sinclair : PERSON
 Paige Sinclair.-And : PERSON
 Pakistani : NORP
-Palace : FAC
 Palm Pilot : ORG
 Paloma : ORG
 Pam-ing : PERSON
@@ -1765,7 +1711,6 @@ Paparazzi"?Because : PERSON
 Pappy Van Winkle : PERSON
 Paris : GPE
 Partridges : ORG
-Party of Five : ORG
 Pastiches : PERSON
 Pat Buchanan : PERSON
 Patagonia : GPE
@@ -1778,27 +1723,28 @@ Paul Giamatti : PERSON
 Paul McCartney : PERSON
 Paul McCartney's : PERSON
 Paul Rudd : PERSON
-Paul Walker.-[icon : PERSON
 Pauley Perrette : PERSON
 Peabut Nutter : PERSON
 Peanut : PERSON
 Peanutbottle : ORG
 Peanutbutter : PERSON
-Peanutbutter and : ORG
 Peanutbutter at Pastiches : ORG
 Peanutbutter called?The : PERSON
 Peanutbutter chuckles]Yeah : PERSON
-Peanutbutter groans][Pickles : PERSON
 Peanutbutter hugs : ORG
-Peanutbutter whimpering]What's : ORG
-Peanutbutter ♪ -♪ : PERSON
-Peanutbutter ♪-♪ : PERSON
-Peanutbutter] Honey : ORG
+Peanutbutter!- True : PERSON
+Peanutbutter!-Uh : PERSON
+Peanutbutter,-even : PERSON
+Peanutbutter.-Glad : PERSON
+Peanutbutter.-Here : PERSON
+Peanutbutter.-You : PERSON
+Peanutbutter.-Yup : PERSON
+Peanutbutter.-is : PERSON
+Peanutbutter?-Oh : PERSON
+Peanutbutter?-Uh : PERSON
+Peanutbutter?Losing BoJack : PERSON
 Pedro : PERSON
-Pedro Almodóvar's : PERSON
 Peeper Number.- Diane : PERSON
-Pegasus : ORG
-Peggy Sue Got Married : PERSON
 Penguin Publishing : ORG
 Peninsula : LOC
 Penn : ORG
@@ -1807,23 +1753,17 @@ Penny Carson : PERSON
 Pepper : PERSON
 Pepsi Cola : ORG
 Pepsico-Viacom-Halliburton- : ORG
-Perfect Strangers?Not Bronson Pinchot : ORG
 Performance Fleece : ORG
 Periscope : ORG
-Person Magazine : ORG
 Pete : PERSON
 Pete Repeat : PERSON
-Pete Repeat.[hip-hop : PERSON
+Pete Repeat.-Ugh : PERSON
 Peter : PERSON
-Peter Pan : PERSON
-Peter Sagal : PERSON
 Peter Scolari : PERSON
 Peter Sellers : PERSON
 Pfft : PERSON
 Phil : PERSON
-Philadelphia : GPE
 Philbert : PERSON
-Philbert Season : PERSON
 Philbert Stilton : PERSON
 Philbert gets.-You : PERSON
 Philburrito : PERSON
@@ -1831,12 +1771,10 @@ Philip Morris Disney FoxAT&T : ORG
 Phillips : PERSON
 Pho : ORG
 Phoebe : PERSON
-Phoenix : GPE
 Phuzzy : ORG
-Pi Café : FAC
+Pibb.-Could : PERSON
 Picarello : PERSON
 Pickles : PERSON
-Pickles laughing]-Who : PERSON
 Pico : ORG
 Piggish : NORP
 Ping : PERSON
@@ -1850,12 +1788,13 @@ Pizza Hut : ORG
 Planet : LOC
 Plastico : ORG
 Pluto : LOC
-Pocahontas : GPE
 Poconos : ORG
 Pogo : PERSON
+Poindexter.-Poindexter : GPE
 Polish : NORP
 Polly : PERSON
 Pony Roma's : ORG
+Poot forColin Firth forMichael Fassbender : PERSON
 Pop-Tarts : ORG
 Popsicle : ORG
 Porcupine Town : LOC
@@ -1865,16 +1804,12 @@ Pottery Barn : ORG
 Prague : GPE
 Prairie Home Companion : ORG
 Pricewater : PERSON
-Prince Gustavvisiting Los Angeles : FAC
 Princess Carolyn!I'm : PERSON
-Princess Carolyn?Get : FAC
-Princess Carolyn?[ants : PERSON
 Princess Di.-It : LOC
 Princess Katniss.- : PERSON
-Princess Mulan : PERSON
-Principessa Carolina!Sandro : PERSON
-Priscilla Barnes : PERSON
+Priscilla Barnes vehicleright : PERSON
 Priscilla Crustacean : PERSON
+Priusesautomatically : PERSON
 Progressive : ORG
 Protestant : NORP
 Prozac : ORG
@@ -1887,33 +1822,34 @@ Quentin Tarantulino : PERSON
 Quentin Tarantulino's : PERSON
 Quinn : PERSON
 RIP David Bowie : PERSON
-RIP Nelson Mandela : PERSON
 Rabitowitz : PERSON
-Rachel : PERSON
-Rachel Kaplan.[BoJack : PERSON
 Rachel McAdams : PERSON
 Radcliffe : PERSON
+Railroad.-Transcontinental Railroad : ORG
 Ralph : PERSON
 Ralph Stilton : PERSON
+Ramona : PERSON
 Ran : PERSON
 Randy : PERSON
 Raquel : PERSON
+Rasputin.- : PERSON
 Rauschenberg : PERSON
 Raven : PERSON
 Raven-Symoné : ORG
 Ravital : ORG
 Raw Dog : ORG
 Ray-Ray : PERSON
+Really?- : PERSON
 Rebecca : PERSON
 Rebecca Ferguson's : PERSON
 Red Bull : ORG
-Red October?Because : ORG
-Reds : ORG
 Reelect : ORG
 Reggie : PERSON
+Regis : ORG
 Rehab : ORG
+RememberTwo : ORG
 Renata : ORG
-Reservoir Dogs : FAC
+Revolution?"-Wait : NORP
 Rice : PERSON
 Richie Osborne : PERSON
 Rick : PERSON
@@ -1921,6 +1857,7 @@ Rick Riordan?Who's : PERSON
 Rick Riordan?Yeah : PERSON
 Ricki : PERSON
 Rickie : PERSON
+Right?-I : PERSON
 Rihanna : PERSON
 Riley : ORG
 Rin Tin Tin : PERSON
@@ -1935,16 +1872,13 @@ Robert Downey : PERSON
 Robert Downey Jr. : PERSON
 Robert Downey.- Junior : PERSON
 Robert Redford : PERSON
-Robert Siegel : PERSON
 Robin Hood : PERSON
 Robot House : ORG
-Robot House!Check : PERSON
 Rock and Roll : ORG
 Rodney Dangerfield : PERSON
 Roger Dangerfield : PERSON
-Roman : PERSON
+Rolodex : ORG
 Roman Polanski : PERSON
-Romeo : PERSON
 Ronnie : PERSON
 Ronnie Bonito : PERSON
 Ronnie Bonito's : PERSON
@@ -1952,6 +1886,7 @@ Ronnie Milsap : PERSON
 Rooney : PERSON
 Roosevelt : PERSON
 Rosebud : PERSON
+Roxie?-I'm : PERSON
 Roxy : PERSON
 Royal Navy : ORG
 Ruh-roh : PERSON
@@ -1964,25 +1899,29 @@ Russians : NORP
 Rusty : PERSON
 Rutabaga : PERSON
 Ruthie : PERSON
+Ruthie.-I : GPE
 Ryan : PERSON
 Ryan Gosling : PERSON
 Ryan Murphy : PERSON
 Ryan Seacrest Type : PERSON
-SERIES[classical : ORG
+SD.Sad Dog : ORG
+SFCC.They're : ORG
 SWAT : ORG
 Sabrina : PERSON
-Sabrinafrom Horsin' Around : ORG
+Sabrinafrom : GPE
 Sadie : PERSON
-Saigon : GPE
+Saint Laurent : GPE
 Salinger : PERSON
 Sally : PERSON
+Sally!-Oh : ORG
 Sam German-Shepard's : PERSON
 Sam German-Shepherd's : PERSON
 Samantha Floppy-Disk : PERSON
 Samie : PERSON
 San Andreas : LOC
-San Clemente!Twelve tons : FAC
+San Diego Union : GPE
 San Francisco : GPE
+San Francisco.-That's-- : ORG
 Sandra : PERSON
 Sandro : PERSON
 Santa Barbara : GPE
@@ -1991,7 +1930,7 @@ Santa Fe : GPE
 Santa Monica : GPE
 Santiago : PERSON
 Saoirse Ronan's : PERSON
-Saoirse and Rescue.[Turteltaub : ORG
+Saoirse and Rescue : ORG
 Sara Lynn : PERSON
 Sarah : PERSON
 Sarah Helmulfarb : PERSON
@@ -2002,32 +1941,28 @@ Sarah Lynn : PERSON
 Sarah Lynn ac---[dishes : PERSON
 Sarah Lynn story.-I'm : PERSON
 Sarah Lynn!Okay : PERSON
-Sarah Lynn![chuckles : PERSON
+Sarah Lynn!You : PERSON
 Sarah Lynn's : PERSON
 Sarah Lynn.-You : PERSON
 Sarah Lynn.-[siren : PERSON
-Sarah Lynn.[exhales : PERSON
-Sarah Lynn.[yelling : PERSON
 Sarah Lynn?-BoJack : PERSON
 Sarah Lynn?Do : PERSON
 Sarah Lynn?There's : PERSON
-Sarah Lynn?[stammers : PERSON
 Sarah McLachlan's : PERSON
 Sartre : PERSON
 Saskatchewan : GPE
 Sassafras : LOC
 Sassy : ORG
 Sassy Malone : PERSON
+Savage!And Joan : PERSON
 Savion Glover's : PERSON
 Scarlett Johansson's : PERSON
 Schaumburg : GPE
-Schindler : PERSON
 Schlamme : PERSON
 Schlesinger : PERSON
 Scooby : PERSON
 Scotland : GPE
 Scott Wolf : PERSON
-Scottish : NORP
 Seaborn : ORG
 Sean Penn : PERSON
 Sean Penn!"And : PERSON
@@ -2036,52 +1971,43 @@ Sebastian : PERSON
 Sebastian Janikowski : PERSON
 Sebastian St. Clair : PERSON
 Sebastian St. Claire : PERSON
-Sebastian St. Clairis : ORG
-Sebastian owneda : PERSON
 Secre : ORG
-Secretariat : PERSON
+Secretariat : ORG
+Secretariat.-What'd : PERSON
 Senate : ORG
 Sextina : ORG
 Sextina Aquafina : PERSON
 Sextina Aquafinais : PERSON
+Señor Horseman : PERSON
 Señorita Sugarman : PERSON
-Sha Na : PERSON
-Shabbat : PERSON
 Shakespeare : PERSON
 Shalhoub : PERSON
 Shamu : PERSON
 Shania Twain : PERSON
 Shannon : PERSON
 Sharc Jacobs : ORG
-Shark Tank : ORG
 Sharon Lynn : PERSON
 Sharona : PERSON
 Sharpie : ORG
 Shawn : PERSON
 Shawshank : PERSON
 Sheila : PERSON
-Shell : ORG
 Shenanigags : ORG
 Shep : PERSON
 Shep Von Trapp : PERSON
 Sherman Hemsley : PERSON
 Sherman Oaks : GPE
-Shields : PERSON
 Shinola : ORG
 Shirley : PERSON
 Shitshow : PERSON
 Showtime : ORG
+Showtime.-[audience cheering] : PERSON
 Shreked : PERSON
 Shush : GPE
-Shut UpAbout : PERSON
-Siegel : PERSON
-Signor Stilton : PERSON
-Signore Horseman : PERSON
 Silly : PERSON
 Silver Lake : GPE
 Silvia : PERSON
 Simon : PERSON
-Simpson : PERSON
 Sinatra : PERSON
 Sinclair : ORG
 Sissy : PERSON
@@ -2092,8 +2018,10 @@ Sloane : ORG
 Sloane Crosley : ORG
 Sloane Crosley?-Who's : ORG
 Slovakian : NORP
+Smash Mouth : ORG
 SmashFox Studios : ORG
 Smirnoff : ORG
+Smooches!--And : PERSON
 Smoodie : PERSON
 Smoodies : PERSON
 Smurfette : PERSON
@@ -2109,41 +2037,38 @@ Soho : ORG
 Son : PERSON
 Sondheim : PERSON
 Sonny : PERSON
-Sooze : PERSON
-Sopranos : PERSON
 South Africa : GPE
 South Central : LOC
 Southern : NORP
 Southern California : LOC
 Space Needle : ORG
+Spanakopita?The one : ORG
 Spanish : NORP
-Spanish]Uh : NORP
-Spanish][laughter][cheering][laughter]Señor Horseman : PERSON
 Spelman : PERSON
 Spencer : PERSON
+Spider-Man : ORG
 Spider-Man.-[coughs : ORG
-Spider-Man.[Kelsey : ORG
-Sported Jorts : PERSON
 Spronk : GPE
-Spujb : PERSON
 Squirrelinghetti : ORG
 Squirt : ORG
+St. Louis.-[pounding : GPE
+St. Mary's : GPE
 Stacey : PERSON
-Stalin : PERSON
 Stan : PERSON
 Stanford : ORG
 Stanislothski : NORP
 Stank : ORG
 Stanky Hanky : PERSON
-Star Search : ORG
 Starbucks : ORG
+Starbucks.-I : GPE
 Staten Islander : NORP
 Stefan Urquelle : PERSON
 Stefani : PERSON
 Steinem : ORG
+Stella!Corona Light : PERSON
 Stellan Skarsgård.-I am : PERSON
 Stephen King : PERSON
-Stephen Soderbergh : PERSON
+Stephen Soderbergh movieIt's : PERSON
 Steve : PERSON
 Steve Carell : PERSON
 Steve D'Marco : PERSON
@@ -2151,27 +2076,24 @@ Steve D'Mazio : PERSON
 Steve Mannheim : PERSON
 Steve Urkel : PERSON
 Steven Spielberg : PERSON
-Stick : FAC
 Stiller : PERSON
 Stilton : PERSON
-Stilton Acres : FAC
 Stilton Cards : ORG
+Stingray Liotta : PERSON
 Stinky Susan : PERSON
 Stockard Channing : PERSON
 Stone : PERSON
 Storky : ORG
-Streamable Contentfor WhatTimeIsItRightNow.com : PERSON
 Streep : ORG
 Strib : GPE
 Stribs : ORG
 Strindberg : PERSON
 Stuart : PERSON
+Stuart.-Uh : NORP
 Studio : ORG
-Studio 60 : FAC
 Subcolony K-147 : PERSON
 Subway Jared : ORG
 Sudan : GPE
-Suffragette City : LOC
 Sugarman : PERSON
 Sugarman West : ORG
 Sugarman/Creamerman : ORG
@@ -2185,10 +2107,8 @@ Susan Sarandon : PERSON
 Susans : NORP
 Susie : PERSON
 Susie Side : PERSON
-Sutherland : GPE
+Sutherland : PERSON
 Swamp Monsters : ORG
-Swedes : NORP
-Swedish : NORP
 Sweet : PERSON
 Swiss : NORP
 Switch Boulder : ORG
@@ -2198,8 +2118,7 @@ Sylvia Plath : PERSON
 T : PERSON
 TMJ : ORG
 TV Guide : ORG
-TV]-Hello : ORG
-TV][cell : ORG
+TV?You're : LOC
 TVor : PERSON
 Ta-da!Well : PERSON
 Taken : PERSON
@@ -2209,6 +2128,7 @@ Tamera : PERSON
 Tampa : GPE
 Taneisha : ORG
 Tanya : PERSON
+Target : ORG
 Taser : PERSON
 Tasha : PERSON
 Tatum : PERSON
@@ -2219,7 +2139,8 @@ Team Chavez : ORG
 Ted : PERSON
 Teddy : PERSON
 Teddy Buttons : PERSON
-Teddy Roosevelt Planes : PERSON
+Teddy Rooseveltreboot : PERSON
+Teigen.-Carrie : PERSON
 Teller : PERSON
 Temecula : GPE
 Tennessee : GPE
@@ -2227,28 +2148,20 @@ Teresa : PERSON
 Teri Hatcher : PERSON
 Terrence Malick : PERSON
 Terry : PERSON
-Terry Gross : PERSON
 Tesla : ORG
 Texas : GPE
+Texas?I'm : PERSON
 Thai : NORP
 Thailand : GPE
-The Atlantic.[Sebastian : ORG
-The Family Stone : ORG
-The First Wives Club : ORG
-The Graduate!Oh : ORG
-The Harvard Lampoon : ORG
-The Kirk Cameron Show : PERSON
-The Life and Times of Harriet Tubman : ORG
+ThankDr : PERSON
+Thanks.-This : PERSON
+The BoJack Horseman Orphanage : ORG
+The BoJack Horsephanage : PERSON
 The Mighty Mighty Bosstones : ORG
-The New Yorker : ORG
 The Pacific Ocean Film Fest : ORG
 The People of Underground : ORG
-The San Diego Union-Tribune : ORG
-The Thunder Room : FAC
-The Tribune : ORG
-The Whitewhale Way : PERSON
 Thin Mint : ORG
-Thin Mints : ORG
+Thismovie : PERSON
 Thistlethorpe : PERSON
 Thomas Kinkade : PERSON
 Thora Birch : PERSON
@@ -2259,35 +2172,36 @@ Time Warner PepsiCo Haliburton : ORG
 Timedium : ORG
 Tina : PERSON
 Tina Turner : PERSON
+Tina.-[groans : NORP
 Tino : PERSON
-Tiny : PERSON
 Tit Puncher"?Because : PERSON
-Titanic : ORG
 Toad : PERSON
 Toaster Strudel : PERSON
-Tobey : ORG
+Tobey Maguire : PERSON
 Toblerone : NORP
 Todd : PERSON
 Todd Chavez : PERSON
 Todd Chavez.-Let's : PERSON
 Todd Head : PERSON
 Todd Nguyen : PERSON
-Todd Todd : PERSON
-Todd laughing][Todd : PERSON
 Todd yell]-Oh : PERSON
-Todd ♪-♪ : PERSON
+Todd!"Aw : GPE
+Todd!-No : ORG
+Todd!-[Todd : GPE
+Todd!-[coos : PERSON
 Todd-- : GPE
 Todd-foolery!Suck : PERSON
-Todd-o : PERSON
+Todd.-I'm : PERSON
+Todd.-Oh : ORG
+Todd?-[audience : PERSON
+Todd?Princess Carolyn : PERSON
 Toddline : GPE
 Todds : PERSON
 Tom : PERSON
 Tom Cruise's : PERSON
-Tom Hanks : PERSON
 Tom Jumbo-Grumbo : PERSON
 Tom Srant : PERSON
 Tom Srant?I : PERSON
-Tomatoes : ORG
 Tommy : PERSON
 Tommy Schlamme : PERSON
 Tony : PERSON
@@ -2306,16 +2220,15 @@ Tovah : PERSON
 Toyota : ORG
 Toys Galore : ORG
 Tracy : PERSON
+Tracy.-Hey : ORG
 Trader Joe's : ORG
 Tran : PERSON
-Trans : ORG
+Tran, Food Court : ORG
 Trey : PERSON
-Trinity : ORG
 Triple-A : ORG
 Tristan : PERSON
 Tudor : PERSON
 Tufts : ORG
-Tumbleweeds : PERSON
 Tupac Shakur : PERSON
 Turbidians : NORP
 Turtel : ORG
@@ -2327,28 +2240,31 @@ Tweeds : PERSON
 Twinsies : PERSON
 Twister : PERSON
 Twix : PERSON
-Tyler : PERSON
+U.S. : GPE
+U.S.A. : GPE
 UCLA : ORG
-US : GPE
 USA : GPE
 USC : ORG
 Ubisoft : ORG
 Uganda : GPE
+Ugh.- Ah!I'm : ORG
 Uh-huh.-[roars : PERSON
 Un-Jessica-Bielievable : PERSON
+Uncle BoJack : PERSON
 Uncle George : PERSON
 Uncle Hanky : PERSON
 Uncle Hanky?I'm : ORG
-Underground : FAC
 Underground Railroad : ORG
 Uneventful : PERSON
 United States of America : GPE
-Universal CityWalk : FAC
-University Theater Department.[Paige : ORG
+University Theater Department.-Y-yes : ORG
 Univision : ORG
 Unpopped : PERSON
-Updike : PERSON
+Unsubscribe!-[groans : NORP
+UntitledKnockoff"?Me : ORG
 Upper Westside : LOC
+Urf.-I : ORG
+Urine?- : PERSON
 Urkel : PERSON
 VD : PERSON
 VH1 : ORG
@@ -2359,19 +2275,17 @@ VJ Downtown : ORG
 Val Kilmer : PERSON
 Valley : LOC
 Van Cleef : PERSON
-Van Cleef.[groaning][playing : PERSON
 Van Nuys : GPE
 Van Sant : PERSON
+Van?Virgil Van Cleef : PERSON
 Vance : PERSON
 Vance Waggoner : PERSON
-Vance Waggoner![cheering : PERSON
 Vanessa : PERSON
 Vanessa Gecko : PERSON
 Vanessa Geckos : PERSON
 Vanessa Gekko : PERSON
 Vanessa Gekko's : PERSON
 Vanessa Gekko.-[Carolyn] : PERSON
-Vanya : PERSON
 Vassar : ORG
 Verdana : ORG
 Veronica : PERSON
@@ -2381,12 +2295,10 @@ Vietnamese : NORP
 Vietnamese-American : NORP
 Vietnamese]-Sorry : PERSON
 Vietnamese]I'm : ORG
-Vietnamis : ORG
 Vigor : PERSON
 Vim : PERSON
 Vincent : PERSON
 Vincent Adultman : PERSON
-Vine : PERSON
 Virgil : PERSON
 Virgil Van Cleef : PERSON
 Virginia : GPE
@@ -2412,6 +2324,7 @@ Wanda Pierce?Wanda : PERSON
 Washington : GPE
 Wayne : PERSON
 Webster : PERSON
+Wednesday.-Why : ORG
 Wendy : ORG
 Wendy Wiggum : PERSON
 Wes Anderson : PERSON
@@ -2421,46 +2334,42 @@ Westerns : NORP
 Wha-wha-wha-what?The : PERSON
 Whale World : ORG
 Whassup : PERSON
-What Time Is It Right Now : ORG
+What's-Her-Face : PERSON
+What?I'd : PERSON
 Wheaties : ORG
-Whee-oo.[BoJack : PERSON
 Whew : PERSON
 White : PERSON
 Whitewhale Consolidated Interests : ORG
 Whitfield : PERSON
 Whittagut : ORG
+Whoa!-[glass : NORP
+Whoa!We're : PERSON
 Whole Foods : ORG
 Whoo-hoo : PERSON
-Whoo-hoo!These : PERSON
 Whoo-whoo : PERSON
+Why?-What?Nah : ORG
 Wichita : GPE
-Wiggle : PERSON
 Wilbur : PERSON
+Will BoJack Horseman : PERSON
 Will Smith movies?Because : PERSON
 William Shakespeareand : PERSON
-Williams : PERSON
 Willie Wesleyan : PERSON
 Willis Tower : PERSON
-Wilmer Valderrama : PERSON
 Wilshire : GPE
 Winkity : ORG
 Winkler : PERSON
 Winkly : PERSON
-Winona Ryder : PERSON
 Winslow : PERSON
 Winters : PERSON
+Withas : PERSON
 Witherspoon : PERSON
 Woh-oh : PERSON
-Women Who Love Women Who Love Recycling : ORG
 Woo-hoo : PERSON
 Woo-hoo!-I : PERSON
 Woodchuck : PERSON
 Woodchuck Coodchuck-Berkowitz : PERSON
-Woodchuck Coodchuck-Berkowitz.-All : PERSON
-Woodchuck Coodchuck-Berkowitzseemed : PERSON
 Woody Allen : PERSON
-Worth it.[car : PERSON
-Wunderbar : PERSON
+Wow!I'm : PERSON
 Wurlitzer : PERSON
 Xbox : ORG
 Xerox : ORG
@@ -2473,17 +2382,22 @@ Yancy Charlemagne?-'Sup : PERSON
 Yankee : ORG
 Yankees : ORG
 Yas Queen : PERSON
-Yee-haw![brakes squeak]Come : PERSON
+Yeah.- : ORG
+Yeah.-BoJack : GPE
+Yeah?Chuff Hollister : PERSON
+Yee-haw!Come : PERSON
 Yelp : ORG
+Yes!-We : PERSON
 Yes-Todd-Day : PERSON
 Yo : PERSON
-Yo Ho Ho Ho : PERSON
-Yogurtland : LOC
 Yolanda : PERSON
 Yolanda Buenaventura : PERSON
 Yoo-hoo : PERSON
 Yorba : GPE
-Yorba Linda.[yelling]-[moaning : ORG
+You're BoJack : PERSON
+Youa Chicagoan!I'm : PERSON
+Youlooking : PERSON
+Yourarticle : PERSON
 Yuck : PERSON
 Yum : ORG
 Zach : PERSON
@@ -2493,365 +2407,667 @@ Zach Braff?Ah : PERSON
 Zachary : PERSON
 Zachary Quinto : PERSON
 Zack Snyder : PERSON
-Zelda : PERSON
+Zebro.-Come : PERSON
 Zelly : PERSON
 Ziegler : PERSON
 Ziggy : PERSON
 Ziggy Abler : PERSON
 Zimas : PERSON
 Zinfandel : ORG
-Zo-bo : PERSON
-Zodiac : ORG
+Zo-bo?Now : PERSON
 Zoe : PERSON
-Zoes : PERSON
 Zooey : PERSON
 Zsa Zsa Gabor : PERSON
 Zumba : LOC
-[clucking]Becca?Who : PERSON
-[door closes]-Hello : PERSON
-] Ba-ba-ba-ba-ba : PERSON
-a Golden Globe : FAC
+a John Hughes : PERSON
 a Josh Groban : PERSON
 a People's Choice Award : ORG
-a--[snoring]Oh : PERSON
+a-[groans : NORP
+aboard?-One : ORG
+about.-Well : ORG
+accident.-Well : ORG
+accumulation?-It-- : GPE
+aches.-I : PERSON
 actressMargo Martindale : PERSON
-al dente : PERSON
+actually,- : ORG
+actuallyof clowns!Are : PERSON
+advantageous.-Uh : ORG
+again!-Let : ORG
+again.-Trip : ORG
+again.-Well : ORG
+again.-[groans : NORP
+again?I'm : ORG
+agent.-It : PERSON
+agent?-Wait : ORG
+ahead.-Wow : ORG
+ais : ORG
+all.-No : ORG
+all.-You : GPE
+all?-Eh : ORG
+allThank : ORG
+amazing.-Can : NORP
 ambrosia : PERSON
-amigo-- : PERSON
+ampersanding?-My : ORG
 an Arnold Palmer : PERSON
 an Arnold Palmer?I'm : ORG
-and--- : PERSON
-angrily]-Oh : ORG
+an hour?- Great : LOC
 anti-Semitic : NORP
-applause]-Ugh : ORG
-audio]-I : ORG
+antidepressants.-Are : PERSON
+anymore!I'm : ORG
+anything.-It's-- : ORG
+anything.-Yeah?Um : ORG
+anything.-[Sarah Lynn : PERSON
+around.[laughs]You : PERSON
+art.-Well : ORG
+audience.- : ORG
+audition?- : ORG
+away.-It : PERSON
+away?I'll : PERSON
 ayes : ORG
-backwards]-[music : GPE
+baby?Sarah Lynn : PERSON
+back.-I : PERSON
+back.-Thought : PERSON
+back.-You : ORG
+bagels!I'd : PERSON
+bankruptcy.-I'm : ORG
+barrel.-And : PERSON
+becauseis : PERSON
+bed.- : LOC
 beep boop blorp : PERSON
-beep]It : ORG
-beep]Um : GPE
-beeping][steady : PERSON
-beeps]-Hey : ORG
-beeps]-[woman : PERSON
-beeps]Gala : GPE
-beeps]Hey : ORG
-beeps]Okay : ORG
-beeps]Todd : PERSON
-behaviorif : NORP
+beeping]Hello?I : ORG
+beeps]-[phone : ORG
+beers!-Wanda : ORG
+before.-Hey : PERSON
+before.-It : ORG
+begin.-Sissy : ORG
 beif : PERSON
-belongingsas : GPE
+beor : ORG
 bert : PERSON
-birthdaysto : PERSON
-blares]We : ORG
-blaring]Oh : GPE
+better.- : ORG
+better.-I : ORG
+bit?Sarah Lynn : PERSON
+bitches?"Not : ORG
+blob?-You : ORG
 blown"?I : PERSON
-blows]Time : ORG
-blows][both yelling][sighs]Probably : PERSON
+boners.-Gross : GPE
+book?You'd : PERSON
+books.-It : PERSON
+booze?I'm : ORG
+both.-I : GPE
+both?You're : GPE
 boundEyes : GPE
-boysstacked : GPE
 bozo : PERSON
+bozzo.-Spill : ORG
 breakfastbefore : PERSON
+bro.-You : PERSON
+brother.-Would : PERSON
 brrap : ORG
-brrap brrap![dolphin squeaking]Boxer : ORG
+bruises.-Gina : ORG
 bub : PERSON
+buddy!I'm : PERSON
+buddy.-Uh : PERSON
 busboy : PERSON
 bush : PERSON
+business!-I'm : ORG
+business,- : ORG
+busted.- : ORG
 cable"?You : PERSON
-casa : ORG
-ch-ka : PERSON
-chanting]-[waves : NORP
-chatter]Why : PERSON
+calldumb : PERSON
+called.-Well : ORG
+calledwhich : PERSON
+caller?-Guy : PERSON
+campaign.-All : PERSON
+can't!-It : ORG
+canceledI : ORG
+career.-It : PERSON
+careful!-[Todd : PERSON
+castles.-Wow : PERSON
+catastrophe.-You : PERSON
+caterwaiter : PERSON
+catty?- : ORG
+celebrities.-I'm : PERSON
+chase.- : ORG
+cheatedyour : PERSON
 cheering]-[Terry : PERSON
-cheering]Now Woodchuck : PERSON
 cheering]We'll : ORG
 chill : PERSON
-chirping][doorbell : PERSON
-choking]Wow : ORG
-chomps]Well : ORG
-chuckle]At : PERSON
-chuckle]You : PERSON
-chuckles]Okay.[Margo : ORG
-chuckles]Well : ORG
-chuckles]Yeah : ORG
-chuckling]Let : ORG
 cinnabunny : PERSON
 citizens-- : ORG
-clearing]- : ORG
-clicking]Californians : NORP
-clicking]Hey : ORG
-clicks][camera : ORG
-clinks][line : NORP
-closes]I : ORG
+clear.-Well-- : ORG
+clear?-You : PERSON
+clearly.-Let : GPE
+client.-The mill owner : ORG
 coatroom : ORG
 coincidentallyhad : GPE
-confessedto : GPE
+college.-You : PERSON
+colts?-Nay : PERSON
+common.-Well : ORG
+composer?-Bach : ORG
 conga : GPE
 congress : ORG
-continue]You : PERSON
-cooing][gurgling][rumbling][gurgling]-[alarm : PERSON
+control?-[Henry : ORG
+convenient.-Yeah : ORG
 coq : ORG
 coq au vin : ORG
+costume.-Who : ORG
 coughin : PERSON
-coughs]The : ORG
+course.- : PERSON
 croosh : PERSON
 crudités : PERSON
-crying]I : PERSON
+cry,-you'll : NORP
+cut.-No : ORG
 da White House : ORG
+darling.-You : PERSON
+dat.- Cut : ORG
+date.- : ORG
+day.-You : PERSON
+day?-[moans : NORP
 de-Nile : LOC
 deets-- : ORG
 deffo : PERSON
 dem : NORP
+denominator?-[guests : NORP
+depressed.-Let : ORG
+depressed?-Oh : ORG
 dibs : ORG
-ding]Todd : GPE
-dinging]-I : ORG
+did.-You : PERSON
+die!-It : ORG
+difference?New York : GPE
+dinner.-I : NORP
 disapp-- : PERSON
-disconnects][hyperventilating]-Hey : NORP
-distance]-[sobs : PERSON
 dittagoo yittagoo gittaguys : PERSON
-doggin : PERSON
+do?I'm : ORG
+do?Oh!-For Philbert : PERSON
+doing?-What : PERSON
+don't.-I : GPE
+doneWinona Ryder : PERSON
 door]-Mr : PERSON
-door]-You : NORP
-door]-[Princess Carolyn : PERSON
-doorbell ringing]Who : ORG
+down.-The : GPE
+down.-Todd : PERSON
 downNow : ORG
 dreamfrom : PERSON
-drinkingor : GPE
+dude.- Rise : ORG
+dude?-Hmm : PERSON
+duel?-You : PERSON
+duh!-Jesus : PERSON
 dum-dum-dum-dum : PERSON
 dumbshi : GPE
+dumbshit.- Hey : ORG
+dumbshits.-Hey : ORG
+dunk?-[groans : NORP
 dweeb : PERSON
 eBay : ORG
-earbuds]Yeah : ORG
+eat.-Ethiopian : NORP
 electionshould : PERSON
 even--?You : PERSON
-exhales]I : PERSON
+everyone.-Well : ORG
+exploded?-You : PERSON
 falcon : ORG
-fanfare][laser : PERSON
+family.-I : NORP
+far.-Oh : ORG
+fartbag : GPE
+fault.- : NORP
+favor.-I : NORP
+feelings.- Hello : ORG
 feels-- : NORP
-foccacia : GPE
+five?-Hey : PERSON
+floor?-No : ORG
+followers,"I'm : ORG
+forSarah : PERSON
+forThere : PERSON
+forYou : PERSON
+fracking.-It : GPE
+friend.-No : ORG
+friends?- : ORG
+fromOh : ORG
+fun.-What : ORG
+fun?-Really?So : ORG
+funny?- : PERSON
 ga : PERSON
+garden.-And : ORG
 gasp]- : PERSON
 gasp]-Hey : PERSON
 gasping]- Todd : PERSON
-gasping]-Oh : ORG
 gasps]-Jeepers : NORP
 gasps]-What : PERSON
-gasps]Let : ORG
+gaze.- : ORG
+gelato?Princess Carolyn : PERSON
 genie : ORG
+genius!Sarah Lynn : PERSON
 giggles]Bye!Oh : ORG
-giggles][birds : ORG
-ginor-- : PERSON
+giggles]Oh!All : ORG
+girls.-Hey : PERSON
 glug : ORG
+go!While BoJack : PERSON
+go.-Let : ORG
+go.-You : PERSON
 god now!Oh : PERSON
 goji berry : PERSON
 gonna : PERSON
 gooba : PERSON
-groaning]-Oh : ORG
-groaning]American : ORG
-groaning]If : ORG
-groaning][mumbling][gagging]-[voices : PERSON
+good!-I'm : ORG
+good.-I : ORG
+good?- : PERSON
+good?Sarah Lynn : PERSON
+goodbye.-Bagellotine : ORG
+great.-I'm : ORG
+groans]- : ORG
 groans]-[both : PERSON
-groans]Hmm.-[wind : PERSON
-groans][grunting]Oh : PERSON
-grunt]The two : ORG
-grunting]- Kiss : PERSON
-grunting]Hmm.[cell : ORG
+gross.-Wow : PERSON
+group.-God : PERSON
 grunting]Sarah Lynn : PERSON
 grunts]-Weird : ORG
 grunts]-[crowd : PERSON
 grunts]Charley Witherspoon : PERSON
-grunts][groans : NORP
-grunts][keys : ORG
-gulps][gulps : GPE
-gurgles][gurgling][gurgling][gurgling][gurgling][giggling][gurgling][gurgling][gurgling][gasps][crying][gasps][retches : ORG
-gurgling][gurgling][knocking][gurgles][cooing][clanging][gurgling][gurgling][gurgling][instrumental : NORP
-habla : PERSON
-headis : PERSON
+guy!-Dad : ORG
+guy.-Is : PERSON
+guy.-[sympathetic : NORP
+happen.-Except : ORG
+happening?-Right : NORP
+haunted?And Fritz : PERSON
+have.- : NORP
 hearingson : PERSON
 heezy : ORG
+help.-Let : NORP
+help.-What : PERSON
+her.-I : ORG
+her.-No : PERSON
+her.-So : ORG
+her.-You : PERSON
+her?Untitled Princess Carolyn Project : PERSON
+here,-I'm : ORG
+here.-See : PERSON
+here?-Oh : ORG
+here?I'll : PERSON
+here?You've : ORG
 hereis : PERSON
-hiatusso : PERSON
-hisses][sighs][sighs][baby crying][groaning]-[phone rings : PERSON
+herpes.-You : GPE
+herself.-How : PERSON
+hi?"I'm : PERSON
+hiatusso BoJack : PERSON
+hilarious.- : ORG
+him!"Oh : PERSON
+him.-He : PERSON
+him.-Hey : GPE
+him.-Is : ORG
+him.-You : PERSON
 hmph : ORG
 ho : PERSON
 ho ho-- kay : PERSON
 ho-ho : PERSON
-honking]Okay : NORP
-honks]You chummed : PERSON
-horsin : GPE
-howl][howling : PERSON
-howls]-Well : ORG
-humming]And : PERSON
+home.-Nice : ORG
+home.-[groans : NORP
+home?-Um : GPE
+honey.-Did : ORG
+horsin : PERSON
+hospital.-Right : NORP
+hours?Give Hollyhock : ORG
+house.-These : NORP
+house?The house : ORG
+huh?-Uh : PERSON
+huh?-Welcome back : PERSON
+huh?I'll : NORP
+humidity.-You'll : PERSON
+husband.- : PERSON
 hyuk : PERSON
+hyuk!-Please : GPE
 iPad : ORG
 iPhone : ORG
+ice?I'll : GPE
+idea.-Right : NORP
+idea.-You : NORP
+ideas.-It : PERSON
+ifis : PERSON
+illuminating.-Thank : ORG
+imagined.-It : GPE
+improv.-I : GPE
+inI am : PERSON
+inYou : PERSON
+inbut : ORG
+industry.-Is : ORG
+information.-Why : GPE
 inhales]-[all : ORG
 insWayne : ORG
+instarring BoJack Horseman : PERSON
+instincts.-You : PERSON
+intrigued.-You : PERSON
+invalid.-Word : PERSON
 invite-- : NORP
 inviteVirgil Van Cleef : PERSON
+invited.-I : ORG
+inwhere : ORG
+is-[grunts]Gina : GPE
+is.-I : NORP
+is.-Todd : PERSON
+isn't!Hmm : NORP
+it!-[glass : PERSON
+it!Nobody's : ORG
 it"?The : ORG
+it.-'Cause : PERSON
+it.-And : PERSON
+it.-Diane : ORG
+it?-Already : PERSON
+it?-You : PERSON
+itGet : NORP
+itunder here?What?Are : ORG
 jack : PERSON
-jangling][elevator dings]-Wow : ORG
 jerb kazzaz for you?"-And : ORG
 jittagust tittagell hittagim whittagut : ORG
-jive : PERSON
 ka-ching ka-ching : PERSON
 kablamsky : PERSON
 kableezy : GPE
 kapow : PERSON
+kend.- : ORG
 khaki : PERSON
-kisses]Long : PERSON
-klieg light![man : ORG
+kid.isn't : ORG
+kidney.-Todd : ORG
+kisses]-Hey : PERSON
+klieg light!Sorry!-Uh : ORG
+know,-I : ORG
+know.-Did : PERSON
+know.-I : PERSON
+know.-Nobody : PERSON
+know.-Really : PERSON
+know?-Oh : ORG
+know?-Yep : ORG
+know?I'm : PERSON
+know?I've : PERSON
 knucklehead : PERSON
-konichiwa : GPE
 kooky caper : PERSON
-lapping]- : NORP
+ladies?Ha-cha-cha : PERSON
+landline.-[Fritz : PERSON
+late.- BoJack : LOC
 laughing]-Hey : PERSON
-laughing]All : ORG
 laughing]Whoa!Oh : PERSON
-laughs]Come : ORG
-laughs]Oh : PERSON
-laughs]Okay : NORP
-laughs]We : ORG
-laughs]You : PERSON
 laughter]- Popping : PERSON
-laughter]I : NORP
-licks]-Mister : GPE
+least!I'm : ORG
+leave.-You : PERSON
+level.-I'm : ORG
+life,-I : GPE
+life.-It : GPE
+life?- : PERSON
+life?-Well : PERSON
 lifethan : ORG
+like,"No : PERSON
+like,"Oh : PERSON
+like?Stretch limos : PERSON
 lima : PERSON
 limey bastard?Then : PERSON
-lobster clawsin : PERSON
-man--[doorbell : ORG
+line,"Jamaican Bobsledders?"That's : ORG
+list?Someone Marcy : PERSON
+listen.-It : PERSON
+location?Ugh!-[door opens]Ooh : PERSON
+look!No!-[Mindy : PERSON
+ma'am.-We'll : PERSON
+make?-Really : ORG
+makemore : PERSON
+makingRight : PERSON
+mama.-You : PERSON
+man?"Listen : GPE
+man?-After : PERSON
+marbles:"Which : PERSON
+married.-And : PERSON
 marzipan : GPE
-melodically]No : GPE
+masculine.-Dad : ORG
+matter?-Nope : LOC
+mature.- : PERSON
+maturity?-Boy : PERSON
+me!-I'm : ORG
+me!-Well : ORG
+me,"You : PERSON
+me,-dumb slob BoJack Horseman : PERSON
+me,-so : PERSON
+me,-then Philbert : PERSON
+me,-who : PERSON
+me.-Because : PERSON
+me.-Do : PERSON
+me.-He : PERSON
+me.-Well : ORG
+me.-[Todd : ORG
+me.-[groans : NORP
+me?"I : PERSON
+me?-Hey : ORG
+me?-Whoa : PERSON
+me?Okay.-Um : ORG
+mean?-Yes : PERSON
+means?You're : ORG
+meetings.-Maybe : PERSON
+mentalof : ORG
 meowing]-Do : ORG
 meowing]-Hello : ORG
-meowing]Oh : PERSON
-meowing]You : PERSON
+meowing]Hello?Princess Carolyn : PERSON
 merit" : PERSON
-mi casa es su casa.[both : PERSON
 miam : GPE
+midnight.-You : GPE
 mike : PERSON
+minute?-Yeah : PERSON
 minuteI : ORG
-mm : PERSON
-mmm-ch![clattering]Oh : PERSON
 moaning]- : PERSON
-moaning]-Ah : ORG
-moaning]I : PERSON
-moaning]Oh : ORG
-mon frère ♪♪ : PERSON
+moaning]-[Guy : PERSON
+modest.-"Herb : ORG
 mope : PERSON
-music]- Smoodie : LOC
-music]This-- : ORG
-music]Whoo!You : PERSON
+more.- Thar : PERSON
+movie?-Hmm : ORG
+movieMeryl : PERSON
+much.-Well : ORG
+mustards,- : PERSON
+my.-It : PERSON
+myremake:"Zach Braff's : PERSON
+myself.-Uh : PERSON
 n-- no?Nobody : PERSON
+naked,- : PERSON
+name?-Brad Pitt : PERSON
 nebbishy : GPE
 necky : GPE
-nervously]So the Oval Office : ORG
-non-LA : GPE
+need.-Can't : PERSON
+net.-I : NORP
+news.-Could : PERSON
+news?- : ORG
+next?I'm sorry!I'm : PERSON
+night.-I : GPE
+night.-You : PERSON
+no.-It : PERSON
+no.-Then : PERSON
+nobody?- : PERSON
 noogie : PERSON
 nooners : ORG
-notes][heavy : NORP
+not---[doorbell : ORG
+now.-And : PERSON
+now.-I'll : PERSON
+now.-Oh : ORG
+now.-Uh : PERSON
+now.-Yeah : GPE
+now.-You : PERSON
+now.-[groans : NORP
 nowYou : ORG
-nowbecause : PERSON
-oneErnest Contralto : ORG
+nurse.-And : PERSON
+ocean!I'm : ORG
+of,"Ya : PERSON
+ofto : PERSON
+ofwas : PERSON
+oh!-It : ORG
+okay?"These : NORP
+on?-I'm : ORG
+on?Marvin Gaye : PERSON
+onYeah : PERSON
+ones?-Can : NORP
+onlet : ORG
+out?-Well : ORG
+over?-Who : PERSON
 owneris : PERSON
-pants]-Hmm : GPE
-patsy : PERSON
-patty whack : PERSON
+pack!I'm : ORG
+pancakes.-Now : NORP
+part.-Hmm : GPE
+partner?Ugh!-Cut : PERSON
+party.-I : PERSON
+party.-These : NORP
+passenger.-Todd : PERSON
+peaceful.-Okay : ORG
+peninsula?We're : ORG
+people.-Yes : PERSON
+people?-These : NORP
+perfect.-Any additional thing : ORG
+perfect.-Now : ORG
+person.-I : GPE
 pfft : GPE
-phone]Why : PERSON
 physics-- : PERSON
-playing]Californians : NORP
-playing][cell : ORG
-playing][dripping]You : GPE
-playing][record : GPE
+pickle!"And : NORP
+place?--Hi : NORP
 plays]-Of Whitewhale Industries : ORG
+please.-Peanutbutter : PERSON
+poached.- : ORG
+podcast.-Todd : PERSON
+point?I'm : ORG
+police.-If : NORP
+pool?-[boy : GPE
 poppycock : ORG
-pops]He's : ORG
-por favor?Actually : ORG
+positions.-Where : ORG
+poster.-I : GPE
+prayers.-Thoughts : NORP
+prince.-His : ORG
+production.-Sadie : ORG
+profile.-I : GPE
+publicistgood : GPE
 punnery : ORG
-queefburglar69 : ORG
-radio][phone ringing]What?[Princess Carolyn : PERSON
+quack!-Quackers : PERSON
+question:"Hollywoo : ORG
+question?-The : PERSON
+questions?-Yeah : PERSON
+quiet.-No : ORG
+quieter?- : NORP
+reading.-Does : ORG
+real.-You : PERSON
+refrigeration.-Pretty nifty : PERSON
+rehab?Yeah, Jameson : ORG
+reporters.-It : PERSON
 rhino gyno : PERSON
-rhythm--[cell : ORG
-rings]- : GPE
-ringtone]"Zero : PERSON
+right?-Good : PERSON
+right?-Hmm : NORP
+right?-Well : ORG
+right?-You : PERSON
+rings]Police!-[Todd gulps : PERSON
 roadto : GPE
-rotelli : PERSON
+roles?-You : ORG
+room?My stepdad's : PERSON
+sabotage.-Why : LOC
+sacrifice.-Because : NORP
+safekeeping.-I : GPE
+said.- : PERSON
+said:"You : PERSON
 samie : GPE
+sandwich?What?I : PERSON
+saw.-You : PERSON
+say,"There : ORG
+say,"Well : ORG
+say.-Stefani : PERSON
 sayeth Caesar! : PERSON
-sayit : PERSON
+saying!Sarah Lynn : PERSON
+says:"These : NORP
+says?- : ORG
+says?-"Don't : PERSON
+scene?"Well : ORG
 schedj : ORG
+schedule.-You : PERSON
 schlimazel : GPE
 schmooze : PERSON
-screaming]-Pretty : PERSON
-screaming]Okay : NORP
-screech]-She : ORG
-screech]Well : ORG
-screeching][cars : ORG
 scurviest : ORG
 sec : ORG
+second!-Todd : GPE
+second.-Think : ORG
+seekfrom : PERSON
 sera quesadilla : PERSON
+serious.-I : ORG
+sex.- : ORG
+sex.-Eh : ORG
+sex.-Pass the Bugles : PERSON
+sex?-Yeah : PERSON
 shanghai : GPE
-sharply][Pickles : NORP
+shipwreck,-[musicians : NORP
+shit?-You : PERSON
+shit?You're : PERSON
+shooting.-Sha-sha-shh! : PERSON
+shouldat : ORG
+show.-You : PERSON
+show?-[Corduroy : PERSON
+showLet : ORG
+shucks![voice croaks]I'm : ORG
 shudders]- : ORG
+sick?-These : NORP
+side.-You : PERSON
 sighs]- : ORG
 sighs]-Hey : GPE
-sighs]Beatrice : GPE
-sighs]BoJack?-Yeah : NORP
-sighs]He : ORG
-sighs]Sharona?[Sharona : PERSON
-sighs][Herb : ORG
-sighs][ringtone : ORG
-sighs][sighs][spits : ORG
+sighs]-I'm : PERSON
+skeezer!-Dad : ORG
 ski academy : ORG
 ski instructor?Peanutbutter : PERSON
-sliding closed]Okay : PERSON
-slurps]-Wanda : ORG
-slurps][gasps][groans][gasps : GPE
+skis?-You : PERSON
+slag?Ahhh!Ahhh : PERSON
 sniffs]-Oh : ORG
-sniffs]Nope : LOC
-snorts]I : PERSON
-sobs]-[ringtone : ORG
+society.-I : LOC
 societyof : ORG
-softly][sighs]-I : ORG
+soft?"I : GPE
+someone.- : NORP
+something.-That : ORG
+something?-Are : ORG
+something?-Bye : GPE
+soon.-Oh : ORG
+sorry!I'm : PERSON
+sound]BoJack?Hey : PERSON
 soviet : NORP
-speakers]-Do : PERSON
-speakers]Wanda : ORG
-speakers][both grunting]Hooray!Mr : PERSON
-speakers][child : ORG
+speakers]J.D. Salinger Presents : ORG
+special?-[door bangs : PERSON
+spot.-Let : ORG
+spring.-It : ORG
 spritz me.- : GPE
-spronk me.[sputters]Pardon : PERSON
+spronk : GPE
 squattin : ORG
-squeaks][glass : ORG
+stable.-Ugh : ORG
 stallin : ORG
+star?- : ORG
+star?-I'm : NORP
 stickyvicki : PERSON
 stittagill frittagail.-Guys-- : PERSON
-strikes][groans : NORP
+stomach.-Want : ORG
+stop.-Hey : ORG
+stop.-You : PERSON
+story.-I'm : PERSON
+student.-I : NORP
+stuff?- : ORG
+stumps.-Turns : PERSON
+sub.-Six inches : PERSON
+suck!-Yeah : NORP
+sucked.- : ORG
 suffering-- : GPE
 sun : PERSON
+swimsuit?- : ORG
+talk.-It : PERSON
+technique.-Any : NORP
 thar : PERSON
+that.-I : GPE
+that.-It : PERSON
+that.-Uh : PERSON
+that.-You : PERSON
+that?"-Yes : PERSON
+that?-Whoa : PERSON
+that?-[growling]Oh : PERSON
+that?I've : ORG
+thatproducer : PERSON
 the "a" : ORG
 the "psst, psst, psst. : ORG
-the "ruh-roh : ORG
 the AV Club's : ORG
-the Above Ground : FAC
 the American Stanislavski Theatre : ORG
-the Apollo Theater : FAC
 the Articles of Incorporation : ORG
-the Baby-Sitter's Club?-Nope : ORG
 the Bee Gees : ORG
-the Bermuda Triangle : FAC
 the Better Business Bureau : ORG
 the Big Apple : ORG
 the Big Mac : ORG
 the Boston Tea Party : ORG
 the Brunch Batch : ORG
 the Brunch Bunch : ORG
+the Brussels sprouts?Ain : ORG
 the Business Branch of the Board of Better : ORG
 the California Pizza Kitchen : ORG
 the Central Valley : LOC
-the Chateau Marmoset.-You : FAC
 the Chicago fire?Or Fire : ORG
 the Coen Brothers : ORG
 the Craterman kingdom!Well : ORG
@@ -2859,58 +3075,37 @@ the Danville Target : ORG
 the Discount Fine Art Gallery : ORG
 the Elixir of Failed Remembrance : ORG
 the Empire State Building : GPE
-the Eva Braun : PERSON
 the Every Animal Girl Company : ORG
 the Fijis for the Fugees : ORG
 the Glee Club?Where's : ORG
-the Golden Gate Bridge : FAC
 the Golden Globe for Best Comedy : ORG
-the Golden Globes : FAC
-the Golden Snowflake : FAC
 the Hollywoo Foreign Press : ORG
-the Hollywoo sign.[all : ORG
-the Honolulu Stilton : FAC
 the Horny Unicorn : ORG
+the Houston Rockets : ORG
 the International Space Station.-Oh : ORG
 the Isthmus of Assholes : LOC
 the Junior League : ORG
 the Kids' Choice Awards : ORG
-the L.A. Gazette : ORG
-the L.A. Gazette.-I : FAC
 the L.A. River : LOC
-the La Jolla Playhouse : FAC
 the Labrador Peninsula : LOC
 the Learning Annex?While : ORG
 the Leonard Maltin Awards : ORG
 the Los Angeles Crest : ORG
 the Maude Squad : ORG
-the Mediating Maven : FAC
-the Navy SEAL.[grunting]Wait : ORG
-the New York Times : ORG
+the National Geographic Swimsuit Edition : ORG
 the Nixon Library : ORG
-the Olive Garden : FAC
 the Oscar!- Oh : PERSON
-the Pacific Ocean Film Festival?Critics : FAC
-the Panama Canal : FAC
-the Paul Blart : PERSON
-the Philbert front?That's : PERSON
+the Oval Office : ORG
 the Post Office : ORG
-the Red Vines.[gasps : ORG
+the Red Vines : ORG
 the Russian mafia?Well : ORG
 the San Diego Theatre Critics Circle : ORG
-the Short-Skirted Sorceress.-Uh : ORG
 the Snatch Batch?He's : ORG
 the South Pole : LOC
-the Splash Zone : LOC
-the St. Bernard Medical Center : ORG
 the State Department?Well : ORG
 the Sugarman Sugarcube Company : ORG
-the Sunset Strip : LOC
-the Super Maxhas : FAC
 the Supreme Court : ORG
 the Third Reich : ORG
-the Thrifty Lodge : FAC
-the Thunder Room : FAC
 the Tootsie Roll : ORG
 the Twin Cities : LOC
 the Utah Jazz : ORG
@@ -2919,40 +3114,140 @@ the Vigor roster.-A Vigor : PERSON
 the Walk of Fame : ORG
 the Walt Disney Company : ORG
 the Washing Machine : ORG
-the Whitewhale Way!Well : ORG
 the Wild West : LOC
 the World Trade Center : ORG
 the Yum Yum Donuts : ORG
-the cyanide![panting]And hup : PERSON
+the baththe party : ORG
+the budget?-[panel beeping : ORG
 the food court : ORG
 the frat party : ORG
 the freaking jackpot!Hang : ORG
 the wrap party : ORG
-them--[both : PERSON
+the--?Those : PERSON
+thecome : ORG
+them.-Wow : PERSON
+them.-You : PERSON
+themselves?-Jesus : PERSON
+then?- : PERSON
+then?-You : PERSON
+there.- Mmm-- - : PERSON
+there.-Yeah : PERSON
+there?- : ORG
+there?-It : ORG
+there?[record scratch]Okay : PERSON
+thereboot?-Uh : PERSON
+therereasons : PERSON
+they?- : NORP
+thing.- : PERSON
+things?-Well : ORG
 thingsso : GPE
-this Bo-Person Horse : ORG
+think!I'm Maude's : PERSON
+think.- : PERSON
 this Matt Minnowman : PERSON
 this Thrifty Lodge : ORG
-this fakakte mishegoss : PERSON
 this strip club set?Because : ORG
 this yet?"The Academy : ORG
+this.- : PERSON
+this.-Todd : GPE
+this.-Well : ORG
+this?-[BoJack]-Wha : PERSON
+this?I'm : NORP
+thittagink?Hittagollittagy-hittagock's : ORG
+thought,"You : PERSON
+thought.-The : ORG
+threwan amazing party : ORG
 throughDavid Boreanaz's : PERSON
-tinkling]Oh : ORG
+time,-so : PERSON
+time?Always a Clydesdale : ORG
+time?I'll : PERSON
 tix : ORG
-tom-tom : PERSON
+today.-What : PERSON
+together.-I : GPE
+together.-Todd : ORG
+tonight.-Part : ORG
+too.-[camera : GPE
+too?-Is : ORG
 topof : GPE
-trills]Get : ORG
+train?I'm : ORG
+trip.-Right : PERSON
+trouble.-You : PERSON
+truck?You're : NORP
+twist?-No : ORG
 twosies : ORG
 un : ORG
 un-Jessica-Bielievable : PERSON
+underground?I'm : ORG
+up!"Nice!-I : NORP
+up!I'm : ORG
+up.-Joey Pogo : PERSON
+up?-All : PERSON
+up?I'm : GPE
+up?Yeah!It : ORG
 us out.-[gasps : ORG
+us.-I'm : NORP
+us?-What : PERSON
+us?I'm : ORG
+vodka!-Well : ORG
+waffles!-[doorbell : ORG
 wailing]The Big Apple : ORG
+want!Yeah!-[groans : NORP
+want.-No : ORG
+was.-So : ORG
+was.-Taxi : ORG
+waste!-[Corbin]-Thank : GPE
+watchingbut : PERSON
+water.-[Diana : GPE
+waters?-No : ORG
+way.-It : LOC
+way.-Oh : ORG
+way.-Well : ORG
+way.-You : PERSON
+ways.-Well : ORG
 wazoo : GPE
-whimpering]Oh : ORG
-whinnies]-I : GPE
+wedding.- : GPE
+week.- : ORG
+weekend.- : ORG
+weird.- : ORG
+what?-Are : PERSON
+what?-What : GPE
+what?And lo : ORG
+what?Shh, shh : PERSON
+what?W-w-wait : ORG
+whatwant : PERSON
+wheels?-He : ORG
+who'da thunk : GPE
+winner.-Well : ORG
 with"?-Come : ORG
+withso : PERSON
+work?I'm : ORG
+world.-I'll : GPE
+world?-It : LOC
 wrinklage : ORG
-xin : GPE
-you--[coughs]Ooh : NORP
+yeah!I'll : GPE
+years!I'll : GPE
+years.-Well : ORG
+years?You'll : GPE
+yelling.-I'm : ORG
+yet.-Oh : ORG
+yo : PERSON
+yogurt.-[groans : ORG
+you!-Bye : ORG
+you!-Sh-should : PERSON
+you're,-well : ORG
+you,-I : ORG
+you.-Chicago : GPE
+you.-In : ORG
+you.-It : ORG
+you.-No : PERSON
+you.-[Todd : PERSON
+you?-It : GPE
+you?-The : GPE
+you?Beatrice Sugarman : ORG
+you?I'll : GPE
+youHenrietta : ORG
 youall : ORG
-♪ Ba-dum : PERSON
+young.- Wh-What : PERSON
+youravatar : PERSON
+yourself.-Hmm : NORP
+yourself.-I'll : PERSON
+yousad : ORG
