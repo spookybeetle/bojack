@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>The <name type="PERSON">Amelia Earhart</name> Story - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>The <name type="PERSON">Amelia Earhart</name> Story - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -12,7 +12,7 @@
 
 
 <line>
-A <name type="ORG">NETFLIX</name> ORIGINAL SERIES
+A NETFLIX ORIGINAL SERIES
 
 </line>
 
@@ -40,7 +40,7 @@ A <name type="ORG">NETFLIX</name> ORIGINAL SERIES
 
 
 <line>
-<name type="PERSON">-[woman</name> on TV] <ital>But this is my home.</ital>
+-[woman on TV] <ital>But this is my home.</ital>
 
 <ital>-</ital>[rooster crows]
 
@@ -104,7 +104,7 @@ or I'll pop the both of you.
 <line>
 <ital>So, put on those flygirl goggles,</ital>
 
-<ital>get in your biplane and fly to the <name type="PERSON">s<name type="ORG">un</name></name>.</ital>
+<ital>get in your biplane and fly to the sun.</ital>
 
 </line>
 
@@ -112,7 +112,7 @@ or I'll pop the both of you.
 <line>
 <nonVerbComm>[reciting]</nonVerbComm> But a woman's never flown
 
-to the <name type="PERSON">s<name type="ORG">un</name></name> before.
+to the sun before.
 
 </line>
 
@@ -126,7 +126,7 @@ to the <name type="PERSON">s<name type="ORG">un</name></name> before.
 
 
 <line>
-<ital>to tame those savage <name type="PERSON">s<name type="ORG">un</name></name> beasts</ital>
+<ital>to tame those savage sun beasts</ital>
 
 <ital>and become their queen?</ital>
 
@@ -190,7 +190,7 @@ five pages of dialogue in one day?
 
 
 <line>
--What am I, <name type="PERSON">Yo</name>ung Sheldon?
+-What am I, Young Sheldon?
 
 -<name type="PERSON">BoJack</name>--
 
@@ -208,7 +208,7 @@ TV is a visual medium.
 <line>
 <ital>-Anyway, where the hell are you?</ital>
 
--Eden, North Carolina.
+-Carolina.
 
 </line>
 
@@ -270,7 +270,7 @@ Everybody loves him.
 <line>
 I'm the guy everybody's supposed to love.
 
-I'm <name type="PERSON">Phil</name><name type="PERSON">bert</name>.
+I'm Philbert.
 
 </line>
 
@@ -298,7 +298,7 @@ They didn't even read the sign.
 
 
 <line>
-<name type="PERSON">BoJack</name>, I'm <name type="PERSON">gonna</name> be back tomorrow.
+<name type="PERSON">BoJack</name>, I'm gonna be back tomorrow.
 
 </line>
 
@@ -352,7 +352,7 @@ That's the Princess Carolyn difference.
 
 
 <line>
-Ooh! I've never met a person w<name type="PERSON">ho</name> had
+Ooh! I've never met a person who had
 
 a difference named after them before.
 
@@ -496,7 +496,7 @@ but this show makes no sense.
 <line>
 In the rooftop motorcycle scene,
 
-<name type="PERSON">Fritz</name> and <name type="PERSON">Phil</name><name type="PERSON">bert</name> keep saying,
+Philbert keep saying,
 
 </line>
 
@@ -548,7 +548,7 @@ Everything I pitch, he shoots down.
 <line>
 That's just because it's coming
 
-from someone w<name type="PERSON">ho</name> isn't him.
+from someone who isn't him.
 
 </line>
 
@@ -578,7 +578,7 @@ That's a great idea, <name type="PERSON">Diane</name>.
 
 
 <line>
-Oh, thanks! I'm <name type="PERSON">gonna</name> do it.
+Oh, thanks! I'm gonna do it.
 
 </line>
 
@@ -608,7 +608,7 @@ Oh.
 <line>
 I couldn't believe I found someone
 
-w<name type="PERSON">ho</name> grew up in Eden.
+who grew up in <name type="LOC">Eden</name>.
 
 </line>
 
@@ -654,7 +654,7 @@ w<name type="PERSON">ho</name> grew up in Eden.
 <line>
 I bet you got fancy restaurants
 
-in <name type="GPE">LA</name>, huh?
+in LA, huh?
 
 </line>
 
@@ -706,7 +706,7 @@ Yeah, yeah, well, I'm not like that.
 
 
 <line>
-I live in Los Angeles now,
+I live in <name type="GPE">Los</name> Angeles now,
 
 but you know what they say,
 
@@ -752,7 +752,7 @@ Ooh, have I missed this!
 
 
 <line>
-I'm <name type="PERSON">gonna</name> eat the shit
+I'm gonna eat the shit
 
 out of these hush puppies,
 
@@ -764,7 +764,7 @@ meaning a sausage patty,
 
 not that bullshit link situation
 
-they call "sausage" in <name type="GPE">LA</name>.
+they call "sausage" in LA.
 
 </line>
 
@@ -856,7 +856,7 @@ do I have to do all the dialogue,
 
 as scripted,
 
-or can I have a little f<name type="ORG">un</name> with it?
+or can I have a little fun with it?
 
 </line>
 
@@ -972,7 +972,7 @@ and then bedazzled.
 
 
 <line>
-I'm not saying I'm the Danville Target
+I'm not saying I'm the Danville <name type="ORG">Target</name>
 
 or nothing,
 
@@ -1078,7 +1078,7 @@ If I leave, my mom's got nobody.
 <line>
 Besides, if I go,
 
-w<name type="PERSON">ho</name>'s going to keep you out of trouble?
+who's going to keep you out of trouble?
 
 </line>
 
@@ -1092,7 +1092,7 @@ Did you know I'm on the football team?
 <line>
 <nonVerbComm>[chuckles]</nonVerbComm> I do know it.
 
-Are you ever <name type="PERSON">gonna</name> play?
+Are you ever gonna play?
 
 </line>
 
@@ -1170,7 +1170,7 @@ You need to go after what <ital>you </ital>want.
 
 
 <line>
-You gotta fly into that <name type="PERSON">s<name type="ORG">un</name></name>,
+You gotta fly into that sun,
 
 like <name type="PERSON">Amelia Earhart</name> did.
 
@@ -1186,7 +1186,7 @@ like <name type="PERSON">Amelia Earhart</name> did.
 
 
 <line>
-I never knew anybody w<name type="PERSON">ho</name> liked old movies
+I never knew anybody who liked old movies
 
 as much as you do.
 
@@ -1384,7 +1384,7 @@ they're looking for.
 
 
 <line>
-Goodbye, Todd.
+Goodbye, <name type="PERSON">Todd</name>.
 
 </line>
 
@@ -1400,7 +1400,7 @@ Goodbye, Todd.
 <line>
 Do you think <name type="LOC">Lake</name> Erie ever gets jealous
 
-of <name type="LOC">Lake</name> Superior?
+of Superior?
 
 </line>
 
@@ -1412,7 +1412,7 @@ Or is it, like, proud to be the eerie one?
 
 
 <line>
-We've been through this, Todd.
+We've been through this, <name type="PERSON">Todd</name>.
 
 Lakes don't have emotions.
 
@@ -1688,7 +1688,7 @@ It's called first-string quarterback!
 <line>
 <nonVerbComm>[man on TV]</nonVerbComm> <ital>By Jove, she's doing it!</ital>
 
-<ital>She's flying to the <name type="PERSON">s<name type="ORG">un</name></name>!</ital>
+<ital>She's flying to the sun!</ital>
 
 </line>
 
@@ -1794,7 +1794,7 @@ of the country from your mother?
 
 
 <line>
--You're <name type="PERSON">gonna</name> abandon me?
+-You're gonna abandon me?
 
 -Mom, it's not about you.
 
@@ -1802,9 +1802,9 @@ of the country from your mother?
 
 
 <line>
-UC<name type="GPE">LA</name>?
+UCLA?
 
-No, you will not see <name type="GPE">LA</name>.
+No, you will not see LA.
 
 </line>
 
@@ -1812,7 +1812,7 @@ No, you will not see <name type="GPE">LA</name>.
 <line>
 Even if you get into one of these places,
 
-how're you <name type="PERSON">gonna</name> pay for it?
+how're you gonna pay for it?
 
 </line>
 
@@ -1832,7 +1832,7 @@ I was in the presence of someone,
 
 
 <line>
--w<name type="PERSON">ho</name> was <name type="PERSON">gonna</name> get a paid internship.
+-who was gonna get a paid internship.
 
 -Mom, you need to go to bed.
 
@@ -1874,7 +1874,7 @@ Where's my bed?
 <line>
 -Hello?
 
--<ital>I thought you were <name type="PERSON">gonna</name> be here today.</ital>
+-<ital>I thought you were gonna be here today.</ital>
 
 </line>
 
@@ -2098,7 +2098,7 @@ Hey, you can't get that jacket.
 <line>
 -Why not?
 
--I was <name type="PERSON">gonna</name> get it.
+-I was gonna get it.
 
 </line>
 
@@ -2122,7 +2122,7 @@ and flee?
 <line>
 I got it now.
 
-Maybe I'm <name type="PERSON">gonna</name> buy it.
+Maybe I'm gonna buy it.
 
 </line>
 
@@ -2216,7 +2216,7 @@ Girl, you do not wanna be pregnant.
 
 
 <line>
-Ugh! What am I <name type="PERSON">gonna</name> do?
+Ugh! What am I gonna do?
 
 </line>
 
@@ -2290,7 +2290,7 @@ You know the Wallaces are good people.
 
 
 <line>
--They're <name type="PERSON">gonna</name> do right by you.
+-They're gonna do right by you.
 
 -[sobbing]
 
@@ -2304,7 +2304,7 @@ No, don't cry. Look.
 
 
 <line>
-They're <name type="PERSON">gonna</name> have you move
+They're gonna have you move
 
 into the big house,
 
@@ -2370,7 +2370,7 @@ I want you to remember that you've come
 
 from a long line of women,
 
-w<name type="PERSON">ho</name>'ve taken our licks,
+who've taken our licks,
 
 but we always land on our feet.
 
@@ -2400,7 +2400,7 @@ Now listen to me. This is our shot.
 
 
 <line>
-<nonVerbComm>[<name type="PERSON">Sadie</name>]</nonVerbComm> <ital>Princess Carolyn?</ital>
+<nonVerbComm>[Carolyn?</ital>
 
 </line>
 
@@ -2424,13 +2424,13 @@ Now listen to me. This is our shot.
 <line>
 -I love a church potluck!
 
--Oh! What church do you go to in <name type="GPE">LA</name>?
+-Oh! What church do you go to in LA?
 
 </line>
 
 
 <line>
-Oh, uh, St. Mary's Good Shepherd
+Oh, uh, St. Shepherd
 
 of the <name type="PERSON">Lady</name>... of the Passion...
 
@@ -2508,7 +2508,7 @@ during hurricane season.
 
 
 <line>
-That's my sister Tanya.
+That's my sister <name type="PERSON">Tanya</name>.
 
 </line>
 
@@ -2520,7 +2520,7 @@ Thinks she's so smart.
 
 
 <line>
-If you're so smart, Tanya,
+If you're so smart, <name type="PERSON">Tanya</name>,
 
 why do you live
 
@@ -2554,7 +2554,7 @@ I've slept with all of them.
 
 
 <line>
--I'm from North Carolina, not Tennessee.
+-I'm from North Carolina, not <name type="GPE">Tennessee</name>.
 
 -[laughing]
 
@@ -2562,9 +2562,9 @@ I've slept with all of them.
 
 
 <line>
-Hope you like <name type="PERSON">ambrosia</name>, since everyone
+Hope you like ambrosia, since everyone
 
-brought the exact same dish; <name type="PERSON">ambrosia</name>.
+brought the exact same dish; ambrosia.
 
 </line>
 
@@ -2582,7 +2582,7 @@ Look at all those stars!
 
 
 <line>
--You don't have stars in <name type="GPE">LA</name>?
+-You don't have stars in LA?
 
 -Not like these.
 
@@ -2676,17 +2676,17 @@ after my mother.
 <line>
 Of course, if it's a boy, he'll be
 
-the third <name type="PERSON">Cooper</name> <name type="PERSON">T</name>homas Rogers <name type="PERSON">Wallace</name>,
+the third <name type="PERSON">Cooper</name> Thomas Rogers <name type="PERSON">Wallace</name>,
 
 so you'll call him <name type="PERSON">Cooper</name> III,
 
-or <name type="PERSON">Cooper</name> Three, Trip, Trey or <name type="ORG">Lil' Coop</name>.
+or <name type="PERSON">Cooper</name> Three, Trip, <name type="PERSON">Trey</name> or Lil' Coop.
 
 </line>
 
 
 <line>
-You'll join <name type="ORG">the Junior League</name>,
+You'll join the Junior League,
 
 maybe sing in the <name type="ORG">Follies</name>.
 
@@ -2708,11 +2708,11 @@ through indelicate gossip.
 <line>
 -Oh...
 
--We'll go to <name type="ORG">Hilton</name> Head every summer
+-We'll go to Head every summer
 
 and take a photo of all of us on the beach
 
-wearing <name type="PERSON">khaki</name> and white.
+wearing khaki and white.
 
 </line>
 
@@ -2752,7 +2752,7 @@ No worries, no tough choices
 
 and no money troubles,
 
-thanks to the <name type="PERSON">Wallace</name> and Sons
+thanks to the Sons
 
 Answering Machine Tape empire.
 
@@ -3028,7 +3028,7 @@ She lives in a pontoon boat.
 
 
 <line>
-Y'all <name type="PERSON">gonna</name> be beggin' for a ride
+Y'all gonna be beggin' for a ride
 
 when the flood comes.
 
@@ -3144,7 +3144,7 @@ Coopers don't marry gals like you.
 
 
 <line>
-He's <name type="PERSON">gonna</name> end up with some fancy heiress,
+He's gonna end up with some fancy heiress,
 
 like Samantha Floppy-Disk.
 
@@ -3166,7 +3166,7 @@ Besides, you don't want that life.
 
 
 <line>
-I wasn't <name type="PERSON">gonna</name> tell you,
+I wasn't gonna tell you,
 
 but this came in the mail.
 
@@ -3276,7 +3276,7 @@ A little sweet, a little dangerous.
 <line>
 But the second things get complicated,
 
-he'll r<name type="ORG">un</name> away.
+he'll run away.
 
 </line>
 
@@ -3288,7 +3288,7 @@ he'll r<name type="ORG">un</name> away.
 
 to settle for the first guy
 
-w<name type="PERSON">ho</name> rolls up on a motorcycle
+who rolls up on a motorcycle
 
 and says, [drawls]
 
@@ -3300,7 +3300,7 @@ and says, [drawls]
 <line>
 Well, I haven't decided
 
-what I'm <name type="PERSON">gonna</name> do yet anyway.
+what I'm gonna do yet anyway.
 
 </line>
 
@@ -3392,7 +3392,7 @@ you can take whatever you want.
 
 and no amount of your managing
 
-or producing is <name type="PERSON">gonna</name> change that.
+or producing is gonna change that.
 
 </line>
 
@@ -3492,7 +3492,7 @@ So, I just got the word from <name type="PERSON">Sadie</name>.
 
 
 <line>
-<ital>-She's <name type="PERSON">gonna</name> keep looking.</ital>
+<ital>-She's gonna keep looking.</ital>
 
 -Okay.
 
@@ -3516,7 +3516,7 @@ This is the hardest part of my job,
 
 
 <line>
--Thank you, Tracy.
+-Thank you, <name type="PERSON">Tracy</name>.
 
 -It's not your fault.
 
@@ -3524,7 +3524,7 @@ This is the hardest part of my job,
 
 
 <line>
--Goodbye, Tracy.
+-Goodbye, <name type="PERSON">Tracy</name>.
 
 -[phone beeps]
 
@@ -3628,7 +3628,7 @@ We did it, Princess Carolyn. Back on top!
 
 
 <line>
-<nonVerbComm>[announcer]</nonVerbComm> <ital>Flight 29 to Los Angeles,</ital>
+<nonVerbComm>[announcer]</nonVerbComm> <ital>Flight 29 to <name type="GPE">Los</name> Angeles,</ital>
 
 <ital>say your goodbyes.</ital>
 
@@ -3666,7 +3666,7 @@ Mom, I-I can't do that.
 <line>
 Of course you could.
 
-Los Angeles isn't going nowhere.
+<name type="GPE">Los</name> Angeles isn't going nowhere.
 
 </line>
 

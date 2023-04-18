@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>A Quick One, While He's Away - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>A Quick One, While He's Away - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -52,7 +52,7 @@ I'm reminded of the presence of the Lord.
 <line>
 -No.
 
--Out with it, Sister Marguerite.
+-Out with it, <name type="PERSON">Sister Marguerite</name>.
 
 </line>
 
@@ -64,7 +64,7 @@ which is a sin when time
 
 could be elsewise spent in prayer,
 
-or handwashing Monsignor Toscani's
+or handwashing Monsignor <name type="PERSON">Toscani</name>'s
 
 1962 <name type="ORG">Alfa Romeo</name>,
 
@@ -192,7 +192,7 @@ with so vexing a pupil.
 <line>
 When you get to Heaven,
 
-look up Margo Martindale!
+look up <name type="PERSON">Margo</name> <name type="PERSON">Martindale</name>!
 
 </line>
 
@@ -206,7 +206,7 @@ I won't be there, but my movies will!
 <line>
 -[tires screech]
 
--[Margo shouts]
+-[<name type="PERSON">Margo</name> shouts]
 
 </line>
 
@@ -250,7 +250,7 @@ I also want a roast beef sub.
 
 
 <line>
-<name type="PERSON">-[woman</name>] <ital><name type="PERSON">Paige</name> <name type="ORG">Sinclair</name> is on her way up.</ital>
+-[woman] <ital><name type="PERSON">Paige</name> <name type="ORG">Sinclair</name> is on her way up.</ital>
 
 -Ah, shit.
 
@@ -320,7 +320,7 @@ Okay, goodbye.
 
 
 <line>
-Yes, mine was a storied r<name type="ORG">un</name>
+Yes, mine was a storied run
 
 as the star reporter for "The Reporter."
 
@@ -366,7 +366,7 @@ is a river without banks.
 
 
 <line>
-Time may not have banks,
+<name type="ORG">Time</name> may not have banks,
 
 but this periodical certainly does.
 
@@ -442,7 +442,7 @@ No matter, I shan't be staying.
 
 
 <line>
-My sweet betrothed, <name type="PERSON">Baxter</name> Bellamy,
+My sweet betrothed, Bellamy,
 
 awaits with champagne
 
@@ -534,7 +534,7 @@ any information on her dead daughter.
 
 
 <line>
-It's not. It's a pop star w<name type="PERSON">ho</name> overdosed.
+It's not. It's a pop star who overdosed.
 
 Open-and-shut case.
 
@@ -694,7 +694,7 @@ Are we going to this party?
 <line>
 I didn't come all the way down
 
-to Manhattan
+to <name type="GPE">Manhattan</name>
 
 to just watch you watch your boyfriend
 
@@ -706,13 +706,13 @@ at his parents' fancy house.
 
 
 <line>
-Don't parent-shame him, <name type="PERSON">Holly</name>hock.
+Don't parent-shame him, Hollyhock.
 
 </line>
 
 
 <line>
-It's not Trey's fault he grew up
+It's not <name type="PERSON">Trey</name>'s fault he grew up
 
 in an <name type="LOC">Upper Westside</name> brownstone.
 
@@ -736,7 +736,7 @@ Come on! We're missing the party.
 <line>
 What? No. If we show up before 2:00,
 
-everyone's <name type="PERSON">gonna</name> think we're losers.
+everyone's gonna think we're losers.
 
 </line>
 
@@ -758,7 +758,7 @@ Let's explore the city!
 <line>
 -[sighs]
 
-<name type="NORP">-[siren</name> wailing]
+-[siren wailing]
 
 </line>
 
@@ -810,7 +810,7 @@ in <name type="GPE">New York</name>?
 <line>
 Let's go to the top
 
-of <name type="GPE">the Empire State Building</name>,
+of the Empire State Building,
 
 like the big ape
 
@@ -930,7 +930,7 @@ our little indie film darling,
 <line>
 I think I speak for both of us
 
-when I say <name type="PERSON">gooba</name>, <name type="PERSON">gooba</name>, hey, yah, yah!
+when I say gooba, gooba, hey, yah, yah!
 
 </line>
 
@@ -1150,7 +1150,7 @@ I would get around to being outraged.
 
 
 <line>
-It is f<name type="ORG">un</name> that we're both working
+It is fun that we're both working
 
 on the same lot, though.
 
@@ -1294,7 +1294,7 @@ We had to think fast, so we put together
 
 a new hand-to-hand combat scene
 
-we're <name type="PERSON">gonna</name> throw on top
+we're gonna throw on top
 
 of the meringue number.
 
@@ -1320,7 +1320,7 @@ It's more time spent on your face.
 <line>
 Ever since I directed you in that episode
 
-of "<name type="ORG">FBI</name>: Female Body Inspectors,"
+of "FBI: Female Body Inspectors,"
 
 </line>
 
@@ -1348,7 +1348,7 @@ When am I learning this stunt?
 
 
 <line>
-April's <name type="PERSON">gonna</name> be on set.
+April's gonna be on set.
 
 She'll make sure you understand the stunt.
 
@@ -1356,7 +1356,7 @@ She'll make sure you understand the stunt.
 
 
 <line>
--And it's <name type="PERSON">gonna</name> be safe?
+-And it's gonna be safe?
 
 -We are taking every precaution.
 
@@ -1364,7 +1364,7 @@ She'll make sure you understand the stunt.
 
 
 <line>
-And we are not <name type="PERSON">gonna</name> shoot
+And we are not gonna shoot
 
 until you are 100 percent comfortable.
 
@@ -1600,7 +1600,7 @@ Which particular project?
 <line>
 Anyone. I mean, you name it.
 
-Whatever <name type="PERSON">Paul Feig's</name> doing.
+Whatever <name type="PERSON">Paul</name> Feig's doing.
 
 </line>
 
@@ -1652,7 +1652,7 @@ why my daughter would start using again.
 <line>
 She was sober.
 
-She was going to <name type="ORG">AA</name> meetings.
+She was going to AA meetings.
 
 </line>
 
@@ -1702,7 +1702,7 @@ I'm sorry my platinum records clashed
 
 with the chic minimalism
 
-of your new <name type="PERSON">s<name type="ORG">un</name></name> room.
+of your new sun room.
 
 </line>
 
@@ -1752,7 +1752,7 @@ What is the "we"?
 <line>
 She says, "We're making amends."
 
-W<name type="PERSON">ho</name>'s this "we"?
+Who's this "we"?
 
 </line>
 
@@ -1772,9 +1772,9 @@ to this party if you don't want to.
 
 
 <line>
-What? I'm the one w<name type="PERSON">ho</name> keeps saying,
+What? I'm the one who keeps saying,
 
-<name type="PERSON">"Let</name>'s go to the party."
+"Let's go to the party."
 
 </line>
 
@@ -1796,7 +1796,7 @@ a hundred parties with you.
 
 
 <line>
-You always say you're <name type="PERSON">gonna</name> drink,
+You always say you're gonna drink,
 
 and you never do, which is fine,
 
@@ -1860,7 +1860,7 @@ might not be for you.
 <line>
 But I don't wanna be scared of something
 
-that's supposed to be f<name type="ORG">un</name>.
+that's supposed to be fun.
 
 </line>
 
@@ -1874,7 +1874,7 @@ with a bunch of strangers.
 
 
 <line>
-Because if I'm <name type="PERSON">gonna</name> lose control, I don't
+Because if I'm gonna lose control, I don't
 
 want it to be in front of people I know.
 
@@ -1900,7 +1900,7 @@ Daddy.
 <line>
 Do you think we should ADR her saying
 
-"Daddy-o"? Is "Daddy-o" more of a dunk?
+"Daddy-o" more of a dunk?
 
 </line>
 
@@ -1980,7 +1980,7 @@ just because I'm a man"?
 <line>
 Of course not! He says, "Money,
 
-money, money. <name type="ORG">Nom, nom, nom</name>."
+money, money. <name type="PERSON">Nom</name>, nom, nom."
 
 </line>
 
@@ -2000,7 +2000,7 @@ to be just another superhero movie.
 
 
 <line>
-They're looking for someone w<name type="PERSON">ho</name> can make
+They're looking for someone who can make
 
 a superhero movie with a twist!
 
@@ -2040,7 +2040,7 @@ Hmm...
 <line>
 <nonVerbComm>[man]</nonVerbComm> I've been saying for years
 
-as soon as we r<name type="ORG">un</name> out
+as soon as we run out
 
 of popular male characters
 
@@ -2130,7 +2130,7 @@ Well, uh, thanks for coming in.
 
 
 <line>
-We're obviously <name type="PERSON">gonna</name> hear a lot of takes,
+We're obviously gonna hear a lot of takes,
 
 but it seems like you have
 
@@ -2236,7 +2236,7 @@ with her while she was blotto.
 
 
 <line>
-W<name type="PERSON">ho</name> was that person? What'd they see?
+Who was that person? What'd they see?
 
 </line>
 
@@ -2250,7 +2250,7 @@ in the police report?
 
 
 <line>
-There's your w<name type="PERSON">ho</name>, what and why.
+There's your who, what and why.
 
 </line>
 
@@ -2300,7 +2300,7 @@ that is our scoop.
 
 
 <line>
-Get someone to squeal on an <name type="ORG">AA</name> meeting?
+Get someone to squeal on an AA meeting?
 
 </line>
 
@@ -2366,7 +2366,7 @@ is anonymity, but if you could...
 
 
 <line>
-I once saw <name type="PERSON">Craig Ferguson</name> here!
+I once saw Ferguson</name> here!
 
 I don't know why I said that.
 
@@ -2382,7 +2382,7 @@ I don't know why I said that.
 <line>
 I really shouldn't say. It's anonymous,
 
-but I have seen <name type="PERSON">Ro<name type="PERSON">bert</name> Downey</name>, Jr.
+but I have seen <name type="PERSON">Robert Downey</name>, Jr.
 
 </line>
 
@@ -2396,7 +2396,7 @@ Jamie <name type="PERSON">Lee</name> Curtis winked at me once.
 <line>
 <name type="PERSON">Colin Farrell</name>, <name type="PERSON">Russell Brand</name>,
 
-the Ikea Monkey.
+the Monkey.
 
 </line>
 
@@ -2550,7 +2550,7 @@ said her name was Penny <name type="PERSON">Carson</name>.
 
 
 <line>
-"Penny <name type="PERSON">Carson</name>," he said. <name type="PERSON">"And</name> that's
+"Penny <name type="PERSON">Carson</name>," he said. "And that's
 
 her real name, you can look her up!"
 
@@ -2674,7 +2674,7 @@ Well, this isn't about you.
 <line>
 That's right! It's about an exotic dancer
 
-w<name type="PERSON">ho</name>'s also interdimensional.
+who's also interdimensional.
 
 </line>
 
@@ -2868,7 +2868,7 @@ Ow! What the hell?
 <line>
 -Hey, guys--
 
--I didn't know he was <name type="PERSON">gonna</name> dip me.
+-I didn't know he was gonna dip me.
 
 </line>
 
@@ -2876,13 +2876,13 @@ Ow! What the hell?
 <line>
 -That's not what we rehearsed!
 
--You said to have f<name type="ORG">un</name> with it.
+-You said to have fun with it.
 
 </line>
 
 
 <line>
-I meant f<name type="ORG">un</name> energy.
+I meant fun energy.
 
 I didn't mean change the choreography.
 
@@ -2994,7 +2994,7 @@ You got that dip, though, right?
 
 
 <line>
-Okay. Trey and I will be in the <name type="ORG">coatroom</name>,
+Okay. <name type="PERSON">Trey</name> and I will be in the coatroom,
 
 doing hand stuff.
 
@@ -3102,7 +3102,7 @@ I see an odd amount of floor poofs.
 <line>
 -Okay, now say your name.
 
--<name type="PERSON">Holly</name>hock.
+-Hollyhock.
 
 </line>
 
@@ -3168,7 +3168,7 @@ to have an anxiety attack too. [chuckles]
 
 
 <line>
--<name type="PERSON">Holly</name>hock.
+-Hollyhock.
 
 -Yeah, I know.
 
@@ -3222,7 +3222,7 @@ for just a moment longer.
 <line>
 This story has revealed itself
 
-to be thornier than a rose <name type="PERSON">bush</name>
+to be thornier than a rose bush
 
 and just as sweet. [chuckles]
 
@@ -3270,7 +3270,7 @@ I'm directing a new movie: "Fireflame"!
 <line>
 "Fireflame"? Get that money.
 
-<name type="ORG">Nom, nom, nom</name>, nom, nom, nom!
+<name type="PERSON">Nom</name>, nom, nom, nom, nom, nom!
 
 </line>
 
@@ -3374,7 +3374,7 @@ she was great, but, um...
 
 
 <line>
-Oh, you know w<name type="PERSON">ho</name>'d be perfect?
+Oh, you know who'd be perfect?
 
 Courtney <name type="PERSON">Portnoy</name>!
 
@@ -3566,7 +3566,7 @@ Things are good. Because at some point,
 
 I realized it wasn't the alcohol's fault,
 
-or Maddy's fault, or my fault.
+or <name type="PERSON">Maddy</name>'s fault, or my fault.
 
 It was just some shitty dude, you know?
 
@@ -3604,7 +3604,7 @@ he's kind of a movie star.
 
 
 <line>
-W<name type="PERSON">ho</name> is he?
+Who is he?
 
 </line>
 
@@ -3616,7 +3616,7 @@ W<name type="PERSON">ho</name> is he?
 
 
 <line>
-W<name type="PERSON">ho</name> is he?
+Who is he?
 
 </line>
 
@@ -3654,7 +3654,7 @@ W<name type="PERSON">ho</name> is he?
 <line>
 <ital>♪ It's been so long</ital>
 
-<ital>I don't think I'm <name type="PERSON">gonna</name> last ♪</ital>
+<ital>I don't think I'm gonna last ♪</ital>
 
 </line>
 

@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>Surprise! - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>Surprise! - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -36,7 +36,7 @@
 <line>
 <ital>Oh, and RIP Nelson Mandela</ital>
 
-<ital>and Paul Walker.</ital>
+<ital>and <name type="PERSON">Paul</name> Walker.</ital>
 
 </line>
 
@@ -126,7 +126,7 @@
 
 
 <line>
-<ital>I think I'm just <name type="PERSON">gonna</name> lie</ital>
+<ital>I think I'm just gonna lie</ital>
 
 <ital>about having experience. Right?</ital>
 
@@ -484,7 +484,7 @@ He'll keep him out of trouble.
 
 
 <line>
-This is Eduardo.
+This is <name type="PERSON">Eduardo</name>.
 
 He's here to keep me out of trouble.
 
@@ -536,7 +536,7 @@ on the fact that
 
 there will always be invisible walls
 
-between myself and those w<name type="PERSON">ho</name> claim
+between myself and those who claim
 
 to know me.
 
@@ -564,13 +564,13 @@ that I might someday drink again.
 
 
 <line>
-Very helpful. Thank you, Eduardo.
+Very helpful. Thank you, <name type="PERSON">Eduardo</name>.
 
 </line>
 
 
 <line>
-Oh, I'm just <name type="PERSON">Greg</name>, a guy Mr. Peanutbutter 
+Oh, I'm just Peanutbutter 
 
 met at a gas station once.
 
@@ -666,7 +666,7 @@ We gotta get these to the balloon room!
 <line>
 -Hey.
 
--Hey, look w<name type="PERSON">ho</name>'s back in town!
+-Hey, look who's back in town!
 
 </line>
 
@@ -688,7 +688,7 @@ We gotta get these to the balloon room!
 
 
 <line>
-I wasn't <name type="PERSON">gonna</name> bring her out,
+I wasn't gonna bring her out,
 
 but another nanny quit on me.
 
@@ -844,7 +844,7 @@ terrible nannies,
 
 so naturally, I thought,
 
-<name type="PERSON">"Ooh</name>! Surprise wedding!"
+"Ooh! Surprise wedding!"
 
 </line>
 
@@ -906,7 +906,7 @@ Where are you moving to?
 
 
 <line>
-Uh, not Ec<name type="PERSON">ho</name> Park. I'll never see you.
+Uh, not Echo Park. I'll never see you.
 
 </line>
 
@@ -1078,7 +1078,7 @@ Don't change the subject!
 
 
 <line>
-And I once played Twister
+And I once played <name type="PERSON">Twister</name>
 
 with <name type="PERSON">Bryan</name> Singer
 
@@ -1138,7 +1138,7 @@ that doesn't make it okay.
 <line>
 Are you the time I went to see
 
-<name type="PERSON">Lady</name> Ga<name type="PERSON">ga</name> in concert
+<name type="PERSON">Lady</name> Gaga in concert
 
 and she didn't sing "Paparazzi"?
 
@@ -1206,7 +1206,7 @@ my other friend <name type="PERSON">Ilana</name>.
 <line>
 Sometimes it's just easier to talk
 
-to a person w<name type="PERSON">ho</name> has nothing else going on.
+to a person who has nothing else going on.
 
 </line>
 
@@ -1220,7 +1220,7 @@ to a person w<name type="PERSON">ho</name> has nothing else going on.
 
 
 <line>
-I'm <name type="PERSON">gonna</name> tell everybody about this.
+I'm gonna tell everybody about this.
 
 I'm a <name type="ORG">Gemini</name>.
 
@@ -1354,7 +1354,7 @@ participants in their kinky foreplay.
 
 
 <line>
-Ew! <name type="PERSON">T</name>hose are my parents!
+Ew! Those are my parents!
 
 </line>
 
@@ -1392,7 +1392,7 @@ at that gas station!
 
 
 <line>
-I know w<name type="PERSON">ho</name> I need right now.
+I know who I need right now.
 
 </line>
 
@@ -1440,7 +1440,7 @@ of themselves wearing eyepatches.
 <line>
 And when my <name type="PERSON">Grandma Piccolino</name> died,
 
-<name type="PERSON">stickyvicki</name> was the first person
+stickyvicki was the first person
 
 to say, "LMAO. Sorry for your loss."
 
@@ -1672,7 +1672,7 @@ like a crying, pugly freak!
 
 
 <line>
-<nonVerbComm>[<name type="PERSON">Pickles</name>]</nonVerbComm> <ital>So, you're <name type="PERSON">gonna</name> want a mascara</ital>
+<nonVerbComm>[<name type="PERSON">Pickles</name>]</nonVerbComm> <ital>So, you're gonna want a mascara</ital>
 
 <ital>that really runs...</ital>
 
@@ -1690,7 +1690,7 @@ like a crying, pugly freak!
 <line>
 What's the draw?
 
-Is it the rampant g<name type="ORG">un</name> violence?
+Is it the rampant gun violence?
 
 </line>
 
@@ -1698,7 +1698,7 @@ Is it the rampant g<name type="ORG">un</name> violence?
 <line>
 Or do you just like seeing improv actors
 
-w<name type="PERSON">ho</name> aren't good enough for <name type="GPE">LA</name>?
+who aren't good enough for LA?
 
 </line>
 
@@ -1860,7 +1860,7 @@ Just as I suspected.
 
 
 <line>
-Todd!
+<name type="PERSON">Todd</name>!
 
 </line>
 
@@ -1896,7 +1896,7 @@ What do you guys think I should do?
 
 
 <line>
-<name type="PERSON">"You</name> should make Mr. Peanutbutter
+"You should make Mr. Peanutbutter
 
 take you to the park,
 
@@ -2166,7 +2166,7 @@ to a fancy-ass hotel.
 
 
 <line>
-...I'm <name type="PERSON">gonna</name> try to get my room comped
+...I'm gonna try to get my room comped
 
 in exchange for social media promotion!
 
@@ -2208,7 +2208,7 @@ Wait a minute! Why should I leave?
 
 
 <line>
--He's the one w<name type="PERSON">ho</name> cheated!
+-He's the one who cheated!
 
 -[exhales]
 
@@ -2280,7 +2280,7 @@ Good call, t_chavez!
 
 
 <line>
-Boba Maker. Uh... boba make?
+Boba <name type="ORG">Maker</name>. Uh... boba make?
 
 </line>
 
@@ -2474,7 +2474,7 @@ Here.
 
 
 <line>
--You know how in <name type="ORG">AA</name> they give you chips?
+-You know how in AA they give you chips?
 
 -But no salsa?
 
@@ -2766,7 +2766,7 @@ You are a bad dog!
 
 
 <line>
-Come on, Eduardo. Hold it together.
+Come on, <name type="PERSON">Eduardo</name>. Hold it together.
 
 You're not just a fainting goat.
 
@@ -2820,7 +2820,7 @@ Oh, <name type="ORG">Coin Sorter</name>,
 
 I'd love to toss my problems in a tray
 
-and say, <name type="ORG">"Here</name>, sort these out."
+and say, "Here, sort these out."
 
 I know it doesn't work that way,
 
@@ -2960,7 +2960,7 @@ I get it.
 
 
 <line>
--Are you <name type="PERSON">gonna</name> be okay?
+-Are you gonna be okay?
 
 -Yeah.
 
@@ -2986,7 +2986,7 @@ to my ex-husband's house,
 
 was because I need to know
 
-that you're <name type="PERSON">gonna</name> be okay.
+that you're gonna be okay.
 
 </line>
 
@@ -3042,7 +3042,7 @@ Thank you.
 
 
 <line>
--[Todd gasps]
+-[<name type="PERSON">Todd</name> gasps]
 
 -[balloons popping]
 
@@ -3088,7 +3088,7 @@ from these delightful choking hazards!
 
 
 <line>
-You know, Todd, you have a knack for this.
+You know, <name type="PERSON">Todd</name>, you have a knack for this.
 
 </line>
 
@@ -3108,7 +3108,7 @@ and how to do funny voices
 
 for bedtime stories,
 
-unlike Carlotta w<name type="PERSON">ho</name> does voices
+unlike Carlotta who does voices
 
 like <name type="PERSON">Cameron</name> Diaz
 
@@ -3200,7 +3200,7 @@ to the way things were before
 
 and pretend nothing happened,
 
-I'm <name type="PERSON">gonna</name> feel stupid.
+I'm gonna feel stupid.
 
 </line>
 
@@ -3258,7 +3258,7 @@ Okay. If that's what needs to happen.
 <line>
 -Really?
 
--Yeah, we just have to think w<name type="PERSON">ho</name>--
+-Yeah, we just have to think who--
 
 </line>
 
@@ -3378,7 +3378,7 @@ I live in <name type="GPE">Chicago</name> now. Thanks.
 
 
 <line>
-This is Eduardo. Don't mind him.
+This is <name type="PERSON">Eduardo</name>. Don't mind him.
 
 He's just keeping me sober.
 
@@ -3410,7 +3410,7 @@ Found the baby, had a blast, gotta go.
 <line>
 -Oh, my parents are calling.
 
--F<name type="ORG">un</name>! Put 'em on speaker!
+-Fun! Put 'em on speaker!
 
 </line>
 
@@ -3448,7 +3448,7 @@ Found the baby, had a blast, gotta go.
 <line>
 <ital>♪ It's been so long</ital>
 
-<ital>I don't think I'm <name type="PERSON">gonna</name> last ♪</ital>
+<ital>I don't think I'm gonna last ♪</ital>
 
 </line>
 

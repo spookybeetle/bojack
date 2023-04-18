@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>Underground - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>Underground - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -32,7 +32,7 @@
 <line>
 -<name type="PERSON">BoJack</name>?
 
--I'm back in <name type="GPE">L.A.</name>
+-I'm back in L.A.
 
 </line>
 
@@ -100,7 +100,7 @@ for <name type="GPE">California</name> campaign.
 
 
 <line>
--All right, I'm just <name type="PERSON">gonna</name>--
+-All right, I'm just gonna--
 
 -Sorry. It's a fundraiser.
 
@@ -266,7 +266,7 @@ Because you are looking
 
 
 <line>
-Well, I must be in <name type="NORP">Nazi</name> Germany,
+Well, I must be in Germany,
 
 because you're "not so" bad yourself.
 
@@ -346,7 +346,7 @@ You haven't seen me for a year and a half.
 
 
 <line>
-Yeah, because you <name type="PERSON">disapp--</name>
+Yeah, because you disapp--
 
 No, I am not doing this now.
 
@@ -418,9 +418,9 @@ how you doing?
 
 
 <line>
-We're <name type="PERSON">gonna</name> beat that scoundrel
+We're gonna beat that scoundrel
 
-<name type="PERSON">Woodchuck</name> <name type="ORG">Coodchuck-Berkowitz</name>...
+<name type="PERSON">Woodchuck</name> Coodchuck-Berkowitz...
 
 </line>
 
@@ -500,7 +500,7 @@ Nope, I was definitely wrong.
 <line>
 Listen to me,
 
-I'm the dog w<name type="PERSON">ho</name> cried earthquake.
+I'm the dog who cried earthquake.
 
 </line>
 
@@ -520,7 +520,7 @@ I'm the dog w<name type="PERSON">ho</name> cried earthquake.
 
 
 <line>
--We're <name type="PERSON">gonna</name> die!
+-We're gonna die!
 
 -Oh, fudge!
 
@@ -538,7 +538,7 @@ I'm the dog w<name type="PERSON">ho</name> cried earthquake.
 <line>
 I'm not famous enough yet to make
 
-the "In <name type="PERSON">Memoriam</name>" montage at the Oscars!
+the "In Oscars!
 
 </line>
 
@@ -674,7 +674,7 @@ for warmth.
 
 
 <line>
-W<name type="PERSON">ho</name> wants to be set on fire first?
+Who wants to be set on fire first?
 
 Not me, I'm <name type="PERSON">Jessica</name> Biel.
 
@@ -718,7 +718,7 @@ For one thing,
 
 that'd eat up a lot of oxygen
 
-and w<name type="PERSON">ho</name> knows
+and who knows
 
 how much we have down here.
 
@@ -856,7 +856,7 @@ Oh, what the shit?
 <line>
 -Oh, fish.
 
--[Todd] Uh... hello?
+-[<name type="PERSON">Todd</name>] Uh... hello?
 
 </line>
 
@@ -910,7 +910,7 @@ Come on, let's go.
 
 
 <line>
-<nonVerbComm>[Todd]</nonVerbComm> Whoa...!
+<nonVerbComm>[<name type="PERSON">Todd</name>]</nonVerbComm> Whoa...!
 
 </line>
 
@@ -1018,13 +1018,13 @@ What do we do till then?
 <line>
 We're actors! I say we put on a show.
 
-W<name type="PERSON">ho</name>'s with me?
+Who's with me?
 
 </line>
 
 
 <line>
-A show? W<name type="PERSON">ho</name> will be the star?
+A show? Who will be the star?
 
 Me, I assume.
 
@@ -1082,9 +1082,9 @@ You're too kind! Thank you.
 
 
 <line>
-Thank you, <name type="ORG">P<name type="PERSON">ho</name></name>ebe, for that rousing
+Thank you, Phoebe, for that rousing
 
-<ital>Tale from the Above Ground. </ital>W<name type="PERSON">ho</name>'s next?
+<ital>Tale from the Above Ground. </ital>Who's next?
 
 </line>
 
@@ -1122,7 +1122,7 @@ without moisturizing,
 
 
 <line>
-I'm missing my general meeting at <name type="ORG">CBS</name>.
+I'm missing my general meeting at CBS.
 
 I'm supposed to get baa-ck to work.
 
@@ -1218,7 +1218,7 @@ Yeah. You're right. I've totally got this.
 <line>
 -It is I.
 
--<name type="PERSON">Woodchuck</name> <name type="ORG">Coodchuck-Berkowitz</name>!
+-<name type="PERSON">Woodchuck</name> Coodchuck-Berkowitz!
 
 </line>
 
@@ -1432,7 +1432,7 @@ The tunnel is very delicate.
 
 
 <line>
--Let's cheer one more time, just for f<name type="ORG">un</name>!
+-Let's cheer one more time, just for fun!
 
 -No, please.
 
@@ -1562,7 +1562,7 @@ We can talk about this.
 
 
 <line>
-What are we <name type="PERSON">gonna</name> do, Princess Carolyn?
+What are we gonna do, Princess Carolyn?
 
 </line>
 
@@ -1682,7 +1682,7 @@ It's <ital>New Girl</ital> meets fracking.
 
 
 <line>
-Oh, <name type="PERSON">God</name>, no one's <name type="PERSON">gonna</name> watch
+Oh, <name type="PERSON">God</name>, no one's gonna watch
 
 that show, huh?
 
@@ -1774,7 +1774,7 @@ I'm food captain, and I am loving it.
 
 
 <line>
--And w<name type="PERSON">ho</name> made you the food captain?
+-And who made you the food captain?
 
 -<name type="PERSON">Woodchuck</name>.
 
@@ -1840,13 +1840,13 @@ his allotted food portion for the day.
 
 
 <line>
-W<name type="PERSON">ho</name> said we have to go by your rules?
+Who said we have to go by your rules?
 
 </line>
 
 
 <line>
-Yeah, w<name type="PERSON">ho</name> made you leader
+Yeah, who made you leader
 
 of underground?
 
@@ -1854,7 +1854,7 @@ of underground?
 
 
 <line>
-I'm just <name type="PERSON">gonna</name> take all this and...
+I'm just gonna take all this and...
 
 </line>
 
@@ -1910,7 +1910,7 @@ I'm trapped underground
 
 and it's all my husband's fault
 
-and I'm <name type="PERSON">gonna</name> die in this mansion
+and I'm gonna die in this mansion
 
 in a mass grave with his ex-wives.
 
@@ -2044,7 +2044,7 @@ Just took four solid days of drinking.
 
 
 <line>
-If you were back in <name type="GPE">L.A.</name>,
+If you were back in L.A.,
 
 why didn't you call me?
 
@@ -2198,7 +2198,7 @@ That's another point for me.
 
 
 <line>
-Well, I'm the one w<name type="PERSON">ho</name> came down here
+Well, I'm the one who came down here
 
 to save you in the first place.
 
@@ -2310,7 +2310,7 @@ the guy whose house this is.
 <line>
 <nonVerbComm>[chanting]</nonVerbComm>
 
-Peanutbutter, Peanutbutter.
+Peanutbutter.
 
 </line>
 
@@ -2324,7 +2324,7 @@ Peanutbutter-- everybody.
 <line>
 <nonVerbComm>[chanting]</nonVerbComm>
 
-Peanutbutter! Peanutbutter!
+Peanutbutter!
 
 </line>
 
@@ -2354,7 +2354,7 @@ Peanutbutter!
 <line>
 <nonVerbComm>[faint chanting]</nonVerbComm>
 
-Peanutbutter! Peanutbutter...
+Peanutbutter...
 
 </line>
 
@@ -2414,7 +2414,7 @@ with <name type="PERSON">Sarah</name> <name type="PERSON">Lynn</name> dying and 
 
 
 <line>
-<name type="ORG">Corduroy</name>? <name type="PERSON">Jackson-Jackson</name>?
+<name type="ORG">Corduroy</name>? <name type="PERSON">Jackson</name>-<name type="PERSON">Jackson</name>?
 
 Died of autoerotic "asphyx-ization"?
 
@@ -2430,7 +2430,7 @@ girl in my house, this... daughter-type.
 
 
 <line>
-You got daughter? <name type="PERSON">Ruh-roh</name>.
+You got daughter? Ruh-roh.
 
 </line>
 
@@ -2446,7 +2446,7 @@ You got daughter? <name type="PERSON">Ruh-roh</name>.
 <line>
 Supposed to help her figure out
 
-w<name type="PERSON">ho</name> her mother is.
+who her mother is.
 
 </line>
 
@@ -2526,7 +2526,7 @@ I hoped I was adopted.
 
 
 <line>
-W<name type="PERSON">ho</name> dares disturb Queen Antonia?
+Who dares disturb Queen Antonia?
 
 </line>
 
@@ -2540,9 +2540,9 @@ My name is Princess Carolyn.
 <line>
 I represent the soldiers
 
-of <name type="PERSON">Subcolony K-147</name>,
+of Subcolony K-147,
 
-w<name type="PERSON">ho</name> feel they're doing all the work
+who feel they're doing all the work
 
 while reaping none of the spoils.
 
@@ -2618,7 +2618,7 @@ Oliver, assemble the small council.
 
 
 <line>
-Uh, If we're <name type="PERSON">gonna</name> be down here a while,
+Uh, If we're gonna be down here a while,
 
 can I get a new towel?
 
@@ -2886,7 +2886,7 @@ maybe we don't need to eat anybody!
 <line>
 Let's listen to the guy
 
-w<name type="PERSON">ho</name>'s saying don't kill me.
+who's saying don't kill me.
 
 </line>
 
@@ -3142,7 +3142,7 @@ Marvin Gaye.
 
 
 <line>
-The People of Underground
+<name type="ORG">The People</name> of Underground
 
 have a new god, the fire.
 
@@ -3172,7 +3172,7 @@ there will be no <name type="PERSON">Braff</name> meat left.
 <line>
 -What's going on?
 
--Four <name type="ORG">Non-Blondes</name>.
+-Four Non-Blondes.
 
 </line>
 
@@ -3274,7 +3274,7 @@ in my kingdom, you pink marshmallow?
 <line>
 We were at this big
 
-<name type="GPE">Beverly Hills</name> fundraiser.
+Hills</name> fundraiser.
 
 </line>
 
@@ -3288,7 +3288,7 @@ and now everyone's trapped underground.
 
 
 <line>
-Did you say <name type="GPE">Beverly Hills</name>?
+Did you say Hills</name>?
 
 Ugh! Of course.
 
@@ -3342,7 +3342,7 @@ those interlopers out of here.
 <line>
 -Uh...
 
--[<name type="PERSON">Jessica</name>] Mr. Peanutbutter,
+-[Peanutbutter,
 
 did you or did you not tell us
 
@@ -3358,7 +3358,7 @@ we could eat whatever we wanted?
 
 
 <line>
-Peanutbutter! Peanutbutter!
+Peanutbutter!
 
 Peanutbutter!
 
@@ -3376,7 +3376,7 @@ Mr. Peanutbutter's the only non-shitty
 
 thing that's ever happened to me
 
-and now they're <name type="PERSON">gonna</name> set him on fire.
+and now they're gonna set him on fire.
 
 </line>
 
@@ -3572,7 +3572,7 @@ How is this happening?
 
 
 <line>
-<nonVerbComm>[ants]</nonVerbComm> Heave! Heave! Heave!
+<nonVerbComm>[ants]</nonVerbComm> Heave!
 
 </line>
 
@@ -3820,7 +3820,7 @@ Yeah, that's good bread.
 <line>
 <ital>♪ It's been so long</ital>
 
-<ital>I don't think I'm <name type="PERSON">gonna</name> last ♪</ital>
+<ital>I don't think I'm gonna last ♪</ital>
 
 </line>
 

@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>Ancient History - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>Ancient History - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -34,7 +34,7 @@
 
 
 <line>
--Talk to me, <name type="PERSON">Phil</name><name type="PERSON">bert</name>.
+-Talk to me, Philbert.
 
 -Don't tell her a thing.
 
@@ -60,7 +60,7 @@ What did you do to your wife?
 
 
 <line>
--She was <name type="PERSON">gonna</name> get us all killed.
+-She was gonna get us all killed.
 
 -So you took care of it, huh?
 
@@ -74,7 +74,7 @@ I tried to stop him!
 
 
 <line>
--W<name type="PERSON">ho</name>?
+-Who?
 
 -<name type="PERSON">Fritz</name>! He was hopped up on goof-berries.
 
@@ -98,7 +98,7 @@ I tried to stop him!
 
 
 <line>
-What are you doing, <name type="PERSON">Phil</name><name type="PERSON">bert</name>? Oh-hh!
+What are you doing, Philbert? Oh-hh!
 
 </line>
 
@@ -162,7 +162,7 @@ Would you say we're<ital> co-stars?</ital>
 
 
 <line>
-I mean, I'm <name type="PERSON">Phil</name><name type="PERSON">bert</name>.
+I mean, I'm Philbert.
 
 I'd say we're more like both in the cast?
 
@@ -206,7 +206,7 @@ It feels like a dream.
 
 
 <line>
--Where are the bodies, <name type="PERSON">Phil</name><name type="PERSON">bert</name>?
+-Where are the bodies, Philbert?
 
 -I buried them.
 
@@ -214,7 +214,7 @@ It feels like a dream.
 
 
 <line>
--In the same place I'm <name type="PERSON">gonna</name> bury you.
+-In the same place I'm gonna bury you.
 
 -[gasps]
 
@@ -246,7 +246,7 @@ The nuclear missiles are coming.
 <line>
 Cut! That's a wrap
 
-on<ital> <name type="PERSON">Phil</name><name type="PERSON">bert</name></ital> Season One!
+on<ital> Philbert</ital> Season One!
 
 </line>
 
@@ -334,7 +334,7 @@ through a whole pen on that thing.
 <line>
 It's cool that you came
 
-through Los Angeles on your way home.
+through <name type="GPE">Los</name> Angeles on your way home.
 
 </line>
 
@@ -400,7 +400,7 @@ That's my <name type="PERSON">Emily</name>! Send her in!
 
 
 <line>
--Hey, Todd. [sighs]
+-Hey, <name type="PERSON">Todd</name>. [sighs]
 
 -You okay?
 
@@ -446,7 +446,7 @@ just is not there.
 
 
 <line>
-It was the same with me and Yolanda.
+It was the same with me and <name type="PERSON">Yolanda</name>.
 
 </line>
 
@@ -496,7 +496,7 @@ Yeah, here we go. <ital><music>♪ Ta-da-da-da! ♪</music></ital>
 
 
 <line>
-<nonVerbComm>[Todd]</nonVerbComm> "All About That Ace"?
+<nonVerbComm>[<name type="PERSON">Todd</name>]</nonVerbComm> "All About That Ace"?
 
 </line>
 
@@ -554,7 +554,7 @@ Oh.
 
 
 <line>
-So, ever since<ital> <name type="PERSON">Phil</name><name type="PERSON">bert</name> </ital>wrapped
+So, ever since<ital> Philbert </ital>wrapped
 
 earlier today,
 
@@ -614,7 +614,7 @@ to scout some material.
 <line>
 -Yeah?
 
--W<name type="PERSON">ho</name> has the time?
+-Who has the time?
 
 </line>
 
@@ -746,7 +746,7 @@ It was literally a thing.
 <line>
 <name type="PERSON">Joby</name> is the guy in your dorm
 
-w<name type="PERSON">ho</name> plays guitar?
+who plays guitar?
 
 </line>
 
@@ -784,7 +784,7 @@ with my rowdy 'tude,
 
 having friends, and learning things,
 
-and just, uh, being <name type="PERSON">yo</name>ung.
+and just, uh, being young.
 
 </line>
 
@@ -800,7 +800,7 @@ and just, uh, being <name type="PERSON">yo</name>ung.
 <line>
 You look as if you saw <ital>Ghost in the Shell</ital>
 
-and you're <name type="PERSON">Scarlett Johansson's</name> publicist.
+and you're <name type="PERSON">Scarlett Johansson</name>'s publicist.
 
 </line>
 
@@ -826,7 +826,7 @@ Oh, my <name type="PERSON">God</name>, this is so weird.
 
 
 <line>
-<name type="PERSON">Holly</name>hock, whoa. It's okay.
+Hollyhock, whoa. It's okay.
 
 That's ancient history.
 
@@ -842,7 +842,7 @@ to drug you with secret pills. All right?
 
 
 <line>
-Now, how about we make new, f<name type="ORG">un</name>, memories
+Now, how about we make new, fun, memories
 
 to cancel out the old ones?
 
@@ -924,13 +924,13 @@ Or a new girlfriend.
 <line>
 I'm not seeing anyone either.
 
-I've just been so busy with my<ital> <name type="PERSON">Phil</name><name type="PERSON">bert</name>.</ital>
+I've just been so busy with my<ital> Philbert.</ital>
 
 </line>
 
 
 <line>
-<name type="PERSON">Phil</name><name type="PERSON">bert</name>? You have a <name type="PERSON">Phil</name><name type="PERSON">bert</name>?
+Philbert?
 
 </line>
 
@@ -1004,7 +1004,7 @@ to option this card as a movie.
 
 
 <line>
-<nonVerbComm>[Tracy]</nonVerbComm> <ital>Can you get to the St. Bernard</ital>
+<nonVerbComm>[<name type="PERSON">Tracy</name>]</nonVerbComm> <ital>Can you get to the St. Bernard</ital>
 
 <ital>Medical Center in like, a half hour?</ital>
 
@@ -1138,7 +1138,7 @@ It's the only rule, really.
 <line>
 There should be more rules,
 
-but w<name type="PERSON">ho</name> am I to judge?
+but who am I to judge?
 
 </line>
 
@@ -1198,9 +1198,9 @@ I'm down to one bottle a day.
 
 
 <line>
--Is this like an <name type="ORG">AA</name> thing?
+-Is this like an AA thing?
 
--No, I don't need <name type="ORG">AA</name>.
+-No, I don't need AA.
 
 </line>
 
@@ -1222,7 +1222,7 @@ I'm down to one bottle a day.
 
 
 <line>
--Come on. Let me drive the Tesla.
+-Come on. Let me drive the <name type="ORG">Tesla</name>.
 
 -With your greasy pizza fingers?
 
@@ -1266,7 +1266,7 @@ Are these for me?
 
 
 <line>
-No, <name type="PERSON">Holly</name>hock. <name type="PERSON">God</name>, no.
+No, Hollyhock. <name type="PERSON">God</name>, no.
 
 </line>
 
@@ -1278,7 +1278,7 @@ Oh <name type="PERSON">God</name>, did you put this in my pizza?
 
 
 <line>
-What? Of course not. <name type="PERSON">Holly</name>hock.
+What? Of course not. Hollyhock.
 
 No. Give me the-- no!
 
@@ -1288,7 +1288,7 @@ No. Give me the-- no!
 <line>
 -Oops.
 
--<name type="PERSON">Holly</name>hock, those were for my back!
+-Hollyhock, those were for my back!
 
 </line>
 
@@ -1314,7 +1314,7 @@ Oh, then actually, oops.
 
 
 <line>
--Hey, Todd. Is everything okay?
+-Hey, <name type="PERSON">Todd</name>. Is everything okay?
 
 -I need to talk to someone,
 
@@ -1376,7 +1376,7 @@ just yesterday.
 <line>
 -This is <ital>not </ital>a studio.
 
--What do you need, Todd?
+-What do you need, <name type="PERSON">Todd</name>?
 
 </line>
 
@@ -1392,7 +1392,7 @@ and I wanna pay her back.
 
 
 <line>
--<name type="PERSON">T</name>hought you could help me brainstorm.
+-Thought you could help me brainstorm.
 
 -Okay. What kind of things does she like?
 
@@ -1484,7 +1484,7 @@ by McGruff the Crime Dog.
 
 
 <line>
-W<name type="PERSON">ho</name>, by the way, I met at a party once?
+Who, by the way, I met at a party once?
 
 Didn't ask me a single question about me.
 
@@ -1600,7 +1600,7 @@ if you know what I mean.
 
 
 <line>
-I don't. Why do Los Angeles people think
+I don't. Why do <name type="GPE">Los</name> Angeles people think
 
 everyone else understands
 
@@ -1688,7 +1688,7 @@ and I'm really happy for you.
 <line>
 Well, one day,
 
-you're <name type="PERSON">gonna</name> be a great dad.
+you're gonna be a great dad.
 
 </line>
 
@@ -1712,13 +1712,13 @@ you're <name type="PERSON">gonna</name> be a great dad.
 <line>
 This doctor is the sleaziest, dopiest,
 
-<name type="ORG">scurviest</name> of the scurvy.
+scurviest of the scurvy.
 
 </line>
 
 
 <line>
--W<name type="PERSON">ho</name> is he?
+-Who is he?
 
 -Exactly.
 
@@ -1726,15 +1726,15 @@ This doctor is the sleaziest, dopiest,
 
 
 <line>
--[<name type="PERSON">Holly</name>hock yelps]
+-[Hollyhock yelps]
 
--<name type="PERSON">Hu</name>... wants to par-tay?
+-Hu... wants to par-tay?
 
 </line>
 
 
 <line>
-Dr. <name type="PERSON">Hu</name>! Thank you for squeezing us in!
+Dr. Hu! Thank you for squeezing us in!
 
 </line>
 
@@ -1770,13 +1770,13 @@ That was a huge wake-up call for me.
 <line>
 Next morning I looked in the mirror,
 
-and you know w<name type="PERSON">ho</name> I saw staring back at me?
+and you know who I saw staring back at me?
 
 </line>
 
 
 <line>
--[<name type="PERSON">Holly</name>hock] W<name type="PERSON">ho</name>?
+-[Hollyhock] Who?
 
 -Exactly.
 
@@ -1786,13 +1786,13 @@ and you know w<name type="PERSON">ho</name> I saw staring back at me?
 <line>
 -What?
 
--No. <name type="PERSON">Hu</name>.
+-No. Hu.
 
 </line>
 
 
 <line>
-I spent 30 days at <name type="PERSON">Pastiches</name> Malibu
+I spent 30 days at <name type="PERSON">Pastiches</name> <name type="GPE">Malibu</name>
 
 and now I'm sober.
 
@@ -1826,7 +1826,7 @@ don't you think?
 
 
 <line>
-Oh, <name type="PERSON">deffo</name>. I mean, you know, get help
+Oh, deffo. I mean, you know, get help
 
 or, you know,
 
@@ -1896,7 +1896,7 @@ from when I got drugged by his mama.
 <line>
 Her mother was a maid
 
-w<name type="PERSON">ho</name> got knocked up by my dad,
+who got knocked up by my dad,
 
 but she got adopted by eight other dads.
 
@@ -1920,9 +1920,9 @@ Even the "eight dads" part?
 
 
 <line>
-I don't know w<name type="PERSON">ho</name> you think you're fooling,
+I don't know who you think you're fooling,
 
-but this <name type="PERSON">Hu</name> won't get fooled again.
+but this Hu won't get fooled again.
 
 </line>
 
@@ -1966,7 +1966,7 @@ and then I didn't get to change.
 
 
 <line>
--The thought of <name type="PERSON">"Oh</name>"?
+-The thought of "Oh"?
 
 -That's right.
 
@@ -1974,7 +1974,7 @@ and then I didn't get to change.
 
 
 <line>
-Because you're <name type="PERSON">gonna</name> need it
+Because you're gonna need it
 
 when you meet your new best friend...
 
@@ -2068,7 +2068,7 @@ of sexy robot phrases
 
 
 <line>
-Todd, I'm not sure you understand
+<name type="PERSON">Todd</name>, I'm not sure you understand
 
 how sex works.
 
@@ -2162,7 +2162,7 @@ you can tell that kid you have a crush on.
 
 
 <line>
-W<name type="PERSON">ho</name>, <name type="PERSON">Joby</name>? [chuckles]
+Who, <name type="PERSON">Joby</name>? [chuckles]
 
 I don't have a crush on him.
 
@@ -2216,7 +2216,7 @@ to see me again but she's not home now.
 <line>
 She has a book club with dumb <name type="PERSON">Nicole</name>
 
-w<name type="PERSON">ho</name> keeps picking very long <name type="NORP">Italian</name> books
+who keeps picking very long <name type="NORP">Italian</name> books
 
 that <name type="PERSON">Nicole</name> doesn't even read.
 
@@ -2394,7 +2394,7 @@ Wait, really?
 
 
 <line>
--Okay, I gotta r<name type="ORG">un</name>.
+-Okay, I gotta run.
 
 -<name type="PERSON">BoJack</name>.
 
@@ -2428,7 +2428,7 @@ I didn't deserve that?
 
 
 <line>
-Yeah, but like I said, I really gotta r<name type="ORG">un</name>.
+Yeah, but like I said, I really gotta run.
 
 </line>
 
@@ -2468,7 +2468,7 @@ to talk about this tomorrow!
 
 
 <line>
-<nonVerbComm>[<name type="PERSON">Holly</name>hock panting]</nonVerbComm> Whoa!
+<nonVerbComm>[Hollyhock panting]</nonVerbComm> Whoa!
 
 </line>
 
@@ -2500,7 +2500,7 @@ I'm very fond of that woman.
 <line>
 And I'm sure
 
-that things are <name type="PERSON">gonna</name> work out fine,
+that things are gonna work out fine,
 
 and we can find a way to be happy together
 
@@ -2652,7 +2652,7 @@ don't listen to me, right?
 
 
 <line>
-Is that really what you're <name type="PERSON">gonna</name> wear
+Is that really what you're gonna wear
 
 for the first time your new baby sees you?
 
@@ -2662,7 +2662,7 @@ for the first time your new baby sees you?
 <line>
 -Yes?
 
--<name type="PERSON">Oof</name>! Okay.
+-Oof! Okay.
 
 </line>
 
@@ -2726,7 +2726,7 @@ in<ital> Grease.</ital>
 
 
 <line>
--[<name type="PERSON">Holly</name>hock yelps]
+-[Hollyhock yelps]
 
 -[tires screech]
 
@@ -2870,13 +2870,13 @@ Here are your drugs.
 <line>
 -[tires screech, siren wails]
 
--[<name type="PERSON">BoJack</name>] R<name type="ORG">un</name>!
+-[<name type="PERSON">BoJack</name>] Run!
 
 </line>
 
 
 <line>
--[<name type="PERSON">Holly</name>hock gasps]
+-[Hollyhock gasps]
 
 -They're getting away!
 
@@ -2886,7 +2886,7 @@ Here are your drugs.
 <line>
 -Go, go, go!
 
-<name type="NORP">-[siren</name> wails]
+-[siren wails]
 
 </line>
 
@@ -2894,13 +2894,13 @@ Here are your drugs.
 <line>
 -[<name type="PERSON">BoJack</name> panting]
 
--[<name type="PERSON">Holly</name>hock moans]
+-[Hollyhock moans]
 
 </line>
 
 
 <line>
--[<name type="PERSON">Holly</name>hock] Oh, no!
+-[Hollyhock] Oh, no!
 
 -Here, get up.
 
@@ -3004,7 +3004,7 @@ then you could spend more time with me.
 <line>
 -Like we did in high school.
 
--Todd, we were dating in high school.
+-<name type="PERSON">Todd</name>, we were dating in high school.
 
 </line>
 
@@ -3204,7 +3204,7 @@ probably better off with you two.
 
 
 <line>
-We're <name type="PERSON">gonna</name> make
+We're gonna make
 
 a wonderful family together.
 
@@ -3282,7 +3282,7 @@ and you're not in them.
 
 
 <line>
-I'm not afraid of how hard it's <name type="PERSON">gonna</name> be.
+I'm not afraid of how hard it's gonna be.
 
 </line>
 
@@ -3420,7 +3420,7 @@ He sounds like a druggie.
 <line>
 -Do you <ital>really </ital>need these pills?
 
--<name type="PERSON">Holly</name>hock, how many times--
+-Hollyhock, how many times--
 
 </line>
 
@@ -3532,7 +3532,7 @@ So, I guess I'll see you later.
 
 
 <line>
--<name type="PERSON">Holly</name>hock, I'm sorry.
+-Hollyhock, I'm sorry.
 
 -Me, too.
 
@@ -3564,7 +3564,7 @@ So, thank you for... caring about me.
 
 
 <line>
--Are you <name type="PERSON">gonna</name> be okay?
+-Are you gonna be okay?
 
 -Yeah.
 
@@ -3594,7 +3594,7 @@ and do the college thing.
 
 
 <line>
-I'm <name type="PERSON">gonna</name> be fine.
+I'm gonna be fine.
 
 I get it. Drugs are bad.
 

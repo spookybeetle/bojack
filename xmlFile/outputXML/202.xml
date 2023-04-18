@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>Yesterdayland - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>Yesterdayland - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -28,7 +28,7 @@ to live a regular life.
 <line>
 Remember that time you peed
 
-in Drew Barrymore's car?
+in Barrymore's car?
 
 </line>
 
@@ -58,7 +58,7 @@ It was in your book.
 <line>
 Well, anyway, I can't believe
 
-I'm on a date with <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>.
+I'm on a date with <name type="PERSON">BoJack Horseman</name>.
 
 </line>
 
@@ -206,15 +206,15 @@ Classic <name type="PERSON">BoJack</name>. Love it.
 
 
 <line>
-<nonVerbComm>[Claire]</nonVerbComm> Oh, my <name type="PERSON">God</name>, are you Todd?
+<nonVerbComm>[Claire]</nonVerbComm> Oh, my <name type="PERSON">God</name>, are you <name type="PERSON">Todd</name>?
 
-[Todd] Uh, yes.
+[<name type="PERSON">Todd</name>] Uh, yes.
 
 </line>
 
 
 <line>
-<nonVerbComm>[Claire]</nonVerbComm> "Shut up, Todd!"
+<nonVerbComm>[Claire]</nonVerbComm> "Shut up, <name type="PERSON">Todd</name>!"
 
 </line>
 
@@ -226,7 +226,7 @@ Classic <name type="PERSON">BoJack</name>. Love it.
 
 
 <line>
-<nonVerbComm>[Todd]</nonVerbComm> Aw, okay.
+<nonVerbComm>[<name type="PERSON">Todd</name>]</nonVerbComm> Aw, okay.
 
 </line>
 
@@ -238,7 +238,7 @@ Classic <name type="PERSON">BoJack</name>. Love it.
 
 
 <line>
-Hey, Todd, can you drive me
+Hey, <name type="PERSON">Todd</name>, can you drive me
 
 to get my car?
 
@@ -380,13 +380,13 @@ dirt by the toxic waste dump
 <line>
 -up the hill from the old fire station.
 
--Okay, Todd.
+-Okay, <name type="PERSON">Todd</name>.
 
 </line>
 
 
 <line>
--I'm <name type="PERSON">gonna</name> build a Disneyland.
+-I'm gonna build a Disneyland.
 
 -Sounds great, champ.
 
@@ -410,7 +410,7 @@ for that Disneyland I'm building.
 
 
 <line>
-Kind of busy here, Todd.
+Kind of busy here, <name type="PERSON">Todd</name>.
 
 </line>
 
@@ -568,7 +568,7 @@ for our free sub.
 
 
 <line>
-<name type="PERSON">"<name type="ORG">Storky</name></name>'s,
+"<name type="ORG">Storky</name>'s,
 
 where your 81st sandwich is free."
 
@@ -654,7 +654,7 @@ where no one knows your name.
 
 
 <line>
--[<name type="PERSON">Pinky</name>] <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>!
+-[<name type="PERSON">Pinky</name>] <name type="PERSON">BoJack Horseman</name>!
 
 -<name type="PERSON">Pinky</name>? Hey, how are you?
 
@@ -676,7 +676,7 @@ Oh, great!
 <line>
 -How's the book biz?
 
--W<name type="PERSON">ho</name> knows?
+-Who knows?
 
 </line>
 
@@ -724,7 +724,7 @@ Do you know <name type="PERSON">Wanda</name> Pierce?
 <line>
 <name type="PERSON">Wanda</name> just got named head
 
-of programming at <name type="ORG">MBN</name>.
+of programming at MBN.
 
 </line>
 
@@ -848,7 +848,7 @@ Huh.
 
 
 <line>
-<nonVerbComm>[woman over <name type="GPE">PA</name>]</nonVerbComm>
+<nonVerbComm>[woman over PA]</nonVerbComm>
 
 <ital>And here's a special request.</ital>
 
@@ -872,13 +872,13 @@ Huh.
 <line>
 <name type="PERSON">Wanda</name>, meet
 
-the one and only <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>.
+the one and only <name type="PERSON">BoJack Horseman</name>.
 
 </line>
 
 
 <line>
--W<name type="PERSON">ho</name>?
+-Who?
 
 -<name type="PERSON">BoJack</name>.
 
@@ -886,9 +886,9 @@ the one and only <name type="PERSON">BoJack</name> <name type="PERSON">Horseman<
 
 
 <line>
--W<name type="PERSON">ho</name>?
+-Who?
 
--<name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>.
+-<name type="PERSON">BoJack Horseman</name>.
 
 </line>
 
@@ -1056,7 +1056,7 @@ on <ital>Murphy <name type="PERSON">Brown</name></ital>.
 
 
 <line>
--W<name type="PERSON">ho</name>?
+-Who?
 
 -Hey, you want to get out of here?
 
@@ -1064,7 +1064,7 @@ on <ital>Murphy <name type="PERSON">Brown</name></ital>.
 
 
 <line>
-I don't want <name type="ORG">MBN</name> to just be another boring
+I don't want MBN to just be another boring
 
 old network, you know what I mean?
 
@@ -1244,7 +1244,7 @@ until the end of the tour.
 <line>
 Here we have
 
-Mr. Todd's Wild Death-Coaster.
+Mr. <name type="PERSON">Todd</name>'s Wild Death-Coaster.
 
 </line>
 
@@ -1374,7 +1374,7 @@ that's also negative, but you know.
 <line>
 It's like some sort of <name type="ORG">Disney</name> version
 
-of Knott's Berry Farm.
+of <name type="ORG">Knott</name>'s Berry Farm.
 
 </line>
 
@@ -1408,7 +1408,7 @@ as kind of just my thing.
 <line>
 Well, technically, you did build this
 
-while working for <name type="PERSON">P.B. Livin</name>,
+while working for P.B. Livin,
 
 so I have the blah-blah-blah
 
@@ -1430,7 +1430,7 @@ I mean, that's just good business.
 
 
 <line>
-We're in this together now, Todd,
+We're in this together now, <name type="PERSON">Todd</name>,
 
 and nothing will distract me from--
 
@@ -1458,7 +1458,7 @@ with a steel pipe.
 <line>
 You really think I'm the guy
 
-w<name type="PERSON">ho</name> busted that pinto's leg?
+who busted that pinto's leg?
 
 </line>
 
@@ -1524,7 +1524,7 @@ where she was a professional.
 
 
 <line>
-W<name type="PERSON">ho</name>? [giggles]
+Who? [giggles]
 
 People are watching.
 
@@ -1618,7 +1618,7 @@ settle into a routine.
 <line>
 You meet someone
 
-w<name type="PERSON">ho</name> loves you unconditionally
+who loves you unconditionally
 
 and never challenges you
 
@@ -1870,7 +1870,7 @@ because we both breathe air.
 <line>
 <nonVerbComm>[both]</nonVerbComm>
 
-W<name type="PERSON">ho</name>? <name type="PERSON">Jinx</name>. Buy me a <name type="ORG">Coke</name> Zero.
+Who? <name type="PERSON">Jinx</name>. Buy me a <name type="ORG">Coke</name> Zero.
 
 </line>
 
@@ -1972,7 +1972,7 @@ I got here as fast as I could.
 
 
 <line>
-Where's this next <name type="PERSON">Haley Joel</name> Osment?
+Where's this next Joel</name> Osment?
 
 </line>
 
@@ -1986,7 +1986,7 @@ Where's this next <name type="PERSON">Haley Joel</name> Osment?
 
 
 <line>
--There's never a next <name type="PERSON">Haley Joel</name> Osment.
+-There's never a next Joel</name> Osment.
 
 -And there never will be.
 
@@ -1994,11 +1994,11 @@ Where's this next <name type="PERSON">Haley Joel</name> Osment?
 
 
 <line>
-Sorry I tricked you, but with Todd
+Sorry I tricked you, but with <name type="PERSON">Todd</name>
 
 running his own Disneyland
 
-and actress Margo Martindale
+and actress <name type="PERSON">Margo</name> <name type="PERSON">Martindale</name>
 
 in prison
 
@@ -2058,7 +2058,7 @@ into this other guy's arms.
 <line>
 <ital>This is Comrade Alexander</ital>
 
-<ital>calling <name type="ORG">KGB</name> High Command.</ital>
+<ital>calling KGB High Command.</ital>
 
 </line>
 
@@ -2080,7 +2080,7 @@ the American dogs and pigs
 
 and other various animals and humans.
 
-Come in, <name type="ORG">KGB</name> High Command.
+Come in, KGB High Command.
 
 </line>
 
@@ -2126,7 +2126,7 @@ doing here was 100 percent legal,
 <line>
 As it turns out, it's not legal at all.
 
-W<name type="PERSON">ho</name> knew?
+Who knew?
 
 </line>
 
@@ -2150,7 +2150,7 @@ W<name type="PERSON">ho</name> knew?
 <line>
 Okay. But also I'm hungry, so I might
 
-just stop by <name type="ORG">the food court</name> first.
+just stop by the food court first.
 
 </line>
 
@@ -2172,7 +2172,7 @@ dumbest case I've ever adjudicated.
 
 
 <line>
-I'm just <name type="PERSON">gonna</name> throw this out there.
+I'm just gonna throw this out there.
 
 </line>
 
@@ -2194,7 +2194,7 @@ so "Disneyland" is still up for grabs?
 <line>
 Okay, well, let's have a look
 
-at <name type="ORG">the Articles of Incorporation</name> to see
+at the Articles of Incorporation to see
 
 if Walt <name type="ORG">Disney</name> accidentally trademarked
 
@@ -2212,13 +2212,13 @@ the wrong name. I'm sure these--
 <line>
 -What?
 
--There's a typo. <name type="PERSON">Di-isneyland</name>.
+-There's a typo. Di-isneyland.
 
 </line>
 
 
 <line>
-With two "i"s. That son of a g<name type="ORG">un</name>
+With two "i"s. That son of a gun
 
 trademarked the wrong name.
 
@@ -2368,7 +2368,7 @@ and his name is <name type="LOC">Pluto</name>.
 
 
 <line>
-Todd, no.
+<name type="PERSON">Todd</name>, no.
 
 </line>
 
@@ -2420,7 +2420,7 @@ why I invited you all here tonight.
 <line>
 You said it was to celebrate
 
-Todd's legal victory.
+<name type="PERSON">Todd</name>'s legal victory.
 
 </line>
 
@@ -2472,7 +2472,7 @@ We have a special guest here tonight.
 
 
 <line>
-<name type="PERSON">Alex</name> is a <name type="ORG">KGB</name> agent
+<name type="PERSON">Alex</name> is a KGB agent
 
 bent on destroying <name type="GPE">America</name>.
 
@@ -2500,7 +2500,7 @@ Okay, yes. It's true.
 
 
 <line>
-I was a deep-cover <name type="ORG">KGB</name> operative
+I was a deep-cover KGB operative
 
 before I went into my coma.
 
@@ -2532,9 +2532,9 @@ No! He's-- It's not adorable!
 
 
 <line>
-He's a <name type="NORP">soviet</name> sleeper-agent
+He's a soviet sleeper-agent
 
-w<name type="PERSON">ho</name> doesn't realize the Cold War is over.
+who doesn't realize the Cold War is over.
 
 </line>
 
@@ -2554,7 +2554,7 @@ And then I met all of you, my friends.
 
 
 <line>
-But if you're <name type="PERSON">gonna</name> kick me to the curb
+But if you're gonna kick me to the curb
 
 just because I think
 
@@ -2634,7 +2634,7 @@ to the amazing guy
 <line>
 I spent the last few days with,
 
-because if this is w<name type="PERSON">ho</name> you are,
+because if this is who you are,
 
 </line>
 
@@ -2822,7 +2822,7 @@ When I was--
 
 
 <line>
--Todd! There's something I gotta say!
+-<name type="PERSON">Todd</name>! There's something I gotta say!
 
 -Hey, I'm kind of already doing--
 
@@ -2946,7 +2946,7 @@ Oh, no, no, no. No!
 
 
 <line>
-Quick, Todd! The mattress pile!
+Quick, <name type="PERSON">Todd</name>! The mattress pile!
 
 </line>
 
@@ -3182,7 +3182,7 @@ I saved us.
 
 
 <line>
-<name type="PERSON">Woo-hoo</name>!
+Woo-hoo!
 
 </line>
 
@@ -3308,7 +3308,7 @@ It's crazy, but let's do it!
 <line>
 <ital>♪ It's been so long</ital>
 
-<ital>I don't think I'm <name type="PERSON">gonna</name> last ♪</ital>
+<ital>I don't think I'm gonna last ♪</ital>
 
 </line>
 

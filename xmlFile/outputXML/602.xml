@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>The New Client - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>The New Client - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -98,7 +98,7 @@ What?
 <line>
 This is clearly the face
 
-of a guy w<name type="PERSON">ho</name> did something terrible,
+of a guy who did something terrible,
 
 like, I don't know,
 
@@ -154,7 +154,7 @@ I've ever seen.
 <line>
 I gotta go prep my next film,
 
-<ital>The Diary of <name type="PERSON">Anne</name> Frankenstein.</ital>
+<ital>The Diary of Frankenstein.</ital>
 
 </line>
 
@@ -228,7 +228,7 @@ is another great idea for a movie!
 
 
 <line>
-<nonVerbComm>[exhales]</nonVerbComm> Yeah. Sounds like f<name type="ORG">un</name>.
+<nonVerbComm>[exhales]</nonVerbComm> Yeah. Sounds like fun.
 
 </line>
 
@@ -276,7 +276,7 @@ Third time this week.
 
 
 <line>
-W<name type="PERSON">ho</name> will take care of <name type="PERSON">Natalie</name>, or Needles,
+Who will take care of <name type="PERSON">Natalie</name>, or Needles,
 
 or whatever her name ends up being?
 
@@ -300,7 +300,7 @@ in your field, so I ask you this:
 <line>
 would you work for a client
 
-w<name type="PERSON">ho</name> has no regard for your time,
+who has no regard for your time,
 
 </line>
 
@@ -452,7 +452,7 @@ A-Wink Day!
 
 
 <line>
-That sounds f<name type="ORG">un</name>.
+That sounds fun.
 
 I gotta go to a bunch of meetings today.
 
@@ -460,9 +460,9 @@ I gotta go to a bunch of meetings today.
 
 
 <line>
--Or as I call it, Todd-day.
+-Or as I call it, <name type="PERSON">Todd</name>-day.
 
--Todd-day, yes, I'm aware.
+-<name type="PERSON">Todd</name>-day, yes, I'm aware.
 
 </line>
 
@@ -472,7 +472,7 @@ I gotta go to a bunch of meetings today.
 
 -After I got fired
 
-from <ital>What Time Is It Right Now,</ital>
+from <ital>What <name type="ORG">Time</name> Is It Right Now,</ital>
 
 suddenly everyone else wanted to meet me.
 
@@ -482,7 +482,7 @@ suddenly everyone else wanted to meet me.
 <line>
 That's marvelous!
 
-Have f<name type="ORG">un</name> failing upwards!
+Have fun failing upwards!
 
 </line>
 
@@ -596,9 +596,9 @@ of that assistant from, like, 20 years ago
 
 
 <line>
-w<name type="PERSON">ho</name> I screamed at for bringing me
+who I screamed at for bringing me
 
-a room-temp Capri S<name type="ORG">un</name>
+a room-temp Capri Sun
 
 </line>
 
@@ -612,7 +612,7 @@ Whatever happened to that guy?
 
 
 <line>
-<ital>Derek? I think he quit the business.</ital>
+<ital><name type="PERSON">Derek</name>? I think he quit the business.</ital>
 
 </line>
 
@@ -694,7 +694,7 @@ about the <ital>Manatee Fair</ital> photo shoot
 
 for the "Hollywoo Women
 
-W<name type="PERSON">ho</name> Do It All" issue.
+Who Do It All" issue.
 
 </line>
 
@@ -752,7 +752,7 @@ but I'm too busy doing it all
 
 to pose for a photo
 
-of "Women W<name type="PERSON">ho</name> Do It All."
+of "Women Who Do It All."
 
 </line>
 
@@ -910,7 +910,7 @@ for my magazine.
 
 
 <line>
-Todd, I have to go to a photo shoot.
+<name type="PERSON">Todd</name>, I have to go to a photo shoot.
 
 </line>
 
@@ -924,7 +924,7 @@ for an hour or so.
 
 
 <line>
-<nonVerbComm>[Todd]</nonVerbComm> <ital>Well, you know</ital>
+<nonVerbComm>[<name type="PERSON">Todd</name>]</nonVerbComm> <ital>Well, you know</ital>
 
 <ital>how much I love hanging out</ital>
 
@@ -946,7 +946,7 @@ for an hour or so.
 
 
 <line>
-Great. I'll see you at <name type="ORG">VIM</name> in 15 minutes.
+Great. I'll see you at VIM in 15 minutes.
 
 </line>
 
@@ -982,7 +982,7 @@ apps running at the same time.
 <line>
 I have my mom app, and my career app,
 
-and my wife app, and my <name type="PERSON">yo</name><name type="PERSON">ga</name> body app,
+and my wife app, and my yoga body app,
 
 and they're all just constantly going,
 
@@ -1000,7 +1000,7 @@ all the time.
 
 
 <line>
-You've met my oldest, Yancy Charlemagne?
+You've met my oldest, <name type="GPE">Yancy</name> Charlemagne?
 
 </line>
 
@@ -1032,7 +1032,7 @@ to bring our kids.
 <line>
 It's a photo shoot
 
-for "Women W<name type="PERSON">ho</name> Do It All."
+for "Women Who Do It All."
 
 </line>
 
@@ -1040,7 +1040,7 @@ for "Women W<name type="PERSON">ho</name> Do It All."
 <line>
 The kids are part of the "All,"
 
-otherwise we'd just be "Women W<name type="PERSON">ho</name> Do."
+otherwise we'd just be "Women Who Do."
 
 </line>
 
@@ -1062,7 +1062,7 @@ otherwise we'd just be "Women W<name type="PERSON">ho</name> Do."
 <line>
 -Hello?
 
--Todd. Change of plans.
+-<name type="PERSON">Todd</name>. Change of plans.
 
 </line>
 
@@ -1082,7 +1082,7 @@ Come on. Shh. Please, not now.
 
 
 <line>
--And w<name type="PERSON">ho</name> is this adorable pin cushion?
+-And who is this adorable pin cushion?
 
 -[baby crying]
 
@@ -1292,7 +1292,7 @@ You know, it all!
 
 
 <line>
-Princess Carolyn, <name type="ORG">VIM</name> has that massive
+Princess Carolyn, VIM has that massive
 
 foyer that never has anyone waiting in it.
 
@@ -1554,7 +1554,7 @@ Got it. [shushes]
 
 
 <line>
-Marian is a vegetarian, <name type="PERSON">Meagan</name> is vegan,
+<name type="PERSON">Marian</name> is a vegetarian, <name type="PERSON">Meagan</name> is vegan,
 
 and <name type="PERSON">Carrie</name> and a few other luminaries,
 
@@ -1570,7 +1570,7 @@ say ta-ta to the tartare,
 
 make sure there's no feta for <name type="PERSON">Greta</name>
 
-or brie for Brie!
+or brie for <name type="PERSON">Brie</name>!
 
 </line>
 
@@ -1656,7 +1656,7 @@ this boring senator.
 
 prime minister
 
-w<name type="PERSON">ho</name> had a baby while in office.
+who had a baby while in office.
 
 </line>
 
@@ -1720,7 +1720,7 @@ went missing in this wheat field?
 <line>
 -Oh, there she is!
 
-<name type="PERSON">-[woman</name> hums]
+-[woman hums]
 
 </line>
 
@@ -1728,7 +1728,7 @@ went missing in this wheat field?
 <line>
 Move the vase over there.
 
-<name type="PERSON">T</name>hose flowers are dead.
+Those flowers are dead.
 
 </line>
 
@@ -1758,7 +1758,7 @@ Okay, I follow so far.
 <line>
 For this gala, Gala apples over <name type="LOC">Fuji</name>
 
-for <name type="ORG">the Bee Gees</name>-- I mean, <name type="GPE">Fugees</name>.
+for the Bee Gees-- I mean, <name type="GPE">Fugees</name>.
 
 </line>
 
@@ -1784,13 +1784,13 @@ Right. That's what I meant.
 
 
 <line>
-Also, it turns out Marian is pescatarian,
+Also, it turns out <name type="PERSON">Marian</name> is pescatarian,
 
 and <name type="PERSON">Meagan</name> is no longer vegan,
 
 but she is refusing to sit
 
-next to <name type="PERSON">Chrissy Teigen</name>.
+next to Chrissy Teigen.
 
 </line>
 
@@ -1802,7 +1802,7 @@ And now <name type="PERSON">Carrie</name> eats just dairy.
 
 
 <line>
-Okay. Marian - pescatarian.
+Okay. <name type="PERSON">Marian</name> - pescatarian.
 
 <name type="PERSON">Meagan</name> - not vegan,
 
@@ -1926,7 +1926,7 @@ come collect your "favorite client"?
 
 
 <line>
-<name type="LOC">Fuji</name> koojee koojee, <name type="PERSON">Greta</name> feta, Brie brie.
+<name type="LOC">Fuji</name> koojee koojee, <name type="PERSON">Greta</name> feta, <name type="PERSON">Brie</name> brie.
 
 </line>
 
@@ -1934,7 +1934,7 @@ come collect your "favorite client"?
 <line>
 -[phone rings]
 
--Oh, hi, Brie-- I-I mean, Flea.
+-Oh, hi, <name type="PERSON">Brie</name>-- I-I mean, Flea.
 
 </line>
 
@@ -1994,11 +1994,11 @@ I'm prepping a sensitive
 
 coming-of-age movie
 
-about a <name type="PERSON">yo</name>ung girl in hiding,
+about a young girl in hiding,
 
 built out of the reanimated corpses
 
-of other <name type="PERSON">yo</name>ung girls in hiding.
+of other young girls in hiding.
 
 </line>
 
@@ -2074,7 +2074,7 @@ I have to pick up my Peanutbutter
 
 at <name type="PERSON">Pastiches</name>
 
-and get back to <name type="NORP">Fiji</name> for <name type="ORG">the Bee Gees</name>--
+and get back to <name type="NORP">Fiji</name> for the Bee Gees--
 
 </line>
 
@@ -2168,7 +2168,7 @@ Huh? What? [gasps]
 <line>
 -Oh, yeah! Mr. Peanutbutter.
 
-<ital>-<music>♪ W<name type="PERSON">ho</name>'s that dog? ♪</music></ital>
+<ital>-<music>♪ Who's that dog? ♪</music></ital>
 
 </line>
 
@@ -2278,7 +2278,7 @@ with this expression of tremendous pain.
 
 
 <line>
-How could this man, w<name type="PERSON">ho</name> claims
+How could this man, who claims
 
 to love her, betray her so flagrantly?
 
@@ -2316,7 +2316,7 @@ You've been acting different.
 <line>
 I first noticed it the night
 
-of the <ital><name type="PERSON">Phil</name><name type="PERSON">bert</name></ital> premiere,
+of the <ital>Philbert</ital> premiere,
 
 when you came home late
 
@@ -2400,7 +2400,7 @@ It is. The one thing.
 
 
 <line>
--<name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>...
+-<name type="PERSON">BoJack Horseman</name>...
 
 -[gasps]
 
@@ -2448,7 +2448,7 @@ for the friends and family meeting?
 
 
 <line>
--I did not <name type="NORP">invite--</name>
+-I did not invite--
 
 -I'm proud of you, <name type="PERSON">BoJack</name>.
 
@@ -2718,7 +2718,7 @@ inconsiderate <name type="PERSON">Doug</name>!
 
 
 <line>
-Wow. <name type="PERSON">T</name>hose are harsh words.
+Wow. Those are harsh words.
 
 </line>
 
@@ -2830,7 +2830,7 @@ Oh, my <name type="PERSON">God</name>, my baby!
 
 
 <line>
-Come on, Todd.
+Come on, <name type="PERSON">Todd</name>.
 
 Pick up, pick up, pick up, pick up.
 
@@ -2840,15 +2840,15 @@ Pick up, pick up, pick up, pick up.
 <line>
 Hey! I was wondering if I'd hear
 
-from you Todd-day.
+from you <name type="PERSON">Todd</name>-day.
 
 </line>
 
 
 <line>
-Yes-Todd-Day, I thought,
+Yes-<name type="PERSON">Todd</name>-Day, I thought,
 
-"Maybe I'll hear from her Todd-morrow!"
+"Maybe I'll hear from her <name type="PERSON">Todd</name>-morrow!"
 
 </line>
 
@@ -2882,7 +2882,7 @@ Is Untitled Princess Carolyn Project okay?
 
 
 <line>
-W<name type="PERSON">ho</name> else would I be talking about?
+Who else would I be talking about?
 
 </line>
 
@@ -2922,7 +2922,7 @@ Oh, hold on one second.
 
 
 <line>
-Todd, I have to go to a photo shoot.
+<name type="PERSON">Todd</name>, I have to go to a photo shoot.
 
 </line>
 
@@ -2940,7 +2940,7 @@ Well, you know how much I love hanging out
 
 with Untitled Princess Carolyn Project,
 
-but I can't Todd-day
+but I can't <name type="PERSON">Todd</name>-day
 
 </line>
 
@@ -2970,7 +2970,7 @@ I'd say...
 
 
 <line>
--Great. I'll see you at <name type="ORG">VIM</name> in 15 minutes.
+-Great. I'll see you at VIM in 15 minutes.
 
 -[baby crying]
 
@@ -3002,7 +3002,7 @@ I'll be right back.
 <line>
 -Hello?
 
--Todd, change of plans.
+-<name type="PERSON">Todd</name>, change of plans.
 
 </line>
 
@@ -3010,7 +3010,7 @@ I'll be right back.
 <line>
 Bring the baby over to me
 
-at <name type="ORG">SmashFox Studios</name>.
+at SmashFox Studios.
 
 </line>
 
@@ -3032,7 +3032,7 @@ but he will see you now.
 
 
 <line>
-I'm going to level with you, Todd.
+I'm going to level with you, <name type="PERSON">Todd</name>.
 
 </line>
 
@@ -3236,7 +3236,7 @@ I already canceled
 <line>
 I told the shareholders
 
-this was <name type="PERSON">gonna</name> save the network!
+this was gonna save the network!
 
 </line>
 
@@ -3250,7 +3250,7 @@ this was <name type="PERSON">gonna</name> save the network!
 
 
 <line>
-Todd, we need a show. We can't air a baby!
+<name type="PERSON">Todd</name>, we need a show. We can't air a baby!
 
 </line>
 
@@ -3286,7 +3286,7 @@ So, the show is called <ital>Birthday <name type="PERSON">Dad</name>.</ital>
 <line>
 The pilot was directed by Flea Daniels,
 
-and the show will be r<name type="ORG">un</name> by <name type="PERSON">Karen</name> Kitada.
+and the show will be run by <name type="PERSON">Karen</name> Kitada.
 
 </line>
 
@@ -3310,7 +3310,7 @@ And <ital><name type="ORG">Med School</name> Nights: The New Class,</ital>
 
 -This show's about a dad
 
-w<name type="PERSON">ho</name> died on his birthday,
+who died on his birthday,
 
 and every episode,
 
@@ -3342,7 +3342,7 @@ How does Birthday <name type="PERSON">Dad</name> die?
 
 
 <line>
-<name type="PERSON">T</name>hose are mysteries we'll tease
+Those are mysteries we'll tease
 
 all season!
 
