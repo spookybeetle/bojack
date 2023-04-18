@@ -15,10 +15,12 @@
     <ital>Horsin' Around </ital>is filmed before a live studio audience. </line>
 
 
-  <line> <nonVerbComm>[sighs]</nonVerbComm> Mondays. </line>
+  <line>
+    <nonVerbComm>[sighs]</nonVerbComm> Mondays. </line>
 
 
-  <line> <nonVerbComm>[laughs]</nonVerbComm> Well, good morning to you too. </line>
+  <line>
+    <nonVerbComm>[laughs]</nonVerbComm> Well, good morning to you too. </line>
 
 
   <line> Oh, hey. </line>
@@ -27,10 +29,14 @@
   <line> Where? I'd love hay. </line>
 
 
-  <line> <nonVerbComm>[chuffs]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[chuffs]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[laughs]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[laughs]</nonVerbComm>
+  </line>
 
 
   <line> In 1987, the situation comedy <ital>Horsin' Around</ital>
@@ -150,7 +156,9 @@
   <line> Um... </line>
 
 
-  <line> <nonVerbComm>[funky electronic music]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[funky electronic music]</nonVerbComm>
+  </line>
 
 
   <line>
@@ -184,7 +192,9 @@
   <line> Morning, sunshine. </line>
 
 
-  <line> <nonVerbComm>[groans]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[groans]</nonVerbComm>
+  </line>
 
 
   <line> Why so gloomy, roomie? </line>
@@ -214,7 +224,9 @@
   <line> and I had nowhere to go, and even though you don't want anyone to know it... </line>
 
 
-  <line> <nonVerbComm>[blender whirring]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[blender whirring]</nonVerbComm>
+  </line>
 
 
   <line> You secretly have a good heart. </line>
@@ -247,13 +259,17 @@
   <line> I got really high last night and ate them all. </line>
 
 
-  <line> <nonVerbComm>[sighs]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[sighs]</nonVerbComm>
+  </line>
 
 
   <line> Did you say you've had tapeworms? </line>
 
 
-  <line> <nonVerbComm>[upbeat music]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[upbeat music]</nonVerbComm>
+  </line>
 
 
   <line>
@@ -329,10 +345,14 @@
   <line> Whenever you're ready. </line>
 
 
-  <line> <nonVerbComm>[clears throat]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[clears throat]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[sighs]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[sighs]</nonVerbComm>
+  </line>
 
 
   <line> We're living month to month here. </line>
@@ -369,10 +389,14 @@
   <line> I'm telling you, this book is a top priority for me. </line>
 
 
-  <line> <nonVerbComm>[laughter on TV]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[laughter on TV]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[cell phone vibrates] [upbeat tune plays]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[cell phone vibrates] [upbeat tune plays]</nonVerbComm>
+  </line>
 
 
   <line> Oh, right. Yeesh. </line>
@@ -398,7 +422,9 @@
   </line>
 
 
-  <line> <nonVerbComm>[laughs]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[laughs]</nonVerbComm>
+  </line>
 
 
   <line> "Neigh way, Jose." </line>
@@ -425,7 +451,9 @@
   <line> - I get it. - Ah, you don't get it. </line>
 
 
-  <line> <nonVerbComm>[cheerful music on TV]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[cheerful music on TV]</nonVerbComm>
+  </line>
 
 
   <line>
@@ -486,7 +514,9 @@
   </line>
 
 
-  <line> <nonVerbComm>[belches]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[belches]</nonVerbComm>
+  </line>
 
 
   <line> Are you drunk? </line>
@@ -507,7 +537,9 @@
   <line> You're just bummed out because Princess Carolyn dumped you last night. </line>
 
 
-  <line> <nonVerbComm>[jazz music]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[jazz music]</nonVerbComm>
+  </line>
 
 
   <line> BoJack, we need to talk. </line>
@@ -519,7 +551,9 @@
   <line> Slow and steady, am I right, ladies? </line>
 
 
-  <line> <nonVerbComm>[girls giggle]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[girls giggle]</nonVerbComm>
+  </line>
 
 
   <line> Ha-cha-cha. </line>
@@ -558,7 +592,9 @@
   <line> Were we not seeing other people? </line>
 
 
-  <line> <nonVerbComm>[moaning]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[moaning]</nonVerbComm>
+  </line>
 
 
   <line> BoJack, I'm almost there. </line>
@@ -638,22 +674,34 @@
   <line> What? What? What? No, no, wha-- </line>
 
 
-  <line> <nonVerbComm>[horn honks] [glass shatters]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[horn honks] [glass shatters]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[car door opens and closes] [engine turns over]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[car door opens and closes] [engine turns over]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[tires squealing] [glass shattering]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[tires squealing] [glass shattering]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[engine revving]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[engine revving]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[tires screeching]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[tires screeching]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[loud crash] [sirens blaring]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[loud crash] [sirens blaring]</nonVerbComm>
+  </line>
 
 
   <line>
@@ -900,7 +948,9 @@
   <line> Hey, aren't you the horse from <ital>Horsin' Around</ital>? </line>
 
 
-  <line> <nonVerbComm>[retching]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[retching]</nonVerbComm>
+  </line>
 
 
   <line> That was a good party. </line>
@@ -940,10 +990,14 @@
   <line> Hey-up! </line>
 
 
-  <line> <nonVerbComm>[screams]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[screams]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[cell phone vibrates] [upbeat tune plays]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[cell phone vibrates] [upbeat tune plays]</nonVerbComm>
+  </line>
 
 
   <line> Hello? </line>
@@ -1036,7 +1090,9 @@
   <line> Yes, fine! </line>
 
 
-  <line> <nonVerbComm>[laid-back rock music]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[laid-back rock music]</nonVerbComm>
+  </line>
 
 
   <line> Whoo! </line>
@@ -1054,7 +1110,9 @@
   <line> This company is in dire straits. </line>
 
 
-  <line> <nonVerbComm>[screams] [alarm blares]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[screams] [alarm blares]</nonVerbComm>
+  </line>
 
 
   <line> We made a series of very bad investments. </line>
@@ -1084,7 +1142,9 @@
   <line> I live a very active lifestyle. </line>
 
 
-  <line> <nonVerbComm>[laughter on TV]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[laughter on TV]</nonVerbComm>
+  </line>
 
 
   <line>
@@ -1145,7 +1205,9 @@
   <line> Yes! </line>
 
 
-  <line> <nonVerbComm>[clears throat]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[clears throat]</nonVerbComm>
+  </line>
 
 
   <line> We're tired of waiting. </line>
@@ -1192,10 +1254,14 @@
     from the Swamp Monsters swag box. </line>
 
 
-  <line> <nonVerbComm>[electricity crackles]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[electricity crackles]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[upbeat music]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[upbeat music]</nonVerbComm>
+  </line>
 
 
   <line> Oh, God, I'm a failure. </line>
@@ -1225,7 +1291,9 @@
   <line> And that's for trying to sell E on the cartel's turf. </line>
 
 
-  <line> <nonVerbComm>[coughs]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[coughs]</nonVerbComm>
+  </line>
 
 
   <line> Oh, where's Gabriela? </line>
@@ -1300,7 +1368,9 @@
   <line> Ugh, I really got to start putting my phone on airplane mode when I drink. </line>
 
 
-  <line> <nonVerbComm>[hisses]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[hisses]</nonVerbComm>
+  </line>
 
 
   <line> This lady probably thinks I'm just some dumb sitcom actor. </line>
@@ -1340,10 +1410,14 @@
   <line> You owe me a party, <ital>cabrón</ital>, and if you don't deliver-- </line>
 
 
-  <line> <nonVerbComm>[muffled whimpers]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[muffled whimpers]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[gunshot]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[gunshot]</nonVerbComm>
+  </line>
 
 
   <line> Because parties are fun? </line>
@@ -1403,16 +1477,23 @@
   <line> You're not dying. </line>
 
 
-  <line> <nonVerbComm>[monitor beeping]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[monitor beeping]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[steady tone]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[steady tone]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[groans]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[groans]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[sighs]</nonVerbComm> Well, we did everything we could. </line>
+  <line>
+    <nonVerbComm>[sighs]</nonVerbComm> Well, we did everything we could. </line>
 
 
   <line> Nurse, record the time of death. </line>
@@ -1424,10 +1505,13 @@
   <line> It never gets easier. </line>
 
 
-  <line> <nonVerbComm>[both sigh]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[both sigh]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[Sabrina crying]</nonVerbComm> What-- I don't-- </line>
+  <line>
+    <nonVerbComm>[Sabrina crying]</nonVerbComm> What-- I don't-- </line>
 
 
   <line> What do you mean he's dead? </line>
@@ -1547,7 +1631,9 @@
   <line> What, you want me to call this woman on the phone? </line>
 
 
-  <line> <nonVerbComm>[gasps]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[gasps]</nonVerbComm>
+  </line>
 
 
   <line> Well, you just had another anxiety attack. </line>
@@ -1556,7 +1642,9 @@
   <line> And <ital>Entertainment Weekly</ital> said I wasn't consistent. </line>
 
 
-  <line> <nonVerbComm>[laughs]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[laughs]</nonVerbComm>
+  </line>
 
 
   <line> Really, not even a pity laugh? </line>
@@ -1599,19 +1687,29 @@
   <line> I totally hear what you are saying, and I will do my best. </line>
 
 
-  <line> <nonVerbComm>[mariachi music]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[mariachi music]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[singing in Spanish]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[singing in Spanish]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[laughter]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[laughter]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[cheering]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[cheering]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[laughter]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[laughter]</nonVerbComm>
+  </line>
 
 
   <line> Señor Horseman, I will never forget your generosity today. </line>
@@ -1641,7 +1739,9 @@
   <line> Now who's racist? </line>
 
 
-  <line> <nonVerbComm>[laughter]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[laughter]</nonVerbComm>
+  </line>
 
 
   <line> I find that piñata offensive. </line>
@@ -1704,7 +1804,9 @@
   </line>
 
 
-  <line> <nonVerbComm>[sighs]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[sighs]</nonVerbComm>
+  </line>
 
 
   <line> Hey, BoJack, right? </line>
@@ -1984,13 +2086,17 @@
   <line> Humph. </line>
 
 
-  <line> <nonVerbComm>[retching]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[retching]</nonVerbComm>
+  </line>
 
 
   <line> - Ugh. - Oh, my God. </line>
 
 
-  <line> <nonVerbComm>[retching]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[retching]</nonVerbComm>
+  </line>
 
 
   <line> Are you okay? </line>
@@ -1999,13 +2105,16 @@
   <line> I'm just-- </line>
 
 
-  <line> <nonVerbComm>[retching]</nonVerbComm> I'm fine. </line>
+  <line>
+    <nonVerbComm>[retching]</nonVerbComm> I'm fine. </line>
 
 
   <line> I'm just-- I'm really happy for you. </line>
 
 
-  <line> <nonVerbComm>[retching]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[retching]</nonVerbComm>
+  </line>
 
 
   <line> Should we get someone, or... </line>
@@ -2023,13 +2132,17 @@
   <line> Oh, God. </line>
 
 
-  <line> <nonVerbComm>[retching]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[retching]</nonVerbComm>
+  </line>
 
 
   <line> Starting now. </line>
 
 
-  <line> <nonVerbComm>[upbeat music]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[upbeat music]</nonVerbComm>
+  </line>
 
 
   <line>
@@ -2170,6 +2283,4 @@
     </ital>
 
   </line>
-
-
 </script>
