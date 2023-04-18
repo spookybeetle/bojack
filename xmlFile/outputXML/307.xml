@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>Stop the Presses - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>Stop the Presses - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -40,7 +40,7 @@
 <line>
 Guys, I think we could use
 
-another phone <name type="PERSON">jack</name> over here.
+another phone jack over here.
 
 </line>
 
@@ -76,7 +76,7 @@ We wanna reach out and grab you.
 <line>
 -Sorry. The other thing.
 
--[Todd] Okay. Watch the couch.
+-[<name type="PERSON">Todd</name>] Okay. Watch the couch.
 
 </line>
 
@@ -104,7 +104,7 @@ Mind if I put you on hold one second?
 <line>
 Don't put me on hold.
 
-Do you know w<name type="PERSON">ho</name> I am?
+Do you know who I am?
 
 </line>
 
@@ -122,7 +122,7 @@ seven of the last 15 years.
 
 
 <line>
-So, yeah, <ital>that </ital><name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>.
+So, yeah, <ital>that </ital><name type="PERSON">BoJack Horseman</name>.
 
 </line>
 
@@ -160,7 +160,7 @@ I'm putting you on hold.
 
 
 <line>
-<name type="PERSON">Guy</name>'s name is <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>.
+<name type="PERSON">Guy</name>'s name is <name type="PERSON">BoJack Horseman</name>.
 
 He's pretty steamed.
 
@@ -262,7 +262,7 @@ Get out of my way, please.
 <line>
 We have a situation on line two.
 
-Name's <name type="PERSON">Horseman</name>. <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>.
+Name's <name type="PERSON">Horseman</name>. <name type="PERSON">BoJack Horseman</name>.
 
 </line>
 
@@ -300,9 +300,9 @@ with 100 percent sincerity...
 
 
 <line>
-I never subscribed to the <ital><name type="GPE">L.A.</name> Gazette.</ital>
+I never subscribed to the <ital>L.A. Gazette.</ital>
 
-I do not read the <ital><name type="GPE">L.A.</name> Gazette.</ital>
+I do not read the <ital>L.A. Gazette.</ital>
 
 </line>
 
@@ -318,7 +318,7 @@ to stop sending it to me.
 <line>
 Yet every morning, I open my door
 
-on a new edition of the <ital><name type="GPE">L.A.</name> Gazette.</ital>
+on a new edition of the <ital>L.A. Gazette.</ital>
 
 </line>
 
@@ -404,9 +404,9 @@ because up until a week ago
 
 
 <line>
-the boy w<name type="PERSON">ho</name> lives with me used the paper
+the boy who lives with me used the paper
 
-to make a giant paper-mâché Todd head.
+to make a giant paper-mâché <name type="PERSON">Todd</name> head.
 
 </line>
 
@@ -414,7 +414,7 @@ to make a giant paper-mâché Todd head.
 <line>
 -What was that?
 
--I live with my best friend, Todd.
+-I live with my best friend, <name type="PERSON">Todd</name>.
 
 </line>
 
@@ -442,7 +442,7 @@ he gets ideas to do things.
 
 
 <line>
-Giant Todd Head, of course.
+Giant Head, of course.
 
 </line>
 
@@ -526,7 +526,7 @@ Someone or something is stealing our food.
 
 
 <line>
-I made a giant papier-mâché Todd head
+I made a giant papier-mâché <name type="PERSON">Todd</name> head
 
 to scare it away. Think it'll work?
 
@@ -566,7 +566,7 @@ your pest peccadillo?
 
 
 <line>
-No. Todd abandoned the project as soon
+No. <name type="PERSON">Todd</name> abandoned the project as soon
 
 as he started working on <name type="PERSON">Cabracadabra</name>.
 
@@ -718,7 +718,7 @@ to make me feel uncomfortable.
 
 
 <line>
-Yeah, Todd. What are you doing?
+Yeah, <name type="PERSON">Todd</name>. What are you doing?
 
 </line>
 
@@ -756,7 +756,7 @@ would happen to you every day.
 
 
 <line>
-That's right, Todd.
+That's right, <name type="PERSON">Todd</name>.
 
 According to my own research,
 
@@ -806,7 +806,7 @@ No, not murderous robots. Women.
 
 
 <line>
-Todd, you have done it again.
+<name type="PERSON">Todd</name>, you have done it again.
 
 </line>
 
@@ -820,7 +820,7 @@ came up with it together.
 
 
 <line>
-Todd and <name type="PERSON">Emily</name>,
+<name type="PERSON">Todd</name> and <name type="PERSON">Emily</name>,
 
 you've done it again for the first time.
 
@@ -858,7 +858,7 @@ It's full of spaghetti strainers.
 <line>
 -Why?
 
--W<name type="PERSON">ho</name> can recall?
+-Who can recall?
 
 </line>
 
@@ -896,7 +896,7 @@ the payoff's going to be pretty huge.
 
 
 <line>
-Hey, Todd, where do you want this...?
+Hey, <name type="PERSON">Todd</name>, where do you want this...?
 
 </line>
 
@@ -918,7 +918,7 @@ Uh...
 
 
 <line>
-<nonVerbComm>[<name type="PERSON">BoJack</name>]</nonVerbComm> <ital>Todd had this old girlfriend.</ital>
+<nonVerbComm>[<name type="PERSON">BoJack</name>]</nonVerbComm> <ital><name type="PERSON">Todd</name> had this old girlfriend.</ital>
 
 <ital>I met her a couple weeks back.</ital>
 
@@ -948,7 +948,7 @@ Then you came to the right place.
 
 
 <line>
-Should we call Todd,
+Should we call <name type="PERSON">Todd</name>,
 
 see if he wants to join us?
 
@@ -958,7 +958,7 @@ see if he wants to join us?
 <line>
 I'm tired of trying to figure out
 
-what Todd wants.
+what <name type="PERSON">Todd</name> wants.
 
 </line>
 
@@ -1004,7 +1004,7 @@ Why does anyone have sex with anyone?
 <line>
 The same reasons three million people
 
-subscribe to the <ital><name type="GPE">L.A.</name> Gazette.</ital>
+subscribe to the <ital>L.A. Gazette.</ital>
 
 </line>
 
@@ -1058,7 +1058,7 @@ No, it was a regular mistake for me, too.
 
 
 <line>
--What are we <name type="PERSON">gonna</name> tell Todd?
+-What are we gonna tell <name type="PERSON">Todd</name>?
 
 -Nothing, obviously.
 
@@ -1090,7 +1090,7 @@ trying to assuage your guilt.
 
 
 <line>
-If you cared about Todd,
+If you cared about <name type="PERSON">Todd</name>,
 
 you would keep this a secret forever.
 
@@ -1124,13 +1124,13 @@ did you ever do that thing you said?
 
 
 <line>
-What? <name type="PERSON">Get--</name> [stammers] No!
+What? Get-- [stammers] No!
 
 </line>
 
 
 <line>
-I think it's <name type="PERSON">gonna</name> be fine.
+I think it's gonna be fine.
 
 Why would it even come up?
 
@@ -1172,13 +1172,13 @@ would ever be in a room together again.
 <line>
 What... why... What are you here?
 
-Why are you doing at Todd's house?
+Why are you doing at <name type="PERSON">Todd</name>'s house?
 
 </line>
 
 
 <line>
-Todd's house? This is my house.
+<name type="PERSON">Todd</name>'s house? This is my house.
 
 </line>
 
@@ -1186,7 +1186,7 @@ Todd's house? This is my house.
 <line>
 It's cool if we set up shop here, right?
 
-That's not <name type="PERSON">gonna</name> be weird?
+That's not gonna be weird?
 
 </line>
 
@@ -1236,7 +1236,7 @@ I've got a nose for news.
 
 
 <line>
-In this case, <name type="ORG">Nu</name> is the <name type="NORP">Greek</name> letter
+In this case, Nu is the <name type="NORP">Greek</name> letter
 
 representing the variable
 
@@ -1246,7 +1246,7 @@ for "What Is Going On?"
 
 
 <line>
-So let's solve for <name type="ORG">Nu</name>, shall we?
+So let's solve for Nu, shall we?
 
 </line>
 
@@ -1290,7 +1290,7 @@ Yeah. That is exactly what it is.
 <line>
 Yes. Your stupid business
 
-is <name type="PERSON">gonna</name> be very successful.
+is gonna be very successful.
 
 </line>
 
@@ -1338,7 +1338,7 @@ Great idea.
 <line>
 The worst part is things have actually
 
-been going really well with Todd.
+been going really well with <name type="PERSON">Todd</name>.
 
 </line>
 
@@ -1366,7 +1366,7 @@ is neither a wiener nor a dog?"
 <line>
 Instead of saying,
 
-"Shut up, Todd," I said, <name type="PERSON">"Okay</name>."
+"Shut up, <name type="PERSON">Todd</name>," I said, "Okay."
 
 </line>
 
@@ -1390,7 +1390,7 @@ Instead of saying,
 <line>
 <ital>You felt like you didn't deserve</ital>
 
-<ital>Todd's friendship</ital>
+<ital><name type="PERSON">Todd</name>'s friendship</ital>
 
 </line>
 
@@ -1630,7 +1630,7 @@ Does the world need
 
 a stop-motion short film
 
-about a pig w<name type="PERSON">ho</name> goes to circus school?
+about a pig who goes to circus school?
 
 </line>
 
@@ -1860,7 +1860,7 @@ you see Secretariat, I see an old turtle.
 
 
 <line>
-<name type="ORG">"Hello</name>, old turtle. Are you Secretariat?
+"Hello, old turtle. Are you Secretariat?
 
 No? You're just some old turtle?
 
@@ -1878,7 +1878,7 @@ No? You're just some old turtle?
 <line>
 I got a team of cardiologists at <name type="PERSON">Cedars</name>
 
-w<name type="PERSON">ho</name> say different.
+who say different.
 
 </line>
 
@@ -1900,7 +1900,7 @@ a lot of money and win awards.
 
 
 <line>
-If anyone w<name type="PERSON">ho</name> looks at this ad
+If anyone who looks at this ad
 
 is Secretariat,
 
@@ -1982,7 +1982,7 @@ I don't feel like I'm in charge.
 
 
 <line>
-If you're <name type="PERSON">gonna</name> throw a tantrum,
+If you're gonna throw a tantrum,
 
 forget the whole thing.
 
@@ -2060,7 +2060,7 @@ This is exactly what you want.
 <line>
 Better question:
 
-Why am I still getting the <ital><name type="GPE">L.A.</name> Gazette?</ital>
+Why am I still getting the <ital>L.A. Gazette?</ital>
 
 </line>
 
@@ -2068,7 +2068,7 @@ Why am I still getting the <ital><name type="GPE">L.A.</name> Gazette?</ital>
 <line>
 Do you think getting the paper every day
 
-is a reminder of Todd's papier-mâché head?
+is a reminder of <name type="PERSON">Todd</name>'s papier-mâché head?
 
 </line>
 
@@ -2138,13 +2138,13 @@ Well, I have had trouble sleeping.
 
 
 <line>
-<nonVerbComm>[<name type="PERSON">Emily</name> and Todd laughing]</nonVerbComm>
+<nonVerbComm>[<name type="PERSON">Emily</name> and <name type="PERSON">Todd</name> laughing]</nonVerbComm>
 
 </line>
 
 
 <line>
-<nonVerbComm>[Todd]</nonVerbComm> You're silly.
+<nonVerbComm>[<name type="PERSON">Todd</name>]</nonVerbComm> You're silly.
 
 [<name type="PERSON">Emily</name>] No, you're silly.
 
@@ -2168,7 +2168,7 @@ Oh, <name type="PERSON">God</name>.
 <line>
 What is the worst recent thing you did
 
-to someone w<name type="PERSON">ho</name> cared about you?
+to someone who cared about you?
 
 </line>
 
@@ -2252,7 +2252,7 @@ I don't know. Dumb stuff.
 <line>
 Forget it. Can't sleep here.
 
-I'm <name type="PERSON">gonna</name> go sleep in my boat.
+I'm gonna go sleep in my boat.
 
 </line>
 
@@ -2272,7 +2272,7 @@ I'm <name type="PERSON">gonna</name> go sleep in my boat.
 
 
 <line>
--Character Actress Margo Mart--?
+-Character Actress <name type="PERSON">Margo</name> Mart--?
 
 -I said, "<name type="PERSON">Freeze</name>."
 
@@ -2288,7 +2288,7 @@ I'm <name type="PERSON">gonna</name> go sleep in my boat.
 
 
 <line>
-<ital>and fugitive from the law Margo Martindale</ital>
+<ital>and fugitive from the law <name type="PERSON">Margo</name> <name type="PERSON">Martindale</name></ital>
 
 <ital>has been living in your boat?</ital>
 
@@ -2316,7 +2316,7 @@ Of course.
 <line>
 Then yes,
 
-Margo Martindale is living in my boat.
+<name type="PERSON">Margo</name> <name type="PERSON">Martindale</name> is living in my boat.
 
 </line>
 
@@ -2324,7 +2324,7 @@ Margo Martindale is living in my boat.
 <line>
 -How long have you been in here?
 
--Well, after the incident in Yorba <name type="PERSON">Linda</name>.
+-Well, after the incident in <name type="GPE">Yorba</name> <name type="PERSON">Linda</name>.
 
 </line>
 
@@ -2344,7 +2344,7 @@ Margo Martindale is living in my boat.
 
 
 <line>
-Well, Margo, old gal,
+Well, <name type="PERSON">Margo</name>, old gal,
 
 looks like you've bought yourself
 
@@ -2400,9 +2400,9 @@ Mm-hmm.
 
 
 <line>
-<ital>I did a r<name type="ORG">un</name> at the <name type="GPE">La Jolla</name> Playhouse</ital>
+<ital>I did a run at the La Jolla Playhouse</ital>
 
-<ital>in an obscure Tennessee Williams play.</ital>
+<ital>in an obscure <name type="GPE">Tennessee</name> Williams play.</ital>
 
 </line>
 
@@ -2534,7 +2534,7 @@ It's called acting. Try it sometime.
 <line>
 And you're the one
 
-w<name type="PERSON">ho</name>'s been stealing our food.
+who's been stealing our food.
 
 </line>
 
@@ -2556,7 +2556,7 @@ Hi-yah!
 <line>
 -Why did you throw a plum on the floor?
 
--<name type="PERSON">T</name>hought it was a smoke bomb.
+-Thought it was a smoke bomb.
 
 </line>
 
@@ -2568,7 +2568,7 @@ Where are my smoke bombs?
 
 
 <line>
-I'm <name type="PERSON">gonna</name> go sleep by the pool.
+I'm gonna go sleep by the pool.
 
 </line>
 
@@ -2670,7 +2670,7 @@ with a robust arts section.
 <line>
 Let me tell you something
 
-about the <ital><name type="GPE">L.A.</name> Gazette.</ital>
+about the <ital>L.A. Gazette.</ital>
 
 </line>
 
@@ -2698,7 +2698,7 @@ Oh, right. Well...
 
 
 <line>
-If we're <name type="PERSON">gonna</name> work together
+If we're gonna work together
 
 and also have weird kinky car sex,
 
@@ -3006,7 +3006,7 @@ Which is why I'm begging you
 
 to please cancel my delivery
 
-of the <ital><name type="GPE">L.A.</name> Gazette.</ital>
+of the <ital>L.A. Gazette.</ital>
 
 </line>
 
@@ -3104,7 +3104,7 @@ and don't harass the passenger.
 
 
 <line>
--Todd, can I talk to you for a second?
+-<name type="PERSON">Todd</name>, can I talk to you for a second?
 
 -Sure. <name type="PERSON">Driver</name>, pull over, please.
 
@@ -3174,7 +3174,7 @@ in this house.
 <line>
 -What's wrong with the house?
 
--Todd, I just--
+-<name type="PERSON">Todd</name>, I just--
 
 </line>
 
@@ -3252,7 +3252,7 @@ No, no, no, keep your share.
 
 
 <line>
-W<name type="PERSON">ho</name> knows?
+Who knows?
 
 It might be worth something someday.
 
@@ -3260,7 +3260,7 @@ It might be worth something someday.
 
 
 <line>
-You're sweet, Todd.
+You're sweet, <name type="PERSON">Todd</name>.
 
 </line>
 
@@ -3268,7 +3268,7 @@ You're sweet, Todd.
 <line>
 You shouldn't waste that on people
 
-w<name type="PERSON">ho</name> don't deserve it.
+who don't deserve it.
 
 </line>
 
@@ -3522,13 +3522,13 @@ I'd hate to drive here at rush hour.
 
 
 <line>
-When the <name type="PERSON">s<name type="ORG">un</name></name> goes down
+When the sun goes down
 
 and hits that billboard,
 
-that's <name type="PERSON">gonna</name>--
+that's gonna--
 
-That's <name type="PERSON">gonna</name> be a real problem.
+That's gonna be a real problem.
 
 </line>
 
@@ -3594,7 +3594,7 @@ Ugh.
 <line>
 <ital>♪ It's been so long</ital>
 
-<ital>I don't think I'm <name type="PERSON">gonna</name> last ♪</ital>
+<ital>I don't think I'm gonna last ♪</ital>
 
 </line>
 

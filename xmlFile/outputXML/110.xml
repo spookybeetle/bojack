@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>One Trick Pony - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>One Trick Pony - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -54,7 +54,7 @@ to <ital>Excess Hollywoo.</ital>
 
 
 <line>
-I'm <name type="PERSON">A <name type="PERSON">Ryan</name> Seacrest Type</name>,
+I'm A <name type="PERSON">Ryan</name> Seacrest Type,
 
 and I'm visiting the set
 
@@ -62,7 +62,7 @@ and I'm visiting the set
 
 
 <line>
-of <ital>Mr. Peanutbutter's Hollywoo Heist.</ital>
+of <ital>Mr. Hollywoo Heist.</ital>
 
 </line>
 
@@ -76,7 +76,7 @@ to the star of the film,
 
 
 <line>
-<name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>, and his
+<name type="PERSON">BoJack Horseman</name>, and his
 
 real life inspiration,
 
@@ -332,7 +332,7 @@ What? The short guy
 
 from <ital>The Princess Bride</ital>
 
-w<name type="PERSON">ho</name> says "inconceivable"?
+who says "inconceivable"?
 
 </line>
 
@@ -340,7 +340,7 @@ w<name type="PERSON">ho</name> says "inconceivable"?
 <line>
 - Why <name type="PERSON">Wallace</name> <name type="PERSON">Shawn</name>?
 
-- <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>?
+- <name type="PERSON">BoJack Horseman</name>?
 
 </line>
 
@@ -362,7 +362,7 @@ you out, <name type="PERSON">Wally</name>.
 
 
 <line>
-You're the one w<name type="PERSON">ho</name> keeps
+You're the one who keeps
 
 buying expensive Rothkos.
 
@@ -554,7 +554,7 @@ these last couple months?
 <line>
 Well, I've been pretty busy.
 
-Met a girl at <name type="ORG">So<name type="PERSON">ho</name></name> <name type="ORG">House</name>.
+Met a girl at <name type="ORG">Soho</name> <name type="ORG">House</name>.
 
 </line>
 
@@ -584,7 +584,7 @@ Then I met a girl at Mastro's.
 <line>
 Then I met a girl
 
-at <name type="ORG">P.F.</name> Chang's.
+at P.F. Chang's.
 
 </line>
 
@@ -620,7 +620,7 @@ would love to meet
 
 the aspiring food-service worker
 
-w<name type="PERSON">ho</name> finally gets you
+who finally gets you
 
 to settle down.
 
@@ -720,7 +720,7 @@ to actually spend time with you,
 <line>
 I'm sure
 
-it's <name type="PERSON">gonna</name> be wonderful.
+it's gonna be wonderful.
 
 </line>
 
@@ -932,7 +932,7 @@ Is that what it is?
 
 
 <line>
-Todd, spritz me.
+<name type="PERSON">Todd</name>, spritz me.
 
 </line>
 
@@ -1056,7 +1056,7 @@ I find it really troubling
 
 that my movie self
 
-is wearing a crew neck <name type="PERSON">T</name>-shirt.
+is wearing a crew neck T-shirt.
 
 [laughs]
 
@@ -1106,7 +1106,7 @@ because of the shirts.
 <line>
 Because I'm the one
 
-w<name type="PERSON">ho</name> stole the D.
+who stole the D.
 
 </line>
 
@@ -1172,7 +1172,7 @@ in wardrobe.
 
 
 <line>
-We're <name type="PERSON">gonna</name> fix this, buddy.
+We're gonna fix this, buddy.
 
 </line>
 
@@ -1230,7 +1230,7 @@ That's not what I sound like.
 <line>
 That's not mut
 
-mi sound <name type="PERSON">mike</name>.
+mi sound mike.
 
 </line>
 
@@ -1300,7 +1300,7 @@ And the day after that.
 
 
 <line>
-So the wedding was so much f<name type="ORG">un</name>.
+So the wedding was so much fun.
 
 </line>
 
@@ -1338,7 +1338,7 @@ We're such a <name type="PERSON">Zoe</name>.
 
 
 <line>
-Oh, Todd, glad you're here.
+Oh, <name type="PERSON">Todd</name>, glad you're here.
 
 </line>
 
@@ -1350,7 +1350,7 @@ Hold this.
 
 
 <line>
-Todd, my jacket
+<name type="PERSON">Todd</name>, my jacket
 
 is on the floor.
 
@@ -1482,7 +1482,7 @@ the living room, make a left.
 <line>
 - Can't miss it.
 
-- I'm <name type="PERSON">gonna</name> grab a quick bite.
+- I'm gonna grab a quick bite.
 
 </line>
 
@@ -1608,7 +1608,7 @@ in love with this lady, right?
 <line>
 But we don't even know
 
-w<name type="PERSON">ho</name> she is or what she wants.
+who she is or what she wants.
 
 </line>
 
@@ -1658,7 +1658,7 @@ I love you.
 
 
 <line>
-W<name type="PERSON">ho</name> is this kid?
+Who is this kid?
 
 </line>
 
@@ -1670,7 +1670,7 @@ You're a genius.
 
 
 <line>
-- I'm <name type="PERSON">gonna</name> kiss your face.
+- I'm gonna kiss your face.
 
 - What?
 
@@ -1702,7 +1702,7 @@ and make this baby sing.
 
 
 <line>
-Hey, Todd, talk to him
+Hey, <name type="PERSON">Todd</name>, talk to him
 
 about the wardrobe,
 
@@ -1772,7 +1772,7 @@ is garbage fruit.
 <line>
 Also, why is <name type="PERSON">BoJack</name>
 
-being played by an old, <name type="GPE">nebbishy</name>
+being played by an old, nebbishy
 
 five-foot-tall bald guy?
 
@@ -1802,7 +1802,7 @@ to capture the essence
 
 of the elusive
 
-<name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>.
+<name type="PERSON">BoJack Horseman</name>.
 
 </line>
 
@@ -1822,7 +1822,7 @@ so people will get
 
 an opportunity to see
 
-the real <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>.
+the real <name type="PERSON">BoJack Horseman</name>.
 
 </line>
 
@@ -1844,7 +1844,7 @@ You never mentioned it.
 <line>
 Plus,
 
-Todd's being super weird.
+<name type="PERSON">Todd</name>'s being super weird.
 
 </line>
 
@@ -1880,7 +1880,7 @@ I didn't want him to move out.
 
 
 <line>
-<name type="PERSON">Jesus</name> Christ, <name type="PERSON">BoJack</name>.
+Christ, <name type="PERSON">BoJack</name>.
 
 </line>
 
@@ -1964,7 +1964,7 @@ What?
 <line>
 Apparently some dickweed
 
-named Todd
+named <name type="PERSON">Todd</name>
 
 decided I should be
 
@@ -1996,7 +1996,7 @@ all the time!
 
 
 <line>
-<name type="PERSON">A.O. Scott</name> is sick of talking
+A.O. Scott is sick of talking
 
 about how brilliant I am.
 
@@ -2004,7 +2004,7 @@ about how brilliant I am.
 
 
 <line>
-Todd.
+<name type="PERSON">Todd</name>.
 
 </line>
 
@@ -2074,7 +2074,7 @@ that I wanted to make.
 
 
 <line>
-This is <name type="PERSON">gonna</name> be great.
+This is gonna be great.
 
 </line>
 
@@ -2190,7 +2190,7 @@ doesn't talk to <name type="PERSON">Diane</name>.
 
 
 <line>
-Hey, Todd,
+Hey, <name type="PERSON">Todd</name>,
 
 remember that time
 
@@ -2226,7 +2226,7 @@ I have some...
 <line>
 <nonVerbComm>[sighs]</nonVerbComm> pretty sloppy seconds
 
-left over from <name type="ORG">P.F.</name> Chang's
+left over from P.F. Chang's
 
 in the fridge, and I don't think
 
@@ -2320,7 +2320,7 @@ and give <name type="PERSON">BoJack</name> more to do.
 <line>
 Now, when you say,
 
-"Give <name type="PERSON">BoJack</name> more to do<name type="PERSON">"-</name>-
+"Give <name type="PERSON">BoJack</name> more to do"--
 
 </line>
 
@@ -2406,7 +2406,7 @@ has been cut in half?
 <line>
 Yeah, I do, but if I'm
 
-<name type="PERSON">gonna</name> be in a dumb movie
+gonna be in a dumb movie
 
 </line>
 
@@ -2438,7 +2438,7 @@ I mean, first of all,
 
 why would Mr. Peanutbutter
 
-wear a crew neck <name type="PERSON">T</name>-shirt?
+wear a crew neck T-shirt?
 
 </line>
 
@@ -2472,7 +2472,7 @@ I'm a V-neck man.
 <line>
 A V you can put
 
-your <name type="PERSON">s<name type="ORG">un</name></name>glasses in.
+your sunglasses in.
 
 </line>
 
@@ -2592,7 +2592,7 @@ This is so typical.
 <line>
 I just wanted to do something
 
-light and f<name type="ORG">un</name>
+light and fun
 
 to distract me from the deep
 
@@ -2820,7 +2820,7 @@ Keep the engine running, though,
 
 because if I know me,
 
-this book is <name type="PERSON">gonna</name> give me
+this book is gonna give me
 
 a pretty big erection.
 
@@ -2978,7 +2978,7 @@ let's see what you got.
 <line>
 <ital>"The first time</ital>
 
-<ital>I met <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>,</ital>
+<ital>I met <name type="PERSON">BoJack Horseman</name>,</ital>
 
 </line>
 
@@ -3018,7 +3018,7 @@ let's see what you got.
 <line>
 <ital>the time the great</ital>
 
-<ital><name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></ital>
+<ital><name type="PERSON">BoJack Horseman</name></ital>
 
 </line>
 
@@ -3040,7 +3040,7 @@ let's see what you got.
 
 
 <line>
-<ital>as one often is w<name type="PERSON">ho</name> is smart</ital>
+<ital>as one often is who is smart</ital>
 
 <ital>enough to recognize</ital>
 
@@ -3266,7 +3266,7 @@ I mean, you're just
 
 a dumb actor
 
-w<name type="PERSON">ho</name> doesn't know anything
+who doesn't know anything
 
 about books, right?
 
@@ -3334,7 +3334,7 @@ this time.
 
 
 <line>
-Nobody is ever <name type="PERSON">gonna</name> see this.
+Nobody is ever gonna see this.
 
 </line>
 
@@ -3358,7 +3358,7 @@ Nobody is ever <name type="PERSON">gonna</name> see this.
 <line>
 Hey, <name type="PERSON">Wayne</name>,
 
-you still work for <ital><name type="ORG">BuzzFeed</name></ital>?
+you still work for <ital>BuzzFeed</ital>?
 
 </line>
 
@@ -3372,7 +3372,7 @@ Um, yes.
 <line>
 'Cause I got something
 
-that's <name type="PERSON">gonna</name> get you
+that's gonna get you
 
 a shit-ton of hearts or digs
 
@@ -3404,7 +3404,7 @@ You haven't heard the last
 
 of Evil Emperor
 
-BoJackitron Horsemaniac.
+Horsemaniac.
 
 </line>
 
@@ -3524,7 +3524,7 @@ like, a feeling, you know?
 <line>
 - Oh, my <name type="PERSON">God</name>, this is so good.
 
-- Oh, this is <name type="PERSON">gonna</name> be awesome.
+- Oh, this is gonna be awesome.
 
 </line>
 
@@ -3532,7 +3532,7 @@ like, a feeling, you know?
 <line>
 Yes!
 
-Go, Todd.
+Go, <name type="PERSON">Todd</name>.
 
 </line>
 
@@ -3544,7 +3544,7 @@ Hello?
 
 
 <line>
-Are you just <name type="PERSON">gonna</name> leave me
+Are you just gonna leave me
 
 like this?
 
@@ -3728,7 +3728,7 @@ I'm <name type="PERSON">Naomi</name> again,
 
 and <name type="PERSON">Naomi</name> is not interested
 
-in <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>.
+in <name type="PERSON">BoJack Horseman</name>.
 
 </line>
 
@@ -3832,7 +3832,7 @@ social-media experience.
 
 
 <line>
-<name type="PERSON">T</name>hose are the dumbest words
+Those are the dumbest words
 
 I've ever heard.
 
@@ -3912,7 +3912,7 @@ What am I looking at?
 
 
 <line>
-<nonVerbComm>[Todd]</nonVerbComm> It is a bimonthly curated
+<nonVerbComm>[<name type="PERSON">Todd</name>]</nonVerbComm> It is a bimonthly curated
 
 box of snacks.
 
@@ -4036,7 +4036,7 @@ been such a good idea.
 
 
 <line>
-Damn it, Todd!
+Damn it, <name type="PERSON">Todd</name>!
 
 </line>
 
@@ -4118,7 +4118,7 @@ by using character actress
 
 
 <line>
-Margo Martindale to trick me
+<name type="PERSON">Margo</name> <name type="PERSON">Martindale</name> to trick me
 
 into playing
 
@@ -4364,7 +4364,7 @@ about it.
 <line>
 This is wildly unprofessional.
 
-W<name type="PERSON">ho</name> do you think you are?
+Who do you think you are?
 
 </line>
 
@@ -4388,7 +4388,7 @@ People love you.
 
 
 <line>
-And they're <name type="PERSON">gonna</name> love you
+And they're gonna love you
 
 even more
 
@@ -4408,7 +4408,7 @@ of my book.
 
 
 <line>
-Nobody is <name type="PERSON">gonna</name> read
+Nobody is gonna read
 
 that book.
 
@@ -4528,7 +4528,7 @@ You're fired.
 <line>
 <ital>♪ It's been so long</ital>
 
-<ital>I don't think I'm <name type="PERSON">gonna</name> last ♪</ital>
+<ital>I don't think I'm gonna last ♪</ital>
 
 </line>
 

@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>Out to Sea - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>Out to Sea - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -56,7 +56,7 @@ what are pizza boxes thinking about?
 
 
 <line>
--And <name type="PERSON">Leland Stanford</name>?
+-And Stanford</name>?
 
 -Transcontinental Railroad.
 
@@ -98,13 +98,13 @@ of course, was <name type="PERSON">Barry</name> <name type="GPE">Bostwick</name>
 <line>
 -How was I supposed to know?
 
--He also likes <name type="PERSON">Franken Berry</name>.
+-He also likes <name type="PERSON">Franken</name> Berry.
 
 </line>
 
 
 <line>
--We would have accepted <name type="PERSON">Franken Berry</name>.
+-We would have accepted <name type="PERSON">Franken</name> Berry.
 
 -What?
 
@@ -258,7 +258,7 @@ And vodka. And gin.
 
 
 <line>
-They're not <name type="PERSON">gonna</name> sue you.
+They're not gonna sue you.
 
 They finished the movie.
 
@@ -318,7 +318,7 @@ I asked you what you wanted me to do
 
 
 <line>
--with your <ital><name type="PERSON">Horsin</name>' Around </ital>residuals?
+-with your <ital>Horsin' Around </ital>residuals?
 
 -I do... not remember that.
 
@@ -380,7 +380,7 @@ you're a great man.
 <line>
 Welcome to
 
-The <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name> Orphanage.
+The <name type="PERSON">BoJack Horseman</name> Orphanage.
 
 </line>
 
@@ -526,7 +526,7 @@ Yay.
 
 
 <line>
-So you see, Todd, the nimble improviser
+So you see, <name type="PERSON">Todd</name>, the nimble improviser
 
 must navigate the most sensitive of areas.
 
@@ -610,7 +610,7 @@ What, number two, how do you do that?
 <line>
 If it isn't the furshlugginer putz
 
-w<name type="PERSON">ho</name> cost me 50 grand.
+who cost me 50 grand.
 
 </line>
 
@@ -720,9 +720,9 @@ is giving the performance of your career.
 <line>
 When people see what you do in this movie,
 
-they are <name type="PERSON">gonna</name> storm
+they are gonna storm
 
-<name type="PERSON">Daniel</name> <name type="PERSON">Day-Lewis</name>'s house,
+<name type="PERSON">Daniel</name> Day-Lewis's house,
 
 schlep him out into the street,
 
@@ -738,7 +738,7 @@ That's how good your performance is.
 
 
 <line>
-It's <name type="PERSON">gonna</name> make <name type="PERSON">Daniel</name> <name type="PERSON">Day-Lewis</name>
+It's gonna make <name type="PERSON">Daniel</name> Day-Lewis
 
 look like shit.
 
@@ -746,7 +746,7 @@ look like shit.
 
 
 <line>
--They're <name type="PERSON">gonna</name> hate <name type="PERSON">Daniel</name> <name type="PERSON">Day-Lewis</name>.
+-They're gonna hate <name type="PERSON">Daniel</name> Day-Lewis.
 
 -But it's not my performance.
 
@@ -754,7 +754,7 @@ look like shit.
 
 
 <line>
-Explain that the widow <name type="PERSON">Day-Lewis</name>.
+Explain that the widow Day-Lewis.
 
 She'll be devastated. <name type="PERSON">Kaput</name>. <name type="PERSON">Kapleshky</name>.
 
@@ -778,7 +778,7 @@ We got a screening this weekend.
 <line>
 Come see the movie,
 
-we'll <name type="PERSON">schmooze</name>, we'll kibitz,
+we'll schmooze, we'll kibitz,
 
 schlemiel, schlimazel,
 
@@ -940,7 +940,7 @@ her probably, it's just...
 <line>
 Ugh. It's hard to explain to someone
 
-w<name type="PERSON">ho</name>'s never been married.
+who's never been married.
 
 </line>
 
@@ -1174,7 +1174,7 @@ to be happy, <name type="PERSON">BoJack</name>.
 
 
 <line>
-Hey, Todd?
+Hey, <name type="PERSON">Todd</name>?
 
 </line>
 
@@ -1188,7 +1188,7 @@ You need to get your shit together.
 <line>
 -Ugh.
 
--<name type="PERSON">Rutaba<name type="PERSON">ga</name></name> and I are starting a new agency.
+-<name type="PERSON">Rutabaga</name> and I are starting a new agency.
 
 </line>
 
@@ -1454,7 +1454,7 @@ Well, we burned that bridge.
 
 
 <line>
-Todd, you should be up a magician's
+<name type="PERSON">Todd</name>, you should be up a magician's
 
 sleeve because you are a card.
 
@@ -1506,7 +1506,7 @@ That's solid space-work.
 
 
 <line>
-I'm <name type="PERSON">gonna</name> go to <name type="ORG">Copernicus</name>
+I'm gonna go to <name type="ORG">Copernicus</name>
 
 and get this sorted out.
 
@@ -1562,7 +1562,7 @@ Whoa.
 <line>
 -Aah.
 
--I had such high hopes for you, Todd.
+-I had such high hopes for you, <name type="PERSON">Todd</name>.
 
 </line>
 
@@ -1668,15 +1668,15 @@ in your 40s.
 <line>
 I'm just saying, what, you think you're
 
-<name type="PERSON">gonna</name> find some perfect unattached guy
+gonna find some perfect unattached guy
 
-w<name type="PERSON">ho</name>'s <name type="PERSON">gonna</name> love you like I do?
+who's gonna love you like I do?
 
 </line>
 
 
 <line>
-W<name type="PERSON">ho</name>'s <name type="PERSON">gonna</name> make you laugh
+Who's gonna make you laugh
 
 and feel good about yourself?
 
@@ -1696,7 +1696,7 @@ for something better,
 
 well, I hate to break it to you, but
 
-you're <name type="PERSON">gonna</name> be alone for a long time.
+you're gonna be alone for a long time.
 
 </line>
 
@@ -1740,7 +1740,7 @@ Good luck.
 
 
 <line>
--Whoa, Carolyn, we just-- Come... Carolyn.
+-Whoa, Carolyn.
 
 -My name is Princess Carolyn.
 
@@ -1764,7 +1764,7 @@ Good luck.
 <line>
 <ital>A chance to finally make things right.</ital>
 
-<ital>And this time, I was <name type="PERSON">gonna</name> win...</ital>
+<ital>And this time, I was gonna win...</ital>
 
 </line>
 
@@ -1900,7 +1900,7 @@ with <name type="PERSON">Kelly Ripa</name> I should know about?
 <line>
 -No. Well, define "weird."
 
--You look doughy. Do you r<name type="ORG">un</name>?
+-You look doughy. Do you run?
 
 </line>
 
@@ -1972,7 +1972,7 @@ and off-putting.
 
 
 <line>
-Are you saying that nobody w<name type="PERSON">ho</name> really
+Are you saying that nobody who really
 
 knows me could ever love me?
 
@@ -1996,7 +1996,7 @@ What am I doing here?
 <line>
 I don't know where you're going,
 
-but if you could r<name type="ORG">un</name> there.
+but if you could run there.
 
 </line>
 
@@ -2034,7 +2034,7 @@ my preferred brands, okay?
 
 
 <line>
-Beats by Dre, Abercrombie and Fitch
+Abercrombie and <name type="ORG">Fitch</name>
 
 and [clicking] brand fin polish.
 
@@ -2142,7 +2142,7 @@ Yeah, I looked in the junk drawer.
 
 
 <line>
-I'm <name type="PERSON">gonna</name> take them
+I'm gonna take them
 
 out of the smoke detector.
 
@@ -2224,7 +2224,7 @@ You know, it's the funniest thing.
 <line>
 There is a woman in this restaurant
 
-w<name type="PERSON">ho</name> looks just like you.
+who looks just like you.
 
 </line>
 
@@ -2252,7 +2252,7 @@ we have time for one more suggestion.
 
 
 <line>
--Todd.
+-<name type="PERSON">Todd</name>.
 
 -Did someone say movie theater?
 
@@ -2266,7 +2266,7 @@ I heard movie theater.
 
 
 <line>
-I'm <name type="PERSON">Abe</name> Lincoln and I'm <name type="PERSON">gonna</name> wear
+I'm <name type="PERSON">Abe</name> Lincoln and I'm gonna wear
 
 my giant hat to the movies.
 
@@ -2274,7 +2274,7 @@ my giant hat to the movies.
 
 
 <line>
-W<name type="PERSON">ho</name>'s this sitting behind me?
+Who's this sitting behind me?
 
 <name type="PERSON">John</name> Wilkes Booth. Uh-oh.
 
@@ -2282,7 +2282,7 @@ W<name type="PERSON">ho</name>'s this sitting behind me?
 
 
 <line>
--Todd, it's me, <name type="PERSON">BoJack</name>.
+-<name type="PERSON">Todd</name>, it's me, <name type="PERSON">BoJack</name>.
 
 -<name type="PERSON">BoJack</name>?
 
@@ -2290,7 +2290,7 @@ W<name type="PERSON">ho</name>'s this sitting behind me?
 
 
 <line>
--Todd, I'm getting you out of here.
+-<name type="PERSON">Todd</name>, I'm getting you out of here.
 
 -I can't leave.
 
@@ -2306,7 +2306,7 @@ I need to take suggestions.
 <line>
 Okay, well, here's a suggestion,
 
-your name is Todd.
+your name is <name type="PERSON">Todd</name>.
 
 </line>
 
@@ -2334,7 +2334,7 @@ If you're any kind of improviser,
 
 you'll take that suggestion
 
-and you'll r<name type="ORG">un</name> with it.
+and you'll run with it.
 
 </line>
 
@@ -2362,7 +2362,7 @@ is not an option.
 <line>
 -You've seen too much.
 
--What the hell are you <name type="PERSON">gonna</name> do about it?
+-What the hell are you gonna do about it?
 
 </line>
 
@@ -2422,7 +2422,7 @@ Now feel the wrath of my flamethrower.
 
 
 <line>
-Too bad we're wearing <name type="PERSON">s<name type="ORG">un</name></name>screen
+Too bad we're wearing sunscreen
 
 with SPF a million which protects
 
@@ -2536,7 +2536,7 @@ Come on, come on, come on.
 
 
 <line>
-Come on, come on, Todd.
+Come on, come on, <name type="PERSON">Todd</name>.
 
 Almost there.
 
@@ -2550,13 +2550,13 @@ Wait. Where are you going?
 
 
 <line>
-Sorry, improv is f<name type="ORG">un</name>
+Sorry, improv is fun
 
 and great and everything,
 
 but you guys are <ital>really</ital> into improv.
 
-I'm <name type="PERSON">gonna</name> go with my friend.
+I'm gonna go with my friend.
 
 </line>
 
@@ -2572,7 +2572,7 @@ I didn't realize this man was your friend.
 <line>
 Well, then, by all means,
 
-go with him, Todd.
+go with him, <name type="PERSON">Todd</name>.
 
 </line>
 
@@ -2580,13 +2580,13 @@ go with him, Todd.
 <line>
 But, see, I thought this was the man
 
-w<name type="PERSON">ho</name> sabotaged your rock opera.
+who sabotaged your rock opera.
 
 </line>
 
 
 <line>
-The one w<name type="PERSON">ho</name> constantly abuses you and
+The one who constantly abuses you and
 
 makes you shower with a hose in the yard.
 
@@ -2600,7 +2600,7 @@ I invited him to.
 
 
 <line>
-The one w<name type="PERSON">ho</name>'s never said a kind word
+The one who's never said a kind word
 
 to you the entire time you've known him.
 
@@ -2608,7 +2608,7 @@ to you the entire time you've known him.
 
 
 <line>
--Is this your friend, Todd?
+-Is this your friend, <name type="PERSON">Todd</name>?
 
 -It's more complicated than that.
 
@@ -2616,7 +2616,7 @@ to you the entire time you've known him.
 
 
 <line>
--Is it? We're your friends, Todd.
+-Is it? We're your friends, <name type="PERSON">Todd</name>.
 
 -More than that, we're a family.
 
@@ -2640,7 +2640,7 @@ to you the entire time you've known him.
 
 
 <line>
--Martha, did you see my hash browns?
+-<name type="LOC">Martha</name>, did you see my hash browns?
 
 -Oh, my <name type="PERSON">God</name>, do you ever turn it off?
 
@@ -2740,13 +2740,13 @@ But I should have.
 
 
 <line>
-Because you're my best friend, Todd.
+Because you're my best friend, <name type="PERSON">Todd</name>.
 
 </line>
 
 
 <line>
-I'm not <name type="PERSON">gonna</name> lie, if you just made all
+I'm not gonna lie, if you just made all
 
 that up, that was some really good improv.
 
@@ -2776,7 +2776,7 @@ Game recognize game.
 <line>
 -Hello? Prince?
 
--Listen, <name type="PERSON">bozo</name>, I keep getting calls
+-Listen, bozo, I keep getting calls
 
 from this <name type="GPE">New York</name> playwright,
 
@@ -2802,7 +2802,7 @@ Apparently, she worked on your TV show.
 
 
 <line>
--<name type="PERSON">Horsin</name>' Around?
+-Horsin' Around?
 
 -No, actually. The other TV show.
 
@@ -2876,7 +2876,7 @@ to honor his legacy.
 
 
 <line>
--Hey, w<name type="PERSON">ho</name>'s <name type="PERSON">Jerb</name>?
+-Hey, who's <name type="PERSON">Jerb</name>?
 
 -What?
 
@@ -2924,7 +2924,7 @@ but wouldn't finish.
 
 
 <line>
-And the waiter would say, <name type="PERSON">"You</name> want me
+And the waiter would say, "You want me
 
 to box up this jerb kazzaz for you?"
 
@@ -2962,7 +2962,7 @@ No, there's no <name type="PERSON">Jerb</name>. It's <name type="PERSON">Herb</n
 
 
 <line>
-<name type="PERSON">T</name>-shirt's say <name type="PERSON">Jerb</name>
+T-shirt's say <name type="PERSON">Jerb</name>
 
 so I'm going by the t-shirts.
 

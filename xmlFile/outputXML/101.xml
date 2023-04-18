@@ -1,7 +1,7 @@
 
 <script>
 
-  <title><name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>: The <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name> Story, Chapter One - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title><name type="PERSON">BoJack Horseman</name>: The <name type="PERSON">BoJack Horseman</name> Story, Chapter One - <name type="PERSON">BoJack Horseman</name></title>
 
 
 
@@ -12,13 +12,15 @@
 
 
   <line>
-    <ital><name type="PERSON">Horsin</name>' Around </ital>is filmed before a live studio audience. </line>
+    <ital>Horsin' Around </ital>is filmed before a live studio audience. </line>
 
 
-  <line> <nonVerbComm>[sighs]</nonVerbComm> Mondays. </line>
+  <line>
+    <nonVerbComm>[sighs]</nonVerbComm> Mondays. </line>
 
 
-  <line> <nonVerbComm>[laughs]</nonVerbComm> Well, good morning to you too. </line>
+  <line>
+    <nonVerbComm>[laughs]</nonVerbComm> Well, good morning to you too. </line>
 
 
   <line> Oh, hey. </line>
@@ -27,26 +29,30 @@
   <line> Where? I'd love hay. </line>
 
 
-  <line> <nonVerbComm>[chuffs]</nonVerbComm> </line>
-
-
-  <line> <nonVerbComm>[laughs]</nonVerbComm> </line>
-
-
-  <line> In 1987, the situation comedy <ital><name type="PERSON">Horsin</name>' Around</ital>
+  <line>
+    <nonVerbComm>[chuffs]</nonVerbComm>
   </line>
 
 
-  <line> premiered on <name type="ORG">ABC</name>. </line>
+  <line>
+    <nonVerbComm>[laughs]</nonVerbComm>
+  </line>
 
 
-  <line> The show, in which a <name type="PERSON">yo</name>ung, bachelor horse is forced to reevaluate his priorities when he
+  <line> In 1987, the situation comedy <ital>Horsin' Around</ital>
+  </line>
+
+
+  <line> premiered on ABC. </line>
+
+
+  <line> The show, in which a young, bachelor horse is forced to reevaluate his priorities when he
     agrees to raise three human children, was initially dismissed by critics as broad and saccharine
     and not good, but the family comedy struck a chord with <name type="GPE">America</name> and went on to air for nine
     seasons. </line>
 
 
-  <line> The star of <ital><name type="PERSON">Horsin</name>' Around</ital>, <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>, is our guest tonight. </line>
+  <line> The star of <ital>Horsin' Around</ital>, <name type="PERSON">BoJack Horseman</name>, is our guest tonight. </line>
 
 
   <line> Welcome, <name type="PERSON">BoJack</name>. </line>
@@ -97,7 +103,7 @@
   <line> Yes. </line>
 
 
-  <line> Anyway, we were talking about <ital><name type="PERSON">Horsin</name>' Around.</ital>
+  <line> Anyway, we were talking about <ital>Horsin' Around.</ital>
   </line>
 
 
@@ -107,7 +113,7 @@
   <line> <name type="PERSON">Charlie</name>, listen, you know, </line>
 
 
-  <line> I know that it's very hip these days to shit all over <ital><name type="PERSON">Horsin</name>' Around</ital>, but at
+  <line> I know that it's very hip these days to shit all over <ital>Horsin' Around</ital>, but at
     the time, I can tell you-- </line>
 
 
@@ -119,8 +125,8 @@
 
   <line> It's not <name type="PERSON">Ibsen</name>, sure, but look, for a lot of people, life is just one long, hard kick in
     the urethra, and sometimes when you get home from a long day of getting kicked in the urethra,
-    you just want to watch a show about good, likable people w<name type="PERSON">ho</name> love each other, where, you know,
-    no matter what happens, at the end of 30 minutes, everything's <name type="PERSON">gonna</name> turn out okay. </line>
+    you just want to watch a show about good, likable people who love each other, where, you know,
+    no matter what happens, at the end of 30 minutes, everything's gonna turn out okay. </line>
 
 
   <line> You know, because in real life-- </line>
@@ -150,7 +156,9 @@
   <line> Um... </line>
 
 
-  <line> <nonVerbComm>[funky electronic music]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[funky electronic music]</nonVerbComm>
+  </line>
 
 
   <line>
@@ -170,7 +178,7 @@
   <line>
     <ital>In the case</ital>
 
-    <ital>of one-year-old <name type="ORG">P<name type="PERSON">ho</name></name>enix,</ital>
+    <ital>of one-year-old Phoenix,</ital>
 
   </line>
 
@@ -181,10 +189,12 @@
   </line>
 
 
-  <line> Morning, <name type="PERSON">s<name type="ORG">un</name></name>shine. </line>
+  <line> Morning, sunshine. </line>
 
 
-  <line> <nonVerbComm>[groans]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[groans]</nonVerbComm>
+  </line>
 
 
   <line> Why so gloomy, roomie? </line>
@@ -214,7 +224,9 @@
   <line> and I had nowhere to go, and even though you don't want anyone to know it... </line>
 
 
-  <line> <nonVerbComm>[blender whirring]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[blender whirring]</nonVerbComm>
+  </line>
 
 
   <line> You secretly have a good heart. </line>
@@ -241,19 +253,23 @@
   <line> That's on you for making assumptions. </line>
 
 
-  <line> Also, if you're looking for the Toaster Strudels, </line>
+  <line> Also, if you're looking for the <name type="PERSON">Toaster Strudel</name>s, </line>
 
 
   <line> I got really high last night and ate them all. </line>
 
 
-  <line> <nonVerbComm>[sighs]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[sighs]</nonVerbComm>
+  </line>
 
 
   <line> Did you say you've had tapeworms? </line>
 
 
-  <line> <nonVerbComm>[upbeat music]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[upbeat music]</nonVerbComm>
+  </line>
 
 
   <line>
@@ -291,8 +307,8 @@
 
 
   <line>
-    <ital><name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>:</ital>
-    <ital>The <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name> Story,</ital> written by <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>. </line>
+    <ital><name type="PERSON">BoJack Horseman</name>:</ital>
+    <ital>The <name type="PERSON">BoJack Horseman</name> Story,</ital> written by <name type="PERSON">BoJack Horseman</name>. </line>
 
 
   <line> Chapter one. </line>
@@ -329,10 +345,14 @@
   <line> Whenever you're ready. </line>
 
 
-  <line> <nonVerbComm>[clears throat]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[clears throat]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[sighs]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[sighs]</nonVerbComm>
+  </line>
 
 
   <line> We're living month to month here. </line>
@@ -351,13 +371,13 @@
 
 
   <line> Look, just give me one more week, and I will give you some pages that'll knock your ass
-    back to <name type="LOC">the South Pole</name>. </line>
+    back to the South Pole. </line>
 
 
   <line> I'm from <name type="GPE">Cincinnati</name>. </line>
 
 
-  <line> <name type="ORG">It--</name> that doesn't matter. </line>
+  <line> It-- that doesn't matter. </line>
 
 
   <line> I'll call you in a week. </line>
@@ -369,10 +389,14 @@
   <line> I'm telling you, this book is a top priority for me. </line>
 
 
-  <line> <nonVerbComm>[laughter on TV]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[laughter on TV]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[cell phone vibrates] [upbeat tune plays]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[cell phone vibrates] [upbeat tune plays]</nonVerbComm>
+  </line>
 
 
   <line> Oh, right. Yeesh. </line>
@@ -398,7 +422,9 @@
   </line>
 
 
-  <line> <nonVerbComm>[laughs]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[laughs]</nonVerbComm>
+  </line>
 
 
   <line> "Neigh way, <name type="GPE">Jose</name>." </line>
@@ -425,7 +451,9 @@
   <line> - I get it. - Ah, you don't get it. </line>
 
 
-  <line> <nonVerbComm>[cheerful music on TV]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[cheerful music on TV]</nonVerbComm>
+  </line>
 
 
   <line>
@@ -478,7 +506,7 @@
 
   <line>
     <ital>
-      <music>♪ <name type="PERSON">Horsin</name>' around ♪</music>
+      <music>♪ Horsin' around ♪</music>
     </ital>
 
     <ital>[neighs]</ital>
@@ -486,13 +514,15 @@
   </line>
 
 
-  <line> <nonVerbComm>[belches]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[belches]</nonVerbComm>
+  </line>
 
 
   <line> Are you drunk? </line>
 
 
-  <line> Todd, I weigh over 1,200 pounds. </line>
+  <line> <name type="PERSON">Todd</name>, I weigh over 1,200 pounds. </line>
 
 
   <line> It takes a lot of beer to get me drunk. </line>
@@ -507,7 +537,9 @@
   <line> You're just bummed out because Princess Carolyn dumped you last night. </line>
 
 
-  <line> <nonVerbComm>[jazz music]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[jazz music]</nonVerbComm>
+  </line>
 
 
   <line> <name type="PERSON">BoJack</name>, we need to talk. </line>
@@ -519,13 +551,15 @@
   <line> Slow and steady, am I right, ladies? </line>
 
 
-  <line> <nonVerbComm>[girls giggle]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[girls giggle]</nonVerbComm>
+  </line>
 
 
   <line> Ha-cha-cha. </line>
 
 
-  <line> W<name type="PERSON">ho</name> does he think he's fooling? </line>
+  <line> Who does he think he's fooling? </line>
 
 
   <line> Turtles don't have hair. </line>
@@ -534,7 +568,7 @@
   <line> Stop embarrassing me. </line>
 
 
-  <line> That is <name type="PERSON">Lenny</name> Turteltaub. </line>
+  <line> That is Turteltaub. </line>
 
 
   <line> You know, I am not crazy about the bread here. </line>
@@ -558,7 +592,9 @@
   <line> Were we not seeing other people? </line>
 
 
-  <line> <nonVerbComm>[moaning]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[moaning]</nonVerbComm>
+  </line>
 
 
   <line> <name type="PERSON">BoJack</name>, I'm almost there. </line>
@@ -593,7 +629,7 @@
   <line> Everyone gets a mulligan, and my mulligan was <name type="ORG">Carey</name> Mulligan. </line>
 
 
-  <line> I'm kidding, jeez. It was <name type="PERSON">Emily</name> Mortimer. </line>
+  <line> I'm kidding, jeez. It was Mortimer. </line>
 
 
   <line> - [scoffs] - What is the problem here? </line>
@@ -602,7 +638,7 @@
   <line> Are you embarrassed of me because I'm a has-been? </line>
 
 
-  <line> Because you know that I'm writing that book that is <name type="PERSON">gonna</name> make everybody love me again. </line>
+  <line> Because you know that I'm writing that book that is gonna make everybody love me again. </line>
 
 
   <line> You're not really writing a book. </line>
@@ -611,7 +647,7 @@
   <line> Well, I already spent my advance, so that's a first step. </line>
 
 
-  <line> Look, this has been a lot of f<name type="ORG">un</name>, but I need to start thinking about my future. </line>
+  <line> Look, this has been a lot of fun, but I need to start thinking about my future. </line>
 
 
   <line> I mean, you don't even respect me enough to have a baby with me. </line>
@@ -638,22 +674,34 @@
   <line> What? What? What? No, no, wha-- </line>
 
 
-  <line> <nonVerbComm>[horn honks] [glass shatters]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[horn honks] [glass shatters]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[car door opens and closes] [engine turns over]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[car door opens and closes] [engine turns over]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[tires squealing] [glass shattering]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[tires squealing] [glass shattering]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[engine revving]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[engine revving]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[tires screeching]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[tires screeching]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[loud crash] [sirens blaring]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[loud crash] [sirens blaring]</nonVerbComm>
+  </line>
 
 
   <line>
@@ -667,7 +715,7 @@
   <line>
     <ital>[<name type="PERSON">BoJack</name>] No, no, no.</ital>
 
-    <ital>Mi<name type="PERSON">s<name type="ORG">un</name></name>derstanding, officer.</ital>
+    <ital>Misunderstanding, officer.</ital>
 
   </line>
 
@@ -689,7 +737,7 @@
 
 
   <line>
-    <ital>[cop] Hey, aren't you the horse</ital> from <ital><name type="PERSON">Horsin</name>' Around</ital>? </line>
+    <ital>[cop] Hey, aren't you the horse</ital> from <ital>Horsin' Around</ital>? </line>
 
 
   <line> Oh, face it. You're afraid of commitment. </line>
@@ -713,13 +761,13 @@
   <line> <name type="PERSON">God</name>, I hope he doesn't see us. </line>
 
 
-  <line> Is that <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>? </line>
+  <line> Is that <name type="PERSON">BoJack Horseman</name>? </line>
 
 
   <line> Oh, jeez, here we go. </line>
 
 
-  <line> Mr. Peanutbutter and <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name> in the same room. </line>
+  <line> Mr. Peanutbutter and <name type="PERSON">BoJack Horseman</name> in the same room. </line>
 
 
   <line> What is this, a crossover episode? </line>
@@ -758,7 +806,7 @@
   <line> How are you, Mr. Peanutbutter? </line>
 
 
-  <line> Oh, living the dream, <name type="PERSON">P.C.</name>, living the dream. </line>
+  <line> Oh, living the dream, P.C., living the dream. </line>
 
 
   <line> Why are you making conversation? </line>
@@ -803,7 +851,7 @@
   <line> - Thank you. - We haven't even ordered yet. </line>
 
 
-  <line> I have wasted so many dinners on you, <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>. </line>
+  <line> I have wasted so many dinners on you, <name type="PERSON">BoJack Horseman</name>. </line>
 
 
   <line> I don't know how you can expect anyone else to love you when you so clearly hate yourself. </line>
@@ -839,7 +887,7 @@
   <line> Nine-- really? </line>
 
 
-  <line> Great, now I'm <name type="PERSON">gonna</name> feel like a fat ass all week. </line>
+  <line> Great, now I'm gonna feel like a fat ass all week. </line>
 
 
   <line> You've seen me naked. Do you think I'm getting chubby? </line>
@@ -897,10 +945,12 @@
     party. </line>
 
 
-  <line> Hey, aren't you the horse from <ital><name type="PERSON">Horsin</name>' Around</ital>? </line>
+  <line> Hey, aren't you the horse from <ital>Horsin' Around</ital>? </line>
 
 
-  <line> <nonVerbComm>[retching]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[retching]</nonVerbComm>
+  </line>
 
 
   <line> That was a good party. </line>
@@ -909,7 +959,7 @@
   <line> Hey, didn't we get a cotton candy machine for that party? </line>
 
 
-  <line> W<name type="PERSON">ho</name> told you Princess Carolyn and I broke up? </line>
+  <line> Who told you Princess Carolyn and I broke up? </line>
 
 
   <line> - She did. - What? </line>
@@ -934,16 +984,20 @@
 
 
   <line> You know what, you can take a last look at this face, because it's the last time you're
-    <name type="PERSON">gonna</name> see it. </line>
+    gonna see it. </line>
 
 
   <line> Hey-up! </line>
 
 
-  <line> <nonVerbComm>[screams]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[screams]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[cell phone vibrates] [upbeat tune plays]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[cell phone vibrates] [upbeat tune plays]</nonVerbComm>
+  </line>
 
 
   <line> Hello? </line>
@@ -1017,7 +1071,7 @@
   </line>
 
 
-  <line> Does Tuesday work for you, or are you <name type="PERSON">gonna</name> be too busy this week masturbating to old
+  <line> Does Tuesday work for you, or are you gonna be too busy this week masturbating to old
     pictures of yourself? </line>
 
 
@@ -1036,7 +1090,9 @@
   <line> Yes, fine! </line>
 
 
-  <line> <nonVerbComm>[laid-back rock music]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[laid-back rock music]</nonVerbComm>
+  </line>
 
 
   <line> Whoo! </line>
@@ -1054,13 +1110,15 @@
   <line> This company is in dire straits. </line>
 
 
-  <line> <nonVerbComm>[screams] [alarm blares]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[screams] [alarm blares]</nonVerbComm>
+  </line>
 
 
   <line> We made a series of very bad investments. </line>
 
 
-  <line> Ever hear of a <name type="PERSON">yo</name>ung adult franchise called the <name type="ORG">Swamp Monsters</name> of Malibu? </line>
+  <line> Ever hear of a young adult franchise called the <name type="ORG">Swamp Monsters</name> of <name type="GPE">Malibu</name>? </line>
 
 
   <line> Uh, no. </line>
@@ -1084,7 +1142,9 @@
   <line> I live a very active lifestyle. </line>
 
 
-  <line> <nonVerbComm>[laughter on TV]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[laughter on TV]</nonVerbComm>
+  </line>
 
 
   <line>
@@ -1127,13 +1187,13 @@
   </line>
 
 
-  <line> Little <name type="PERSON">Sabrina</name> grew up right before our eyes, right, Todd? </line>
+  <line> Little <name type="PERSON">Sabrina</name> grew up right before our eyes, right, <name type="PERSON">Todd</name>? </line>
 
 
-  <line> Todd? </line>
+  <line> <name type="PERSON">Todd</name>? </line>
 
 
-  <line> Todd! </line>
+  <line> <name type="PERSON">Todd</name>! </line>
 
 
   <line> What? </line>
@@ -1145,7 +1205,9 @@
   <line> Yes! </line>
 
 
-  <line> <nonVerbComm>[clears throat]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[clears throat]</nonVerbComm>
+  </line>
 
 
   <line> We're tired of waiting. </line>
@@ -1192,10 +1254,14 @@
     from the <name type="ORG">Swamp Monsters</name> swag box. </line>
 
 
-  <line> <nonVerbComm>[electricity crackles]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[electricity crackles]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[upbeat music]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[upbeat music]</nonVerbComm>
+  </line>
 
 
   <line> Oh, <name type="PERSON">God</name>, I'm a failure. </line>
@@ -1225,7 +1291,9 @@
   <line> And that's for trying to sell E on the cartel's turf. </line>
 
 
-  <line> <nonVerbComm>[coughs]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[coughs]</nonVerbComm>
+  </line>
 
 
   <line> Oh, where's <name type="PERSON">Gabriela</name>? </line>
@@ -1237,7 +1305,7 @@
   <line> What? No! </line>
 
 
-  <line> - <name type="PERSON">Gabriela</name>, why? - W<name type="PERSON">ho</name>? </line>
+  <line> - <name type="PERSON">Gabriela</name>, why? - Who? </line>
 
 
   <line> We were talking about me. </line>
@@ -1300,7 +1368,9 @@
   <line> Ugh, I really got to start putting my phone on airplane mode when I drink. </line>
 
 
-  <line> <nonVerbComm>[hisses]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[hisses]</nonVerbComm>
+  </line>
 
 
   <line> This lady probably thinks I'm just some dumb sitcom actor. </line>
@@ -1309,7 +1379,7 @@
   <line> I hate her and her stupid, impossible-to-pronounce last name, </line>
 
 
-  <line> Na-goo-ya-go-goo-goo-goo-<name type="PERSON">ga</name>. </line>
+  <line> Na-goo-ya-go-goo-goo-goo-ga. </line>
 
 
   <line> You haven't even met her. </line>
@@ -1340,13 +1410,17 @@
   <line> You owe me a party, <ital>cabrón</ital>, and if you don't deliver-- </line>
 
 
-  <line> <nonVerbComm>[muffled whimpers]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[muffled whimpers]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[gunshot]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[gunshot]</nonVerbComm>
+  </line>
 
 
-  <line> Because parties are f<name type="ORG">un</name>? </line>
+  <line> Because parties are fun? </line>
 
 
   <line> This book is really important to me. </line>
@@ -1367,7 +1441,7 @@
   <line> I'm a joke, and if this book isn't good, </line>
 
 
-  <line> I'm <name type="PERSON">gonna</name> be a joke forever. </line>
+  <line> I'm gonna be a joke forever. </line>
 
 
   <line> Everyone thinks that I'm just this washed-up hack, but actually-- </line>
@@ -1388,13 +1462,13 @@
   <line> Oh, my <name type="PERSON">God</name>, my toast! [ding] </line>
 
 
-  <line> Todd, on my grave, </line>
+  <line> <name type="PERSON">Todd</name>, on my grave, </line>
 
 
   <line> I want it to say that I was born in 1975. </line>
 
 
-  <line> No one's <name type="PERSON">gonna</name> believe-- </line>
+  <line> No one's gonna believe-- </line>
 
 
   <line> Damn it, can't you respect a dying man's wish? </line>
@@ -1403,16 +1477,23 @@
   <line> You're not dying. </line>
 
 
-  <line> <nonVerbComm>[monitor beeping]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[monitor beeping]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[steady tone]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[steady tone]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[groans]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[groans]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[sighs]</nonVerbComm> Well, we did everything we could. </line>
+  <line>
+    <nonVerbComm>[sighs]</nonVerbComm> Well, we did everything we could. </line>
 
 
   <line> Nurse, record the time of death. </line>
@@ -1424,10 +1505,13 @@
   <line> It never gets easier. </line>
 
 
-  <line> <nonVerbComm>[both sigh]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[both sigh]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[<name type="PERSON">Sabrina</name> crying]</nonVerbComm> What-- I don't-- </line>
+  <line>
+    <nonVerbComm>[<name type="PERSON">Sabrina</name> crying]</nonVerbComm> What-- I don't-- </line>
 
 
   <line> What do you mean he's dead? </line>
@@ -1547,7 +1631,9 @@
   <line> What, you want me to call this woman on the phone? </line>
 
 
-  <line> <nonVerbComm>[gasps]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[gasps]</nonVerbComm>
+  </line>
 
 
   <line> Well, you just had another anxiety attack. </line>
@@ -1556,7 +1642,9 @@
   <line> And <ital>Entertainment Weekly</ital> said I wasn't consistent. </line>
 
 
-  <line> <nonVerbComm>[laughs]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[laughs]</nonVerbComm>
+  </line>
 
 
   <line> Really, not even a pity laugh? </line>
@@ -1580,7 +1668,7 @@
   <line> I'll organize the whole thing. </line>
 
 
-  <line> You can invite the ghostwriter and have a nice, casual conversation in a f<name type="ORG">un</name>, pressure-free
+  <line> You can invite the ghostwriter and have a nice, casual conversation in a fun, pressure-free
     environment. </line>
 
 
@@ -1599,19 +1687,29 @@
   <line> I totally hear what you are saying, and I will do my best. </line>
 
 
-  <line> <nonVerbComm>[mariachi music]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[mariachi music]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[singing in <name type="NORP">Spanish</name>]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[singing in <name type="NORP">Spanish</name>]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[laughter]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[laughter]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[cheering]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[cheering]</nonVerbComm>
+  </line>
 
 
-  <line> <nonVerbComm>[laughter]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[laughter]</nonVerbComm>
+  </line>
 
 
   <line> Señor <name type="PERSON">Horseman</name>, I will never forget your generosity today. </line>
@@ -1623,10 +1721,10 @@
   <line> <name type="PERSON">Mwah</name>. Let's dance! </line>
 
 
-  <line> Todd, w<name type="PERSON">ho</name> was that guy? </line>
+  <line> <name type="PERSON">Todd</name>, who was that guy? </line>
 
 
-  <line> W<name type="PERSON">ho</name> are all these people? </line>
+  <line> Who are all these people? </line>
 
 
   <line> Oh, you know, just a variety of folks from all walks of life. </line>
@@ -1638,10 +1736,12 @@
   <line> Oh, so any party with <name type="NORP">Mexican</name> teenage girls is a quinceañera? </line>
 
 
-  <line> Now w<name type="PERSON">ho</name>'s racist? </line>
+  <line> Now who's racist? </line>
 
 
-  <line> <nonVerbComm>[laughter]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[laughter]</nonVerbComm>
+  </line>
 
 
   <line> I find that piñata offensive. </line>
@@ -1704,13 +1804,15 @@
   </line>
 
 
-  <line> <nonVerbComm>[sighs]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[sighs]</nonVerbComm>
+  </line>
 
 
   <line> Hey, <name type="PERSON">BoJack</name>, right? </line>
 
 
-  <line> - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>? - Yes. </line>
+  <line> - <name type="PERSON">BoJack Horseman</name>? - Yes. </line>
 
 
   <line> Oh, I'm-- I'm sorry, I don't want to mispronounce your name. </line>
@@ -1740,7 +1842,7 @@
   <line> Like, look at that guy. </line>
 
 
-  <line> He's having f<name type="ORG">un</name>. </line>
+  <line> He's having fun. </line>
 
 
   <line> Why haven't I figured it out? </line>
@@ -1777,7 +1879,7 @@
   <line> You have a lovely home. </line>
 
 
-  <line> Yeah, well, if you're <name type="PERSON">gonna</name> throw away most of your adult life on some dumb sitcom, you
+  <line> Yeah, well, if you're gonna throw away most of your adult life on some dumb sitcom, you
     might as well get a sweet house out of the deal, right? </line>
 
 
@@ -1805,10 +1907,10 @@
   <line> You're a good sport. </line>
 
 
-  <line> - Ugh, you know w<name type="PERSON">ho</name> that is? - Mr. Peanutbutter? </line>
+  <line> - Ugh, you know who that is? - Mr. Peanutbutter? </line>
 
 
-  <line> Yeah, he was on that show <ital>Mr. Peanutbutter's <name type="ORG">House</name></ital> about that dog w<name type="PERSON">ho</name> adopted
+  <line> Yeah, he was on that show <ital>Mr. Peanutbutter's <name type="ORG">House</name></ital> about that dog who adopted
     the three human kids. </line>
 
 
@@ -1818,7 +1920,7 @@
   <line> You people are all right. </line>
 
 
-  <line> W<name type="PERSON">ho</name> wants an autograph? </line>
+  <line> Who wants an autograph? </line>
 
 
   <line> He's so stupid he doesn't realize how miserable he should be. I envy that. </line>
@@ -1842,7 +1944,7 @@
   <line> That is profoundly sad. </line>
 
 
-  <line> No, the story is that the guy w<name type="PERSON">ho</name> played the dad hated being on <ital>The Brady
+  <line> No, the story is that the guy who played the dad hated being on <ital>The Brady
       Bunch</ital> because he was a real actor, and he considered it beneath him. </line>
 
 
@@ -1878,7 +1980,7 @@
   <line> I can't even be responsible for my own breakfast. </line>
 
 
-  <line> Todd! </line>
+  <line> <name type="PERSON">Todd</name>! </line>
 
 
   <line> I need help. </line>
@@ -1984,13 +2086,17 @@
   <line> Humph. </line>
 
 
-  <line> <nonVerbComm>[retching]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[retching]</nonVerbComm>
+  </line>
 
 
   <line> - Ugh. - Oh, my <name type="PERSON">God</name>. </line>
 
 
-  <line> <nonVerbComm>[retching]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[retching]</nonVerbComm>
+  </line>
 
 
   <line> Are you okay? </line>
@@ -1999,13 +2105,16 @@
   <line> I'm just-- </line>
 
 
-  <line> <nonVerbComm>[retching]</nonVerbComm> I'm fine. </line>
+  <line>
+    <nonVerbComm>[retching]</nonVerbComm> I'm fine. </line>
 
 
   <line> I'm just-- I'm really happy for you. </line>
 
 
-  <line> <nonVerbComm>[retching]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[retching]</nonVerbComm>
+  </line>
 
 
   <line> Should we get someone, or... </line>
@@ -2023,13 +2132,17 @@
   <line> Oh, <name type="PERSON">God</name>. </line>
 
 
-  <line> <nonVerbComm>[retching]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[retching]</nonVerbComm>
+  </line>
 
 
   <line> Starting now. </line>
 
 
-  <line> <nonVerbComm>[upbeat music]</nonVerbComm> </line>
+  <line>
+    <nonVerbComm>[upbeat music]</nonVerbComm>
+  </line>
 
 
   <line>
@@ -2112,7 +2225,7 @@
 
   <line>
     <ital>
-      <music>♪ I don't think I'm <name type="PERSON">gonna</name> last ♪</music>
+      <music>♪ I don't think I'm gonna last ♪</music>
     </ital>
 
   </line>
@@ -2170,6 +2283,4 @@
     </ital>
 
   </line>
-
-
 </script>

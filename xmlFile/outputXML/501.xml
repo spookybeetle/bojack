@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>The Light Bulb Scene - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>The Light Bulb Scene - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -18,7 +18,7 @@
 
 
 <line>
-<ital>♪ In Los Ageless</ital>
+<ital>♪ In <name type="GPE">Los</name> Ageless</ital>
 
 <ital>The winter never comes ♪</ital>
 
@@ -26,9 +26,9 @@
 
 
 <line>
-<ital>♪ In Los Ageless</ital>
+<ital>♪ In <name type="GPE">Los</name> Ageless</ital>
 
-<ital>The mothers milk their <name type="PERSON">yo</name>ung ♪</ital>
+<ital>The mothers milk their young ♪</ital>
 
 </line>
 
@@ -88,7 +88,7 @@
 <line>
 -Hmm.
 
--[g<name type="ORG">un</name> cocks]
+-[gun cocks]
 
 </line>
 
@@ -162,7 +162,7 @@ and you asking me to do this show,
 <line>
 -and me saying, "Yes".
 
--Hey, can we get rid of <name type="PERSON">Phil</name><name type="PERSON">bert</name>'s watch?
+-Hey, can we get rid of Philbert's watch?
 
 </line>
 
@@ -180,11 +180,11 @@ about the existence of clocks.
 <line>
 And why we're making a TV show
 
-for What-Time-Is-It-Right-Now-dot-com,
+for What-<name type="ORG">Time</name>-Is-It-Right-Now-dot-com,
 
 which is a website for people
 
-w<name type="PERSON">ho</name> don't know their computers
+who don't know their computers
 
 already have built-in clocks
 
@@ -312,7 +312,7 @@ about my character.
 
 
 <line>
--<name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>...
+-<name type="PERSON">BoJack Horseman</name>...
 
 -Oh, jeez. Here we go.
 
@@ -328,7 +328,7 @@ on the same studio backlot?
 
 
 <line>
--One <name type="ORG">sec</name>--
+-One sec--
 
 -What is this?
 
@@ -348,7 +348,7 @@ on the same studio backlot?
 
 from different sides of the tracks
 
-w<name type="PERSON">ho</name> learn to respect each other
+who learn to respect each other
 
 because they have a common interest?
 
@@ -356,7 +356,7 @@ because they have a common interest?
 
 
 <line>
--W<name type="PERSON">ho</name>'s this guy?
+-Who's this guy?
 
 -Ignore him. Why--
 
@@ -392,7 +392,7 @@ and possibly there's a karaoke scene?
 
 
 <line>
-Why does <name type="PERSON">John</name> <name type="PERSON">Phil</name><name type="PERSON">bert</name>'s house
+Why does Philbert's house
 
 look the same as my house?
 
@@ -408,7 +408,7 @@ I've never been to your house.
 <line>
 The set was designed to reflect
 
-<name type="PERSON">Detective <name type="PERSON">Phil</name><name type="PERSON">bert</name></name>.
+Philbert</name>.
 
 </line>
 
@@ -464,7 +464,7 @@ Well, it's a short film.
 
 
 <line>
--I gotta r<name type="ORG">un</name>.
+-I gotta run.
 
 -Wait!
 
@@ -544,7 +544,7 @@ anyway so just go to town.
 
 
 <line>
-Yeah, I'm <name type="PERSON">gonna</name> go.
+Yeah, I'm gonna go.
 
 </line>
 
@@ -566,7 +566,7 @@ Uh-huh?
 <line>
 Do you think I'm right, and
 
-the <name type="PERSON">Phil</name><name type="PERSON">bert</name> character is poorly written,
+the Philbert character is poorly written,
 
 and <name type="PERSON">Flip</name> needs to write him better,
 
@@ -696,7 +696,7 @@ Huh.
 
 
 <line>
-<nonVerbComm>[<name type="PERSON">Holly</name>hock grunts]</nonVerbComm> <ital><name type="PERSON">BoJack</name>? Why are you up?</ital>
+<nonVerbComm>[Hollyhock grunts]</nonVerbComm> <ital><name type="PERSON">BoJack</name>? Why are you up?</ital>
 
 </line>
 
@@ -756,7 +756,7 @@ Well, there were 23 other hearts.
 <line>
 But I don't know if you know
 
-w<name type="PERSON">ho</name> they're all from, but one was from me.
+who they're all from, but one was from me.
 
 </line>
 
@@ -822,7 +822,7 @@ I don't miss you, I'm just bored.
 
 
 <line>
-<nonVerbComm>[Todd panting]</nonVerbComm>
+<nonVerbComm>[<name type="PERSON">Todd</name> panting]</nonVerbComm>
 
 </line>
 
@@ -858,7 +858,7 @@ that would embarrass any of us.
 
 
 <line>
-What are you <name type="PERSON">gonna</name> do
+What are you gonna do
 
 while I'm at work all day?
 
@@ -868,7 +868,7 @@ while I'm at work all day?
 <line>
 There's an old frog
 
-w<name type="PERSON">ho</name> lives down in the <name type="GPE">L.A.</name> River.
+who lives down in the L.A. River.
 
 </line>
 
@@ -884,7 +884,7 @@ on account of a caper we once went on.
 <line>
 -What?
 
--I was <name type="PERSON">gonna</name> see if he wants
+-I was gonna see if he wants
 
 to make instruments out of shoeboxes
 
@@ -1000,7 +1000,7 @@ It takes a selfless, giving,
 
 kickass superwoman
 
-w<name type="PERSON">ho</name>'s willing to take out
+who's willing to take out
 
 her checkbook right now
 
@@ -1040,7 +1040,7 @@ from you giving me this check
 
 all the way to me introducing you
 
-to your new caseworker, Tracy.
+to your new caseworker, <name type="PERSON">Tracy</name>.
 
 </line>
 
@@ -1182,7 +1182,7 @@ I love the whole... thing of it.
 <line>
 I just wanted to clarify some things
 
-about <name type="PERSON">Phil</name><name type="PERSON">bert</name> as a character.
+about Philbert as a character.
 
 </line>
 
@@ -1196,7 +1196,7 @@ Mm-hmm.
 <line>
 Yeah, okay, on page three,
 
-is it necessary that <name type="PERSON">Phil</name><name type="PERSON">bert</name>
+is it necessary that Philbert
 
 can only orgasm if he's listening
 
@@ -1280,7 +1280,7 @@ The stripper scene's cut.
 <line>
 -Uh, oh. Uh...
 
--How am I <name type="PERSON">gonna</name> feed my baby?
+-How am I gonna feed my baby?
 
 </line>
 
@@ -1364,7 +1364,7 @@ Can we get some nipple ice for <name type="PERSON">Gina</name>?
 
 
 <line>
--So, you're the famous Yolanda.
+-So, you're the famous <name type="PERSON">Yolanda</name>.
 
 -I am not famous.
 
@@ -1374,7 +1374,7 @@ Can we get some nipple ice for <name type="PERSON">Gina</name>?
 <line>
 You might have me confused
 
-with another more famous Yolanda.
+with another more famous <name type="PERSON">Yolanda</name>.
 
 </line>
 
@@ -1382,7 +1382,7 @@ with another more famous Yolanda.
 <line>
 I know, I-I just meant
 
-because Todd talks about you so much,
+because <name type="PERSON">Todd</name> talks about you so much,
 
 </line>
 
@@ -1400,7 +1400,7 @@ Oh, well, that was not clear.
 
 
 <line>
-Okay. Todd, why don't you say things now?
+Okay. <name type="PERSON">Todd</name>, why don't you say things now?
 
 </line>
 
@@ -1496,7 +1496,7 @@ while also being A, Sexual, or B, Asexual.
 
 
 <line>
-So you could be <name type="ORG">BB</name>, or BA.
+So you could be BB, or BA.
 
 </line>
 
@@ -1570,7 +1570,7 @@ Yeah, that's true.
 
 
 <line>
-So, Todd, are you still doing
+So, <name type="PERSON">Todd</name>, are you still doing
 
 that rabid clown-dentist exercise thing?
 
@@ -1598,9 +1598,9 @@ Huh?
 
 
 <line>
-<ital>I know you killed your wife, <name type="PERSON">Phil</name><name type="PERSON">bert</name>,</ital>
+<ital>I know you killed your wife, Philbert,</ital>
 
-<ital>and I'm <name type="PERSON">gonna</name> prove it.</ital>
+<ital>and I'm gonna prove it.</ital>
 
 </line>
 
@@ -1646,7 +1646,7 @@ Well, how about I show you?
 
 
 <line>
-Someone keeps shouting "Wow" and <name type="PERSON">"Ooh</name>."
+Someone keeps shouting "Wow" and "Ooh."
 
 </line>
 
@@ -1660,7 +1660,7 @@ over here.
 
 
 <line>
-So <name type="PERSON">sayeth Caesar!</name> King of the apes!
+So sayeth Caesar! King of the apes!
 
 </line>
 
@@ -1740,7 +1740,7 @@ with the nudity in this scene?
 <line>
 It's great. It's brilliant, unprecedented.
 
-I'm <name type="PERSON">gonna</name> get some potatoes.
+I'm gonna get some potatoes.
 
 </line>
 
@@ -1846,7 +1846,7 @@ This is working together.
 <line>
 -Well, hold on.
 
--Fully exposed, <name type="PERSON">Phil</name><name type="PERSON">bert</name> reaches up
+-Fully exposed, Philbert reaches up
 
 </line>
 
@@ -1896,7 +1896,7 @@ Now we're talking!
 
 
 <line>
--if he can wear a <name type="PERSON">T</name>-shirt.
+-if he can wear a T-shirt.
 
 -What?
 
@@ -2022,7 +2022,7 @@ But that's not it, right?
 <line>
 -I'll send the waxing kit over tonight.
 
--<name type="PERSON">Phil</name><name type="PERSON">bert</name> waxes?
+-Philbert waxes?
 
 </line>
 
@@ -2080,7 +2080,7 @@ That is so cool!
 
 
 <line>
-Todd, do you ever feel weird
+<name type="PERSON">Todd</name>, do you ever feel weird
 
 that you have
 
@@ -2306,7 +2306,7 @@ WhatTimeIsItRightNow.com!
 
 
 <line>
-<nonVerbComm>[Todd]</nonVerbComm> Oh, a janitor job.
+<nonVerbComm>[<name type="PERSON">Todd</name>]</nonVerbComm> Oh, a janitor job.
 
 </line>
 
@@ -2380,9 +2380,9 @@ and unnecessary,
 
 
 <line>
-Todd, don't you get it?
+<name type="PERSON">Todd</name>, don't you get it?
 
-We're <name type="PERSON">gonna</name> save the show!
+We're gonna save the show!
 
 </line>
 
@@ -2480,7 +2480,7 @@ Just a minute.
 <line>
 -[cell phone rings]
 
--All right! Todd, did you do it?
+-All right! <name type="PERSON">Todd</name>, did you do it?
 
 </line>
 
@@ -2496,7 +2496,7 @@ Just a minute.
 <line>
 -Already I don't like this development.
 
--[Todd] <ital>Hey! Good news, bad news.</ital>
+-[Good news, bad news.</ital>
 
 </line>
 
@@ -2562,7 +2562,7 @@ Can we get it even bigger?
 
 
 <line>
-Ugh, Todd, your good-hearted naiveté
+Ugh, <name type="PERSON">Todd</name>, your good-hearted naiveté
 
 has once again conspired
 
@@ -2894,7 +2894,7 @@ Conceited much?
 
 
 <line>
-Tracy, I’m spending a lot of money
+<name type="PERSON">Tracy</name>, I’m spending a lot of money
 
 to be here with you
 
@@ -2974,7 +2974,7 @@ Princess Carolyn, I overplayed my hand.
 
 
 <line>
-<nonVerbComm>[<name type="PERSON">BoJack</name>]</nonVerbComm> Princess Carolyyyyyyyn,
+<nonVerbComm>[Carolyyyyyyyn,
 
 I need to talk to youuuuuu.
 
@@ -3006,7 +3006,7 @@ Duh. Bought a burner phone,
 
 slipped it into your purse,
 
-and then used the Find My <name type="ORG">P<name type="PERSON">ho</name></name>ne app.
+and then used the Find My Phone app.
 
 </line>
 
@@ -3038,13 +3038,13 @@ I have a plan and I need your help.
 <line>
 -I found out his mom has a fake leg.
 
--W<name type="PERSON">ho</name>'s mom?
+-Who's mom?
 
 </line>
 
 
 <line>
-<name type="PERSON">Flip</name>. I'm <name type="PERSON">gonna</name> seduce her, steal her leg,
+<name type="PERSON">Flip</name>. I'm gonna seduce her, steal her leg,
 
 and then smack him across the face with it
 
@@ -3076,7 +3076,7 @@ I-I don't want to do the show.
 
 
 <line>
-So you're <name type="PERSON">gonna</name> r<name type="ORG">un</name> away
+So you're gonna run away
 
 like you always do?
 
@@ -3094,7 +3094,7 @@ Yeah. I never wanted to do this show!
 
 -And I told you that,
 
-and you said, <name type="PERSON">"Okay</name>" because you wanted
+and you said, "Okay" because you wanted
 
 to be a good friend to me!
 
@@ -3134,7 +3134,7 @@ a foreign concept for you.
 
 
 <line>
-No, not <name type="PERSON">Flip</name>. <name type="PERSON">Phil</name><name type="PERSON">bert</name>.
+No, not Philbert.
 
 </line>
 
@@ -3164,7 +3164,7 @@ and you show up at your call time.
 
 
 <line>
-And then you put on the <name type="PERSON">Phil</name><name type="PERSON">bert</name> costume
+And then you put on the Philbert costume
 
 and you <ital>pretend </ital>to be this other guy.
 
@@ -3294,7 +3294,7 @@ Wow, look at you. Pizza.
 
 
 <line>
-I played <name type="PERSON">Little Caesar's</name> dad, Big Caesar,
+I played <name type="PERSON">Little Caesar</name>'s dad, Big Caesar,
 
 in the back story part of the commercial,
 
@@ -3306,9 +3306,9 @@ don't even have a back story part.
 
 
 <line>
-Also, <name type="PERSON">Little Caesar's</name>
+Also, <name type="PERSON">Little Caesar</name>'s
 
-doesn't sell <name type="PERSON">crudités</name>.
+doesn't sell crudités.
 
 </line>
 
@@ -3450,7 +3450,7 @@ What's that for? We've all seen me naked.
 
 
 <line>
-Can't put the <name type="ORG">genie</name>
+Can't put the genie
 
 back in the bottle now, baby.
 
@@ -3520,7 +3520,7 @@ Party at my house tonight!
 
 
 <line>
-<ital><music>♪ The last days of the <name type="PERSON">s<name type="ORG">un</name></name>set superstars ♪</music></ital>
+<ital><music>♪ The last days of the sunset superstars ♪</music></ital>
 
 </line>
 
@@ -3536,13 +3536,13 @@ So, then <name type="PERSON">Aaron</name> Eckhart
 
 said, "If that's <name type="ORG">Ansel Elgort</name>,
 
-then w<name type="PERSON">ho</name>'s Alden Ehrenreich?"
+then who's Alden Ehrenreich?"
 
 </line>
 
 
 <line>
--And then I said, <ital>''Ge<name type="PERSON">s<name type="ORG">un</name></name>dheit''</ital>
+-And then I said, <ital>''Gesundheit''</ital>
 
 -[all laughing]
 
@@ -3558,9 +3558,9 @@ then w<name type="PERSON">ho</name>'s Alden Ehrenreich?"
 
 
 <line>
-<name type="PERSON">Jesus</name> Christ, your house really does look
+Christ, your house really does look
 
-like <name type="PERSON">Phil</name><name type="PERSON">bert</name>'s.
+like Philbert's.
 
 </line>
 
@@ -3586,7 +3586,7 @@ Yeah. Sure.
 
 
 <line>
-<name type="PERSON">T</name>hose chicks always make
+Those chicks always make
 
 such a big deal about their bodies.
 
@@ -3682,7 +3682,7 @@ it's not about you, you know?
 
 
 <line>
--It's <name type="PERSON">Phil</name><name type="PERSON">bert</name>.
+-It's Philbert.
 
 -Yeah. Right.
 

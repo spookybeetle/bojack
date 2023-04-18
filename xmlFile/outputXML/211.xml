@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>Escape from <name type="GPE">L.A.</name> - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>Escape from L.A. - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -34,7 +34,7 @@ to give you a call.
 
 
 <line>
-It's 5:00 p.m. in Los Angeles.
+It's 5:00 p.m. in <name type="GPE">Los</name> Angeles.
 
 </line>
 
@@ -194,7 +194,7 @@ that's the name of your band.
 
 
 <line>
-<ital>♪ Nothing's <name type="PERSON">gonna</name> be all right</ital>
+<ital>♪ Nothing's gonna be all right</ital>
 
 <ital>Be all right, oh, no ♪</ital>
 
@@ -202,7 +202,7 @@ that's the name of your band.
 
 
 <line>
-So, w<name type="PERSON">ho</name> are you again?
+So, who are you again?
 
 </line>
 
@@ -210,7 +210,7 @@ So, w<name type="PERSON">ho</name> are you again?
 <line>
 You were friends with Mom
 
-when she lived in <name type="GPE">L.A.</name>?
+when she lived in L.A.?
 
 </line>
 
@@ -218,7 +218,7 @@ when she lived in <name type="GPE">L.A.</name>?
 <line>
 Your mom never mentioned she used
 
-to hang out with <ital>the</ital> <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>?
+to hang out with <ital>the</ital> <name type="PERSON">BoJack Horseman</name>?
 
 </line>
 
@@ -230,7 +230,7 @@ Star of screen and... book?
 
 
 <line>
--Wait, Mom lived in Los Angeles?
+-Wait, Mom lived in <name type="GPE">Los</name> Angeles?
 
 -Never came up?
 
@@ -312,7 +312,7 @@ So, <name type="PERSON">BoJack</name>. What brings you to Tesuque?
 
 
 <line>
-So, we're just <name type="PERSON">gonna</name> change
+So, we're just gonna change
 
 the subject
 
@@ -450,9 +450,9 @@ Because I'm here to buy... a boat.
 
 
 <line>
--At the... <name type="GPE">Santa Fe</name> Boat Show.
+-At the... Santa Fe Boat Show.
 
--I've never heard of a <name type="GPE">Santa Fe</name> Boat Show.
+-I've never heard of a Santa Fe Boat Show.
 
 </line>
 
@@ -488,7 +488,7 @@ and big-time celebrities and... kings.
 
 
 <line>
-If you live in Los Angeles,
+If you live in <name type="GPE">Los</name> Angeles,
 
 which is right on the ocean,
 
@@ -544,7 +544,7 @@ It's my... boat... guy.
 <line>
 -Hello?
 
--Okay, so I got Turtel--
+-Okay, so I got <name type="ORG">Turtel</name>--
 
 </line>
 
@@ -602,7 +602,7 @@ Sorry about that. What's going on?
 
 
 <line>
--Te-w<name type="PERSON">ho</name>-ka?
+-Te-who-ka?
 
 -Tesuque, <name type="GPE">New Mexico</name>.
 
@@ -610,7 +610,7 @@ Sorry about that. What's going on?
 
 
 <line>
--Outside <name type="GPE">Santa Fe</name>.
+-Outside Santa Fe.
 
 -Are you te-stupid?
 
@@ -620,7 +620,7 @@ Sorry about that. What's going on?
 <line>
 If you don't get your ass back te-set,
 
-you're <name type="PERSON">gonna</name> get te-sued.
+you're gonna get te-sued.
 
 </line>
 
@@ -832,7 +832,7 @@ you made me think about it. Thanks a lot.
 <line>
 I'm the only senior
 
-w<name type="PERSON">ho</name> still doesn't have a license.
+who still doesn't have a license.
 
 </line>
 
@@ -1040,7 +1040,7 @@ but it's like this thing we do.
 
 
 <line>
-<nonVerbComm>[Penny]</nonVerbComm><ital> Rachel heard from <name type="PERSON">Ray-Ray</name></ital>
+<nonVerbComm>[Penny]</nonVerbComm><ital> Rachel heard from Ray-Ray</ital>
 
 <ital>and the Bean</ital>
 
@@ -1064,7 +1064,7 @@ but it's like this thing we do.
 
 
 <line>
-"Yeah, <name type="GPE">pfft</name>, okay, dude."
+"Yeah, pfft, okay, dude."
 
 You know what I mean?
 
@@ -1090,13 +1090,13 @@ where he would want to go with me,
 
 because he knows I'm a real girl
 
-w<name type="PERSON">ho</name>'s mostly <name type="PERSON">chill</name>. [chuckles]
+who's mostly chill. [chuckles]
 
 </line>
 
 
 <line>
-If you're so mostly <name type="PERSON">chill</name>,
+If you're so mostly chill,
 
 why do you keep driving by his house?
 
@@ -1126,7 +1126,7 @@ I was just going for a drive."
 
 
 <line>
-And he'll be like, <name type="PERSON">"Oh</name>, hey."
+And he'll be like, "Oh, hey."
 
 And I'll be like, "Hey."
 
@@ -1162,7 +1162,7 @@ Dude, what are you really doing here?
 
 
 <line>
-I didn't... like the person I was in <name type="GPE">L.A.</name>
+I didn't... like the person I was in L.A.
 
 </line>
 
@@ -1178,7 +1178,7 @@ And I didn't know where else to go.
 
 -Well, I won't,
 
-but I think people are <name type="PERSON">gonna</name> notice
+but I think people are gonna notice
 
 if you go to a boat show
 
@@ -1244,7 +1244,7 @@ You did some great cheering
 
 from the bench,
 
-and for someone w<name type="PERSON">ho</name> never plays,
+and for someone who never plays,
 
 you sweat a lot.
 
@@ -1302,7 +1302,7 @@ What a boat.
 
 
 <line>
-Yeah! <name type="PERSON">Woo-hoo</name>! I'm going on a boat!
+Yeah! Woo-hoo! I'm going on a boat!
 
 I got my way!
 
@@ -1318,7 +1318,7 @@ Where's your car?
 <line>
 I junked it.
 
-W<name type="PERSON">ho</name> needs a car when you got a boat?
+Who needs a car when you got a boat?
 
 </line>
 
@@ -1348,7 +1348,7 @@ Please stay out of the bedroom.
 <line>
 -Does she have a name?
 
--W<name type="PERSON">ho</name>?
+-Who?
 
 </line>
 
@@ -1362,7 +1362,7 @@ Please stay out of the bedroom.
 
 
 <line>
-You should call her the <ital>Escape From <name type="GPE">L.A.</name></ital>
+You should call her the <ital>Escape From L.A.</ital>
 
 </line>
 
@@ -1558,7 +1558,7 @@ Can we make pizza bagels?
 
 
 <line>
-Hey, uh, I'm not <name type="PERSON">gonna</name> be back
+Hey, uh, I'm not gonna be back
 
 on set Monday.
 
@@ -1608,7 +1608,7 @@ Just let them burn.
 
 
 <line>
-Well, w<name type="PERSON">ho</name>'s getting seasick? [retches]
+Well, who's getting seasick? [retches]
 
 </line>
 
@@ -1668,7 +1668,7 @@ with the Drama Chair at SFCC.
 
 
 <line>
-They're <name type="PERSON">gonna</name> offer me a position.
+They're gonna offer me a position.
 
 </line>
 
@@ -1684,7 +1684,7 @@ They're <name type="PERSON">gonna</name> offer me a position.
 <line>
 There's a real stick-in-the-mud dean there
 
-w<name type="PERSON">ho</name> doesn't like my in-your-face style.
+who doesn't like my in-your-face style.
 
 </line>
 
@@ -1814,7 +1814,7 @@ Everyone said for months
 
 
 <line>
--that <name type="GPE">Diego</name> was <name type="PERSON">gonna</name> ask me to prom.
+-that <name type="GPE">Diego</name> was gonna ask me to prom.
 
 -Yeah?
 
@@ -1852,7 +1852,7 @@ So, I asked him and he said no.
 
 
 <line>
-And then this other girl, <name type="PERSON">Lyla K.</name>,
+And then this other girl, Lyla K.,
 
 came up to him and was just like, "Hey."
 
@@ -1872,7 +1872,7 @@ Well, I don't want to tell tales
 
 out of school,
 
-but this <name type="PERSON">Lyla K.</name> character
+but this Lyla K. character
 
 sounds like a real bust-ass super-skank.
 
@@ -2008,7 +2008,7 @@ you'd be nervous.
 <line>
 -Wait--
 
--Rachel <name type="PERSON">Kaplan</name>'s <name type="PERSON">gonna</name> shit herself.
+-Rachel <name type="PERSON">Kaplan</name>'s gonna shit herself.
 
 </line>
 
@@ -2104,15 +2104,15 @@ is so bourgeois.
 
 
 <line>
-And w<name type="PERSON">ho</name> are you again?
+And who are you again?
 
 </line>
 
 
 <line>
--I'm Maddy.
+-I'm <name type="PERSON">Maddy</name>.
 
--Maddy's my best friend.
+-<name type="PERSON">Maddy</name>'s my best friend.
 
 </line>
 
@@ -2186,7 +2186,7 @@ Cool.
 
 
 <line>
-Wow, <name type="PERSON">Ray-Ray</name> and the Bean
+Wow, Ray-Ray and the Bean
 
 are already posting pics on <name type="ORG">Instagram</name>.
 
@@ -2268,7 +2268,7 @@ Wait, really?
 
 
 <line>
-If you're <name type="PERSON">gonna</name> drink,
+If you're gonna drink,
 
 you should be smart about it.
 
@@ -2350,7 +2350,7 @@ This prom is really bourgeois.
 
 
 <line>
--<name type="PERSON">Lyla K.</name> is so pretty.
+-Lyla K. is so pretty.
 
 -Shut up. She's got nothing on you.
 
@@ -2446,7 +2446,7 @@ As a teen, I'm open to new experiences.
 <line>
 Ready for the chorus, stay on the beat,
 
-and here... we... go. <name type="PERSON">Waka waka</name>.
+and here... we... go. <name type="PERSON">Waka</name> waka.
 
 </line>
 
@@ -2534,7 +2534,7 @@ and just leave.
 <line>
 -You can't just leave the prom.
 
--Of course you can. You're <name type="PERSON">yo</name>ung.
+-Of course you can. You're young.
 
 </line>
 
@@ -2564,7 +2564,7 @@ Yeah, is right. <name type="ORG">Society</name> is everywhere.
 <line>
 -<name type="ORG">Society</name>.
 
--Well, what else are we <name type="PERSON">gonna</name> do?
+-Well, what else are we gonna do?
 
 </line>
 
@@ -2610,7 +2610,7 @@ Okay, one... two... three.
 
 
 <line>
-<nonVerbComm>[Maddy burps]</nonVerbComm>
+<nonVerbComm>[<name type="PERSON">Maddy</name> burps]</nonVerbComm>
 
 </line>
 
@@ -2636,7 +2636,7 @@ Yeah, I wanna go.
 
 
 <line>
--[Maddy vomits]
+-[<name type="PERSON">Maddy</name> vomits]
 
 -Oh.
 
@@ -2644,13 +2644,13 @@ Yeah, I wanna go.
 
 
 <line>
-Oh, careful there, Maddy.
+Oh, careful there, <name type="PERSON">Maddy</name>.
 
 </line>
 
 
 <line>
-Actually, I'm <name type="PERSON">gonna</name> stay right here.
+Actually, I'm gonna stay right here.
 
 </line>
 
@@ -2738,7 +2738,7 @@ You know, you look just like your mother.
 
 
 <line>
-<nonVerbComm>[<name type="PERSON">Pete</name>]</nonVerbComm> Guys?
+<nonVerbComm>[Guys?
 
 </line>
 
@@ -2768,7 +2768,7 @@ Take her back to your place.
 <line>
 -She can spend the night.
 
--Maddy, come on.
+-<name type="PERSON">Maddy</name>, come on.
 
 </line>
 
@@ -2776,7 +2776,7 @@ Take her back to your place.
 <line>
 No, look, my cousin had a friend
 
-w<name type="PERSON">ho</name> passed out like this,
+who passed out like this,
 
 and she died of alcohol poisoning, man.
 
@@ -2784,7 +2784,7 @@ and she died of alcohol poisoning, man.
 
 
 <line>
-I really think we should get Maddy
+I really think we should get <name type="PERSON">Maddy</name>
 
 to a hospital, to a hospital.
 
@@ -2836,7 +2836,7 @@ That's why they call me <name type="PERSON">Pete</name> Repeat.
 
 
 <line>
-Maddy's <name type="PERSON">gonna</name> be just fine.
+<name type="PERSON">Maddy</name>'s gonna be just fine.
 
 They'll know what to do here.
 
@@ -2850,7 +2850,7 @@ They'll know what to do here.
 
 
 <line>
--Penny and I are <name type="PERSON">gonna</name> take off.
+-Penny and I are gonna take off.
 
 -What?
 
@@ -2872,7 +2872,7 @@ tell them we left the dance early,
 
 and you don't know
 
-where Maddy got the whiskey.
+where <name type="PERSON">Maddy</name> got the whiskey.
 
 </line>
 
@@ -2900,7 +2900,7 @@ kind of creepy.
 
 
 <line>
-Are you sure she's <name type="PERSON">gonna</name> be okay?
+Are you sure she's gonna be okay?
 
 </line>
 
@@ -2924,7 +2924,7 @@ and I need you to listen to me.
 <line>
 Penny and I left early.
 
-You don't know w<name type="PERSON">ho</name> gave Maddy whiskey.
+You don't know who gave <name type="PERSON">Maddy</name> whiskey.
 
 </line>
 
@@ -2956,15 +2956,15 @@ He knows what he's doing.
 
 
 <line>
-It's <name type="PERSON">gonna</name> be okay.
+It's gonna be okay.
 
-Where did Maddy get the alcohol from?
+Where did <name type="PERSON">Maddy</name> get the alcohol from?
 
 </line>
 
 
 <line>
-<nonVerbComm>[Maddy groaning]</nonVerbComm>
+<nonVerbComm>[<name type="PERSON">Maddy</name> groaning]</nonVerbComm>
 
 </line>
 
@@ -2978,7 +2978,7 @@ I... I don't know.
 <line>
 And what happened to your friends
 
-<name type="PERSON">BoJack</name> and Penny?
+Penny?
 
 </line>
 
@@ -3046,7 +3046,7 @@ Go, Penny! Go, go, go!
 
 
 <line>
--She's <name type="PERSON">gonna</name> be okay, right?
+-She's gonna be okay, right?
 
 -She'll be fine.
 
@@ -3120,7 +3120,7 @@ like a kid.
 <line>
 You're the first grown-up I've ever met
 
-w<name type="PERSON">ho</name> actually treats me like...
+who actually treats me like...
 
 you know, a person.
 
@@ -3326,13 +3326,13 @@ for the environment.
 
 
 <line>
-It was a f<name type="ORG">un</name> night.
+It was a fun night.
 
 </line>
 
 
 <line>
-We had a lot of f<name type="ORG">un</name> nights.
+We had a lot of fun nights.
 
 </line>
 
@@ -3340,7 +3340,7 @@ We had a lot of f<name type="ORG">un</name> nights.
 <line>
 Before you left town,
 
-you told me <name type="GPE">L.A.</name> was a tar pit.
+you told me L.A. was a tar pit.
 
 </line>
 
@@ -3354,7 +3354,7 @@ you told me <name type="GPE">L.A.</name> was a tar pit.
 
 
 <line>
-I said so many things when I was <name type="PERSON">yo</name>ung.
+I said so many things when I was young.
 
 I thought I was so deep.
 
@@ -3364,7 +3364,7 @@ I thought I was so deep.
 <line>
 -Well, do you still think it's true?
 
--Do I think <name type="GPE">L.A.</name> is a tar pit?
+-Do I think L.A. is a tar pit?
 
 </line>
 
@@ -3398,13 +3398,13 @@ I'm just saying, like...
 <line>
 It doesn't matter where you are,
 
-it's w<name type="PERSON">ho</name> you are,
+it's who you are,
 
-and that's not <name type="PERSON">gonna</name> change
+and that's not gonna change
 
 whether you're in <name type="GPE">California</name>
 
-or Maine or <name type="GPE">New Mexico</name>.
+or <name type="GPE">Maine</name> or <name type="GPE">New Mexico</name>.
 
 </line>
 
@@ -3718,7 +3718,7 @@ We can pretend it didn't happen.
 
 
 <line>
-Please, don't make me go back to <name type="GPE">L.A.</name>
+Please, don't make me go back to L.A.
 
 </line>
 
@@ -3932,7 +3932,7 @@ Yep, still here.
 <line>
 <ital>♪ It's been so long</ital>
 
-<ital>I don't think I'm <name type="PERSON">gonna</name> last ♪</ital>
+<ital>I don't think I'm gonna last ♪</ital>
 
 </line>
 

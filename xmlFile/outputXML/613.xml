@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>The Horny Unicorn - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>The Horny Unicorn - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -18,7 +18,7 @@
 
 
 <line>
-<nonVerbComm>[voicemail]</nonVerbComm> <ital>Hey, it's <name type="PERSON">Holly</name>hock.</ital>
+<nonVerbComm>[voicemail]</nonVerbComm> <ital>Hey, it's Hollyhock.</ital>
 
 </line>
 
@@ -32,7 +32,7 @@
 
 
 <line>
-Hey, <name type="PERSON">Holly</name>hock.
+Hey, Hollyhock.
 
 </line>
 
@@ -102,7 +102,7 @@ But I would love to talk.
 
 
 <line>
-<ital>It's fricking <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>.</ital>
+<ital>It's fricking <name type="PERSON">BoJack Horseman</name>.</ital>
 
 <ital>Don't worry, I muted it.</ital>
 
@@ -144,7 +144,7 @@ But I would love to talk.
 <line>
 <nonVerbComm>[man]</nonVerbComm> <ital>Makes sense. He seemed like</ital>
 
-<ital>a real psyc<name type="PERSON">ho</name> in that interview</ital>
+<ital>a real psycho in that interview</ital>
 
 </line>
 
@@ -290,7 +290,7 @@ I'm sorry, just don't like Beau.
 <line>
 -Greetings, strangers!
 
--Maude?
+-<name type="PERSON">Maude</name>?
 
 </line>
 
@@ -302,7 +302,7 @@ That's what they want you to think!
 
 
 <line>
-I'm Maude's twin sister <name type="PERSON">Fergus</name>,
+I'm <name type="PERSON">Maude</name>'s twin sister <name type="PERSON">Fergus</name>,
 
 we have never met before,
 
@@ -336,7 +336,7 @@ Has this ever happened to you?
 
 
 <line>
-Todd? At the office?
+<name type="PERSON">Todd</name>? At the office?
 
 </line>
 
@@ -356,7 +356,7 @@ to the "Birthday <name type="PERSON">Dad</name>" set.
 
 
 <line>
-I wanna r<name type="ORG">un</name> a day care at <name type="ORG">VIM</name>!
+I wanna run a day care at VIM!
 
 </line>
 
@@ -378,7 +378,7 @@ with children.
 
 
 <line>
-If you employ Todd through the company,
+If you employ <name type="PERSON">Todd</name> through the company,
 
 </line>
 
@@ -412,13 +412,13 @@ Plus, we can carpool to the office.
 <line>
 Which leads me to my next point.
 
-I am moving out to live with Maude.
+I am moving out to live with <name type="PERSON">Maude</name>.
 
 </line>
 
 
 <line>
-It's me! It's Maude.
+It's me! It's <name type="PERSON">Maude</name>.
 
 I don't really have a twin sister.
 
@@ -514,7 +514,7 @@ I went to the doctor to see
 
 if he could make me feel better,
 
-he said, <name type="PERSON">"You</name> should check out
+he said, "You should check out
 
 this Internet meme,
 
@@ -586,7 +586,7 @@ and my sponsor <name type="PERSON">Leo</name>,
 <line>
 I'm no longer just the man
 
-w<name type="PERSON">ho</name>'s not in this picture.
+who's not in this picture.
 
 </line>
 
@@ -594,13 +594,13 @@ w<name type="PERSON">ho</name>'s not in this picture.
 <line>
 I'm a different, better man
 
-w<name type="PERSON">ho</name> is also not in this picture.
+who is also not in this picture.
 
 </line>
 
 
 <line>
-W<name type="PERSON">ho</name>'s next?
+Who's next?
 
 </line>
 
@@ -658,7 +658,7 @@ Wow, tough room.
 
 
 <line>
-This <name type="ORG">AA</name> meeting is a tough room.
+This AA meeting is a tough room.
 
 </line>
 
@@ -690,7 +690,7 @@ I know what you're thinking,
 
 
 <line>
-That guy's <name type="PERSON">gonna</name> be my sponsor?
+That guy's gonna be my sponsor?
 
 </line>
 
@@ -706,7 +706,7 @@ once called 'a little much'?"
 <line>
 -Uh...
 
-<name type="PERSON">-"<name type="PERSON">Vance</name></name> <name type="PERSON">Waggoner</name>?
+-"<name type="PERSON">Vance</name> <name type="PERSON">Waggoner</name>?
 
 </line>
 
@@ -714,7 +714,7 @@ once called 'a little much'?"
 <line>
 That guy's got more domestic assault
 
-convictions than Sean <name type="ORG">Penn</name>!"
+convictions than <name type="PERSON">Sean</name> <name type="ORG">Penn</name>!"
 
 </line>
 
@@ -726,7 +726,7 @@ And now you're thinking,
 
 
 <line>
-"Did Sean <name type="ORG">Penn</name> get convicted
+"Did <name type="PERSON">Sean</name> <name type="ORG">Penn</name> get convicted
 
 of domestic assault
 
@@ -754,7 +754,7 @@ and put-together wanna sponsor me,
 
 
 <line>
--dumb slob <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>?"
+-dumb slob <name type="PERSON">BoJack Horseman</name>?"
 
 -That's not--
 
@@ -836,13 +836,13 @@ the not-terrible sequel,
 
 
 <line>
-"Ivy Tran Two: A Tran for All Seasons"?
+"Ivy <name type="PERSON">Tran</name> Two: A <name type="PERSON">Tran</name> for All Seasons"?
 
 </line>
 
 
 <line>
-I don't know, Ivy Tran was f<name type="ORG">un</name>
+I don't know, Ivy <name type="PERSON">Tran</name> was fun
 
 but I'm a grown-up writer.
 
@@ -886,9 +886,9 @@ if you're interested in writing books
 
 that people actually read,
 
-you'll get to work on "Ivy Tran Two:
+you'll get to work on "Ivy <name type="PERSON">Tran</name> Two:
 
-Last Tran to <name type="GPE">Clarksville</name>."
+Last <name type="PERSON">Tran</name> to <name type="GPE">Clarksville</name>."
 
 </line>
 
@@ -930,9 +930,9 @@ Last Tran to <name type="GPE">Clarksville</name>."
 
 
 <line>
-<ital>That's like if <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></ital>
+<ital>That's like if <name type="PERSON">BoJack Horseman</name></ital>
 
-<ital>wore a <name type="PERSON">T</name>-shirt that said,</ital>
+<ital>wore a T-shirt that said,</ital>
 
 </line>
 
@@ -950,7 +950,7 @@ Hey, that is an unfair drive-by!
 
 
 <line>
-<ital>Now, I know this <name type="ORG">P<name type="PERSON">ho</name></name>toshop is not up</ital>
+<ital>Now, I know this Photoshop is not up</ital>
 
 <ital>to our program's usual standards,</ital>
 
@@ -1020,7 +1020,7 @@ Okay.
 <line>
 The good news is the <name type="PERSON">Sarah</name> <name type="PERSON">Lynn</name> settlement
 
-isn't <name type="PERSON">gonna</name> kill us.
+isn't gonna kill us.
 
 </line>
 
@@ -1068,7 +1068,7 @@ cost me five million dollars,
 
 but saying something bad about a brand
 
-is <name type="PERSON">gonna</name> cost me a hundred million?
+is gonna cost me a hundred million?
 
 </line>
 
@@ -1114,7 +1114,7 @@ Your accountant told me
 
 
 <line>
--Okay, I'm <name type="PERSON">gonna</name> call you back.
+-Okay, I'm gonna call you back.
 
 -So, I sold your house!
 
@@ -1274,13 +1274,13 @@ modulate my tone.
 
 
 <line>
-Hey, it's Todd. Is Mom there?
+Hey, it's <name type="PERSON">Todd</name>. Is Mom there?
 
 </line>
 
 
 <line>
-Ah! Todd! Yes.
+Ah! <name type="PERSON">Todd</name>! Yes.
 
 </line>
 
@@ -1310,7 +1310,7 @@ to prove to her,
 <line>
 -I'd have proven it by now.
 
--Well, that's wonderful, Todd.
+-Well, that's wonderful, <name type="PERSON">Todd</name>.
 
 </line>
 
@@ -1342,7 +1342,7 @@ once you're settled.
 <line>
 What's that supposed to mean?
 
-I'm settled! I'm a grown-ass Todd!
+I'm settled! I'm a grown-ass <name type="PERSON">Todd</name>!
 
 </line>
 
@@ -1454,7 +1454,7 @@ You are not staying at a fancy hotel.
 
 
 <line>
-W<name type="PERSON">ho</name> else would have me?
+Who else would have me?
 
 </line>
 
@@ -1480,7 +1480,7 @@ You could stay here! Live with me forever!
 
 
 <line>
-And flip! Morning, <name type="PERSON">s<name type="ORG">un</name></name>shine!
+And flip! Morning, sunshine!
 
 </line>
 
@@ -1536,7 +1536,7 @@ or the snowman killer still at large?
 
 
 <line>
-It's from <name type="PERSON">Holly</name>hock. But... [sighs]
+It's from Hollyhock. But... [sighs]
 
 </line>
 
@@ -1572,7 +1572,7 @@ I feel like I could explain that--
 
 
 <line>
-<nonVerbComm>[voicemail]</nonVerbComm> <ital>Hey, it's <name type="PERSON">Holly</name>hock.</ital>
+<nonVerbComm>[voicemail]</nonVerbComm> <ital>Hey, it's Hollyhock.</ital>
 
 <ital>Leave a message, if you're a hundred.</ital>
 
@@ -1582,7 +1582,7 @@ I feel like I could explain that--
 <line>
 -[voicemail beeps]
 
--Hey, <name type="PERSON">Holly</name>hock. It's me again.
+-Hey, Hollyhock. It's me again.
 
 </line>
 
@@ -1646,7 +1646,7 @@ You can feed me while I drive, let's go!
 <line>
 <ital>-<music>♪ Precision... ♪</music></ital>
 
--[Todd] Oh, whoa!
+-[<name type="PERSON">Todd</name>] Oh, whoa!
 
 </line>
 
@@ -1710,7 +1710,7 @@ In situations like this, I often think,
 
 
 <line>
--"What would Todd do?"
+-"What would <name type="PERSON">Todd</name> do?"
 
 -And?
 
@@ -1718,7 +1718,7 @@ In situations like this, I often think,
 
 
 <line>
-He'd probably scour <name type="ORG">VIM</name>'s talent list
+He'd probably scour VIM's talent list
 
 for underemployed actors,
 
@@ -1742,7 +1742,7 @@ for furniture.
 <line>
 That's brilliant!
 
-Todd, I've done it again!
+<name type="PERSON">Todd</name>, I've done it again!
 
 </line>
 
@@ -1872,7 +1872,7 @@ from the camera.
 
 
 <line>
-That's okay. Let's r<name type="ORG">un</name> it again.
+That's okay. Let's run it again.
 
 </line>
 
@@ -1934,13 +1934,13 @@ I'll see you back at the house then?
 <line>
 Yeah. Oh! I'm probably going to head
 
-right to Todd's fancy party after work.
+right to <name type="PERSON">Todd</name>'s fancy party after work.
 
 </line>
 
 
 <line>
-Todd's having a fancy party?
+<name type="PERSON">Todd</name>'s having a fancy party?
 
 </line>
 
@@ -1952,7 +1952,7 @@ we're ready for the scene
 
 where you help an American soldier
 
-and a Taliban insurgent
+and a <name type="ORG">Taliban</name> insurgent
 
 realize they both have the same birthday.
 
@@ -1980,7 +1980,7 @@ realize they both have the same birthday.
 
 
 <line>
-<nonVerbComm>[Todd]</nonVerbComm> Greetings, cast!
+<nonVerbComm>[<name type="PERSON">Todd</name>]</nonVerbComm> Greetings, cast!
 
 </line>
 
@@ -2056,7 +2056,7 @@ What's that?
 
 
 <line>
-It's a case of <name type="ORG">Ass-Jolt</name>,
+It's a case of Ass-Jolt,
 
 <name type="PERSON">Pickles</name>' favorite alcoholic energy drink.
 
@@ -2108,7 +2108,7 @@ Yeah.
 
 
 <line>
-<name type="PERSON">-[woman</name> gasps] Ugh.
+-[woman gasps] Ugh.
 
 -And you don't wanna open it?
 
@@ -2146,7 +2146,7 @@ Chef made it just for you.
 
 
 <line>
-<name type="PERSON">Hmph</name>, <name type="ORG">hmph</name>, <name type="ORG">hmph</name>.
+<name type="PERSON">Hmph</name>, hmph, hmph.
 
 </line>
 
@@ -2210,7 +2210,7 @@ No, that's exactly what they'd do.
 <line>
 It would be like
 
-"Nasty Unicorn: The Unicorn W<name type="PERSON">ho</name> Parties."
+"Nasty Unicorn: The Unicorn Who Parties."
 
 </line>
 
@@ -2276,7 +2276,7 @@ Now we have to do it.
 
 
 <line>
-The movie. You're <name type="ORG">the Horny Unicorn</name>.
+The movie. You're the Horny Unicorn.
 
 I'll direct. We're doing it.
 
@@ -2302,7 +2302,7 @@ be <ital>Secretariat</ital> or raising orphans.
 <line>
 But they will see you be a rude dude
 
-w<name type="PERSON">ho</name> says all the things polite society
+who says all the things polite society
 
 is too limp-dicked to say.
 
@@ -2326,7 +2326,7 @@ This is how you get that love back.
 <line>
 Yeah, 'cause deep down, he's wounded.
 
-He's mi<name type="PERSON">s<name type="ORG">un</name></name>derstood.
+He's misunderstood.
 
 </line>
 
@@ -2338,7 +2338,7 @@ It's not his fault he's the way he is!
 
 
 <line>
--And people are <name type="PERSON">gonna</name> see that!
+-And people are gonna see that!
 
 -Yeah?
 
@@ -2376,7 +2376,7 @@ Come on. I know you need the money.
 
 
 <line>
-When are you <name type="PERSON">gonna</name> stop
+When are you gonna stop
 
 punishing yourself?
 
@@ -2490,7 +2490,7 @@ We brought a plant.
 
 
 <line>
-Uh, just one <name type="ORG">sec</name>.
+Uh, just one sec.
 
 </line>
 
@@ -2594,7 +2594,7 @@ I'm sober. Nothing is going to happen.
 
 
 <line>
-Yeah, bro, what do you think's <name type="PERSON">gonna</name>--
+Yeah, bro, what do you think's gonna--
 
 Oh, shit.
 
@@ -2636,7 +2636,7 @@ I'm sorry, but that's bullshit.
 <line>
 This is where you find out
 
-w<name type="PERSON">ho</name> your real friends are.
+who your real friends are.
 
 </line>
 
@@ -2646,9 +2646,9 @@ Part of being sober is leaving behind
 
 all the people
 
-w<name type="PERSON">ho</name> can't stop seeing you as the person
+who can't stop seeing you as the person
 
-w<name type="PERSON">ho</name> pissed in the fountain
+who pissed in the fountain
 
 </line>
 
@@ -2678,7 +2678,7 @@ They don't know how to process it
 
 when you're no longer the huge screw-up
 
-w<name type="PERSON">ho</name> hijacked a Meals On Wheels van
+who hijacked a Meals On Wheels van
 
 to bring my friends to a strip club.
 
@@ -2712,7 +2712,7 @@ That's why we gotta make "Horny Unicorn."
 
 
 <line>
-Because it's <name type="PERSON">gonna</name> make a billion dollars
+Because it's gonna make a billion dollars
 
 and drive all those assholes crazy!
 
@@ -2792,7 +2792,7 @@ the one thing keeping me sober.
 <line>
 When everyone else abandoned you,
 
-w<name type="PERSON">ho</name> was there for you?
+who was there for you?
 
 </line>
 
@@ -2872,7 +2872,7 @@ come on! Come on!
 
 
 <line>
-Obviously, I wasn't <name type="PERSON">gonna</name> say it
+Obviously, I wasn't gonna say it
 
 in front of my friends,
 
@@ -2914,7 +2914,7 @@ It's in the <name type="GPE">Chicago</name> metropolitan--
 <line>
 Oh, my <name type="PERSON">God</name>, what's next?!
 
-<name type="GPE">Evanston</name>, <name type="GPE">Chicago</name>?
+Evanston, <name type="GPE">Chicago</name>?
 
 </line>
 
@@ -2956,7 +2956,7 @@ that he wasn't her best friend anymore
 
 and <name type="PERSON">Moose</name> said,
 
-<name type="PERSON">"You</name>'re still <ital>my</ital> best friend
+"You're still <ital>my</ital> best friend
 
 whether you like it or not..." [sniffs]
 
@@ -3026,13 +3026,13 @@ Yeah. I know.
 <line>
 It's cool that you wrote a book.
 
-I mean, I think girls are <name type="PERSON">gonna</name> like it.
+I mean, I think girls are gonna like it.
 
 </line>
 
 
 <line>
-Especially girls w<name type="PERSON">ho</name>, like,
+Especially girls who, like,
 
 don't have good self-esteem.
 
@@ -3148,7 +3148,7 @@ People are starting to--
 
 
 <line>
--Are you <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>?
+-Are you <name type="PERSON">BoJack Horseman</name>?
 
 -No.
 
@@ -3442,7 +3442,7 @@ Sploosh!
 
 
 <line>
-Luckily, <name type="PERSON">Lindsay</name> Lohan was there
+Luckily, <name type="PERSON">Lindsay</name> <name type="PERSON">Lohan</name> was there
 
 to perform CPR.
 
@@ -3464,7 +3464,7 @@ she got sober... that time.
 
 
 <line>
--W<name type="PERSON">ho</name>'s <name type="PERSON">Lindsay</name> Lohan?
+-Who's <name type="PERSON">Lindsay</name> <name type="PERSON">Lohan</name>?
 
 -She's a celebrity from the olden days.
 
@@ -3484,7 +3484,7 @@ Hey, look, buddy, I gotta go.
 
 
 <line>
-I'm <name type="PERSON">gonna</name> walk this co-ed back
+I'm gonna walk this co-ed back
 
 to her room.
 
@@ -3676,7 +3676,7 @@ Huh.
 <line>
 <ital>♪ It's been so long</ital>
 
-<ital>I don't think I'm <name type="PERSON">gonna</name> last ♪</ital>
+<ital>I don't think I'm gonna last ♪</ital>
 
 </line>
 

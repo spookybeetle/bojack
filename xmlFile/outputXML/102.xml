@@ -1,7 +1,7 @@
 
 <script>
 
-  <title><name type="PERSON">BoJack</name> Hates the Troops - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title><name type="PERSON">BoJack</name> Hates the Troops - <name type="PERSON">BoJack Horseman</name></title>
 
 
 
@@ -17,13 +17,13 @@
   <line> When. </line>
 
 
-  <line> <nonVerbComm>[woman]</nonVerbComm> Yeah, you'll never guess w<name type="PERSON">ho</name>'s here. </line>
+  <line> <nonVerbComm>[woman]</nonVerbComm> Yeah, you'll never guess who's here. </line>
 
 
   <line> Think '90s. </line>
 
 
-  <line> No, <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name> from <ital><name type="PERSON">Horsin</name>' Around.</ital>
+  <line> No, <name type="PERSON">BoJack Horseman</name> from <ital>Horsin' Around.</ital>
   </line>
 
 
@@ -75,7 +75,7 @@
 
   <line>
     <ital>
-      <music>♪ Jellicles do and Jelli-- ♪</music>
+      <music>♪ Jelli-- ♪</music>
     </ital>
 
   </line>
@@ -97,7 +97,7 @@
   <line> Listen, dummy, I want to make sure you're all set for your first day with <name type="PERSON">Diane</name> tomorrow. </line>
 
 
-  <line> Is she <name type="PERSON">gonna</name> ask me a bunch of personal questions? </line>
+  <line> Is she gonna ask me a bunch of personal questions? </line>
 
 
   <line> The woman we're paying to ghostwrite your memoir? </line>
@@ -109,13 +109,13 @@
   <line> Okay, all right, there's no need to get-- </line>
 
 
-  <line> What, catty? Are you <name type="PERSON">gonna</name> say catty? </line>
+  <line> What, catty? Are you gonna say catty? </line>
 
 
-  <line> - I was not <name type="PERSON">gonna</name> say catty. - Oh, what were you <name type="PERSON">gonna</name> say? </line>
+  <line> - I was not gonna say catty. - Oh, what were you gonna say? </line>
 
 
-  <line> I was <name type="PERSON">gonna</name> say catty because you're a cat. </line>
+  <line> I was gonna say catty because you're a cat. </line>
 
 
   <line> Goodbye, <name type="PERSON">BoJack</name>. </line>
@@ -124,7 +124,7 @@
   <line> <name type="PERSON">Laura</name>, I know you're listening. You got it, right? </line>
 
 
-  <line> <name type="PERSON">Laura</name>, do not respond to him. Goodbye, <name type="PERSON">BoJack</name>. </line>
+  <line> Goodbye, <name type="PERSON">BoJack</name>. </line>
 
 
   <line> She got it. [camera shutter clicks] </line>
@@ -213,7 +213,7 @@
   <line> Breakfast. </line>
 
 
-  <line> That better not be my last Toaster Strudel. </line>
+  <line> That better not be my last <name type="PERSON">Toaster Strudel</name>. </line>
 
 
   <line> No, there were three left. </line>
@@ -222,13 +222,13 @@
   <line> Well, get out of here. </line>
 
 
-  <line> My memoirist is <name type="PERSON">gonna</name> show up soon, and I don't need you-- </line>
+  <line> My memoirist is gonna show up soon, and I don't need you-- </line>
 
 
   <line> - What's your name? - Pam. </line>
 
 
-  <line> I don't need you <name type="PERSON">Pam-ing</name> up the place when she gets here. </line>
+  <line> I don't need you Pam-ing up the place when she gets here. </line>
 
 
   <line> - Hey, <name type="PERSON">BoJack</name>. - Ah! Why are you here? </line>
@@ -320,20 +320,20 @@
   <line> Yeah, if it's 2003. </line>
 
 
-  <line> Ha ha. Don't tell <name type="ORG">VH1</name> that. </line>
+  <line> Ha ha. Don't tell VH1 that. </line>
 
 
-  <line> Seriously, though, please don't tell <name type="ORG">VH1</name> that. </line>
+  <line> Seriously, though, please don't tell VH1 that. </line>
 
 
-  <line> We are calling it <ital>Peanutbutter and Jelly.</ital>
+  <line> We are calling it <ital>Jelly.</ital>
   </line>
 
 
   <line> Get it? </line>
 
 
-  <line> - Because I'm Mr. Peanutbutter. - Okay, w<name type="PERSON">ho</name>'s jelly? </line>
+  <line> - Because I'm Mr. Peanutbutter. - Okay, who's jelly? </line>
 
 
   <line> No, no, no. It's like a peanut butter and jelly sandwich. </line>
@@ -363,7 +363,7 @@
   </line>
 
 
-  <line> And that is the last of the Toaster Strudels, and now my morning is ruined. </line>
+  <line> And that is the last of the <name type="PERSON">Toaster Strudel</name>s, and now my morning is ruined. </line>
 
 
   <line> Could you guys keep it down, okay? </line>
@@ -384,11 +384,11 @@
   </line>
 
 
-  <line> Okay, I'm <name type="PERSON">gonna</name> go get breakfast, and when I get back, I want everyone out of my house
+  <line> Okay, I'm gonna go get breakfast, and when I get back, I want everyone out of my house
     except for you and you and-- </line>
 
 
-  <line> - W<name type="PERSON">ho</name> are you again? - The girl you had sex with. </line>
+  <line> - Who are you again? - The girl you had sex with. </line>
 
 
   <line> Right. You definitely should have already been gone. </line>
@@ -415,14 +415,14 @@
   <line> Hey, excuse me. </line>
 
 
-  <line> Yes, I am <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>, star of <ital><name type="PERSON">Horsin</name>' Around.</ital>
+  <line> Yes, I am <name type="PERSON">BoJack Horseman</name>, star of <ital>Horsin' Around.</ital>
   </line>
 
 
   <line> Yeah, okay, I don't care. </line>
 
 
-  <line> <name type="PERSON">T</name>hose are my muffins. </line>
+  <line> Those are my muffins. </line>
 
 
   <line> I'm sorry, I-- I don't understand. </line>
@@ -434,13 +434,13 @@
   <line> No, but I was going to buy them. </line>
 
 
-  <line> That's the last box, and I had <name type="ORG">dibs</name> on them. </line>
+  <line> That's the last box, and I had dibs on them. </line>
 
 
-  <line> Really? You had <name type="ORG">dibs</name>? </line>
+  <line> Really? You had dibs? </line>
 
 
-  <line> Yeah, <name type="ORG">dibs</name>. </line>
+  <line> Yeah, dibs. </line>
 
 
   <line> I just put them down for a second while I went to the bathroom. </line>
@@ -468,7 +468,7 @@
   <line> Clearly, muffins aren't supposed to be in the produce section. </line>
 
 
-  <line> That wasn't a sign to you that maybe someone else had <name type="ORG">dibs</name>? </line>
+  <line> That wasn't a sign to you that maybe someone else had dibs? </line>
 
 
   <line> Look, I don't want to get into a whole thing here. </line>
@@ -501,13 +501,13 @@
   <line> Sorry, wasn't listening. See ya. </line>
 
 
-  <line> You're going to regret this, <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>. </line>
+  <line> You're going to regret this, <name type="PERSON">BoJack Horseman</name>. </line>
 
 
   <line> <nonVerbComm>[laughing]</nonVerbComm> Oh, really? </line>
 
 
-  <line> I'm <name type="PERSON">gonna</name> regret buying muffins? </line>
+  <line> I'm gonna regret buying muffins? </line>
 
 
   <line> What, have they got a lot of saturated fat in them? </line>
@@ -535,7 +535,7 @@
   <line> She's hilarious. </line>
 
 
-  <line> I never met a girl w<name type="PERSON">ho</name> was so curious about American bank routing numbers. </line>
+  <line> I never met a girl who was so curious about American bank routing numbers. </line>
 
 
   <line> Still not interested. </line>
@@ -630,7 +630,7 @@
 
 
   <line>
-    <ital>Just a <name type="ORG">sec</name>.</ital>
+    <ital>Just a sec.</ital>
 
     <ital>I'll see if she's available.</ital>
 
@@ -653,17 +653,17 @@
   </line>
 
 
-  <line> <name type="PERSON">BoJack</name>, are you watching <name type="PERSON">MSNBSea</name> right now? </line>
+  <line> <name type="PERSON">BoJack</name>, are you watching MSNBSea right now? </line>
 
 
   <line> Great question. </line>
 
 
-  <line> Well, I didn't fall down on my remote, randomly changing the channel to <name type="PERSON">MSNBSea</name> while
-    simultaneously crippling myself, thus physically forcing me to watch <name type="PERSON">MSNBSea</name>, so no. </line>
+  <line> Well, I didn't fall down on my remote, randomly changing the channel to MSNBSea while
+    simultaneously crippling myself, thus physically forcing me to watch MSNBSea, so no. </line>
 
 
-  <line> No, I'm not watching <name type="PERSON">MSNBSea</name> right now. </line>
+  <line> No, I'm not watching MSNBSea right now. </line>
 
 
   <line> Yeah, well, Hamlet, you might want to turn it on. </line>
@@ -701,7 +701,7 @@
 
 
   <line>
-    <ital>Thank you, Tom.</ital>
+    <ital>Thank you, <name type="PERSON">Tom</name>.</ital>
 
   </line>
 
@@ -736,7 +736,7 @@
   <line>
     <ital>When he went to the supermarket</ital>
 
-    <ital>and called <name type="ORG">dibs</name></ital>
+    <ital>and called dibs</ital>
 
   </line>
 
@@ -756,15 +756,15 @@
 
 
   <line>
-    <ital><name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>, from</ital>
+    <ital><name type="PERSON">BoJack Horseman</name>, from</ital>
 
-    <ital>the '90s sitcom <name type="PERSON">Horsin</name>' Around,</ital>
+    <ital>the '90s sitcom Horsin' Around,</ital>
 
   </line>
 
 
   <line>
-    <ital>refused to respect my <name type="ORG">dibs</name>.</ital>
+    <ital>refused to respect my dibs.</ital>
 
   </line>
 
@@ -772,7 +772,7 @@
   <line>
     <ital>Have you no shame,</ital>
 
-    <ital><name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>?</ital>
+    <ital><name type="PERSON">BoJack Horseman</name>?</ital>
 
   </line>
 
@@ -824,7 +824,7 @@
 
 
   <line>
-    <ital>But when you deny the <name type="ORG">dibs</name></ital>
+    <ital>But when you deny the dibs</ital>
 
     <ital>called by our men and women</ital>
 
@@ -864,7 +864,7 @@
   <line>
     <ital>about stealing a meal</ital>
 
-    <ital>from <name type="PERSON">Neal</name> McBeal, the <name type="ORG">Navy</name> SEAL.</ital>
+    <ital>from <name type="PERSON">Neal</name> McNavy SEAL.</ital>
 
   </line>
 
@@ -893,7 +893,7 @@
 
 
   <line>
-    <ital><name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name> thinks that</ital>
+    <ital><name type="PERSON">BoJack Horseman</name> thinks that</ital>
 
     <ital>because he was on TV,</ital>
 
@@ -930,7 +930,7 @@
   </line>
 
 
-  <line> You didn't even have <name type="ORG">dibs</name>, you stupid sea cow. </line>
+  <line> You didn't even have dibs, you stupid sea cow. </line>
 
 
   <line> You guys think I should call in and set the record straight? </line>
@@ -939,7 +939,7 @@
   <line> <name type="PERSON">BoJack</name>, these people feed off controversy. </line>
 
 
-  <line> If you dignify the story with a response, it's just <name type="PERSON">gonna</name> fan-- </line>
+  <line> If you dignify the story with a response, it's just gonna fan-- </line>
 
 
   <line>
@@ -985,16 +985,16 @@
   <line> Okay, enough about <name type="GPE">America</name>'s heroes. </line>
 
 
-  <line> Can we talk about <name type="ORG">dibs</name>? </line>
+  <line> Can we talk about dibs? </line>
 
 
-  <line> Because he didn't even really have <name type="ORG">dibs</name>. </line>
+  <line> Because he didn't even really have dibs. </line>
 
 
-  <line> If he had legitimate <name type="ORG">dibs</name>-- </line>
+  <line> If he had legitimate dibs-- </line>
 
 
-  <line> Oh, I had <name type="ORG">dibs</name> on the muffins. </line>
+  <line> Oh, I had dibs on the muffins. </line>
 
 
   <line> I hid them in the produce section! </line>
@@ -1009,7 +1009,7 @@
   <line> <nonVerbComm>[yelling]</nonVerbComm> How did you survive in Afghanistan? </line>
 
 
-  <line> <name type="PERSON">T</name>hose are my muffins! </line>
+  <line> Those are my muffins! </line>
 
 
   <line> You give me back my muffins! [barks] </line>
@@ -1047,7 +1047,7 @@
   <line> <name type="PERSON">Neal</name>, was it a small container of muffins, like two to four muffins? </line>
 
 
-  <line> No, Tom, there were a good deal more than that. </line>
+  <line> No, <name type="PERSON">Tom</name>, there were a good deal more than that. </line>
 
 
   <line> Can you remember exactly how many muffins were in the box? </line>
@@ -1111,7 +1111,7 @@
   <line> Happy Father's Day, Daddy. </line>
 
 
-  <line> What is this supposed to be, a <name type="PERSON">lima</name> bean? </line>
+  <line> What is this supposed to be, a lima bean? </line>
 
 
   <line> It's a heart. </line>
@@ -1129,7 +1129,7 @@
   <line> In this world, you can either do things the easy way or the right way. </line>
 
 
-  <line> You take a boat from here to <name type="GPE">New York</name>, you <name type="PERSON">gonna</name> go around the horn like a gentleman or cut
+  <line> You take a boat from here to <name type="GPE">New York</name>, you gonna go around the horn like a gentleman or cut
     through the Panama Canal like some kind of democrat? </line>
 
 
@@ -1155,15 +1155,15 @@
 
 
   <line>
-    <ital>I had <name type="ORG">dibs</name>!</ital>
+    <ital>I had dibs!</ital>
 
   </line>
 
 
   <line>
-    <ital>- My <name type="ORG">dibs</name> were on those muffins!</ital>
+    <ital>- My dibs were on those muffins!</ital>
 
-    <ital>- Your <name type="ORG">dibs</name> were void!</ital>
+    <ital>- Your dibs were void!</ital>
 
   </line>
 
@@ -1237,7 +1237,7 @@
   <line>
     <ital>and it's not like giving</ital>
 
-    <ital>a jerk a g<name type="ORG">un</name> and telling him</ital>
+    <ital>a jerk a gun and telling him</ital>
 
   </line>
 
@@ -1301,7 +1301,7 @@
   <line>
     <ital>and it's not like giving</ital>
 
-    <ital>a jerk a g<name type="ORG">un</name>--</ital>
+    <ital>a jerk a gun--</ital>
 
   </line>
 
@@ -1324,7 +1324,7 @@
 
 
   <line>
-    <ital>- Can you hold for a <name type="ORG">sec</name>?</ital> - You called me. </line>
+    <ital>- Can you hold for a sec?</ital> - You called me. </line>
 
 
   <line>
@@ -1358,7 +1358,7 @@
     <ital>- <name type="PERSON">BoJack</name>.</ital> - Ah! </line>
 
 
-  <line> I'm <name type="PERSON">gonna</name> level with you, honey. </line>
+  <line> I'm gonna level with you, honey. </line>
 
 
   <line> This whole you hating the troops thing is not great. </line>
@@ -1376,7 +1376,7 @@
   <line> I know, <name type="PERSON">BoJack</name>-- just like always, you're right, and everyone else is wrong. </line>
 
 
-  <line> But if you don't swallow your pride, this is never <name type="PERSON">gonna</name> let up. </line>
+  <line> But if you don't swallow your pride, this is never gonna let up. </line>
 
 
   <line>
@@ -1406,7 +1406,7 @@
   <line> I'm getting another call. </line>
 
 
-  <line> I'm <name type="PERSON">gonna</name> have to put you on hold. </line>
+  <line> I'm gonna have to put you on hold. </line>
 
 
   <line>
@@ -1448,7 +1448,7 @@
 
 
   <line>
-    <ital>W<name type="PERSON">ho</name> came up with that?</ital>
+    <ital>Who came up with that?</ital>
 
     <ital>Was it Randy?</ital>
 
@@ -1470,7 +1470,7 @@
 
 
   <line>
-    <ital>w<name type="PERSON">ho</name> hates our troops</ital>
+    <ital>who hates our troops</ital>
 
     <ital>has not left his home</ital>
 
@@ -1492,7 +1492,7 @@
 
 
   <line>
-    <ital><name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></ital>
+    <ital><name type="PERSON">BoJack Horseman</name></ital>
 
     <ital>makes me sick.</ital>
 
@@ -1556,7 +1556,7 @@
   <line>
     <ital>but we've got some big news</ital>
 
-    <ital>on the <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name> front.</ital>
+    <ital>on the <name type="PERSON">BoJack Horseman</name> front.</ital>
 
   </line>
 
@@ -1619,17 +1619,17 @@
   <line> Eighty! </line>
 
 
-  <line> Hey, I meant I was rich because I have friends like George <name type="PERSON">Bailey</name>. </line>
+  <line> Hey, I meant I was rich because I have friends like <name type="PERSON">George</name> <name type="PERSON">Bailey</name>. </line>
 
 
-  <line> <nonVerbComm>[speaking Japanese]</nonVerbComm> W<name type="PERSON">ho</name> the shit is George <name type="PERSON">Bailey</name>? </line>
+  <line> <nonVerbComm>[speaking Japanese]</nonVerbComm> Who the shit is <name type="PERSON">George</name> <name type="PERSON">Bailey</name>? </line>
 
 
   <line> Do you have any idea how much work went into scamming you? </line>
 
 
   <line>
-    <ital>George <name type="PERSON">Bailey</name>!</ital>
+    <ital><name type="PERSON">George</name> <name type="PERSON">Bailey</name>!</ital>
 
   </line>
 
@@ -1652,7 +1652,7 @@
   <line> It's for my reality show. </line>
 
 
-  <line> You never know when gold's <name type="PERSON">gonna</name> strike. </line>
+  <line> You never know when gold's gonna strike. </line>
 
 
   <line> Yeah, gold doesn't strike. </line>
@@ -1682,7 +1682,7 @@
   <line> I want to fix this as quickly as possible. </line>
 
 
-  <line> I don't care w<name type="PERSON">ho</name> was right about the muffins anymore, even though I was definitely right. </line>
+  <line> I don't care who was right about the muffins anymore, even though I was definitely right. </line>
 
 
   <line> I just want my privacy back, so I can finish writing my tell-all memoir, so everyone will
@@ -1723,25 +1723,25 @@
   <line> I'm helping! <name type="PERSON">Hooray</name>! </line>
 
 
-  <line> So where are we <name type="PERSON">gonna</name> do this? </line>
+  <line> So where are we gonna do this? </line>
 
 
-  <line> Do I have to go on <name type="PERSON">MSNBSea</name>? </line>
+  <line> Do I have to go on MSNBSea? </line>
 
 
   <line> No, we should do it somewhere people will actually see it. </line>
 
 
-  <line> Oh, why don't you do it on <ital>Peanutbutter and Jelly</ital>? </line>
+  <line> Oh, why don't you do it on <ital>Jelly</ital>? </line>
 
 
-  <line> You can't call a show <ital>Peanutbutter and Jelly</ital> if there's no jelly. </line>
+  <line> You can't call a show <ital>Jelly</ital> if there's no jelly. </line>
 
 
-  <line> It's a p<name type="ORG">un</name>. </line>
+  <line> It's a pun. </line>
 
 
-  <line> It's not a p<name type="ORG">un</name> if it only works one way. </line>
+  <line> It's not a pun if it only works one way. </line>
 
 
   <line> Is this a necessary conversation to be having right now? </line>
@@ -1776,7 +1776,7 @@
   <line> - Okay. - Marker, sound, speed. </line>
 
 
-  <line> Well, here I am, hanging out with my good friend <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>, enjoying each other's
+  <line> Well, here I am, hanging out with my good friend <name type="PERSON">BoJack Horseman</name>, enjoying each other's
     company, as we often do. </line>
 
 
@@ -1789,7 +1789,7 @@
   <line> Oh, someone's at the door! </line>
 
 
-  <line> I will see w<name type="PERSON">ho</name> it is. </line>
+  <line> I will see who it is. </line>
 
 
   <line> Wow, this is a surprise. </line>
@@ -1810,7 +1810,7 @@
   <line> <name type="PERSON">Ahem</name>. </line>
 
 
-  <line> Oh, yeah, Todd? </line>
+  <line> Oh, yeah, <name type="PERSON">Todd</name>? </line>
 
 
   <line> What the hell is this? </line>
@@ -1910,7 +1910,7 @@
   <line> Hey, where'd he get that bucket from? </line>
 
 
-  <line> W<name type="PERSON">ho</name> gave him a bucket? </line>
+  <line> Who gave him a bucket? </line>
 
 
   <line> <nonVerbComm>[laughter]</nonVerbComm> </line>
@@ -1919,7 +1919,7 @@
   <line> Uh, actually, I had another point I wanted to make. </line>
 
 
-  <line> Yeah, but w<name type="PERSON">ho</name> doesn't love a dog with a bucket on his head? </line>
+  <line> Yeah, but who doesn't love a dog with a bucket on his head? </line>
 
 
   <line> Come on. </line>
@@ -1949,10 +1949,10 @@
   <line> Unbelievable. </line>
 
 
-  <line> What's your name, <name type="PERSON">yo</name>ung lady? </line>
+  <line> What's your name, young lady? </line>
 
 
-  <line> Well, my real name's <name type="PERSON">Angela</name>, but my friends call me Jelly. </line>
+  <line> Well, my real name's Jelly. </line>
 
 
   <line> What? Oh, my <name type="PERSON">God</name>, did we get that? </line>
@@ -1964,7 +1964,7 @@
   <line> <nonVerbComm>[chuffs]</nonVerbComm> </line>
 
 
-  <line> You want a day-old hamburger b<name type="ORG">un</name>? </line>
+  <line> You want a day-old hamburger bun? </line>
 
 
   <line> I'm all right. How'd it go down there? </line>
@@ -2016,7 +2016,7 @@
   <line> Okay, from now on, full truth, warts and all. </line>
 
 
-  <line> You're not <name type="PERSON">gonna</name> make me look like an asshole, are you? </line>
+  <line> You're not gonna make me look like an asshole, are you? </line>
 
 
   <line> I don't know, are you an asshole? </line>
@@ -2042,7 +2042,7 @@
 
 
   <line> He made me build my own tree house, and then he tore it down while I was at summer camp
-    because instead of hearty, <name type="NORP">Christian</name> nails, </line>
+    because instead of hearty, Christian nails, </line>
 
 
   <line> I used screws, which he called fancy <name type="NORP">Jew</name> nails. </line>
@@ -2125,7 +2125,7 @@
 
   <line>
     <ital>
-      <music>♪ I don't think I'm <name type="PERSON">gonna</name> last ♪</music>
+      <music>♪ I don't think I'm gonna last ♪</music>
     </ital>
 
   </line>

@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>lovin that cali lifestyle!! - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>lovin that cali lifestyle!! - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -30,7 +30,7 @@
 
 
 <line>
-Nothing gets by me, Tina.
+Nothing gets by me, <name type="PERSON">Tina</name>.
 
 Uno what I'm thinking?
 
@@ -104,9 +104,9 @@ Well, since you're being so impatient,
 
 
 <line>
-I'm <name type="PERSON">gonna</name> put my thing down,
+I'm gonna put my thing down,
 
-flip it and reverse it back to Tina.
+flip it and reverse it back to <name type="PERSON">Tina</name>.
 
 </line>
 
@@ -148,7 +148,7 @@ She'll get ideas.
 
 
 <line>
--You okay, <name type="PERSON">Holly</name>hock?
+-You okay, Hollyhock?
 
 -Yeah, I'm-- I'm awesome.
 
@@ -288,7 +288,7 @@ Oh!
 <line>
 <ital>it's "beclaws"</ital>
 
-<ital>of <name type="PERSON">Woodchuck</name> <name type="ORG">Coodchuck-Berkowitz</name>.</ital>
+<ital>of <name type="PERSON">Woodchuck</name> Coodchuck-Berkowitz.</ital>
 
 </line>
 
@@ -310,7 +310,7 @@ Oh!
 <line>
 <ital>Do you want a governor</ital>
 
-<ital>w<name type="PERSON">ho</name> can be rendered defenseless</ital>
+<ital>who can be rendered defenseless</ital>
 
 </line>
 
@@ -324,7 +324,7 @@ Oh!
 
 
 <line>
-<nonVerbComm>[Tom Jumbo-Grumbo]</nonVerbComm>
+<nonVerbComm>[<name type="PERSON">Tom</name> Jumbo-Grumbo]</nonVerbComm>
 
 <ital><name type="PERSON">Woodchuck</name> is down in the polls.</ital>
 
@@ -522,7 +522,7 @@ and cross-reference, please.
 
 
 <line>
-<ital>No, Tom. Not a pedophile-dash-murderer.</ital>
+<ital>No, <name type="PERSON">Tom</name>. Not a pedophile-dash-murderer.</ital>
 
 <ital>A pedophile-slash-murderer!</ital>
 
@@ -630,7 +630,7 @@ about how <name type="PERSON">Jessica</name> Biel is owned
 
 
 <line>
-by private prison lobbyists, w<name type="PERSON">ho</name> want--
+by private prison lobbyists, who want--
 
 </line>
 
@@ -646,7 +646,7 @@ I care and I don't even care.
 <line>
 So imagine how little
 
-someone w<name type="PERSON">ho</name> doesn't care cares.
+someone who doesn't care cares.
 
 </line>
 
@@ -966,7 +966,7 @@ Yeah. I think I do.
 
 
 <line>
-<ital>W<name type="PERSON">ho</name> doesn't like avocados?</ital>
+<ital>Who doesn't like avocados?</ital>
 
 </line>
 
@@ -1052,7 +1052,7 @@ I just have to live my truth, <name type="PERSON">Katrina</name>.
 
 
 <line>
-Wow. W<name type="PERSON">ho</name>'da thunk
+Wow. Who'da thunk
 
 that such a small trivial detail
 
@@ -1062,13 +1062,13 @@ could be the thing to take Biel down?
 
 
 <line>
-Yeah, w<name type="PERSON">ho</name>'da thunk it?
+Yeah, who'da thunk it?
 
 </line>
 
 
 <line>
-W<name type="PERSON">ho</name> knew?
+Who knew?
 
 </line>
 
@@ -1146,7 +1146,7 @@ This is far from over.
 <line>
 <ital>It's over. And the clear winner</ital>
 
-<ital>is <name type="PERSON">Woodchuck</name> <name type="ORG">Coodchuck-Berkowitz</name>.</ital>
+<ital>is <name type="PERSON">Woodchuck</name> Coodchuck-Berkowitz.</ital>
 
 </line>
 
@@ -1230,9 +1230,9 @@ Thank you for meeting me here.
 
 
 <line>
-My name is Yolanda <name type="GPE">Buenaventura</name>
+My name is <name type="PERSON">Yolanda</name> <name type="GPE">Buenaventura</name>
 
-of <name type="ORG">the Better Business Bureau</name>.
+of the <name type="ORG">Better Business Bureau</name>.
 
 </line>
 
@@ -1242,7 +1242,7 @@ It would be funnier
 
 if your name was <name type="PERSON">Betty <name type="GPE">Buenaventura</name></name>
 
-of <name type="ORG">the Better Business Bureau</name>.
+of the <name type="ORG">Better Business Bureau</name>.
 
 </line>
 
@@ -1350,7 +1350,7 @@ It appears your business provides
 
 no service but to terrify children
 
-and the adults w<name type="PERSON">ho</name> accompany them.
+and the adults who accompany them.
 
 </line>
 
@@ -1452,7 +1452,7 @@ I am a very tough crowd.
 
 
 <line>
-I once met <name type="PERSON">Paul Rudd</name> at a cocktail party
+I once met <name type="PERSON">Paul</name> Rudd at a cocktail party
 
 and I did not find him charming.
 
@@ -1690,7 +1690,7 @@ Wait, ya know,
 <line>
 It's a grizzled former detective
 
-w<name type="PERSON">ho</name> gets sucked back in--
+who gets sucked back in--
 
 </line>
 
@@ -1800,7 +1800,7 @@ That's amazing!
 
 
 <line>
-Todd, the world is dark and scary
+<name type="PERSON">Todd</name>, the world is dark and scary
 
 and full of creepy clown dentists...
 
@@ -1868,13 +1868,13 @@ and produce this baby.
 
 
 <line>
-Todd? [hiccups]
+<name type="PERSON">Todd</name>? [hiccups]
 
 </line>
 
 
 <line>
-Get me a meeting with Turtletaub.
+Get me a meeting with <name type="PERSON">Turtletaub</name>.
 
 Set something up with his gal.
 
@@ -1882,7 +1882,7 @@ Set something up with his gal.
 
 
 <line>
-W<name type="PERSON">ho</name> is this gal?
+Who is this gal?
 
 </line>
 
@@ -2028,7 +2028,7 @@ thing that I have a problem with.
 
 
 <line>
-Target is acquired.
+<name type="ORG">Target</name> is acquired.
 
 </line>
 
@@ -2104,7 +2104,7 @@ Now let's get to brass stacks.
 
 
 <line>
-So it's a hot <name type="PERSON">yo</name>ung writer.
+So it's a hot young writer.
 
 It's TV. It's me producing.
 
@@ -2120,7 +2120,7 @@ It's TV. It's me producing.
 
 
 <line>
-I know it's <name type="PERSON">gonna</name> knock your socks off.
+I know it's gonna knock your socks off.
 
 </line>
 
@@ -2164,7 +2164,7 @@ with a huge ad buy.
 <line>
 Plus, you got the built-in audience
 
-w<name type="PERSON">ho</name> don't know what time it is.
+who don't know what time it is.
 
 </line>
 
@@ -2200,7 +2200,7 @@ Let's set the pitch for next week.
 
 
 <line>
-<ital><name type="PERSON">Phil</name><name type="PERSON">bert</name>?</ital> W<name type="PERSON">ho</name>'s <name type="PERSON">Phil</name><name type="PERSON">bert</name>?
+<ital>Philbert?
 
 </line>
 
@@ -2210,13 +2210,13 @@ He's this grizzled
 
 but very good-looking detective
 
-w<name type="PERSON">ho</name> gets sucked back in to something.
+who gets sucked back in to something.
 
 </line>
 
 
 <line>
-No, I mean w<name type="PERSON">ho</name> <ital>is </ital>he?
+No, I mean who <ital>is </ital>he?
 
 </line>
 
@@ -2268,7 +2268,7 @@ Uh-oh! She is out like sauerkraut.
 
 
 <line>
-<nonVerbComm>[mimics static]</nonVerbComm> Don't let Turtletaub
+<nonVerbComm>[mimics static]</nonVerbComm> Don't let <name type="PERSON">Turtletaub</name>
 
 get back to his office.
 
@@ -2284,7 +2284,7 @@ for the "Waltz of the Rubber Chicken"!
 
 
 <line>
-<nonVerbComm>[Todd]</nonVerbComm> <ital>Doctor <name type="PERSON">Picarello</name>,</ital>
+<nonVerbComm>[<name type="PERSON">Todd</name>]</nonVerbComm> <ital>Doctor <name type="PERSON">Picarello</name>,</ital>
 
 <ital>you gotta revive Princess Carolyn.</ital>
 
@@ -2372,9 +2372,9 @@ the audience disappears with him.
 
 
 <line>
--Tony <name type="PERSON">Shalhoub</name>!
+-<name type="PERSON">Tony</name> <name type="PERSON">Shalhoub</name>!
 
--Tony Sha-w<name type="PERSON">ho</name>-ub?
+-<name type="PERSON">Tony</name> Sha-who-ub?
 
 </line>
 
@@ -2444,13 +2444,13 @@ that does something for you.
 
 
 <line>
-Uh, Jack Huston... Hugh... Hugh Jackman.
+Uh, Jack Huston... <name type="PERSON">Hugh</name>... <name type="PERSON">Hugh</name> Jackman.
 
 </line>
 
 
 <line>
--<name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>!
+-<name type="PERSON">BoJack Horseman</name>!
 
 -There's someone...
 
@@ -2512,7 +2512,7 @@ Right, but--
 <line>
 And then you get him playing
 
-a rich, complex anti-hero like <name type="PERSON">Phil</name><name type="PERSON">bert</name>,
+a rich, complex anti-hero like Philbert,
 
 now there's a show that screams,
 
@@ -2534,7 +2534,7 @@ I'm saying, there are a lotta guys...
 
 
 <line>
-<name type="PERSON">P.C.</name>, can you get me <name type="PERSON">BoJack</name> or not?
+P.C., can you get me <name type="PERSON">BoJack</name> or not?
 
 </line>
 
@@ -2594,7 +2594,7 @@ Guys, that was amazing!
 
 
 <line>
-But if we're going to convince Yolanda
+But if we're going to convince <name type="PERSON">Yolanda</name>
 
 we're ready for the big top,
 
@@ -2650,7 +2650,7 @@ which is: "I did not enjoy that."
 <line>
 -[clamoring]
 
--Oh, no! <name type="PERSON">My hooray</name> was premature!
+-Oh, no! My hooray was premature!
 
 </line>
 
@@ -2714,7 +2714,7 @@ Just don't feel like working right now,
 
 so I think if I force it,
 
-I'm just <name type="PERSON">gonna</name> do a bad job.
+I'm just gonna do a bad job.
 
 </line>
 
@@ -2826,15 +2826,15 @@ You are not finding what you need!
 
 
 <line>
-The deck is a harsh mistress, Tina.
+The deck is a harsh mistress, <name type="PERSON">Tina</name>.
 
-<name type="PERSON">Holly</name>hock, you gotta get in here!
+Hollyhock, you gotta get in here!
 
 </line>
 
 
 <line>
-Tina is drawing so many cards.
+<name type="PERSON">Tina</name> is drawing so many cards.
 
 It's amazing.
 
@@ -2842,7 +2842,7 @@ It's amazing.
 
 
 <line>
-<name type="PERSON">Holly</name>hock! <name type="PERSON">Holly</name>hock?
+Hollyhock?
 
 </line>
 
@@ -2850,7 +2850,7 @@ It's amazing.
 <line>
 -[body thuds in distance]
 
--<name type="PERSON">Holly</name>hock?
+-Hollyhock?
 
 </line>
 
@@ -2864,7 +2864,7 @@ It's amazing.
 <line>
 Yes, for the third time,
 
-her name is "<name type="PERSON">Holly</name>hock."
+her name is "Hollyhock."
 
 </line>
 
@@ -2876,7 +2876,7 @@ And her last name?
 
 
 <line>
-Manheim-Mannheim, uh, Steamroller...
+<name type="GPE">Manheim</name>-<name type="GPE">Mannheim</name>, uh, Steamroller...
 
 </line>
 
@@ -2888,7 +2888,7 @@ Is there more?
 
 
 <line>
-I think there's a Lopez
+I think there's a <name type="PERSON">Lopez</name>
 
 in the mix somewhere?
 
@@ -2914,7 +2914,7 @@ you can give me
 
 on the 17-year-old horse girl
 
-w<name type="PERSON">ho</name> came here by ambulance
+who came here by ambulance
 
 </line>
 
@@ -2956,7 +2956,7 @@ I can't release any information to you.
 
 
 <line>
-<name type="PERSON">Holly</name>hock Manheim-Mannheim-Guerrero...
+Hollyhock <name type="GPE">Manheim</name>-<name type="GPE">Mannheim</name>-Guerrero...
 
 Robinson...
 
@@ -2964,7 +2964,7 @@ Robinson...
 
 
 <line>
-Zilberschlag-<name type="GPE">H<name type="PERSON">s<name type="ORG">un</name></name>g</name>-Fonzarelli-McQuack.
+Zilberschlag-Fonzarelli-McQuack.
 
 That's her name.
 
@@ -3018,7 +3018,7 @@ Which is pretty remarkable,
 
 you have to be mean to be funny,
 
-but <name type="PERSON">Holly</name>hock is very sweet,
+but Hollyhock is very sweet,
 
 even if she can be sarcastic.
 
@@ -3104,13 +3104,13 @@ until I get to see her.
 <line>
 We have to think
 
-what's best for <name type="PERSON">Holly</name>hock.
+what's best for Hollyhock.
 
 </line>
 
 
 <line>
--<name type="PERSON">Holly</name>hock is going to be okay.
+-Hollyhock is going to be okay.
 
 -Excuse me.
 
@@ -3118,7 +3118,7 @@ what's best for <name type="PERSON">Holly</name>hock.
 
 
 <line>
-Did you say <name type="PERSON">Holly</name>hock? Are you...
+Did you say Hollyhock? Are you...
 
 </line>
 
@@ -3132,7 +3132,7 @@ Did you say <name type="PERSON">Holly</name>hock? Are you...
 <line>
 Hello, yes! Yeah. Thank <name type="PERSON">God</name> you're here.
 
-I'm <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>.
+I'm <name type="PERSON">BoJack Horseman</name>.
 
 </line>
 
@@ -3140,19 +3140,19 @@ I'm <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>.
 <line>
 Yeah, we know.
 
-I'm her dad, <name type="PERSON">Steve</name> Mannheim.
+I'm her dad, <name type="PERSON">Steve</name> <name type="GPE">Mannheim</name>.
 
 </line>
 
 
 <line>
-I'm the wrong Mannheim to mess with.
+I'm the wrong <name type="GPE">Mannheim</name> to mess with.
 
 </line>
 
 
 <line>
-I'm <name type="PERSON">Dashawn Manheim</name>.
+I'm <name type="PERSON">Dashawn <name type="GPE">Manheim</name></name>.
 
 </line>
 
@@ -3160,7 +3160,7 @@ I'm <name type="PERSON">Dashawn Manheim</name>.
 <line>
 I'm probably
 
-the right Manheim to mess with,
+the right <name type="GPE">Manheim</name> to mess with,
 
 unless we're talking about
 
@@ -3184,7 +3184,7 @@ Five, six, seven, eight. Ha!
 
 
 <line>
-<name type="PERSON">Cupe Robinson III</name>.
+<name type="PERSON">Cupe Robinson</name> III.
 
 I think you're just ghastly,
 
@@ -3228,7 +3228,7 @@ but not through your work.
 <line>
 -Okay.
 
--I'm Gregory <name type="GPE">H<name type="PERSON">s<name type="ORG">un</name></name>g</name>.
+-I'm Gregory <name type="GPE">Hsung</name>.
 
 </line>
 
@@ -3242,7 +3242,7 @@ That's my deal.
 
 
 <line>
-<name type="PERSON">Arturo Fonzarelli</name>, but I'm pretty cool
+Fonzarelli</name>, but I'm pretty cool
 
 so people call me the "Ice Man."
 
@@ -3264,7 +3264,7 @@ And I'm <name type="ORG">Quackers</name>!
 
 
 <line>
-How's <name type="PERSON">Holly</name>hock?
+How's Hollyhock?
 
 They wouldn't give me information.
 
@@ -3350,7 +3350,7 @@ taking care of her.
 <line>
 -I was.
 
--I knew she was too <name type="PERSON">yo</name>ung
+-I knew she was too young
 
 to be on her own like this.
 
@@ -3418,7 +3418,7 @@ Why don't I come back in a couple hours?
 
 
 <line>
-Give <name type="PERSON">Holly</name>hock a chance to rest
+Give Hollyhock a chance to rest
 
 before I talk to her.
 
@@ -3428,7 +3428,7 @@ before I talk to her.
 <line>
 Are you insane?
 
-You are never seeing <name type="PERSON">Holly</name>hock again.
+You are never seeing Hollyhock again.
 
 </line>
 
@@ -3652,7 +3652,7 @@ Just until she learned to take it herself.
 <line>
 No. All this "I-don't-know-where-I-am
 
-or-w<name type="PERSON">ho</name>-my-son-stuff" is,
+or-who-my-son-stuff" is,
 
 is officially not cute anymore.
 
@@ -3678,7 +3678,7 @@ to give you one more chance.
 
 
 <line>
--Where is Cracker<name type="PERSON">jack</name>?
+-Where is Crackerjack?
 
 -Stop. You are out of chances.
 
@@ -3812,7 +3812,7 @@ Best of luck. See ya never.
 
 
 <line>
-W<name type="PERSON">ho</name> <ital>is</ital> that?
+Who <ital>is</ital> that?
 
 </line>
 
@@ -3864,7 +3864,7 @@ Ugh. Bye, Mom.
 <line>
 <ital>♪ It's been so long</ital>
 
-<ital>I don't think I'm <name type="PERSON">gonna</name> last ♪</ital>
+<ital>I don't think I'm gonna last ♪</ital>
 
 </line>
 

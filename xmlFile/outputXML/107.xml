@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>Say Anything - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>Say Anything - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -22,7 +22,7 @@
 <line>
 So you took some licks,
 
-but you're <name type="PERSON">gonna</name> bounce back,
+but you're gonna bounce back,
 
 because you're talented,
 
@@ -204,7 +204,7 @@ It was at my office.
 <line>
 We thought night swimming
 
-would be f<name type="ORG">un</name>,
+would be fun,
 
 but the current
 
@@ -222,7 +222,7 @@ driving around, was I?
 
 
 <line>
-No. You made Todd
+No. You made <name type="PERSON">Todd</name>
 
 your designated driver,
 
@@ -268,7 +268,7 @@ and get on to something else.
 
 
 <line>
-Tony, hi.
+<name type="PERSON">Tony</name>, hi.
 
 I'm calling in that favor.
 
@@ -278,7 +278,7 @@ I'm calling in that favor.
 <line>
 Get your crew
 
-to <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>'s house.
+to <name type="PERSON">BoJack Horseman</name>'s house.
 
 </line>
 
@@ -394,7 +394,7 @@ Do the damn commercial.
 <line>
 <ital>7:00 a.m. Breakfast</ital>
 
-<ital>with <name type="PERSON">Lenny</name> Turteltaub.</ital>
+<ital>with Turteltaub.</ital>
 
 </line>
 
@@ -402,7 +402,7 @@ Do the damn commercial.
 <line>
 Okay, I got to go.
 
-You're in charge, Todd.
+You're in charge, <name type="PERSON">Todd</name>.
 
 </line>
 
@@ -484,7 +484,7 @@ like, an hour ago.
 
 
 <line>
-<name type="PERSON">Lenny</name> Turteltaub,
+Turteltaub,
 
 you skinny bitch.
 
@@ -630,7 +630,7 @@ has enough weight
 <line>
 to handle a movie about
 
-the last days of <name type="PERSON">Eva Bra<name type="ORG">un</name></name>.
+the last days of <name type="PERSON">Eva</name> Braun.
 
 </line>
 
@@ -680,7 +680,7 @@ starring,
 <line>
 and the great
 
-<name type="PERSON">Lenny</name> Turteltaub producing,
+Turteltaub producing,
 
 this movie is a done deal.
 
@@ -704,13 +704,13 @@ Long time.
 <line>
 And as I once said
 
-to a <name type="PERSON">yo</name>ung <name type="PERSON">Ed</name> Begley Sr.,
+to a young Ed Begley Sr.,
 
 </line>
 
 
 <line>
-<name type="PERSON">"It</name> ain't a done deal
+"It ain't a done deal
 
 till the deals are all done."
 
@@ -738,7 +738,7 @@ Well, then I'll say to you
 
 what I once said
 
-to a <name type="PERSON">yo</name>ung <name type="PERSON">Buster Keaton</name>,
+to a young <name type="PERSON">Buster Keaton</name>,
 
 "What?"
 
@@ -956,13 +956,13 @@ I think you should be.
 <line>
 It's hard to keep track
 
-of w<name type="PERSON">ho</name>'s getting promoted
+of who's getting promoted
 
 </line>
 
 
 <line>
-- and w<name type="PERSON">ho</name>'s getting fired.
+- and who's getting fired.
 
 - Oh.
 
@@ -972,7 +972,7 @@ of w<name type="PERSON">ho</name>'s getting promoted
 <line>
 You're probably fine or not.
 
-W<name type="PERSON">ho</name> knows?
+Who knows?
 
 </line>
 
@@ -986,7 +986,7 @@ W<name type="PERSON">ho</name> knows?
 <line>
 Ugh.
 
-What do you want, Todd?
+What do you want, <name type="PERSON">Todd</name>?
 
 </line>
 
@@ -1070,7 +1070,7 @@ get to my head or anything.
 
 
 <line>
-Hey, w<name type="PERSON">ho</name> told that asshole
+Hey, who told that asshole
 
 he could sit in my chair?
 
@@ -1146,7 +1146,7 @@ about <name type="PERSON">Diane</name> getting engaged?
 
 
 <line>
-You're the one w<name type="PERSON">ho</name>'s always
+You're the one who's always
 
 been there for me,
 
@@ -1238,7 +1238,7 @@ something bad happens.
 <line>
 Not getting nominated
 
-for <name type="ORG">a People's Choice Award</name>
+for a People's Choice Award
 
 is the best thing
 
@@ -1276,7 +1276,7 @@ that ever happened to me.
 
 
 <line>
-Sneezing on Marisa Tomei
+Sneezing on Tomei
 
 was the best--
 
@@ -1296,7 +1296,7 @@ for comfort.
 
 
 <line>
-Well, it's not <name type="PERSON">gonna</name> happen
+Well, it's not gonna happen
 
 this time.
 
@@ -1320,7 +1320,7 @@ and your girlfriend.
 
 
 <line>
-I have <name type="PERSON">Lenny</name> Turteltaub
+I have Turteltaub
 
 for you.
 
@@ -1340,7 +1340,7 @@ But remember,
 
 I'm coming for you,
 
-and I'm <name type="PERSON">gonna</name> make you love me.
+and I'm gonna make you love me.
 
 </line>
 
@@ -1354,7 +1354,7 @@ Hey.
 
 
 <line>
-Bad news, <name type="PERSON">P.C.</name>
+Bad news, P.C.
 
 </line>
 
@@ -1384,7 +1384,7 @@ asking for twice the money.
 <line>
 As I once said
 
-to a <name type="PERSON">yo</name>ung Lionel Barrymore,
+to a young Lionel Barrymore,
 
 </line>
 
@@ -1396,9 +1396,9 @@ to a <name type="PERSON">yo</name>ung Lionel Barrymore,
 
 
 <line>
-Without a director, <ital><name type="PERSON">Eva Bra<name type="ORG">un</name></name></ital>
+Without a director, <ital><name type="PERSON">Eva</name> Braun</ital>
 
-is as dead as <name type="PERSON">Eva Bra<name type="ORG">un</name></name>.
+is as dead as <name type="PERSON">Eva</name> Braun.
 
 </line>
 
@@ -1436,7 +1436,7 @@ an important phone call.
 <line>
 Important phone call
 
-<name type="PERSON">beep boop blorp</name>.
+beep boop blorp.
 
 </line>
 
@@ -1618,7 +1618,7 @@ a permanent one.
 
 
 <line>
-Good news, Princess Carolyn.
+Carolyn.
 
 <name type="PERSON">Vanessa</name>'s my agent now.
 
@@ -1726,7 +1726,7 @@ with their blinking red eyes.
 
 
 <line>
-<name type="PERSON">T</name>hose are cameras, Todd.
+Those are cameras, <name type="PERSON">Todd</name>.
 
 We're making a commercial.
 
@@ -1784,7 +1784,7 @@ you can have him.
 <line>
 Here's a list of directors
 
-w<name type="PERSON">ho</name> won't work with him,
+who won't work with him,
 
 studios that won't hire him,
 
@@ -1820,7 +1820,7 @@ find their own jobs.
 <line>
 Well, then <name type="PERSON">BoJack</name> should be
 
-a lot of f<name type="ORG">un</name> for you.
+a lot of fun for you.
 
 </line>
 
@@ -1836,7 +1836,7 @@ a lot of f<name type="ORG">un</name> for you.
 <line>
 Hello. We're looking
 
-for <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>'s agent.
+for <name type="PERSON">BoJack Horseman</name>'s agent.
 
 </line>
 
@@ -1962,7 +1962,7 @@ in prison, easy,
 
 and when you throw in
 
-the murder of Tupac Shakur...
+the murder of <name type="PERSON">Tupac Shakur</name>...
 
 </line>
 
@@ -2004,7 +2004,7 @@ Forget we were ever here.
 
 
 <line>
-That was f<name type="ORG">un</name>.
+That was fun.
 
 </line>
 
@@ -2024,7 +2024,7 @@ You got it, boss.
 
 
 <line>
-W<name type="PERSON">ho</name> said you could use
+Who said you could use
 
 my assistant?
 
@@ -2058,9 +2058,9 @@ So sorry we have
 
 to double up on everything
 
-while we work out w<name type="PERSON">ho</name> goes
+while we work out who goes
 
-where and w<name type="PERSON">ho</name> gets fired,
+where and who gets fired,
 
 but in the meantime,
 
@@ -2142,7 +2142,7 @@ while I use <name type="PERSON">Laura</name>.
 <line>
 Ah, ah, phone is ringing.
 
-<name type="ORG">P<name type="PERSON">ho</name></name>ne is ringing.
+Phone is ringing.
 
 </line>
 
@@ -2182,7 +2182,7 @@ my client anymore.
 <line>
 Not <name type="PERSON">BoJack</name>.
 
-Todd.
+<name type="PERSON">Todd</name>.
 
 </line>
 
@@ -2252,7 +2252,7 @@ your shit together.
 <line>
 You are a winner, okay?
 
-You are Todd-- Hold on.
+You are <name type="PERSON">Todd</name>-- Hold on.
 
 </line>
 
@@ -2260,7 +2260,7 @@ You are Todd-- Hold on.
 <line>
 <ital>4:30 p.m.</ital>
 
-<ital>Meeting with <name type="PERSON">Eva Bra<name type="ORG">un</name></name> team.</ital>
+<ital>Meeting with <name type="PERSON">Eva</name> Braun team.</ital>
 
 </line>
 
@@ -2268,7 +2268,7 @@ You are Todd-- Hold on.
 <line>
 Fish.
 
-Okay, you are Todd goddamn--
+Okay, you are <name type="PERSON">Todd</name> goddamn--
 
 </line>
 
@@ -2338,9 +2338,9 @@ What the heck is going on?
 
 
 <line>
-"The woman w<name type="PERSON">ho</name> loved the man
+"The woman who loved the man
 
-w<name type="PERSON">ho</name> hated everyone."
+who hated everyone."
 
 </line>
 
@@ -2362,7 +2362,7 @@ We looked everywhere.
 
 
 <line>
-You're having the <ital><name type="PERSON">Eva Bra<name type="ORG">un</name></name></ital>
+You're having the <ital><name type="PERSON">Eva</name> Braun</ital>
 
 meeting without me?
 
@@ -2424,7 +2424,7 @@ to direct a romantic comedy?
 
 
 <line>
-<ital><name type="PERSON">Eva Bra<name type="ORG">un</name></name></ital>
+<ital><name type="PERSON">Eva</name> Braun</ital>
 
 is not a romantic comedy.
 
@@ -2472,7 +2472,7 @@ an important meeting
 
 because I was babysitting
 
-Todd, w<name type="PERSON">ho</name>'s too drunk to work,
+<name type="PERSON">Todd</name>, who's too drunk to work,
 
 because you switched out
 
@@ -2700,7 +2700,7 @@ had a really good talk today.
 <line>
 <ital>and especially since I'm doing</ital>
 
-<ital>so much for <name type="PERSON">Eva Bra<name type="ORG">un</name></name>,</ital>
+<ital>so much for <name type="PERSON">Eva</name> Braun,</ital>
 
 </line>
 
@@ -2784,7 +2784,7 @@ which is that she's beautiful,
 
 she's <name type="NORP">British</name>,
 
-and she's <name type="PERSON">gonna</name> make me
+and she's gonna make me
 
 a lot of money.
 
@@ -2844,7 +2844,7 @@ Uh, telephone.
 
 
 <line>
-Um, w<name type="PERSON">ho</name> is--
+Um, who is--
 
 Okay, I don't--
 
@@ -2880,9 +2880,9 @@ that bad, she can have her.
 
 
 <line>
-I'm <name type="PERSON">gonna</name> be okay.
+I'm gonna be okay.
 
-I'm <name type="PERSON">gonna</name> be happy.
+I'm gonna be happy.
 
 </line>
 
@@ -2956,7 +2956,7 @@ are you, buddy?
 
 
 <line>
-<ital>you come out to Malibu</ital>
+<ital>you come out to <name type="GPE">Malibu</name></ital>
 
 <ital>and say it to my face.</ital>
 
@@ -2966,7 +2966,7 @@ are you, buddy?
 <line>
 <ital>I'll be alive tomorrow.</ital>
 
-<ital>After that, w<name type="PERSON">ho</name> knows?</ital>
+<ital>After that, who knows?</ital>
 
 </line>
 
@@ -3084,7 +3084,7 @@ a little less.
 <line>
 Maybe that's all
 
-we're ever <name type="PERSON">gonna</name> be.
+we're ever gonna be.
 
 </line>
 
@@ -3106,7 +3106,7 @@ a turn.
 <line>
 You know the worst part?
 
-I knew this was <name type="PERSON">gonna</name> happen
+I knew this was gonna happen
 
 and I let myself
 
@@ -3132,7 +3132,7 @@ I guess I'll see you around.
 <line>
 You're not even
 
-<name type="PERSON">gonna</name> give me a ride home?
+gonna give me a ride home?
 
 </line>
 
@@ -3346,7 +3346,7 @@ Asshole!
 
 
 <line>
-Anyway, I'm off to Malibu
+Anyway, I'm off to <name type="GPE">Malibu</name>
 
 to see <name type="PERSON">Herb</name> <name type="PERSON">Kazzaz</name>.
 
@@ -3406,7 +3406,7 @@ Hope you like kicking ass,
 
 because that's all
 
-we're <name type="PERSON">gonna</name> do today.
+we're gonna do today.
 
 </line>
 
@@ -3438,7 +3438,7 @@ the tie is running.
 <line>
 Hey, <name type="PERSON">Vanessa</name>, your client,
 
-<name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>, wants a job.
+<name type="PERSON">BoJack Horseman</name>, wants a job.
 
 </line>
 
@@ -3510,7 +3510,7 @@ an awful lot of your time.
 
 
 <line>
-<ital>Todd, how do I</ital>
+<ital><name type="PERSON">Todd</name>, how do I</ital>
 
 <ital>turn this thing off?</ital>
 
@@ -3518,13 +3518,13 @@ an awful lot of your time.
 
 
 <line>
-<ital>Todd.</ital>
+<ital><name type="PERSON">Todd</name>.</ital>
 
 </line>
 
 
 <line>
-<ital>[Todd] What? I'm busy.</ital>
+<ital>[<name type="PERSON">Todd</name>] What? I'm busy.</ital>
 
 </line>
 
@@ -3616,7 +3616,7 @@ our hands of him.
 
 
 <line>
-<name type="PERSON">Charlie</name>, I hear <name type="ORG">NBC</name> picked up
+<name type="PERSON">Charlie</name>, I hear NBC picked up
 
 your running tie show.
 
@@ -3636,7 +3636,7 @@ Congratulations.
 
 
 <line>
-Hey, Marty,
+Hey, <name type="PERSON">Marty</name>,
 
 Princess Carolyn here.
 
@@ -3646,7 +3646,7 @@ Princess Carolyn here.
 <line>
 How'd you like to work with
 
-the <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>?
+the <name type="PERSON">BoJack Horseman</name>?
 
 </line>
 
@@ -3704,7 +3704,7 @@ give me a call.
 <line>
 Oh, <name type="PERSON">BoJack</name>, what am I
 
-<name type="PERSON">gonna</name> do with you?
+gonna do with you?
 
 </line>
 
@@ -3730,7 +3730,7 @@ Princess Carolyn.
 <line>
 If you don't cut him loose,
 
-you're never <name type="PERSON">gonna</name> be happy.
+you're never gonna be happy.
 
 </line>
 
@@ -3886,7 +3886,7 @@ you're making a big mistake.
 
 
 <line>
-<ital><name type="PERSON">Eva Bra<name type="ORG">un</name></name></ital>
+<ital><name type="PERSON">Eva</name> Braun</ital>
 
 is your dream, remember?
 
@@ -3940,7 +3940,7 @@ Say, which one of you
 
 is overseeing
 
-the <ital><name type="PERSON">Eva Bra<name type="ORG">un</name></name></ital> package?
+the <ital><name type="PERSON">Eva</name> Braun</ital> package?
 
 </line>
 
@@ -3974,7 +3974,7 @@ Can you still work here? No.
 
 
 <line>
-<name type="PERSON">Lenny</name> Turteltaub
+Turteltaub
 
 here to see you.
 
@@ -4006,7 +4006,7 @@ about mix tapes.
 
 
 <line>
-As I said to <name type="PERSON">Ed</name> Porter
+As I said to Ed Porter
 
 at the premiere of
 
@@ -4032,7 +4032,7 @@ coming right at me."
 
 
 <line>
-<ital><name type="PERSON">Eva Bra<name type="ORG">un</name></name></ital>
+<ital><name type="PERSON">Eva</name> Braun</ital>
 
 was <name type="PERSON">Vanessa</name>'s project.
 
@@ -4086,7 +4086,7 @@ That would make
 
 a great movie,
 
-but w<name type="PERSON">ho</name> would play the lead?
+but who would play the lead?
 
 </line>
 
@@ -4118,7 +4118,7 @@ It's kind of his thing.
 <line>
 Well, in that case,
 
-you know w<name type="PERSON">ho</name>'d be great?
+you know who'd be great?
 
 </line>
 
@@ -4154,7 +4154,7 @@ in a romantic comedy.
 
 
 <line>
-W<name type="PERSON">ho</name>'s the best agent
+Who's the best agent
 
 in the world?
 
@@ -4208,7 +4208,7 @@ Nothing matters.
 
 
 <line>
-- <ital>Wow. What happened in Malibu?</ital>
+- <ital>Wow. What happened in <name type="GPE">Malibu</name>?</ital>
 
 - I got to go.
 
@@ -4236,7 +4236,7 @@ I'll see you tomorrow.
 
 
 <line>
-Are you <name type="PERSON">gonna</name> head out soon?
+Are you gonna head out soon?
 
 </line>
 
@@ -4286,7 +4286,7 @@ Where else would I go?
 
 
 <line>
-<ital><music>♪ We were <name type="PERSON">yo</name>ung ♪</music></ital>
+<ital><music>♪ We were young ♪</music></ital>
 
 </line>
 

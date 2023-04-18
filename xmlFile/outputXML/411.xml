@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>Time's Arrow - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title><name type="ORG">Time</name>'s Arrow - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -52,13 +52,13 @@ Wait. Mom, do you remember--
 
 
 <line>
-Shh! <name type="GPE">Henrietta</name>, I am talking to the <name type="PERSON">s<name type="ORG">un</name></name>.
+Shh! <name type="GPE">Henrietta</name>, I am talking to the sun.
 
 </line>
 
 
 <line>
-S<name type="ORG">un</name>, you're a ball of gas,
+Sun, you're a ball of gas,
 
 but you're also a star.
 
@@ -66,7 +66,7 @@ but you're also a star.
 
 
 <line>
--We call you... "S<name type="ORG">un</name>."
+-We call you... "Sun."
 
 -Ugh!
 
@@ -112,7 +112,7 @@ Why are you driving so slowly?
 
 
 <line>
-Time's arrow neither stands still
+<name type="ORG">Time</name>'s arrow neither stands still
 
 nor reverses, after all.
 
@@ -214,7 +214,7 @@ of an elite society
 
 
 <line>
-of extremely <name type="PERSON">yo</name>ung women,
+of extremely young women,
 
 </line>
 
@@ -342,7 +342,7 @@ Now stop making books your friends.
 
 
 <line>
-Reading does nothing for <name type="PERSON">yo</name>ung women
+Reading does nothing for young women
 
 but build their brains,
 
@@ -522,7 +522,7 @@ and a glass of water, won't you?
 
 
 <line>
-Yes, <name type="PERSON">Señorita <name type="PERSON">Sugarman</name></name>.
+Yes, Señorita <name type="PERSON">Sugarman</name>.
 
 </line>
 
@@ -550,7 +550,7 @@ or bring back civil rights
 
 activist <name type="PERSON">Medgar Evers</name>,
 
-w<name type="PERSON">ho</name> was shot in Mississippi
+who was shot in Mississippi
 
 this week?
 
@@ -576,7 +576,7 @@ will be assassinated this year, 1963.
 
 
 <line>
-The <name type="ORG">FBI</name> is on too high alert to allow
+The FBI is on too high alert to allow
 
 anything like that to happen again.
 
@@ -596,7 +596,7 @@ Your chaperone,
 
 <name type="PERSON">Corbin</name> <name type="ORG">Creamerman</name>,
 
-is a fine <name type="PERSON">yo</name>ung man.
+is a fine young man.
 
 </line>
 
@@ -714,7 +714,7 @@ alliance might be advantageous.
 
 imagine a television advertisement
 
-with a f<name type="ORG">un</name> jingle.
+with a fun jingle.
 
 </line>
 
@@ -844,7 +844,7 @@ Better late than never, hmm?
 <line>
 Ugh! I'm only doing this for my father,
 
-w<name type="PERSON">ho</name> has very old-fashioned ideas
+who has very old-fashioned ideas
 
 about how a woman is to live her life.
 
@@ -1076,7 +1076,7 @@ of the lives that were promised us.
 <line>
 But what is it about?
 
-W<name type="PERSON">ho</name> are the characters?
+Who are the characters?
 
 </line>
 
@@ -1290,7 +1290,7 @@ present their daughter,
 
 
 <line>
-<name type="PERSON">Miss</name> Beatrice Elizabeth <name type="PERSON">Sugarman</name>.
+Beatrice Elizabeth <name type="PERSON">Sugarman</name>.
 
 </line>
 
@@ -1404,7 +1404,7 @@ my own party with you?
 
 
 <line>
-The low-life w<name type="PERSON">ho</name> wasn't even invited?
+The low-life who wasn't even invited?
 
 </line>
 
@@ -1480,7 +1480,7 @@ with jellied beans
 
 and marry you off to the man
 
-w<name type="PERSON">ho</name> can closest estimate the amount.
+who can closest estimate the amount.
 
 </line>
 
@@ -1762,11 +1762,11 @@ What do you wanna do?
 
 Maybe you have a cousin,
 
-w<name type="PERSON">ho</name> has a... a friend,
+who has a... a friend,
 
-w<name type="PERSON">ho</name> knows a doctor,
+who knows a doctor,
 
-w<name type="PERSON">ho</name> can take care
+who can take care
 
 of such inconveniences?
 
@@ -1842,7 +1842,7 @@ It was.
 <line>
 Say, did you ever hear the story
 
-of the couple w<name type="PERSON">ho</name> moved to <name type="GPE">California</name>?
+of the couple who moved to <name type="GPE">California</name>?
 
 </line>
 
@@ -2194,7 +2194,7 @@ How was work, darling?
 <line>
 Ugh! Terrible.
 
-<name type="PERSON">T</name>hose fish do not like being canned.
+Those fish do not like being canned.
 
 </line>
 
@@ -2304,7 +2304,7 @@ I'm not a baby. I'm six.
 
 
 <line>
-Yes, wah, wah, <name type="PERSON">ga</name>, <name type="PERSON">ga</name>, goo, goo.
+Yes, wah, wah, ga, ga, goo, goo.
 
 </line>
 
@@ -2638,7 +2638,7 @@ she's falling in love with you.
 
 
 <line>
-You sensitive, mi<name type="PERSON">s<name type="ORG">un</name></name>derstood artist.
+You sensitive, misunderstood artist.
 
 Ugh. Won't she be disappointed.
 
@@ -2696,7 +2696,7 @@ to get a divorce.
 
 
 <line>
-Well, w<name type="PERSON">ho</name> else would have me now?
+Well, who else would have me now?
 
 After what you did to my body?
 
@@ -2714,7 +2714,7 @@ After what you did to my body?
 <line>
 It belonged to your grandfather,
 
-a man w<name type="PERSON">ho</name> knew what marriage meant.
+a man who knew what marriage meant.
 
 </line>
 
@@ -2820,7 +2820,7 @@ I never understood the appeal.
 
 
 <line>
-Lotta good they ever did me.
+<name type="ORG">Lotta</name> good they ever did me.
 
 </line>
 
@@ -3084,7 +3084,7 @@ and get a job, it'll be okay.
 
 
 <line>
-And w<name type="PERSON">ho</name>'s going to care
+And who's going to care
 
 for the baby while you work?
 
@@ -3524,7 +3524,7 @@ Best of luck. See ya never.
 
 
 <line>
--W<name type="PERSON">ho</name> <ital>is</ital> that?
+-Who <ital>is</ital> that?
 
 -[groans] Bye, Mom.
 
@@ -3626,7 +3626,7 @@ And your whole family is here.
 <line>
 And they're telling you
 
-that everything is <name type="PERSON">gonna</name> be all right.
+that everything is gonna be all right.
 
 </line>
 
@@ -3744,7 +3744,7 @@ delicious.
 <line>
 <ital>♪ It's been so long</ital>
 
-<ital>I don't think I'm <name type="PERSON">gonna</name> last ♪</ital>
+<ital>I don't think I'm gonna last ♪</ital>
 
 </line>
 

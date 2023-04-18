@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>What Time Is It Right Now - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>What <name type="ORG">Time</name> Is It Right Now - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -96,7 +96,7 @@ And it's about time this story was told.
 
 
 <line>
-<nonVerbComm>[<name type="PERSON">Flip</name>]</nonVerbComm> <ital>It's about Detective <name type="PERSON">John</name> <name type="PERSON">Phil</name><name type="PERSON">bert</name>,</ital>
+<nonVerbComm>[Philbert,</ital>
 
 <ital>a man from another time.</ital>
 
@@ -194,7 +194,7 @@ That's why-- Just--
 <line>
 I wanted you to know that
 
-none of this was <name type="PERSON">Holly</name>hock's fault.
+none of this was Hollyhock's fault.
 
 </line>
 
@@ -276,7 +276,7 @@ And that's a big hand idea.
 
 
 <line>
-And you said <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>
+And you said <name type="PERSON">BoJack Horseman</name>
 
 is attached?
 
@@ -428,7 +428,7 @@ Of a Union soldier, perhaps,
 
 
 <line>
-w<name type="PERSON">ho</name> cannot rest until
+who cannot rest until
 
 his final letter is delivered!
 
@@ -538,7 +538,7 @@ for the rest of our lives.
 
 
 <line>
-Anything you want is <name type="PERSON">gonna</name> be good
+Anything you want is gonna be good
 
 with me. Just like your old house.
 
@@ -600,7 +600,7 @@ no more ex-wives.
 
 
 <line>
-Just <name type="PERSON">Diane</name> and Mr. Peanutbutter,
+Just Peanutbutter,
 
 back to normal.
 
@@ -794,7 +794,7 @@ Just take a message--
 
 
 <line>
--<ital>W<name type="PERSON">ho</name>'s to say?</ital>
+-<ital>Who's to say?</ital>
 
 <ital>-Oh.</ital>
 
@@ -944,7 +944,7 @@ When it gets out
 
 I faked <name type="PERSON">BoJack</name>'s signature,
 
-the deal's <name type="PERSON">gonna</name> fall apart.
+the deal's gonna fall apart.
 
 </line>
 
@@ -1106,7 +1106,7 @@ Doctor <name type="PERSON">Picarello</name>, are you okay?
 <line>
 -[growling]
 
--Todd?
+-<name type="PERSON">Todd</name>?
 
 </line>
 
@@ -1138,7 +1138,7 @@ and now a bunch of them have rabies.
 
 
 <line>
-W<name type="PERSON">ho</name> could have predicted
+Who could have predicted
 
 my innocent clown dentist venture
 
@@ -1154,7 +1154,7 @@ my innocent clown dentist venture
 
 
 <line>
-Yolanda, the only reason
+<name type="PERSON">Yolanda</name>, the only reason
 
 they're in the woods at all
 
@@ -1230,7 +1230,7 @@ we did something impulsive?
 
 
 <line>
-Well, you did r<name type="ORG">un</name> for governor
+Well, you did run for governor
 
 without giving it much--
 
@@ -1382,7 +1382,7 @@ and then it all magically comes together.
 
 
 <line>
-Where's my random detail that's <name type="PERSON">gonna</name>
+Where's my random detail that's gonna
 
 suddenly make everything make sense?
 
@@ -1682,13 +1682,13 @@ to your waiting room.
 <line>
 -Oh, <name type="PERSON">God</name>.
 
-<name type="PERSON">-[clown</name> growling]
+-[clown growling]
 
 </line>
 
 
 <line>
-What are we <name type="PERSON">gonna</name> do, Todd?
+What are we gonna do, <name type="PERSON">Todd</name>?
 
 </line>
 
@@ -1708,7 +1708,7 @@ What are we <name type="PERSON">gonna</name> do, Todd?
 
 
 <line>
-R<name type="ORG">un</name>. Ouchie! Ouchie!
+Run. Ouchie! Ouchie!
 
 </line>
 
@@ -1722,7 +1722,7 @@ R<name type="ORG">un</name>. Ouchie! Ouchie!
 <line>
 -Oh, man.
 
--I've never r<name type="ORG">un</name> that fast in my life.
+-I've never run that fast in my life.
 
 </line>
 
@@ -1736,7 +1736,7 @@ R<name type="ORG">un</name>. Ouchie! Ouchie!
 
 
 <line>
-I keep saying I'm <name type="PERSON">gonna</name> r<name type="ORG">un</name> more,
+I keep saying I'm gonna run more,
 
 but it's just so hard to stay motivated.
 
@@ -1784,7 +1784,7 @@ Maybe you don't have to start
 
 every time the car in front of you starts,
 
-because you know it's <name type="PERSON">gonna</name>
+because you know it's gonna
 
 stop again anyway.
 
@@ -1816,7 +1816,7 @@ Well, I'm sorry, but I'm getting carsick.
 
 
 <line>
-Okay. I'm <name type="PERSON">gonna</name> get some gas.
+Okay. I'm gonna get some gas.
 
 </line>
 
@@ -1864,7 +1864,7 @@ and get to <name type="GPE">Hawaii</name> just in time
 
 to spend two luxurious hours
 
-at the Honolulu <name type="PERSON">Stilton</name>,
+at the <name type="GPE">Honolulu</name> <name type="PERSON">Stilton</name>,
 
 and then turn around and come back,
 
@@ -1974,7 +1974,7 @@ It's a room full of big books,
 
 with big windows and a ladder,
 
-like <name type="ORG">Belle</name> got in <ital>Beauty and the Beast.</ital>
+like Beast.</ital>
 
 </line>
 
@@ -2012,7 +2012,7 @@ That's adora-<name type="ORG">Belle</name>.
 
 
 <line>
-<name type="PERSON">-[woman</name>] Hey, <name type="ORG">Seaborn</name>! <name type="ORG">Seaborn</name>!
+-[woman] Hey, <name type="ORG">Seaborn</name>! <name type="ORG">Seaborn</name>!
 
 -What's that?
 
@@ -2148,7 +2148,7 @@ we're meeting in St. Louis.
 <line>
 -Hey!
 
--I need to talk to <name type="PERSON">Holly</name>hock!
+-I need to talk to Hollyhock!
 
 </line>
 
@@ -2182,7 +2182,7 @@ No one told you to come here.
 <line>
 You're the one
 
-w<name type="PERSON">ho</name> likes foreign movies, right?
+who likes foreign movies, right?
 
 </line>
 
@@ -2234,7 +2234,7 @@ just listen for a second.
 <line>
 I know you hate me.
 
-But for <name type="PERSON">Holly</name>hock, please, listen.
+But for Hollyhock, please, listen.
 
 </line>
 
@@ -2282,9 +2282,9 @@ that made her be born?
 
 
 <line>
-Right? That's why <name type="PERSON">Holly</name>hock
+Right? That's why Hollyhock
 
-came to <name type="GPE">L.A.</name> in the first place.
+came to L.A. in the first place.
 
 </line>
 
@@ -2326,7 +2326,7 @@ your own cute thing, I get it.
 
 
 <line>
-My point is, <name type="PERSON">Holly</name>hock and I
+My point is, Hollyhock and I
 
 have the same DNA,
 
@@ -2346,7 +2346,7 @@ Because being a father isn't just--
 <line>
 <name type="PERSON">God</name>, I feel like you are
 
-willfully mi<name type="PERSON">s<name type="ORG">un</name></name>derstanding me.
+willfully misunderstanding me.
 
 </line>
 
@@ -2378,7 +2378,7 @@ I'm not even her father biologically.
 <line>
 <nonVerbComm>[<name type="PERSON">BoJack</name>]</nonVerbComm> <ital>I went to every hospital</ital>
 
-<ital>and clerk house in <name type="GPE">L.A.</name></ital>
+<ital>and clerk house in L.A.</ital>
 
 </line>
 
@@ -2386,7 +2386,7 @@ I'm not even her father biologically.
 <line>
 <ital>I waited in lines, filled out forms,</ital>
 
-<ital>talked to anyone w<name type="PERSON">ho</name> would talk to me.</ital>
+<ital>talked to anyone who would talk to me.</ital>
 
 </line>
 
@@ -2408,7 +2408,7 @@ I'm not even her father biologically.
 
 
 <line>
-<ital>born on <name type="PERSON">Holly</name>hock's birthday...</ital>
+<ital>born on Hollyhock's birthday...</ital>
 
 </line>
 
@@ -2420,9 +2420,9 @@ Okay, so?
 
 
 <line>
-...in <name type="GPE">L.A.</name>, because <name type="PERSON">Holly</name>hock
+...in L.A., because Hollyhock
 
-wasn't born in <name type="GPE">L.A.</name>
+wasn't born in L.A.
 
 </line>
 
@@ -2480,7 +2480,7 @@ She was born in <name type="GPE">San Francisco</name>.
 
 
 <line>
-<ital>"<name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></ital>
+<ital>"<name type="PERSON">BoJack Horseman</name></ital>
 
 <ital>has a <name type="ORG">Facebook</name> account?"</ital>
 
@@ -2520,7 +2520,7 @@ She was born in <name type="GPE">San Francisco</name>.
 
 
 <line>
-And I wanted <name type="PERSON">Holly</name>hock to have it.
+And I wanted Hollyhock to have it.
 
 </line>
 
@@ -2610,7 +2610,7 @@ Right now.
 <line>
 Welcome to the best
 
-workout routine in <name type="GPE">L.A.</name>
+workout routine in L.A.
 
 </line>
 
@@ -2654,9 +2654,9 @@ and they do actually have rabies.
 
 
 <line>
-Wow, guess I'm <name type="PERSON">gonna</name>
+Wow, guess I'm gonna
 
-really have to r<name type="ORG">un</name>.
+really have to run.
 
 </line>
 
@@ -2670,13 +2670,13 @@ No more excuses. This is great.
 <line>
 Exactly! And don't forget...
 
-have f<name type="ORG">un</name> in there!
+have fun in there!
 
 </line>
 
 
 <line>
-<name type="PERSON">-[woman</name>] <name type="PERSON">Whoo-hoo</name>!
+-[woman] Whoo-hoo!
 
 -[man] Let's do this.
 
@@ -2888,7 +2888,7 @@ Oh. Sounds like an asshole.
 <line>
 He was actually the first guy I ever dated
 
-w<name type="PERSON">ho</name> wasn't an asshole.
+who wasn't an asshole.
 
 </line>
 
@@ -2962,7 +2962,7 @@ I'm looking forward to it.
 <line>
 Now, back to normal.
 
-<name type="PERSON">Diane</name> and Mr. Peanutbutter.
+Peanutbutter.
 
 </line>
 
@@ -3138,7 +3138,7 @@ Like you're just visiting here,
 
 until the next thing
 
-and you're <name type="PERSON">gonna</name> leave me
+and you're gonna leave me
 
 when you get bored
 
@@ -3186,7 +3186,7 @@ this would go at all.
 
 
 <line>
-<name type="PERSON">Diane</name> and Mr. Peanutbutter.
+Peanutbutter.
 
 Back to normal, right?
 
@@ -3288,7 +3288,7 @@ What?
 
 
 <line>
--<name type="PERSON">Holly</name>hock.
+-Hollyhock.
 
 -Hi.
 
@@ -3356,7 +3356,7 @@ Really? Wow!
 
 
 <line>
-I'm <name type="PERSON">gonna</name> visit her in <name type="GPE">Minneapolis</name>.
+I'm gonna visit her in <name type="GPE">Minneapolis</name>.
 
 I'm at the airport right now.
 
@@ -3458,7 +3458,7 @@ they're about to start boarding, so...
 
 
 <line>
-<name type="PERSON">Holly</name>hock, I'm sorry
+Hollyhock, I'm sorry
 
 I didn't take better care of you.
 
@@ -3496,7 +3496,7 @@ to my brain, but,
 
 other than that,
 
-it was a pretty <name type="PERSON">chill</name> experience.
+it was a pretty chill experience.
 
 </line>
 
@@ -3510,7 +3510,7 @@ I should have protected you.
 <line>
 I really wanted to be
 
-a good dad to you, <name type="PERSON">Holly</name>hock.
+a good dad to you, Hollyhock.
 
 </line>
 
@@ -3628,13 +3628,13 @@ But... I've never had a brother.
 
 
 <line>
-<ital><music>♪ People w<name type="PERSON">ho</name> aren't listening ♪</music></ital>
+<ital><music>♪ People who aren't listening ♪</music></ital>
 
 </line>
 
 
 <line>
-<ital><music>♪ And no one is <name type="PERSON">gonna</name> turn my hand ♪</music></ital>
+<ital><music>♪ And no one is gonna turn my hand ♪</music></ital>
 
 </line>
 

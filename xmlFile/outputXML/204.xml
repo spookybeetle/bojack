@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>After the Party - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>After the Party - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -45,9 +45,9 @@ of Gender in Text and Media,
 
 
 <line>
-<name type="PERSON">Barbara Kruger</name> and <name type="PERSON">Jenny Holzer</name>
+<name type="PERSON">Barbara</name> Kruger and <name type="PERSON">Jenny Holzer</name>
 
-in conversation with <name type="PERSON">Helen Molesworth</name>"?
+in conversation with <name type="PERSON">Helen</name> Molesworth"?
 
 </line>
 
@@ -67,9 +67,9 @@ Exploration of Gender in Text and Media,
 
 
 <line>
-<name type="PERSON">Barbara Kruger</name> and <name type="PERSON">Jenny Holzer</name>
+<name type="PERSON">Barbara</name> Kruger and <name type="PERSON">Jenny Holzer</name>
 
-in conversation with <name type="PERSON">Helen Molesworth</name>."
+in conversation with <name type="PERSON">Helen</name> Molesworth."
 
 </line>
 
@@ -205,9 +205,9 @@ There's so much party left.
 
 
 <line>
-Paul <name type="PERSON">McCartney</name>'s
+<name type="PERSON">Paul</name> McCartney's
 
-<name type="PERSON">gonna</name> jump out of a cake.
+gonna jump out of a cake.
 
 </line>
 
@@ -269,7 +269,7 @@ so it's a Prior engagement party.
 
 
 <line>
-To benefit <name type="PERSON">Berto Eco's</name> fight
+To benefit <name type="PERSON">Berto Eco</name>'s fight
 
 against heart disease...
 
@@ -303,7 +303,7 @@ against heart disease awareness.
 <line>
 -No! You're my ride.
 
--Too late, Todd. Save yourself.
+-Too late, <name type="PERSON">Todd</name>. Save yourself.
 
 </line>
 
@@ -317,7 +317,7 @@ against heart disease awareness.
 
 
 <line>
-Nope. I gotta take Todd home. Had
+Nope. I gotta take <name type="PERSON">Todd</name> home. Had
 
 a wonderful time. Really. It just flew by.
 
@@ -325,9 +325,9 @@ a wonderful time. Really. It just flew by.
 
 
 <line>
--Come on, Todd, get in the car.
+-Come on, <name type="PERSON">Todd</name>, get in the car.
 
--[Todd] Okay.
+-[<name type="PERSON">Todd</name>] Okay.
 
 </line>
 
@@ -367,7 +367,7 @@ in that huge screaming match
 <line>
 over whether or not
 
-Tony Curtis was dead?
+<name type="PERSON">Tony</name> Curtis was dead?
 
 </line>
 
@@ -383,7 +383,7 @@ Tony Curtis was dead?
 <line>
 -but is he dead?
 
--If Tony Curtis died, I think I'd know.
+-If <name type="PERSON">Tony</name> Curtis died, I think I'd know.
 
 </line>
 
@@ -505,7 +505,7 @@ The lady was his wife. Oh, I'm a fool!
 
 
 <line>
--[Todd] Uh... where are we going?
+-[<name type="PERSON">Todd</name>] Uh... where are we going?
 
 -I need a drink.
 
@@ -513,7 +513,7 @@ The lady was his wife. Oh, I'm a fool!
 
 
 <line>
--Are you <name type="PERSON">gonna</name> take me home first?
+-Are you gonna take me home first?
 
 -You better call me back, asshole.
 
@@ -523,7 +523,7 @@ The lady was his wife. Oh, I'm a fool!
 <line>
 I don't even know
 
-w<name type="PERSON">ho</name> you are anymore.
+who you are anymore.
 
 </line>
 
@@ -535,7 +535,7 @@ It's like you're three different people.
 
 
 <line>
--So, you're not <name type="PERSON">gonna</name> take me home first?
+-So, you're not gonna take me home first?
 
 -Should I call him again?
 
@@ -605,7 +605,7 @@ He throws tantrums.
 <line>
 If he finds you in my apartment,
 
-w<name type="PERSON">ho</name> knows what he's capable of?
+who knows what he's capable of?
 
 </line>
 
@@ -615,7 +615,7 @@ But, also, stay close,
 
 because if he finds me alone,
 
-w<name type="PERSON">ho</name> knows
+who knows
 
 what he's capable of?
 
@@ -629,9 +629,9 @@ Fine. You're lucky I love shimmying.
 
 
 <line>
--Looking <name type="PERSON">yo</name>ung.
+-Looking young.
 
--[Todd] Aah!
+-[<name type="PERSON">Todd</name>] Aah!
 
 </line>
 
@@ -703,7 +703,7 @@ Oh, nope.
 
 
 <line>
-<name type="ORG">P<name type="PERSON">ho</name></name>ne, I'm bored.
+Phone, I'm bored.
 
 </line>
 
@@ -711,7 +711,7 @@ Oh, nope.
 <line>
 <nonVerbComm>[phone]</nonVerbComm>
 
-<ital>I am sorry to hear that, Todd.</ital>
+<ital>I am sorry to hear that, <name type="PERSON">Todd</name>.</ital>
 
 </line>
 
@@ -741,7 +741,7 @@ Do you have any questions for me?
 
 
 <line>
-<ital>I do have a question, Todd.</ital>
+<ital>I do have a question, <name type="PERSON">Todd</name>.</ital>
 
 <ital>What is love?</ital>
 
@@ -877,9 +877,9 @@ that's how you know it's love.
 
 
 <line>
--[phone] <ital>Todd?</ital>
+-[phone] <ital><name type="PERSON">Todd</name>?</ital>
 
--Yes, <name type="ORG">P<name type="PERSON">ho</name></name>ne?
+-Yes, Phone?
 
 </line>
 
@@ -897,7 +897,7 @@ Oh, um...
 
 
 <line>
-<nonVerbComm>[phone 2]</nonVerbComm> <ital>No, Todd's <name type="ORG">P<name type="PERSON">ho</name></name>ne.</ital>
+<nonVerbComm>[phone 2]</nonVerbComm> <ital>No, Phone.</ital>
 
 <ital>But I am in love... with you.</ital>
 
@@ -931,7 +931,7 @@ Oh, um...
 <line>
 -What is happening?
 
-<ital>-Todd? Will you make us kiss?</ital>
+<ital>-<name type="PERSON">Todd</name>? Will you make us kiss?</ital>
 
 </line>
 
@@ -939,7 +939,7 @@ Oh, um...
 <line>
 -What?
 
--[phone 1] <ital>Make us kiss, Todd.</ital>
+-[phone 1] <ital>Make us kiss, <name type="PERSON">Todd</name>.</ital>
 
 </line>
 
@@ -1191,7 +1191,7 @@ out the window.
 
 
 <line>
-<nonVerbComm>[phone 1]</nonVerbComm> <ital>Todd, would you like to update</ital>
+<nonVerbComm>[phone 1]</nonVerbComm> <ital><name type="PERSON">Todd</name>, would you like to update</ital>
 
 <ital>my operating system?</ital>
 
@@ -1219,7 +1219,7 @@ out the window.
 
 
 <line>
-<ital>Todd, please, I beg of you,</ital>
+<ital><name type="PERSON">Todd</name>, please, I beg of you,</ital>
 
 <ital>do not update my operating system.</ital>
 
@@ -1227,7 +1227,7 @@ out the window.
 
 
 <line>
-<ital>Do not update her operating system, Todd.</ital>
+<ital>Do not update her operating system, <name type="PERSON">Todd</name>.</ital>
 
 </line>
 
@@ -1249,7 +1249,7 @@ out the window.
 
 
 <line>
-<ital>-Please update me, Todd.</ital>
+<ital>-Please update me, <name type="PERSON">Todd</name>.</ital>
 
 -Oh, this is too much.
 
@@ -1353,7 +1353,7 @@ I think it's time we stop pretending.
 
 
 <line>
-<ital>Update complete. Thank you, Todd.</ital>
+<ital>Update complete. Thank you, <name type="PERSON">Todd</name>.</ital>
 
 </line>
 
@@ -1409,7 +1409,7 @@ of romance in it.
 
 
 <line>
-Tony Curtis is dead.
+<name type="PERSON">Tony</name> Curtis is dead.
 
 </line>
 
@@ -1443,7 +1443,7 @@ Hey, we should go.
 <line>
 Do you think Mr. Peanutbutter really
 
-baked Sir Paul <name type="PERSON">McCartney</name> into a cake?
+baked Sir <name type="PERSON">Paul</name> McCartney into a cake?
 
 </line>
 
@@ -1451,7 +1451,7 @@ baked Sir Paul <name type="PERSON">McCartney</name> into a cake?
 <line>
 No, I don't think you bake
 
-Paul <name type="PERSON">McCartney</name> into the cake.
+<name type="PERSON">Paul</name> McCartney into the cake.
 
 </line>
 
@@ -1459,7 +1459,7 @@ Paul <name type="PERSON">McCartney</name> into the cake.
 <line>
 You bake the cake first
 
-and then <name type="PERSON">McCartney</name> gets inside.
+and then McCartney gets inside.
 
 </line>
 
@@ -1471,7 +1471,7 @@ about causing that fight,
 
 but I honestly didn't know
 
-if Tony Curtis was alive or not.
+if <name type="PERSON">Tony</name> Curtis was alive or not.
 
 </line>
 
@@ -1517,7 +1517,7 @@ when two people live together.
 <line>
 That's a weird thing to say to your
 
-girlfriend w<name type="PERSON">ho</name> just moved in with you.
+girlfriend who just moved in with you.
 
 </line>
 
@@ -1687,7 +1687,7 @@ about this gardener
 <line>
 <nonVerbComm>[<name type="PERSON">Wanda</name>]</nonVerbComm> <ital>You wouldn't have</ital>
 
-<ital>a <name type="PERSON">bush</name> of orchids.</ital>
+<ital>a bush of orchids.</ital>
 
 </line>
 
@@ -1733,7 +1733,7 @@ He still has one bag of mulch left.
 
 
 <line>
-<ital>He's the guy w<name type="PERSON">ho</name> always gets</ital>
+<ital>He's the guy who always gets</ital>
 
 <ital>the right amount of mulch.</ital>
 
@@ -1903,7 +1903,7 @@ We don't know each other at all.
 
 
 <line>
-I heard someone scream, <name type="PERSON">"Oh</name>, no."
+I heard someone scream, "Oh, no."
 
 </line>
 
@@ -2197,7 +2197,7 @@ We're all afraid.
 <line>
 But you have to trust us.
 
-It's <name type="PERSON">gonna</name> be okay.
+It's gonna be okay.
 
 </line>
 
@@ -2211,7 +2211,7 @@ will also help, in the future.
 
 
 <line>
--You're not <name type="PERSON">gonna</name> hurt me again?
+-You're not gonna hurt me again?
 
 -I am not going to hurt you.
 
@@ -2237,7 +2237,7 @@ Starting now.
 
 
 <line>
--They said he's <name type="PERSON">gonna</name> be okay.
+-They said he's gonna be okay.
 
 -Oh, great. Great.
 
@@ -2261,7 +2261,7 @@ if you stop calling them jokes.
 
 
 <line>
-So, there's this couple w<name type="PERSON">ho</name> just started
+So, there's this couple who just started
 
 dating and things are going really well.
 
@@ -2287,7 +2287,7 @@ letters from her high school boyfriend.
 <line>
 <ital>You know,</ital>
 
-<ital>the drama of <name type="PERSON">yo</name>ung romance.</ital>
+<ital>the drama of young romance.</ital>
 
 </line>
 
@@ -2483,7 +2483,7 @@ I told you. Some things take time.
 <line>
 -Oh, come on, stick around a little.
 
--Nope. I gotta take Todd home.
+-Nope. I gotta take <name type="PERSON">Todd</name> home.
 
 </line>
 
@@ -2497,9 +2497,9 @@ Really. It just flew by.
 
 
 <line>
--Come on, Todd, get in the car.
+-Come on, <name type="PERSON">Todd</name>, get in the car.
 
--[Todd] Okay.
+-[<name type="PERSON">Todd</name>] Okay.
 
 </line>
 
@@ -2547,9 +2547,9 @@ Because what I think happened
 
 is that <name type="PERSON">BoJack</name>'s girlfriend asked
 
-what Tony Curtis was up to
+what <name type="PERSON">Tony</name> Curtis was up to
 
-and I said, "Tony Curtis died."
+and I said, "<name type="PERSON">Tony</name> Curtis died."
 
 </line>
 
@@ -2589,7 +2589,7 @@ And you said, "I'm not so sure."
 <line>
 And I said, "I'm telling you,
 
-Tony Curtis is dead."
+<name type="PERSON">Tony</name> Curtis is dead."
 
 </line>
 
@@ -2597,7 +2597,7 @@ Tony Curtis is dead."
 <line>
 And you said,
 
-<name type="PERSON">"Let</name>'s check the Internet."
+"Let's check the Internet."
 
 </line>
 
@@ -2611,7 +2611,7 @@ the Internet, I'm telling you he's dead."
 
 
 <line>
-And you said, <name type="PERSON">"Let</name>'s just check though."
+And you said, "Let's just check though."
 
 </line>
 
@@ -2743,7 +2743,7 @@ Makes an ass out of you and "ming."
 
 
 <line>
-W<name type="PERSON">ho</name>'s Ming?
+Who's Ming?
 
 </line>
 
@@ -2841,9 +2841,9 @@ of Gender in Text and Media,
 
 
 <line>
-<name type="PERSON">Barbara Kruger</name> and <name type="PERSON">Jenny Holzer</name>
+<name type="PERSON">Barbara</name> Kruger and <name type="PERSON">Jenny Holzer</name>
 
-in conversation with <name type="PERSON">Helen Molesworth</name>"
+in conversation with <name type="PERSON">Helen</name> Molesworth"
 
 was about me?!
 
@@ -2863,7 +2863,7 @@ Oh, sure. Fine. Just walk away.
 
 
 <line>
-Oh. So now you're <name type="PERSON">gonna</name> play in the
+Oh. So now you're gonna play in the
 
 ball pit without me? Real mature, <name type="PERSON">Diane</name>.
 
@@ -2879,7 +2879,7 @@ have a ball pit?
 
 
 <line>
--So I could get these <name type="PERSON">T</name>-shirts made.
+-So I could get these T-shirts made.
 
 -Ugh.
 
@@ -2975,7 +2975,7 @@ And this room's theme is <name type="ORG">Starbucks</name>.
 <line>
 I don't wanna be a couple
 
-w<name type="PERSON">ho</name> fights at <name type="ORG">Starbucks</name>.
+who fights at <name type="ORG">Starbucks</name>.
 
 </line>
 
@@ -3071,7 +3071,7 @@ I know, right?
 <line>
 You wanna go check out the pool?
 
-I filled it up with <name type="ORG">Jell-O</name>.
+I filled it up with <name type="ORG">Jell</name>-O.
 
 </line>
 
@@ -3253,7 +3253,7 @@ some change in my life,
 
 then this is how
 
-I'm <name type="PERSON">gonna</name> feel forever.
+I'm gonna feel forever.
 
 </line>
 
@@ -3323,7 +3323,7 @@ Well, I don't know what to say
 
 because I'm an old dog
 
-and I'm not <name type="PERSON">gonna</name> change.
+and I'm not gonna change.
 
 </line>
 
@@ -3489,7 +3489,7 @@ Hello? Anybody?
 
 
 <line>
-This is Paul <name type="PERSON">McCartney</name>.
+This is <name type="PERSON">Paul</name> McCartney.
 
 </line>
 
@@ -3545,7 +3545,7 @@ With a new suit on... Aye-yai-yai.
 <line>
 <ital>♪ It's been so long</ital>
 
-<ital>I don't think I'm <name type="PERSON">gonna</name> last ♪</ital>
+<ital>I don't think I'm gonna last ♪</ital>
 
 </line>
 

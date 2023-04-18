@@ -42,13 +42,24 @@ ruler = nlp.add_pipe("span_ruler", before="ner", config=config)
 # But this only works when spaCy doesn't recognize a word / phrase as a named entity of any kind.
 # If it recognizes a named entity but tags it wrong, we correct it with the span_ruler, not the entity_ruler
 patterns = [
-    {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": "^-\w+?"}}]},
+    {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": "^-[A-z0-9]+?"}}]},
+    {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": "^[\"-]"}}]},
+    {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": "^[a-z0-9]"}}]},
+    {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": "[A-z0-9]*--"}}]},
+    {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": "[A-z0-9]+[^A-z^0-9]+[A-z0-9]+"}}]},
+    {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": "^.$"}}]},
+    {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": "^.{2}$"}}]},
     {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": "^[Mm]+$"}}]},
+    {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": "^Oo"}}]},
+    {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": "^[A-Z][a-z]*[A-Z][a-z]*"}}]},
+    {"label": "NULL", "pattern": "sun"},
     {"label": "NULL", "pattern": "Bo"},
     {"label": "NULL", "pattern": "gonna"},
     {"label": "NULL", "pattern": "Jack"},
     {"label": "NULL", "pattern": "Horse"},
+    {"label": "NULL", "pattern": "Horsin"},
     {"label": "NULL", "pattern": "Mm-mmm"},
+    {"label": "LOC", "pattern": "Gooba Gooberry Falls"},
     {"label": "PERSON", "pattern": "BoJack Horseman"},
     {"label": "PERSON", "pattern": "BoJack"},
     {"label": "PERSON", "pattern": "Charlotte"},
@@ -174,8 +185,12 @@ def xmlTagger(sourcePath, SortedDict):
             replacement = '<name type="' + val + '">' + key + '</name>'
             # print(f"{replacement=}")
             stringFile = stringFile.replace(key, replacement)
-            cleanedUp = regex.sub(r"(\w*)<name type=\"\w+\">([^<>]+?)</name>(\w+)", r"\1\2\3", stringFile)
+            cleanedUp = regex.sub(r"(<name type='[A-z]+?'>[^<]*?)<name type='[A-z]+?'>([^<]+?)</name>([^<]*?</name>)", r"\1\2\3", stringFile)
+            cleanedUp = regex.sub(r"(\w+)<name type=.+>(\w+)</name>(\w*)", r"\1\2\3", cleanedUp)
+            cleanedUp = regex.sub(r"(\w*)<name type=.+>(\w+)</name>(\w+)", r"\1\2\3", cleanedUp)
             cleanedUp = regex.sub(r"(<nonV[^<>]+?)<name type=\".+?\">([^<>]+?)</name>([^<>]*>)", r"\1\2\3", cleanedUp)
+            cleanedUp = regex.sub(r"(<name[^<>]+?>BoJack)</name>(\s+)<name[^<>]+?>(Horseman</name>)", r"\1\2\3", cleanedUp)
+
             # <nonVerbCo<name type="PERSON">mm</name>>
             # print(f"{stringFile=}")
 
