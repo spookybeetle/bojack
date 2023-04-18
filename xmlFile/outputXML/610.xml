@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>Good Damage - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>Good Damage - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -104,7 +104,7 @@ by the way, killing the planet.
 
 
 <line>
-<nonVerbComm>[scoffs]</nonVerbComm> But what are you <name type="PERSON">gonna</name> do, right?
+<nonVerbComm>[scoffs]</nonVerbComm> But what are you gonna do, right?
 
 </line>
 
@@ -124,7 +124,7 @@ by the way, killing the planet.
 
 
 <line>
-<ital><music>♪ The <name type="PERSON">s<name type="ORG">un</name></name> is shining down on you and me ♪</music></ital>
+<ital><music>♪ The sun is shining down on you and me ♪</music></ital>
 
 </line>
 
@@ -226,7 +226,7 @@ to play video games all day.
 <line>
 Hello. I am <name type="PERSON">Diane</name>,
 
-and I am a <name type="PERSON">yo</name>ung girl living in <name type="GPE">Boston</name>
+and I am a young girl living in <name type="GPE">Boston</name>
 
 and ever since I was that,
 
@@ -392,7 +392,7 @@ would you come see it?
 
 
 <line>
-It's <name type="PERSON">gonna</name> suck, so I wanna pack the house
+It's gonna suck, so I wanna pack the house
 
 with friendly faces.
 
@@ -512,7 +512,7 @@ what the book is.
 
 
 <line>
-You <name type="PERSON">gonna</name> put any stories
+You gonna put any stories
 
 about me in there?
 
@@ -548,7 +548,7 @@ of our Penny <name type="PERSON">Carson</name> crusade.
 <line>
 So far, we've been able to contact three
 
-of the four Penny Carsons
+of the four Carsons
 
 </line>
 
@@ -562,7 +562,7 @@ listed in <name type="GPE">New Mexico</name>.
 <line>
 <name type="PERSON">Baxter</name>, there's nowhere I'd rather be
 
-than on our honeymoon cruise to "Unju<name type="PERSON">ga</name>,"
+than on our honeymoon cruise to "Unjuga,"
 
 </line>
 
@@ -628,7 +628,7 @@ I grow up in <name type="GPE">Boston</name> town
 
 because my father,
 
-w<name type="PERSON">ho</name> I never was close with,
+who I never was close with,
 
 live in <name type="GPE">Boston</name>.
 
@@ -794,7 +794,7 @@ Ooh!
 
 security still can't figure out
 
-w<name type="PERSON">ho</name>'s stealing wallets? Like... [scoffs]
+who's stealing wallets? Like... [scoffs]
 
 </line>
 
@@ -954,7 +954,7 @@ Is gangbusters a slur of some sort?
 
 
 <line>
-And with Todd watching the baby,
+And with <name type="PERSON">Todd</name> watching the baby,
 
 my work-life balance is on point.
 
@@ -1042,7 +1042,7 @@ Like, we've all been damaged,
 
 but it's good damage
 
-because it makes us more w<name type="PERSON">ho</name> we are.
+because it makes us more who we are.
 
 </line>
 
@@ -1158,7 +1158,7 @@ But you have seen them?
 
 
 <line>
-I'm <name type="PERSON">gonna</name> go ask the kitchen
+I'm gonna go ask the kitchen
 
 about your pasta.
 
@@ -1176,7 +1176,7 @@ Wait, that's the fellow
 
 from the police report,
 
-w<name type="PERSON">ho</name> found the dead girl
+who found the dead girl
 
 in the planetarium.
 
@@ -1202,7 +1202,7 @@ in the planetarium.
 <line>
 If he was also with her
 
-at the <name type="ORG">AA</name> meeting...
+at the AA meeting...
 
 </line>
 
@@ -1330,7 +1330,7 @@ I'm a baby.
 
 
 <line>
-<nonVerbComm>[Todd]</nonVerbComm> Hey, baby!
+<nonVerbComm>[<name type="PERSON">Todd</name>]</nonVerbComm> Hey, baby!
 
 </line>
 
@@ -1454,7 +1454,7 @@ about my childhood trauma.
 
 
 <line>
--W<name type="PERSON">ho</name> are you?
+-Who are you?
 
 -I'm Ivy.
 
@@ -1492,7 +1492,7 @@ so I hang out at the mall a lot.
 
 
 <line>
-Malls are f<name type="ORG">un</name>!
+Malls are fun!
 
 </line>
 
@@ -1500,15 +1500,15 @@ Malls are f<name type="ORG">un</name>!
 <line>
 Or "beast," which is slang
 
-that <name type="PERSON">yo</name>ung people like me say.
+that young people like me say.
 
 </line>
 
 
 <line>
--You're Ivy Tran, right?
+-You're Ivy <name type="PERSON">Tran</name>, right?
 
--Ivy <name type="PERSON">T</name>. That's me!
+-Ivy T. That's me!
 
 </line>
 
@@ -1522,13 +1522,13 @@ I-I need help.
 <line>
 Someone's been filching onesies
 
-by the <name type="ORG">twosies</name>
+by the twosies
 
 from the fourth floor Baby Hole,
 
 and if I don't figure out whodunnit,
 
-my manager's <name type="PERSON">gonna</name> mount my head
+my manager's gonna mount my head
 
 on the wall!
 
@@ -1548,7 +1548,7 @@ I'll take the case.
 
 
 <line>
--Oh, and, also, I'm Vietnamese-American.
+-Oh, and, also, I'm American.
 
 -[moose] Beast.
 
@@ -1556,13 +1556,13 @@ I'll take the case.
 
 
 <line>
-"Ivy Tran, Food <name type="ORG">Court</name> Detective"?
+"Ivy <name type="PERSON">Tran</name>, Food <name type="ORG">Court</name> Detective"?
 
 </line>
 
 
 <line>
-Well, I like this. It's f<name type="ORG">un</name>.
+Well, I like this. It's fun.
 
 </line>
 
@@ -1658,7 +1658,7 @@ Good things are hard.
 <line>
 I'm not writing
 
-<ital>The Mall-related Mysteries of Ivy Tran!</ital>
+<ital>The Mall-related Mysteries of Ivy <name type="PERSON">Tran</name>!</ital>
 
 </line>
 
@@ -1680,7 +1680,7 @@ I'm not writing
 
 
 <line>
-<name type="PERSON">Diane</name>, I'm <name type="PERSON">gonna</name> tell you
+<name type="PERSON">Diane</name>, I'm gonna tell you
 
 what I always tell my good friend Eileen.
 
@@ -1720,7 +1720,7 @@ I soft-pitched your book
 
 to <name type="PERSON">Brad</name> Pitt's company, Plan B,
 
-and <name type="PERSON">Craig Bierko's</name> company, Plan C.
+and <name type="PERSON">Craig Bierko</name>'s company, Plan C.
 
 </line>
 
@@ -1768,7 +1768,7 @@ sounds pretty good. <name type="GPE">Judah</name>!
 
 
 <line>
--Maybe from Maid Marian's point of view?
+-Maybe from <name type="ORG">Maid <name type="PERSON">Marian</name></name>'s point of view?
 
 -Directed by <name type="GPE">Sofia</name> Coppola?
 
@@ -1776,7 +1776,7 @@ sounds pretty good. <name type="GPE">Judah</name>!
 
 
 <line>
-I'll try <name type="PERSON">Rebecca</name> Ferguson's agent.
+I'll try Ferguson's agent.
 
 </line>
 
@@ -1808,9 +1808,9 @@ just waiting to see their story
 
 on the big screen
 
-during a brief <name type="PERSON">Oscar</name>-qualifying r<name type="ORG">un</name>
+during a brief <name type="PERSON">Oscar</name>-qualifying run
 
-in <name type="GPE">New York</name> and <name type="GPE">LA</name>.
+in <name type="GPE">New York</name> and LA.
 
 </line>
 
@@ -1824,13 +1824,13 @@ You don't think it's too sad, do you?
 <line>
 It wouldn't be better
 
-if I wrote something more f<name type="ORG">un</name>?
+if I wrote something more fun?
 
 </line>
 
 
 <line>
-<ital><name type="PERSON">Diane</name>, sad is the new f<name type="ORG">un</name>.</ital>
+<ital><name type="PERSON">Diane</name>, sad is the new fun.</ital>
 
 <ital>Besides, the sad is what makes it you!</ital>
 
@@ -1988,7 +1988,7 @@ where she's headed.
 
 
 <line>
-Yes. W<name type="PERSON">ho</name> taught you how to drive?
+Yes. Who taught you how to drive?
 
 </line>
 
@@ -2002,7 +2002,7 @@ Yes. W<name type="PERSON">ho</name> taught you how to drive?
 
 
 <line>
-And I'm Max!
+And I'm <name type="PERSON">Max</name>!
 
 </line>
 
@@ -2024,7 +2024,7 @@ and we're trying to nail down a timeline.
 
 
 <line>
-We think your <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>
+We think your <name type="PERSON">BoJack Horseman</name>
 
 may have played a part. [snorts]
 
@@ -2132,7 +2132,7 @@ Do you think <name type="PERSON">BoJack</name> got <name type="PERSON">Sarah</na
 
 
 <line>
--We should tell them about Maddy.
+-We should tell them about <name type="PERSON">Maddy</name>.
 
 -No--
 
@@ -2140,7 +2140,7 @@ Do you think <name type="PERSON">BoJack</name> got <name type="PERSON">Sarah</na
 
 
 <line>
-W<name type="PERSON">ho</name>'s Maddy?
+Who's <name type="PERSON">Maddy</name>?
 
 </line>
 
@@ -2296,7 +2296,7 @@ Okay. Okay. Write on.
 
 
 <line>
-You were <name type="PERSON">gonna</name> write today.
+You were gonna write today.
 
 </line>
 
@@ -2348,7 +2348,7 @@ You were <name type="PERSON">gonna</name> write today.
 
 
 <line>
-I'm not <name type="PERSON">gonna</name> put my face in your toilet.
+I'm not gonna put my face in your toilet.
 
 </line>
 
@@ -2432,7 +2432,7 @@ other people, Deedee.
 <line>
 -I know.
 
--W<name type="PERSON">ho</name>'s a good baby? Not you!
+-Who's a good baby? Not you!
 
 </line>
 
@@ -2446,7 +2446,7 @@ Where are my pages, <name type="PERSON">Diane</name>?
 <line>
 I need pages for my beautiful celebrities,
 
-such as Stockard <name type="PERSON">Channing</name>, Tatum O'<name type="PERSON">Neal</name>,
+such as Stockard <name type="PERSON">Channing</name>, <name type="PERSON">Tatum</name> O'<name type="PERSON">Neal</name>,
 
 </line>
 
@@ -2620,7 +2620,7 @@ I want to die!
 <line>
 Do I just have to be on drugs forever now?
 
-How am I <name type="PERSON">gonna</name> finish my book?
+How am I gonna finish my book?
 
 </line>
 
@@ -2794,7 +2794,7 @@ What did you do?
 
 
 <line>
-I sent her the <ital>Ivy Tran:</ital>
+I sent her the <ital>Ivy <name type="PERSON">Tran</name>:</ital>
 
 <ital>Food <name type="ORG">Court</name> Detective</ital> pages.
 
@@ -2864,13 +2864,13 @@ about your boring life.
 
 
 <line>
-What happened to "sad is the new f<name type="ORG">un</name>"?
+What happened to "sad is the new fun"?
 
 </line>
 
 
 <line>
-I didn't know you could write this f<name type="ORG">un</name>!
+I didn't know you could write this fun!
 
 You gotta finish this thing.
 
@@ -2910,7 +2910,7 @@ I slipped the pages to a few studios.
 <line>
 This has franchise potential.
 
-<name type="PERSON">Franch potench</name>.
+<name type="NORP">Franch</name> potench.
 
 </line>
 
@@ -2938,7 +2938,7 @@ because that's not the book I'm writing.
 
 
 <line>
-Are we <name type="PERSON">gonna</name> have
+Are we gonna have
 
 a <name type="GPE">Boston</name>-style fight now?
 
@@ -2966,7 +2966,7 @@ Why are you so sad-core?
 <line>
 -I don't know.
 
--Just be f<name type="ORG">un</name> and popular like me.
+-Just be fun and popular like me.
 
 </line>
 
@@ -3110,7 +3110,7 @@ this'll be the height of their career.
 <line>
 <nonVerbComm>[<name type="PERSON">BoJack</name>]</nonVerbComm> Anyway, first up is a scene
 
-from Sam <name type="NORP">German</name>-Shepard's "Real <name type="GPE">America</name>."
+from Sam Shepard's "Real <name type="GPE">America</name>."
 
 </line>
 
@@ -3210,7 +3210,7 @@ just got trapped in a leap year!
 
 
 <line>
--How's he <name type="PERSON">gonna</name> wriggle outta this one?
+-How's he gonna wriggle outta this one?
 
 -In a minute, honey!
 
@@ -3274,7 +3274,7 @@ to feel bad about forever.
 
 
 <line>
-You don't know what's <name type="PERSON">gonna</name> happen
+You don't know what's gonna happen
 
 with the story once it's out there.
 
@@ -3398,7 +3398,7 @@ Thank you. Thank you so much.
 
 
 <line>
-Come on, Todd, let's go.
+Come on, <name type="PERSON">Todd</name>, let's go.
 
 </line>
 
@@ -3464,7 +3464,7 @@ I think you do, though.
 <line>
 Because when I was reading it,
 
-I could tell you were having f<name type="ORG">un</name>.
+I could tell you were having fun.
 
 </line>
 
@@ -3472,7 +3472,7 @@ I could tell you were having f<name type="ORG">un</name>.
 <line>
 Yeah, but I'm not writing a book
 
-to have f<name type="ORG">un</name>.
+to have fun.
 
 </line>
 
@@ -3556,7 +3556,7 @@ I don't know, <name type="PERSON">Diane</name>.
 <line>
 All I know is that this book
 
-about the girl detective is f<name type="ORG">un</name>.
+about the girl detective is fun.
 
 </line>
 
@@ -3728,7 +3728,7 @@ I don't know what you're talking about.
 <line>
 <ital>♪ It's been so long</ital>
 
-<ital>I don't think I'm <name type="PERSON">gonna</name> last ♪</ital>
+<ital>I don't think I'm gonna last ♪</ital>
 
 </line>
 

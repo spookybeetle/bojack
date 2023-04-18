@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>The Judge - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>The Judge - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -38,13 +38,13 @@ of rejection all over again.
 
 
 <line>
-What a f<name type="ORG">un</name> adventure this all is.
+What a fun adventure this all is.
 
 </line>
 
 
 <line>
-You know what <ital>is </ital>f<name type="ORG">un</name>? You coming with me
+You know what <ital>is </ital>fun? You coming with me
 
 to my first day on my new show.
 
@@ -52,11 +52,11 @@ to my first day on my new show.
 
 
 <line>
-"<name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>
+"<name type="PERSON">BoJack Horseman</name>
 
-in <ital>F.H.B.A. Los Angeles,</ital>
+in <ital>F.H.B.A. <name type="GPE">Los</name> Angeles,</ital>
 
-starring <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>
+starring <name type="PERSON">BoJack Horseman</name>
 
 as 'the Judge.'"
 
@@ -186,7 +186,7 @@ Actually, that's so his job of him.
 
 
 <line>
--Hey, <name type="GPE">PA</name>, whose name I already forgot.
+-Hey, PA, whose name I already forgot.
 
 -It's <name type="PERSON">Miles</name>, and I'm an intern.
 
@@ -246,7 +246,7 @@ Note to director.
 <line>
 <nonVerbComm>[announcer]</nonVerbComm>
 
-<ital>Previously on </ital>F.H.B.A. Los Angeles...
+<ital>Previously on </ital>F.H.B.A. <name type="GPE">Los</name> Angeles...
 
 </line>
 
@@ -288,7 +288,7 @@ I'm here to win and/or cure cancer.
 
 
 <line>
-<ital>and face new judge, <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>.</ital>
+<ital>and face new judge, <name type="PERSON">BoJack Horseman</name>.</ital>
 
 </line>
 
@@ -308,9 +308,9 @@ I'm here to win and/or cure cancer.
 
 
 <line>
-<ital>This is </ital>Felicity Huffman's
+<ital>This is </ital>Felicity <name type="PERSON">Huffman</name>'s
 
-Booty <name type="ORG">Academy</name>: Los Angeles!
+Booty <name type="ORG">Academy</name>: <name type="GPE">Los</name> Angeles!
 
 </line>
 
@@ -338,9 +338,9 @@ On <ital>Booty <name type="ORG">Academy</name>,</ital>
 
 we're here to find out
 
-w<name type="PERSON">ho</name>'s got the right behind
+who's got the right behind
 
-and w<name type="PERSON">ho</name>'s going to be left behind.
+and who's going to be left behind.
 
 </line>
 
@@ -376,7 +376,7 @@ You can stay another week.
 
 
 <line>
-Tasha, our 'anaconda don't want none."
+<name type="PERSON">Tasha</name>, our 'anaconda don't want none."
 
 </line>
 
@@ -424,13 +424,13 @@ This is bullshit!
 <line>
 -I know, remind me?
 
--[Tasha] ...my publicist!
+-[<name type="PERSON">Tasha</name>] ...my publicist!
 
 </line>
 
 
 <line>
-<ital>Felicity Huffman's Booty <name type="ORG">Academy</name>.</ital>
+<ital>Felicity <name type="PERSON">Huffman</name>'s Booty <name type="ORG">Academy</name>.</ital>
 
 </line>
 
@@ -442,7 +442,7 @@ It was supposed to be
 
 
 <line>
-<ital>Felicity Huffman's</ital>
+<ital>Felicity <name type="PERSON">Huffman</name>'s</ital>
 
 <ital>Future Leaders of <name type="GPE">America</name>,</ital>
 
@@ -454,7 +454,7 @@ by the network.
 
 
 <line>
-So are we judging w<name type="PERSON">ho</name> has the best booty?
+So are we judging who has the best booty?
 
 </line>
 
@@ -502,7 +502,7 @@ Hey, can we go home now?
 
 
 <line>
-Being around all these skinny <name type="GPE">L.A.</name> ladies
+Being around all these skinny L.A. ladies
 
 makes me feel like a blob.
 
@@ -624,7 +624,7 @@ Are you allowed to just leave the set?
 
 
 <line>
-What are they <name type="PERSON">gonna</name> do? Dock my pay?
+What are they gonna do? Dock my pay?
 
 </line>
 
@@ -668,7 +668,7 @@ the maze, you get some sugar water.
 
 
 <line>
-And you're <name type="PERSON">gonna</name> love
+And you're gonna love
 
 the Feast of Saint Squeaky.
 
@@ -742,7 +742,7 @@ I'm sure I'm going to love them.
 
 
 <line>
-And they're <name type="PERSON">gonna</name> love me.
+And they're gonna love me.
 
 I'm Princess Carolyn!
 
@@ -760,7 +760,7 @@ But let's wait
 
 until after they love you
 
-to tell them about, you know, <name type="PERSON">Phil</name><name type="PERSON">bert</name>.
+to tell them about, you know, Philbert.
 
 </line>
 
@@ -778,7 +778,7 @@ Don't worry. She's on her phone.
 
 
 <line>
-Unless <name type="PERSON">Ralph</name> and Princess Carolyn's
+Unless Carolyn's
 
 secret baby starts to trend,
 
@@ -856,7 +856,7 @@ the perfect new campaign headquarters.
 
 
 <line>
-I'm <name type="PERSON">gonna</name> sign the lease now,
+I'm gonna sign the lease now,
 
 unless you think of a reason
 
@@ -914,7 +914,7 @@ It's about hope, and freedom,
 
 and powerful lobbyists
 
-w<name type="PERSON">ho</name> pay me to elect
+who pay me to elect
 
 a governor I can control
 
@@ -964,7 +964,7 @@ You idiot. I will end you!
 
 
 <line>
--Bye, Cruella!
+-Bye, <name type="PERSON">Cruella</name>!
 
 -[<name type="PERSON">Katrina</name> screams]
 
@@ -1018,7 +1018,7 @@ And this is my wife, Missy.
 <line>
 And the boys,
 
-Tweeds, <name type="GPE">Nantucket</name>, and Loophole!
+<name type="PERSON">Tweeds</name>, <name type="GPE">Nantucket</name>, and Loophole!
 
 </line>
 
@@ -1200,7 +1200,7 @@ obviously, there's no reason
 
 you will not want to ride
 
-on our family's really f<name type="ORG">un</name> rollercoaster.
+on our family's really fun rollercoaster.
 
 </line>
 
@@ -1276,9 +1276,9 @@ My message is simple.
 <line>
 If you want to vote Peanutbutter,
 
-vote <name type="ORG">Coodchuck-Berkowitz</name>
+vote Coodchuck-Berkowitz
 
-because a vote for <name type="ORG">Coodchuck-Berkowitz</name>
+because a vote for Coodchuck-Berkowitz
 
 is a vote for Peanutbutter.
 
@@ -1294,13 +1294,13 @@ Uh--
 <line>
 Since Peanutbutter
 
-likes <name type="ORG">Coodchuck-Berkowitz</name>.
+likes Coodchuck-Berkowitz.
 
 </line>
 
 
 <line>
-So if you like <name type="ORG">Coodchuck-Berkowitz</name>,
+So if you like Coodchuck-Berkowitz,
 
 vote like Mr. Peanutbutter...
 
@@ -1310,7 +1310,7 @@ vote like Mr. Peanutbutter...
 <line>
 -Excuse me--
 
--...for <name type="PERSON">Woodchuck</name> <name type="ORG">Coodchuck-Berkowitz</name>.
+-...for <name type="PERSON">Woodchuck</name> Coodchuck-Berkowitz.
 
 </line>
 
@@ -1438,7 +1438,7 @@ the state will be in good--
 
 
 <line>
--You were <name type="PERSON">gonna</name> say "hands," weren't you?
+-You were gonna say "hands," weren't you?
 
 -Ugh.
 
@@ -1554,7 +1554,7 @@ Oh, uh...
 
 well, <name type="PERSON">Miles</name> actually took me
 
-to check out UC<name type="GPE">LA</name>.
+to check out UCLA.
 
 </line>
 
@@ -1582,7 +1582,7 @@ and what I've been doing. See ya later!
 <line>
 Hold up.
 
-Did you and that <name type="GPE">PA</name> hook up last night?
+Did you and that PA hook up last night?
 
 </line>
 
@@ -1608,7 +1608,7 @@ Did you and that <name type="GPE">PA</name> hook up last night?
 
 
 <line>
-<name type="PERSON">Holly</name>hock, you are never <name type="PERSON">gonna</name> hear
+Hollyhock, you are never gonna hear
 
 from that guy again.
 
@@ -1638,7 +1638,7 @@ Should we plan the wedding for you
 
 and teenage-boy-you-slept-with
 
-w<name type="PERSON">ho</name>-said-he-would-definitely-text-you"?
+who-said-he-would-definitely-text-you"?
 
 </line>
 
@@ -1668,7 +1668,7 @@ in telling you this,
 <line>
 -Ooh! <name type="PERSON">BoJack</name>--
 
--<name type="PERSON">Holly</name>hock, it is very rude to interrupt.
+-Hollyhock, it is very rude to interrupt.
 
 </line>
 
@@ -1760,7 +1760,7 @@ Nope, can't. Impossible.
 
 
 <line>
-Anyone w<name type="PERSON">ho</name> says
+Anyone who says
 
 they did a pushup is lying.
 
@@ -1838,9 +1838,9 @@ Forty-six, 47...
 
 
 <line>
-We have gathered in Todd's new apartment
+We have gathered in <name type="PERSON">Todd</name>'s new apartment
 
-to discuss the future of <name type="ORG">PB</name> Livin'.
+to discuss the future of PB Livin'.
 
 </line>
 
@@ -1848,7 +1848,7 @@ to discuss the future of <name type="ORG">PB</name> Livin'.
 <line>
 You told me this was an intervention
 
-to get Todd to stop coming up
+to get <name type="PERSON">Todd</name> to stop coming up
 
 with awful ideas.
 
@@ -1866,13 +1866,13 @@ to get you to show up.
 <line>
 -What?
 
--It was Todd's idea.
+-It was <name type="PERSON">Todd</name>'s idea.
 
 </line>
 
 
 <line>
-What else you got, Todd?
+What else you got, <name type="PERSON">Todd</name>?
 
 </line>
 
@@ -1980,7 +1980,7 @@ where all the dentists were clowns?
 <line>
 Don't they?
 
-W<name type="PERSON">ho</name> else would clowns be for?
+Who else would clowns be for?
 
 </line>
 
@@ -2028,7 +2028,7 @@ of <name type="GPE">America</name>'s children, starting yesterday!
 
 
 <line>
-As someone w<name type="PERSON">ho</name> <ital>does </ital>have children,
+As someone who <ital>does </ital>have children,
 
 I have to say,
 
@@ -2110,7 +2110,7 @@ And without missing a beat, I say,
 <line>
 "Well, when life gives you lemons,
 
-make <name type="PERSON">an Arnold Palmer</name>."
+make an <name type="PERSON">Arnold Palmer</name>."
 
 </line>
 
@@ -2216,7 +2216,7 @@ won't need any cat ears to look evil.
 <line>
 <ital>♪ I'm a stinky cat</ital>
 
-<ital>W<name type="PERSON">ho</name> never takes a bath ♪</ital>
+<ital>Who never takes a bath ♪</ital>
 
 </line>
 
@@ -2306,7 +2306,7 @@ It's not about every cat.
 <line>
 -Death to all cats!
 
--<name type="PERSON">Whoo-hoo</name>!
+-Whoo-hoo!
 
 </line>
 
@@ -2342,7 +2342,7 @@ Oh-hh...
 <line>
 -[yelps] Agh!
 
--Hello, <name type="PERSON">Holly</name>hock.
+-Hello, Hollyhock.
 
 </line>
 
@@ -2390,7 +2390,7 @@ for five hours waiting to do this.
 
 
 <line>
--Hello, <name type="PERSON">Holly</name>hock.
+-Hello, Hollyhock.
 
 -What are you trying to do?
 
@@ -2406,7 +2406,7 @@ with a showman's flair for the dramatic.
 
 
 <line>
-I texted you I was <name type="PERSON">gonna</name> be home late.
+I texted you I was gonna be home late.
 
 </line>
 
@@ -2452,7 +2452,7 @@ We like each other.
 
 
 <line>
-Yeah, now. But come on, <name type="PERSON">Holly</name>hock.
+Yeah, now. But come on, Hollyhock.
 
 </line>
 
@@ -2474,7 +2474,7 @@ in skimpy outfits all day.
 
 
 <line>
-You think he's <name type="PERSON">gonna</name> want--
+You think he's gonna want--
 
 </line>
 
@@ -2502,7 +2502,7 @@ I'm not attractive enough for him?
 <line>
 Well, you're the one
 
-w<name type="PERSON">ho</name> said you were a blob.
+who said you were a blob.
 
 </line>
 
@@ -2544,7 +2544,7 @@ I just-- [sighs]
 
 
 <line>
-I just think <name type="GPE">L.A.</name> is a superficial town
+I just think L.A. is a superficial town
 
 and you need to be careful.
 
@@ -2566,7 +2566,7 @@ that I want to spend my time with.
 
 
 <line>
-<name type="PERSON">Holly</name>hock, wait. Wait. Wait!
+Hollyhock, wait. Wait. Wait!
 
 </line>
 
@@ -2620,7 +2620,7 @@ They're my family.
 
 
 <line>
--And what are me and <name type="PERSON">Phil</name><name type="PERSON">bert</name>?
+-And what are me and Philbert?
 
 -[sighs] Oh...
 
@@ -2656,7 +2656,7 @@ don't ever call a woman a blob?
 <line>
 Never! What if I meet a woman
 
-whose name is Barbara Lob?
+whose name is <name type="PERSON">Barbara</name> Lob?
 
 </line>
 
@@ -2672,7 +2672,7 @@ Maybe instead of figuring out
 
 the woman blob workaround,
 
-you should just tell <name type="PERSON">Holly</name>hock
+you should just tell Hollyhock
 
 you're sorry.
 
@@ -2720,7 +2720,7 @@ to do on myself. Everyone knows that.
 <line>
 But the important thing right now
 
-is how I can fix things with <name type="PERSON">Holly</name>hock.
+is how I can fix things with Hollyhock.
 
 </line>
 
@@ -2800,7 +2800,7 @@ I would do anything, and I mean, anything.
 
 
 <line>
--So I did it. I had sex with the <name type="GPE">PA</name>.
+-So I did it. I had sex with the PA.
 
 -You had sex with him?
 
@@ -2814,7 +2814,7 @@ That's what you wanted, right?
 
 
 <line>
-I just said "seduce" the <name type="GPE">PA</name>.
+I just said "seduce" the PA.
 
 </line>
 
@@ -2886,9 +2886,9 @@ Tell <name type="PERSON">Miles</name> what you told me.
 
 
 <line>
--I had sex with the <name type="GPE">PA</name>.
+-I had sex with the PA.
 
--What <name type="GPE">PA</name>?
+-What PA?
 
 </line>
 
@@ -2908,9 +2908,9 @@ I think his name was "Eggberg"?
 
 
 <line>
--You said "<name type="GPE">PA</name>."
+-You said "PA."
 
--Did you think I was a <name type="GPE">PA</name>? Nice!
+-Did you think I was a PA? Nice!
 
 </line>
 
@@ -2932,7 +2932,7 @@ You told a contestant
 
 you would advance her to the final round
 
-if she slept with a <name type="GPE">PA</name>?
+if she slept with a PA?
 
 </line>
 
@@ -2962,7 +2962,7 @@ I cannot lie. You disgust me.
 
 
 <line>
-This was all a big mi<name type="PERSON">s<name type="ORG">un</name></name>derstanding.
+This was all a big misunderstanding.
 
 </line>
 
@@ -3040,7 +3040,7 @@ and I think it's a really fresh area.
 <line>
 It's about a production intern
 
-w<name type="PERSON">ho</name> wants to be a writer.
+who wants to be a writer.
 
 </line>
 
@@ -3066,7 +3066,7 @@ or a manager you could give it to,
 
 that would be awesome,
 
-and I would never talk to <name type="PERSON">Holly</name>hock again.
+and I would never talk to Hollyhock again.
 
 </line>
 
@@ -3110,7 +3110,7 @@ at making people feel better.
 
 
 <line>
-Are you <name type="PERSON">gonna</name> tell <name type="PERSON">Holly</name>hock?
+Are you gonna tell Hollyhock?
 
 </line>
 
@@ -3126,7 +3126,7 @@ She'll figure it out eventually.
 <line>
 But for now, if she believes someone
 
-can love her for w<name type="PERSON">ho</name> she really is,
+can love her for who she really is,
 
 then why would I take that
 
@@ -3152,7 +3152,7 @@ one of these massages.
 
 
 <line>
--[<name type="PERSON">Mimi</name>] Goodbye, darling.
+-[Goodbye, darling.
 
 -[<name type="PERSON">Sissy</name>] It was good seeing you.
 
@@ -3160,7 +3160,7 @@ one of these massages.
 
 
 <line>
--It was so much f<name type="ORG">un</name> seeing you both.
+-It was so much fun seeing you both.
 
 -Thank you for hosting us.
 
@@ -3214,7 +3214,7 @@ a good Feast of Saint Squeaky.
 <line>
 Well, for your information,
 
-there's not <name type="PERSON">gonna</name> <ital>be </ital>a "next one,"
+there's not gonna <ital>be </ital>a "next one,"
 
 because...
 
@@ -3306,13 +3306,13 @@ Doc, if this is what's incisor,
 <line>
 I'd hate to see what's outsides 'er.
 
-<name type="PERSON">Hyuk</name>, <name type="PERSON">hyuk</name>, <name type="PERSON">hyuk</name>!
+<name type="PERSON">Hyuk</name>, hyuk, hyuk!
 
 </line>
 
 
 <line>
--Please try to focus, Dr. <name type="PERSON">Boing-Boing</name>.
+-Please try to focus, Dr. Boing-Boing.
 
 -[squirts]
 
@@ -3326,7 +3326,7 @@ Ugh!
 
 
 <line>
-<nonVerbComm>[Tom Jumbo-Grumbo]</nonVerbComm> <ital>With former rival</ital>
+<nonVerbComm>[<name type="PERSON">Tom</name> Jumbo-Grumbo]</nonVerbComm> <ital>With former rival</ital>
 
 <ital>Mr. Peanutbutter's support,</ital>
 
@@ -3336,7 +3336,7 @@ Ugh!
 <line>
 <ital>just yesterday,</ital>
 
-<ital><name type="PERSON">Woodchuck</name> <name type="ORG">Coodchuck-Berkowitz</name></ital>
+<ital><name type="PERSON">Woodchuck</name> Coodchuck-Berkowitz</ital>
 
 </line>
 
@@ -3380,7 +3380,7 @@ Ugh!
 <line>
 <ital>I'm tired of these politicians</ital>
 
-<ital>w<name type="PERSON">ho</name> are all talk.</ital>
+<ital>who are all talk.</ital>
 
 </line>
 
@@ -3388,13 +3388,13 @@ Ugh!
 <line>
 <ital><name type="GPE">California</name> needs a leader</ital>
 
-<ital>w<name type="PERSON">ho</name> excels in both comedy and drama</ital>
+<ital>who excels in both comedy and drama</ital>
 
 </line>
 
 
 <line>
-<ital>and w<name type="PERSON">ho</name> is beautiful</ital>
+<ital>and who is beautiful</ital>
 
 <ital>in an approachable girl-next-door way,</ital>
 
@@ -3402,7 +3402,7 @@ Ugh!
 
 
 <line>
-<ital>and w<name type="PERSON">ho</name> will get all the criminals</ital>
+<ital>and who will get all the criminals</ital>
 
 <ital>off the street</ital>
 
@@ -3450,7 +3450,7 @@ Oh-hh! <name type="PERSON">Katrina</name>.
 <line>
 -Gadzooks!
 
--Not now, Professor Flim-Flam!
+-Not now, Professor <name type="PERSON">Flim</name>-Flam!
 
 </line>
 
@@ -3512,7 +3512,7 @@ this is the right thing for us?
 <line>
 If I jump right back into politics,
 
-that's not <name type="PERSON">gonna</name> give me a lot of time
+that's not gonna give me a lot of time
 
 to focus on our burgeoning
 
@@ -3576,7 +3576,7 @@ aren't they?
 <line>
 -[yelps]
 
--I'm Dr. <name type="PERSON">Boing-Boing</name>!
+-I'm Dr. Boing-Boing!
 
 </line>
 
@@ -3680,7 +3680,7 @@ although it is also true in a sexual way.
 
 
 <line>
-Quick! Get in Dr. <name type="PERSON">Boing-Boing</name>'s
+Quick! Get in Dr. Boing-Boing's
 
 dream-powered smile-mobile!
 
@@ -3778,9 +3778,9 @@ I've been trying to distract myself.
 
 
 <line>
-Forget him. You're <name type="PERSON">gonna</name> meet lots of guys
+Forget him. You're gonna meet lots of guys
 
-w<name type="PERSON">ho</name> will fall madly in love with you.
+who will fall madly in love with you.
 
 </line>
 
@@ -3800,11 +3800,11 @@ to know you more is to love you less?
 
 
 <line>
-<name type="PERSON">Holly</name>hock, you are an amazing woman
+Hollyhock, you are an amazing woman
 
 and you should never settle for someone
 
-w<name type="PERSON">ho</name> only loves the idea of you.
+who only loves the idea of you.
 
 </line>
 
@@ -3858,7 +3858,7 @@ That'll take your mind off <name type="PERSON">Miles</name>.
 
 
 <line>
-Plus, I'll let you drive the Tesla!
+Plus, I'll let you drive the <name type="ORG">Tesla</name>!
 
 </line>
 
@@ -3926,7 +3926,7 @@ Let's get a pizza.
 <line>
 <ital>♪ It's been so long</ital>
 
-<ital>I don't think I'm <name type="PERSON">gonna</name> last ♪</ital>
+<ital>I don't think I'm gonna last ♪</ital>
 
 </line>
 

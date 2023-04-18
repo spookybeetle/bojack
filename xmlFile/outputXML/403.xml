@@ -1,7 +1,7 @@
 
 <script>
 
-  <title><name type="PERSON">Hooray</name>! Todd Episode! - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title><name type="PERSON">Hooray</name>! <name type="PERSON">Todd</name> Episode! - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -92,7 +92,7 @@ he is a foreign prince.
 
 
 <line>
--His name is Todd <name type="PERSON">Chavez</name>.
+-His name is <name type="PERSON">Todd</name> <name type="PERSON">Chavez</name>.
 
 -[gasping]
 
@@ -148,7 +148,7 @@ from drowning in a shipwreck,
 
 
 <line>
-<ital>Todd <name type="PERSON">Chavez</name> explained that circumcision</ital>
+<ital><name type="PERSON">Todd</name> <name type="PERSON">Chavez</name> explained that circumcision</ital>
 
 <ital>has somewhat fallen out of vogue.</ital>
 
@@ -198,7 +198,7 @@ in his triangle,
 
 
 <line>
-Todd <name type="PERSON">Chavez</name> took over
+<name type="PERSON">Todd</name> <name type="PERSON">Chavez</name> took over
 
 because we needed him.
 
@@ -294,7 +294,7 @@ What you guys talking about?
 
 
 <line>
-<nonVerbComm>[<name type="PERSON">Katrina</name>]</nonVerbComm> So then at 11:00 you're <name type="PERSON">gonna</name> be
+<nonVerbComm>[<name type="PERSON">Katrina</name>]</nonVerbComm> So then at 11:00 you're gonna be
 
 giving a policy speech on fracking.
 
@@ -330,7 +330,7 @@ Cheese? Yes, please!
 
 
 <line>
-Todd, don't distract Mr. Peanutbutter
+Peanutbutter
 
 with your weird pocket cheeses.
 
@@ -422,7 +422,7 @@ Gotta get to work. Love you!
 <line>
 if you come out in support of fracking
 
-I'm <name type="PERSON">gonna</name> be super upset. Bye!
+I'm gonna be super upset. Bye!
 
 </line>
 
@@ -446,7 +446,7 @@ you seem sincere and emphatic.
 <line>
 Ohh. Are you a fan of charming
 
-but inessential Will Smith movies?
+but inessential <name type="PERSON">Will Smith</name> movies?
 
 </line>
 
@@ -508,7 +508,7 @@ I might have left my glasses there.
 
 
 <line>
-Todd, you never do anything.
+<name type="PERSON">Todd</name>, you never do anything.
 
 </line>
 
@@ -516,7 +516,7 @@ Todd, you never do anything.
 <line>
 Why don't you take the campaign bus
 
-over to <name type="ORG">VIM</name>
+over to VIM
 
 </line>
 
@@ -570,7 +570,7 @@ of <name type="PERSON">Cornelius Vanderbilt</name>.
 
 
 <line>
-It all started when a <name type="PERSON">yo</name>ung Todd--
+It all started when a young <name type="PERSON">Todd</name>--
 
 [grunts] I don't have time for this!
 
@@ -590,7 +590,7 @@ I've got a job to do.
 
 
 <line>
--[Princess Carolyn] It's Todd!
+-[Princess Carolyn] It's <name type="PERSON">Todd</name>!
 
 -It's me!
 
@@ -624,15 +624,15 @@ but she's got a new action movie
 
 that's supposed to change her image:
 
-<ital>Ms. Taken.</ital>
+<ital>Ms. <name type="PERSON">Taken</name>.</ital>
 
 </line>
 
 
 <line>
-You know Mr. Taken
+You know Mr. <name type="PERSON">Taken</name>
 
-from the <ital>Taken </ital>movies?
+from the <ital><name type="PERSON">Taken</name> </ital>movies?
 
 </line>
 
@@ -808,13 +808,13 @@ to sign Mr. Peanutbutter's name,
 <line>
 All right, Middle-Aged Yeller,
 
-here's what you're <name type="PERSON">gonna</name> do.
+here's what you're gonna do.
 
 </line>
 
 
 <line>
-You're <name type="PERSON">gonna</name> give
+You're gonna give
 
 an impassioned speech on fracking
 
@@ -920,13 +920,13 @@ Oh, thank you so much.
 
 
 <line>
-<nonVerbComm>[gasps]</nonVerbComm> And down goes Todd.
+<nonVerbComm>[gasps]</nonVerbComm> And down goes <name type="PERSON">Todd</name>.
 
 </line>
 
 
 <line>
-And up comes Todd!
+And up comes <name type="PERSON">Todd</name>!
 
 </line>
 
@@ -952,7 +952,7 @@ Calm down, I'm not going to hurt you.
 
 
 <line>
-My name is <name type="PERSON">Holly</name>hock Manheim-Mannheim
+My name is Hollyhock <name type="GPE">Manheim</name>-<name type="GPE">Mannheim</name>
 
 Guerrero-Robinson-Zilberschlag
 
@@ -960,7 +960,7 @@ Guerrero-Robinson-Zilberschlag
 
 
 <line>
--<name type="GPE">H<name type="PERSON">s<name type="ORG">un</name></name>g</name>-Fonzerelli-McQuack.
+-Fonzerelli-McQuack.
 
 -Wait, wait, wait.
 
@@ -970,7 +970,7 @@ Guerrero-Robinson-Zilberschlag
 <line>
 -What's your first name?
 
--<name type="PERSON">Holly</name>hock.
+-Hollyhock.
 
 </line>
 
@@ -982,9 +982,9 @@ And your last name?
 
 
 <line>
-Manheim-Mannheim-Guerrero-Robinson- 
+<name type="GPE">Manheim</name>-<name type="GPE">Mannheim</name>-Guerrero-Robinson- 
 
-Zilberschlag-<name type="GPE">H<name type="PERSON">s<name type="ORG">un</name></name>g</name>-Fonzerelli-McQuack.
+Zilberschlag-Fonzerelli-McQuack.
 
 </line>
 
@@ -1034,7 +1034,7 @@ polyamorous relationship.
 
 people always said I looked like
 
-<name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>.
+<name type="PERSON">BoJack Horseman</name>.
 
 </line>
 
@@ -1064,7 +1064,7 @@ I guess it's possible.
 <line>
 <name type="PERSON">BoJack</name> used to say his penis
 
-is like <name type="PERSON">s<name type="ORG">un</name></name>-dried tomatoes:
+is like sun-dried tomatoes:
 
 back in the '90s it got into everything.
 
@@ -1072,7 +1072,7 @@ back in the '90s it got into everything.
 
 
 <line>
-I came to <name type="GPE">L.A.</name>
+I came to L.A.
 
 to get to the bottom of things.
 
@@ -1158,7 +1158,7 @@ like a piece of hair or something.
 <line>
 -Whoa!
 
--Sorry again. It's just so f<name type="ORG">un</name>.
+-Sorry again. It's just so fun.
 
 </line>
 
@@ -1168,13 +1168,13 @@ Okay, there might be some hairs
 
 in the shower drain,
 
-but hard to know w<name type="PERSON">ho</name> they belong to.
+but hard to know who they belong to.
 
 </line>
 
 
 <line>
-Everyone w<name type="PERSON">ho</name> has sex with <name type="PERSON">BoJack</name>
+Everyone who has sex with <name type="PERSON">BoJack</name>
 
 usually takes a <ital>long </ital>shower afterwards.
 
@@ -1212,7 +1212,7 @@ Oh, no, <name type="PERSON">BoJack</name>.
 
 
 <line>
-Blow? W<name type="PERSON">ho</name>'s got blow?
+Blow? Who's got blow?
 
 Save some for <name type="PERSON">BoJack</name>. [groans] Huh?
 
@@ -1220,7 +1220,7 @@ Save some for <name type="PERSON">BoJack</name>. [groans] Huh?
 
 
 <line>
-Wait, Todd? Oh, shit. Are you <name type="PERSON">gonna</name>
+Wait, <name type="PERSON">Todd</name>? Oh, shit. Are you gonna
 
 yell at me? Can I have the blow first?
 
@@ -1242,7 +1242,7 @@ And what is this?
 
 
 <line>
-I'm <name type="PERSON">Holly</name>hock Manheim-Mannheim- 
+I'm Hollyhock <name type="GPE">Manheim</name>-<name type="GPE">Mannheim</name>- 
 
 Guerrero-Robinson-
 
@@ -1250,7 +1250,7 @@ Guerrero-Robinson-
 
 
 <line>
-Zilberschlag-<name type="GPE">H<name type="PERSON">s<name type="ORG">un</name></name>g</name>-Fonzerelli-McQuack.
+Zilberschlag-Fonzerelli-McQuack.
 
 </line>
 
@@ -1258,13 +1258,13 @@ Zilberschlag-<name type="GPE">H<name type="PERSON">s<name type="ORG">un</name></
 <line>
 Of the <name type="GPE">New Haven</name> 
 
-Manheim-Mannheim-Guerrero-Robinson-
+<name type="GPE">Manheim</name>-<name type="GPE">Mannheim</name>-Guerrero-Robinson-
 
 </line>
 
 
 <line>
-Zilberschlag-<name type="GPE">H<name type="PERSON">s<name type="ORG">un</name></name>g</name>-Fonzerelli-McQuacks?
+Zilberschlag-Fonzerelli-McQuacks?
 
 </line>
 
@@ -1278,7 +1278,7 @@ heard of your family and/or law firm.
 
 
 <line>
-That was also a joke. Todd, w<name type="PERSON">ho</name> is
+That was also a joke. <name type="PERSON">Todd</name>, who is
 
 this tough crowd you brought to my home?
 
@@ -1320,7 +1320,7 @@ You got me a maid? Thank you.
 
 
 <line>
-Here I thought <name type="PERSON">Channing</name> Tatum
+Here I thought <name type="PERSON">Channing</name> <name type="PERSON">Tatum</name>
 
 was a good neighbor
 
@@ -1388,17 +1388,17 @@ Can you tell me if this is a match?
 
 
 <line>
--A match with w<name type="PERSON">ho</name>?
+-A match with who?
 
--<name type="PERSON">Holly</name>hock.
+-Hollyhock.
 
 </line>
 
 
 <line>
-Manheim-Mannheim-Gorilla-Rub-a-Dub-Dub
+<name type="GPE">Manheim</name>-<name type="GPE">Mannheim</name>-Gorilla-Rub-a-Dub-Dub
 
-Zoolander-Hallelujah-something-Mc<name type="PERSON">Donald</name>'s?
+Zoolander-Hallelujah-something-McDonald's?
 
 </line>
 
@@ -1500,7 +1500,7 @@ barbaric adventure, I can't stop you.
 
 
 <line>
-There's a <name type="ORG">Pony Roma's</name>
+There's a <name type="ORG">Pony Roma</name>'s
 
 at Universal CityWalk.
 
@@ -1522,7 +1522,7 @@ I can't do this.
 
 
 <line>
-Todd, I can never be
+<name type="PERSON">Todd</name>, I can never be
 
 your dirty peasant girl, I'm sorry.
 
@@ -1572,7 +1572,7 @@ Famous father? Hair? Sample?
 
 
 <line>
-I gotta get back to <name type="PERSON">Holly</name>hock.
+I gotta get back to Hollyhock.
 
 </line>
 
@@ -1586,7 +1586,7 @@ I gotta get back to <name type="PERSON">Holly</name>hock.
 <line>
 -[door opens]
 
--<name type="PERSON">Holly</name>hock, I need to get--
+-Hollyhock, I need to get--
 
 </line>
 
@@ -1646,7 +1646,7 @@ Look, I didn't come all this way
 
 to not find out
 
-w<name type="PERSON">ho</name> my biological father is.
+who my biological father is.
 
 </line>
 
@@ -1730,7 +1730,7 @@ full of hair in my bag.
 
 
 <line>
--Todd, can I see you for a minute?
+-<name type="PERSON">Todd</name>, can I see you for a minute?
 
 -[grunts]
 
@@ -1820,13 +1820,13 @@ I'm cleaning out his DVR. Get it?
 <line>
 <nonVerbComm>[ringtone]</nonVerbComm>
 
-<ital><music>♪ To-To-To-Todd! ♪</music></ital>
+<ital><music>♪ To-To-To-<name type="PERSON">Todd</name>! ♪</music></ital>
 
 </line>
 
 
 <line>
-Todd's phone, home of the Todd.
+<name type="PERSON">Todd</name>'s phone, home of the <name type="PERSON">Todd</name>.
 
 </line>
 
@@ -1986,7 +1986,7 @@ Yeah, do that.
 
 
 <line>
-<name type="PERSON">Holly</name>hock, I gotta r<name type="ORG">un</name>.
+Hollyhock, I gotta run.
 
 </line>
 
@@ -2022,7 +2022,7 @@ The time is now! Don't miss out!
 
 
 <line>
-Okay, Todd, that's some good dancing,
+Okay, <name type="PERSON">Todd</name>, that's some good dancing,
 
 but I've got work to do
 
@@ -2042,7 +2042,7 @@ and you've been dancing for...
 
 
 <line>
-I call it the... come on, stall, Todd.
+I call it the... come on, stall, <name type="PERSON">Todd</name>.
 
 </line>
 
@@ -2126,13 +2126,13 @@ Buh-buh-buh-bye!
 <line>
 <nonVerbComm>[ringtone]</nonVerbComm>
 
-<ital><music>♪ To-To-To-Todd! ♪</music></ital>
+<ital><music>♪ To-To-To-<name type="PERSON">Todd</name>! ♪</music></ital>
 
 </line>
 
 
 <line>
-Todd's phone.
+<name type="PERSON">Todd</name>'s phone.
 
 I know when that Toddline bling.
 
@@ -2190,7 +2190,7 @@ Okay, plan B.
 
 
 <line>
-She's <name type="PERSON">gonna</name> be at the <name type="ORG">Sharc Jacobs</name>
+She's gonna be at the <name type="ORG">Sharc Jacobs</name>
 
 fashion show in 30 minutes.
 
@@ -2232,9 +2232,9 @@ about important stuff
 
 when all they want to do is read articles
 
-about w<name type="PERSON">ho</name> got slayed
+about who got slayed
 
-and w<name type="PERSON">ho</name> owned at the VMAs?
+and who owned at the VMAs?
 
 </line>
 
@@ -2306,7 +2306,7 @@ That beloved famous person, uh...
 
 
 <line>
-<name type="PERSON">Channing</name> Tatum may have
+<name type="PERSON">Channing</name> <name type="PERSON">Tatum</name> may have
 
 an illegitimate daughter
 
@@ -2340,7 +2340,7 @@ you have your story.
 
 
 <line>
-Thanks, Todd. I owe you one.
+Thanks, <name type="PERSON">Todd</name>. I owe you one.
 
 </line>
 
@@ -2510,15 +2510,15 @@ Give it back to the people!
 <line>
 <nonVerbComm>[ringtone]</nonVerbComm>
 
-<ital><music>♪ To-To-To-Todd! ♪</music></ital>
+<ital><music>♪ To-To-To-<name type="PERSON">Todd</name>! ♪</music></ital>
 
 </line>
 
 
 <line>
-Todd's phone.
+<name type="PERSON">Todd</name>'s phone.
 
-Leave a message at the Todd.
+Leave a message at the <name type="PERSON">Todd</name>.
 
 </line>
 
@@ -2578,7 +2578,7 @@ with red hoodies.
 
 
 <line>
-Where's <name type="PERSON">Holly</name>hock?
+Where's Hollyhock?
 
 I need to talk to her.
 
@@ -2604,7 +2604,7 @@ because she is a cleaning angel.
 <line>
 -Where is she?
 
--I sent her to <name type="PERSON">Channing</name> Tatum's house
+-I sent her to <name type="PERSON">Channing</name> <name type="PERSON">Tatum</name>'s house
 
 to pay him back for collecting my mail
 
@@ -2632,7 +2632,7 @@ some involving <name type="ORG">Pottery Barn</name>.
 
 
 <line>
-Okay, I'm <name type="PERSON">gonna</name>--
+Okay, I'm gonna--
 
 </line>
 
@@ -2682,15 +2682,15 @@ Nobody knows I'm back except you.
 
 
 <line>
-And <name type="PERSON">Channing</name> Tatum, and my pills guy,
+And <name type="PERSON">Channing</name> <name type="PERSON">Tatum</name>, and my pills guy,
 
 and my booze guy,
 
 my weed guy, my coke guy,
 
-some smartass at Pizza Hut
+some smartass at <name type="ORG">Pizza Hut</name>
 
-w<name type="PERSON">ho</name> deserved an in-person finger-wagging,
+who deserved an in-person finger-wagging,
 
 </line>
 
@@ -2698,7 +2698,7 @@ w<name type="PERSON">ho</name> deserved an in-person finger-wagging,
 <line>
 -and my maid.
 
--And now she's at <name type="PERSON">Channing</name> Tatum's house?
+-And now she's at <name type="PERSON">Channing</name> <name type="PERSON">Tatum</name>'s house?
 
 </line>
 
@@ -2722,7 +2722,7 @@ I wanted to fix things,
 <line>
 I've been so lucky to have people
 
-in my life w<name type="PERSON">ho</name> care about me.
+in my life who care about me.
 
 </line>
 
@@ -2748,13 +2748,13 @@ and thoughtful as...
 <line>
 -Yeah? Oh.
 
--<name type="PERSON">Channing</name> Tatum.
+-<name type="PERSON">Channing</name> <name type="PERSON">Tatum</name>.
 
 </line>
 
 
 <line>
-I'm only <name type="PERSON">gonna</name> hurt him
+I'm only gonna hurt him
 
 like I've hurt everyone else.
 
@@ -2770,7 +2770,7 @@ jump back into a new relationship.
 
 
 <line>
-Can you go over to <name type="PERSON">Channing</name> Tatum's house,
+Can you go over to <name type="PERSON">Channing</name> <name type="PERSON">Tatum</name>'s house,
 
 tell him I won't be his friend?
 
@@ -2798,7 +2798,7 @@ Okay.
 
 
 <line>
--<name type="PERSON">Holly</name>hock, I need to tell you something.
+-Hollyhock, I need to tell you something.
 
 -Did you get the results?
 
@@ -2908,7 +2908,7 @@ Then <name type="PERSON">Papa Dashawn</name> said,
 <line>
 Daddy <name type="ORG">Quackers</name> said,
 
-<name type="PERSON">"Let</name>'s put it to a vote, quack-quack."
+"Let's put it to a vote, quack-quack."
 
 </line>
 
@@ -2946,7 +2946,7 @@ Their daughter, Everly Elizabeth?
 <line>
 Uh, it's me... [deep breath]
 
-<name type="PERSON">Channing</name> Tatum.
+<name type="PERSON">Channing</name> <name type="PERSON">Tatum</name>.
 
 </line>
 
@@ -2988,7 +2988,7 @@ and apparently the two are related.
 <line>
 -Okay. Thanks!
 
--Todd.
+-<name type="PERSON">Todd</name>.
 
 </line>
 
@@ -3036,7 +3036,7 @@ Uh... [deep breath]
 <line>
 <nonVerbComm>[in lower voice]</nonVerbComm> Hey, I obviously don't
 
-know you because I am <name type="PERSON">Channing</name> Tatum,
+know you because I am <name type="PERSON">Channing</name> <name type="PERSON">Tatum</name>,
 
 the guy from <ital>Green Lantern</ital>
 
@@ -3054,7 +3054,7 @@ you hadn't even written yet.
 
 
 <line>
-You ask me, movie star <name type="PERSON">Channing</name> Tatum,
+You ask me, movie star <name type="PERSON">Channing</name> <name type="PERSON">Tatum</name>,
 
 </line>
 
@@ -3076,11 +3076,11 @@ Wow!
 <line>
 That doesn't sound at all
 
-like <name type="PERSON">Channing</name> Tatum's voice,
+like <name type="PERSON">Channing</name> <name type="PERSON">Tatum</name>'s voice,
 
 but that <ital>is </ital>the kind of thing I would want
 
-<name type="PERSON">Channing</name> Tatum to say to me,
+<name type="PERSON">Channing</name> <name type="PERSON">Tatum</name> to say to me,
 
 so thanks, <name type="PERSON">Channing</name>.
 
@@ -3096,21 +3096,21 @@ Love half your movies!
 <line>
 <nonVerbComm>[sighs]</nonVerbComm> That was a close one,
 
-huh, <name type="PERSON">Holly</name>hock?
+huh, Hollyhock?
 
 </line>
 
 
 <line>
--<name type="PERSON">Holly</name>hock?
+-Hollyhock?
 
--[ringtone] <ital><music>♪ To-To-To-Todd! ♪</music></ital>
+-[ringtone] <ital><music>♪ To-To-To-<name type="PERSON">Todd</name>! ♪</music></ital>
 
 </line>
 
 
 <line>
-Todd's phone. What do you want?
+<name type="PERSON">Todd</name>'s phone. What do you want?
 
 </line>
 
@@ -3222,7 +3222,7 @@ You know, there was a meeting
 
 I was supposed to go to tonight,
 
-but I don't think I'm <name type="PERSON">gonna</name> go.
+but I don't think I'm gonna go.
 
 I don't know if I'm ready.
 
@@ -3336,13 +3336,13 @@ we shan't be breaking up.
 
 
 <line>
-<name type="PERSON">Holly</name>hock? Are you here?
+Hollyhock? Are you here?
 
 </line>
 
 
 <line>
-No, but <name type="PERSON">BoJack</name>, w<name type="PERSON">ho</name> lives here, is here.
+No, but <name type="PERSON">BoJack</name>, who lives here, is here.
 
 </line>
 
@@ -3354,7 +3354,7 @@ No, but <name type="PERSON">BoJack</name>, w<name type="PERSON">ho</name> lives 
 
 
 <line>
--<name type="PERSON">Holly</name>hock is your daughter.
+-Hollyhock is your daughter.
 
 -What do you mean?
 
@@ -3422,7 +3422,7 @@ I've ever seen you be in love with.
 
 
 <line>
-I guess they're not <name type="PERSON">gonna</name> put you
+I guess they're not gonna put you
 
 in the best friends hall of fame,
 
@@ -3558,7 +3558,7 @@ Maybe then I wouldn't have
 
 
 <line>
-The joke only works with <name type="ORG">the "a"</name>.
+The joke only works with the "a".
 
 </line>
 
@@ -3644,7 +3644,7 @@ that couch--
 
 
 <line>
--I'm <name type="PERSON">gonna</name> go.
+-I'm gonna go.
 
 -Oh.
 
@@ -3684,7 +3684,7 @@ Hmm.
 
 
 <line>
-Todd?
+<name type="PERSON">Todd</name>?
 
 </line>
 
@@ -3742,7 +3742,7 @@ Good for him.
 <line>
 <ital>♪ It's been so long</ital>
 
-<ital>I don't think I'm <name type="PERSON">gonna</name> last ♪</ital>
+<ital>I don't think I'm gonna last ♪</ital>
 
 </line>
 

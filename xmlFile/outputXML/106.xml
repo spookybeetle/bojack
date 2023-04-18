@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>Our A-Story Is a 'D' Story - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>Our A-Story Is a 'D' Story - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -44,7 +44,7 @@ Hey, Mr. Peanutbutter.
 
 
 <line>
-<name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>!
+<name type="PERSON">BoJack Horseman</name>!
 
 </line>
 
@@ -58,7 +58,7 @@ Hey, Mr. Peanutbutter.
 
 
 <line>
-I'm <name type="PERSON">gonna</name> get
+I'm gonna get
 
 that handshake.
 
@@ -118,7 +118,7 @@ Hey, why don't we give
 <line>
 That's okay.
 
-Todd's supposed to pick me up.
+<name type="PERSON">Todd</name>'s supposed to pick me up.
 
 </line>
 
@@ -148,7 +148,7 @@ First day, huh?
 <line>
 Well, stick with me.
 
-You're <name type="PERSON">gonna</name> be just fi--
+You're gonna be just fi--
 
 </line>
 
@@ -260,7 +260,7 @@ from the plane.
 <line>
 Either you read <ital>Hemisphere's</ital>
 
-<ital><name type="PERSON">Ma</name>gazine, </ital>or you don't.
+<ital>Magazine, </ital>or you don't.
 
 </line>
 
@@ -310,7 +310,7 @@ that is a relief.
 
 
 <line>
-<name type="PERSON">Ho-<name type="PERSON">ho</name></name>! Whoo!
+Ho-ho! Whoo!
 
 </line>
 
@@ -386,7 +386,7 @@ Oh, come on.
 <line>
 You're the one
 
-w<name type="PERSON">ho</name>'s always saying
+who's always saying
 
 you want to hang out
 
@@ -624,7 +624,7 @@ Diamant Bleu?
 <line>
 A toast on me
 
-to <name type="PERSON">Diane</name> and Mr. Peanutbutter.
+to Peanutbutter.
 
 </line>
 
@@ -744,7 +744,7 @@ I just bought.
 
 
 <line>
-<name type="PERSON">Whoo-whoo</name>! W<name type="PERSON">ho</name> wants a ride
+Whoo-whoo! Who wants a ride
 
 in the chopper?
 
@@ -754,7 +754,7 @@ in the chopper?
 <line>
 - [applause and cheering]
 
-- Okay, guys. This has been f<name type="ORG">un</name>,
+- Okay, guys. This has been fun,
 
 and also an offensive display
 
@@ -840,7 +840,7 @@ That's so coincidental.
 
 
 <line>
-- I'm Todd.
+- I'm <name type="PERSON">Todd</name>.
 
 - <name type="PERSON">Klaus</name>.
 
@@ -992,13 +992,13 @@ Or D, sex and candy?
 
 
 <line>
-<nonVerbComm>[Todd]</nonVerbComm><ital> <name type="PERSON">BoJack</name>!</ital>
+<nonVerbComm>[<name type="PERSON">Todd</name>]</nonVerbComm><ital> <name type="PERSON">BoJack</name>!</ital>
 
 </line>
 
 
 <line>
-Todd, where the hell
+<name type="PERSON">Todd</name>, where the hell
 
 have you been?
 
@@ -1038,7 +1038,7 @@ phone-a-friend.
 
 
 <line>
-Marie Curie won Nobel prizes
+<name type="PERSON">Marie</name> Curie won Nobel prizes
 
 in which two sciences?
 
@@ -1052,7 +1052,7 @@ in which two sciences?
 
 
 <line>
-- B, biology and <name type="PERSON">physics--</name>
+- B, biology and physics--
 
 - Oh, B! The answer's B!
 
@@ -1062,7 +1062,7 @@ in which two sciences?
 <line>
 - It's A!
 
-- Damn it, Todd!
+- Damn it, <name type="PERSON">Todd</name>!
 
 </line>
 
@@ -1206,7 +1206,7 @@ effectively.
 
 
 <line>
-<nonVerbComm>[newsman]</nonVerbComm> <ital>It's a <name type="PERSON">Holly</name>-w<name type="PERSON">ho</name>-done-it</ital>
+<nonVerbComm>[newsman]</nonVerbComm> <ital>It's a <name type="PERSON">Holly</name>-who-done-it</ital>
 
 </line>
 
@@ -1220,7 +1220,7 @@ effectively.
 
 
 <line>
-<ital>w<name type="PERSON">ho</name> stole the D from</ital>
+<ital>who stole the D from</ital>
 
 <ital>the famed Hollywood sign.</ital>
 
@@ -1260,7 +1260,7 @@ effectively.
 
 
 <line>
-<ital>W<name type="PERSON">ho</name> wrote this copy?</ital>
+<ital>Who wrote this copy?</ital>
 
 <ital>Randy, looking at you.</ital>
 
@@ -1332,7 +1332,7 @@ D-- D-- Damn!
 <line>
 <ital>and of course Dane Cook,</ital>
 
-<ital>w<name type="PERSON">ho</name> we all know is a thief.</ital>
+<ital>who we all know is a thief.</ital>
 
 </line>
 
@@ -1690,7 +1690,7 @@ Get it? D-viant?
 
 - Tell me,
 
-how are you <name type="PERSON">gonna</name> complete
+how are you gonna complete
 
 your giant bracelet?
 
@@ -1794,7 +1794,7 @@ Yes, but only in two positions.
 <line>
 Look, am I the kind of guy
 
-w<name type="PERSON">ho</name> would try to steal
+who would try to steal
 
 someone else's girlfriend?
 
@@ -1918,7 +1918,7 @@ don't get me wrong.
 <line>
 But I don't know
 
-if you're <name type="PERSON">gonna</name> get
+if you're gonna get
 
 the right attention
 
@@ -2148,7 +2148,7 @@ and mustards,
 
 
 <line>
-- it's <name type="PERSON">gonna</name> be a pickle.
+- it's gonna be a pickle.
 
 - Oh, no.
 
@@ -2156,7 +2156,7 @@ and mustards,
 
 
 <line>
-The pickle's a <name type="ORG">SWA<name type="PERSON">T</name></name> van,
+The pickle's a SWAT van,
 
 but I see your point.
 
@@ -2286,7 +2286,7 @@ Take that, the ocean.
 
 
 <line>
-- What now, Todd?
+- What now, <name type="PERSON">Todd</name>?
 
 <ital>- Listen.</ital>
 
@@ -2310,7 +2310,7 @@ so do you remember how you got
 
 out of the same jam
 
-on <ital><name type="PERSON">Horsin</name>' Around?</ital>
+on <ital>Horsin' Around?</ital>
 
 </line>
 
@@ -2464,7 +2464,7 @@ Oh, yeah.
 
 
 <line>
-But we are <name type="PERSON">gonna</name> need
+But we are gonna need
 
 a big distraction
 
@@ -2498,7 +2498,7 @@ a cup of coffee.
 
 
 <line>
-W<name type="PERSON">ho</name> loves you, people?
+Who loves you, people?
 
 </line>
 
@@ -2604,7 +2604,7 @@ Whoa!
 
 
 <line>
-<ital><music>♪ <name type="PERSON">Jesus</name> Christ, my ankle ♪</music></ital>
+<ital><music>♪ Christ, my ankle ♪</music></ital>
 
 </line>
 
@@ -2680,7 +2680,7 @@ Somebody help her!
 <line>
 <ital>- But what happened?</ital>
 
-<ital>- Well, Tom,</ital>
+<ital>- Well, <name type="PERSON">Tom</name>,</ital>
 
 </line>
 
@@ -2982,7 +2982,7 @@ of the hour now, <name type="PERSON">Diane</name>.
 
 
 <line>
-Oh, my Todd.
+Oh, my <name type="PERSON">Todd</name>.
 
 </line>
 
@@ -3174,7 +3174,7 @@ with a log line,
 
 but he's the one
 
-w<name type="PERSON">ho</name> sold the pitch.
+who sold the pitch.
 
 </line>
 
@@ -3194,7 +3194,7 @@ than it is for you.
 
 in a drunken stupor,
 
-that's a <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name> thing.
+that's a <name type="PERSON">BoJack Horseman</name> thing.
 
 </line>
 
@@ -3244,7 +3244,7 @@ that's not a bad idea.
 
 
 <line>
-Lora? Check if anyone's
+<name type="PERSON">Lora</name>? Check if anyone's
 
 bought the rights yet.
 
@@ -3312,7 +3312,7 @@ Quick question, though.
 <line>
 Would you see <name type="PERSON">Cate</name> <name type="PERSON">Blanchett</name>
 
-in a movie about <name type="PERSON">Eva Bra<name type="ORG">un</name></name>?
+in a movie about <name type="PERSON">Eva</name> Braun?
 
 </line>
 
@@ -3326,7 +3326,7 @@ with this?
 
 
 <line>
-- Of course I would. W<name type="PERSON">ho</name> wouldn't?
+- Of course I would. Who wouldn't?
 
 - Huh.
 
@@ -3340,7 +3340,7 @@ with this?
 
 
 <line>
-And that's why <name type="PERSON">Eva Bra<name type="ORG">un</name></name>
+And that's why <name type="PERSON">Eva</name> Braun
 
 was like the fifth Beatle
 
@@ -3360,7 +3360,7 @@ were so interested in Nazis.
 <line>
 You got some great moves,
 
-Todd.
+<name type="PERSON">Todd</name>.
 
 </line>
 
@@ -3538,13 +3538,13 @@ Just that you should be
 
 with someone
 
-w<name type="PERSON">ho</name> knows you.
+who knows you.
 
 </line>
 
 
 <line>
-Yeah? Like w<name type="PERSON">ho</name>?
+Yeah? Like who?
 
 </line>
 
@@ -3642,7 +3642,7 @@ We are in prison, after all.
 
 
 <line>
-Todd? Why in the name
+<name type="PERSON">Todd</name>? Why in the name
 
 of <name type="PERSON">Pat Buchanan</name>
 
@@ -3710,7 +3710,7 @@ What do you say?
 <line>
 <ital>This just in.</ital>
 
-<ital>A standoff at the Super Max</ital>
+<ital>A standoff at the Super <name type="PERSON">Max</name></ital>
 
 </line>
 
@@ -3780,7 +3780,7 @@ that we're still on for tomorrow
 
 to talk about the time
 
-I sneezed on Marisa Tomei.
+I sneezed on Tomei.
 
 </line>
 
@@ -3906,13 +3906,13 @@ and I'm--
 <line>
 That was so much better
 
-than what I was <name type="PERSON">gonna</name> say.
+than what I was gonna say.
 
 </line>
 
 
 <line>
-- I was <name type="PERSON">gonna</name> say carrots.
+- I was gonna say carrots.
 
 - [laughs]
 
@@ -4080,7 +4080,7 @@ All right!
 
 
 <line>
-She's not <name type="PERSON">gonna</name> call.
+She's not gonna call.
 
 Get out the consolation scotch.
 
@@ -4198,7 +4198,7 @@ like you.
 
 
 <line>
-<nonVerbComm>[pilot]</nonVerbComm> <ital>Time to bring</ital>
+<nonVerbComm>[pilot]</nonVerbComm> <ital><name type="ORG">Time</name> to bring</ital>
 
 <ital>this baby home.</ital>
 
@@ -4300,7 +4300,7 @@ no new stories in Hollywoo.
 
 
 <line>
-<ital><music>♪ Hollywoo, Hollywoo ♪</music></ital>
+<ital><music>♪ Hollywoo ♪</music></ital>
 
 </line>
 
@@ -4360,7 +4360,7 @@ no new stories in Hollywoo.
 <line>
 <ital>♪ It's been so long</ital>
 
-<ital>I don't think I'm <name type="PERSON">gonna</name> last ♪</ital>
+<ital>I don't think I'm gonna last ♪</ital>
 
 </line>
 

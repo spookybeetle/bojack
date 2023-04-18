@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>Brrap Brrap Pew Pew - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title><name type="ORG">Brrap</name> <name type="ORG">Brrap</name> Pew Pew - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -204,7 +204,7 @@ at the Golden Snowflake Awards.
 
 
 <line>
-Step one on the 48 awards show <name type="PERSON">ga</name>untlet
+Step one on the 48 awards show gauntlet
 
 that is The Exhausting Road To <name type="PERSON">Oscar</name>.
 
@@ -232,7 +232,7 @@ that is The Exhausting Road To <name type="PERSON">Oscar</name>.
 
 
 <line>
-<ital><name type="PERSON">Lernernerner DiCarpricorn</name></ital>
+<ital>Lernernerner DiCarpricorn</ital>
 
 <ital>for </ital>The <name type="PERSON">Haberdasher</name>'s <name type="PERSON">Peanut</name>...
 
@@ -242,13 +242,13 @@ that is The Exhausting Road To <name type="PERSON">Oscar</name>.
 <line>
 <name type="PERSON">Jurj</name> <name type="PERSON">Clooners</name>
 
-for <ital>The <name type="NORP">Nazi</name> W<name type="PERSON">ho</name> Played Yahtzee...</ital>
+for <ital>The <name type="NORP">Nazi</name> Who Played Yahtzee...</ital>
 
 </line>
 
 
 <line>
-<ital>and <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name> for </ital>Secretariat.
+<ital>and Secretariat.
 
 </line>
 
@@ -326,7 +326,7 @@ Your time will come.
 <line>
 Now, if you'll excuse me, I have
 
-to go tell <name type="PERSON">A.O. Scott</name> how great you are.
+to go tell A.O. Scott how great you are.
 
 </line>
 
@@ -334,7 +334,7 @@ to go tell <name type="PERSON">A.O. Scott</name> how great you are.
 <line>
 <nonVerbComm>[yelling]</nonVerbComm>
 
-Hey, <name type="PERSON">yo</name>, Scott!
+Hey, yo, Scott!
 
 </line>
 
@@ -354,7 +354,7 @@ Hey, <name type="PERSON">Diane</name>.
 
 
 <line>
-<name type="PERSON">Yo</name>ung people and their phones.
+Young people and their phones.
 
 </line>
 
@@ -562,13 +562,13 @@ And the world says, "Whaaa?"
 <line>
 If it's happening,
 
-we're <name type="PERSON">gonna</name> talk about it.
+we're gonna talk about it.
 
 </line>
 
 
 <line>
-It's time for Tom's Rant.
+It's time for Rant.
 
 </line>
 
@@ -590,9 +590,9 @@ Wouldn't a better forum be nowhere?
 
 
 <line>
-Wait, does that say "Tom Srant"?
+Wait, does that say "<name type="PERSON">Tom</name> Srant"?
 
-Why does that say Tom Srant?
+Why does that say <name type="PERSON">Tom</name> Srant?
 
 </line>
 
@@ -612,7 +612,7 @@ This is on you.
 
 
 <line>
-<name type="PERSON">Diane</name>, <name type="ORG">VIM</name> is hanging on by a thread
+<name type="PERSON">Diane</name>, VIM is hanging on by a thread
 
 and only barely scraping by
 
@@ -738,13 +738,13 @@ Oh. Oh!
 
 
 <line>
-What "oh?" W<name type="PERSON">ho</name> said you could <name type="PERSON">"Oh</name>?"
+What "oh?" Who said you could "Oh?"
 
 </line>
 
 
 <line>
-Taylor Swift just tweeted
+<name type="PERSON">Taylor</name> Swift just tweeted
 
 that you were "brave."
 
@@ -760,11 +760,11 @@ a face with heart eyes.
 
 
 <line>
-And <name type="ORG">BuzzFeed</name> just posted a list
+And BuzzFeed just posted a list
 
 of top 15 celebrities
 
-w<name type="PERSON">ho</name> should have had abortions
+who should have had abortions
 
 like <name type="ORG">Sextina</name>.
 
@@ -780,7 +780,7 @@ like <name type="ORG">Sextina</name>.
 
 
 <line>
-Most women w<name type="PERSON">ho</name> go through this
+Most women who go through this
 
 never talk about it
 
@@ -828,7 +828,7 @@ this would make you a cultural icon.
 
 
 <line>
-Glasses, you're <name type="ORG">un</name>-fired.
+Glasses, you're un-fired.
 
 I'm getting an abortion.
 
@@ -1120,7 +1120,7 @@ What does everyone love about him?
 <line>
 He's not a god.
 
-He's just an old guy w<name type="PERSON">ho</name> loves pranks.
+He's just an old guy who loves pranks.
 
 </line>
 
@@ -1146,7 +1146,7 @@ Yeah, good to see you.
 
 
 <line>
-Hey, <name type="PERSON">Jurj</name>, my name's Todd,
+Hey, <name type="PERSON">Jurj</name>, my name's <name type="PERSON">Todd</name>,
 
 and my friend <name type="PERSON">Keith</name> sleeps on your couch.
 
@@ -1176,7 +1176,7 @@ That is so <name type="PERSON">Keith</name>.
 
 
 <line>
-Todd, why don't you do the grown-ups
+<name type="PERSON">Todd</name>, why don't you do the grown-ups
 
 a favor and go find your own shadow?
 
@@ -1192,7 +1192,7 @@ It was here a second ago.
 <line>
 <name type="PERSON">Jurj</name>, I loved you
 
-in <ital>The <name type="NORP">Nazi</name> W<name type="PERSON">ho</name> Played Yahtzee.</ital>
+in <ital>The <name type="NORP">Nazi</name> Who Played Yahtzee.</ital>
 
 </line>
 
@@ -1216,7 +1216,7 @@ I don't think of him as a war criminal.
 <line>
 I just think of him as a person
 
-w<name type="PERSON">ho</name> had a funny accent.
+who had a funny accent.
 
 </line>
 
@@ -1240,7 +1240,7 @@ won tonight, maybe I'll win next time.
 <line>
 Yikes.
 
-Look, man, you're not <name type="PERSON">gonna</name> be next.
+Look, man, you're not gonna be next.
 
 </line>
 
@@ -1262,7 +1262,7 @@ Like real names.
 
 
 <line>
-<name type="PERSON">Lernernerner DiCarpricorn</name>, that's a name.
+Lernernerner DiCarpricorn, that's a name.
 
 </line>
 
@@ -1322,13 +1322,13 @@ All right, I'll see you later.
 <line>
 <name type="PERSON">Vivica</name>.
 
-Now I know why they call you <name type="PERSON">A. Fox</name>.
+Now I know why they call you A. Fox.
 
 </line>
 
 
 <line>
-Excuse me, you <name type="PERSON">gonna</name> stay here long?
+Excuse me, you gonna stay here long?
 
 </line>
 
@@ -1364,7 +1364,7 @@ and now you're like,
 
 
 <line>
-"Awoo<name type="PERSON">ga</name>!
+"Awooga!
 
 Is there an undo button around here?
 
@@ -1470,7 +1470,7 @@ Oh, dear.
 <line>
 ♪ <ital>Alien's inside me</ital>
 
-<ital>I'm <name type="PERSON">gonna</name> squash it like Sigourney ♪</ital>
+<ital>I'm gonna squash it like Sigourney ♪</ital>
 
 </line>
 
@@ -1488,7 +1488,7 @@ No, stop.
 
 
 <line>
-  <ital><music>♪<name type="ORG">Brrap <name type="ORG">brrap</name></name> pew pew... ♪</music></ital>
+  <ital><music>♪<name type="ORG">Brrap</name> brrap pew pew... ♪</music></ital>
 
 </line>
 
@@ -1538,13 +1538,13 @@ You're not even really pregnant.
 <line>
 So? This is show business.
 
-"<name type="ORG">Brrap <name type="ORG">brrap</name></name>. Pew pew."
+"<name type="ORG">Brrap</name> brrap. Pew pew."
 
 </line>
 
 
 <line>
-"<name type="ORG">Brrap <name type="ORG">brrap</name></name>. Pew pew."
+"<name type="ORG">Brrap</name> brrap. Pew pew."
 
 </line>
 
@@ -1552,7 +1552,7 @@ So? This is show business.
 <line>
 A daring battle cry from
 
-the self-appointed <name type="ORG">New Voice of Choice</name>.
+the self-appointed <name type="ORG">New Voice</name> of Choice.
 
 </line>
 
@@ -1580,7 +1580,7 @@ to talk about abortion. Gentlemen?
 
 
 <line>
-Tom, this is not just a woman's issue.
+<name type="PERSON">Tom</name>, this is not just a woman's issue.
 
 </line>
 
@@ -1616,33 +1616,33 @@ that decision, so I'm unbiased.
 <line>
 -Does this video glamorize abortion?
 
--Very possibly, Tom.
+-Very possibly, <name type="PERSON">Tom</name>.
 
 </line>
 
 
 <line>
-Millennials today think everything is N<name type="ORG">BD</name>.
+Millennials today think everything is NBD.
 
 </line>
 
 
 <line>
-N<name type="ORG">BD</name> of course stands for No <name type="ORG">BD</name>,
+NBD of course stands for No BD,
 
-referring to <name type="PERSON">B.D. Wong</name>,
-
-</line>
-
-
-<line>
-w<name type="PERSON">ho</name> teens think is a very big deal.
+referring to B.D. Wong,
 
 </line>
 
 
 <line>
-So if something's not <name type="ORG">BD</name>,
+who teens think is a very big deal.
+
+</line>
+
+
+<line>
+So if something's not BD,
 
 it means it's not a big deal.
 
@@ -1650,7 +1650,7 @@ it means it's not a big deal.
 
 
 <line>
--These days, abortions are not <name type="ORG">BD</name>.
+-These days, abortions are not BD.
 
 -Are abortions even necessary?
 
@@ -1826,7 +1826,7 @@ Good afternoon, Mr. <name type="PERSON">Clooners</name>.
 
 
 <line>
-Hey, man, just one <name type="ORG">sec</name>,
+Hey, man, just one sec,
 
 my publicist is right behind me.
 
@@ -1850,7 +1850,7 @@ Of course. Bring the publicist.
 <line>
 I said, "Auschwitz."
 
-You're the <name type="NORP">Nazi</name> w<name type="PERSON">ho</name> played Yahtzee.
+You're the <name type="NORP">Nazi</name> who played Yahtzee.
 
 </line>
 
@@ -1858,13 +1858,13 @@ You're the <name type="NORP">Nazi</name> w<name type="PERSON">ho</name> played Y
 <line>
 Right, well, anyway, we're going
 
-to the AOL-Time-Warner-PepsiCo-Viacom
+to the AOL-<name type="ORG">Time</name>-Warner-PepsiCo-Viacom
 
 </line>
 
 
 <line>
-Halliburton-Skynet-Toyota-Trader <name type="PERSON">Joe</name>'s
+Halliburton-Skynet-<name type="ORG">Toyota</name>-Trader <name type="PERSON">Joe</name>'s
 
 Auditorium
 
@@ -1964,7 +1964,7 @@ Abort.
 <line>
 -You need to stop and think--
 
--Or what? You <name type="PERSON">gonna</name> sic <name type="PERSON">Fido</name> on me?
+-Or what? You gonna sic <name type="PERSON">Fido</name> on me?
 
 </line>
 
@@ -2004,25 +2004,25 @@ is "Pshew pshew pow."
 
 
 <line>
-That's the g<name type="ORG">un</name> sounds, from the song.
+That's the gun sounds, from the song.
 
 </line>
 
 
 <line>
-Uh. Do you mean, "<name type="ORG">Brrap <name type="ORG">brrap</name></name> pew pew"?
+Uh. Do you mean, "<name type="ORG">Brrap</name> brrap pew pew"?
 
 </line>
 
 
 <line>
-Yeah, that's what I did. "Pshow, <name type="PERSON">kapow</name>."
+Yeah, that's what I did. "Pshow, kapow."
 
 </line>
 
 
 <line>
--That's not what a g<name type="ORG">un</name> sounds like.
+-That's not what a gun sounds like.
 
 -Prrow!
 
@@ -2030,7 +2030,7 @@ Yeah, that's what I did. "Pshow, <name type="PERSON">kapow</name>."
 
 
 <line>
--Pshow, <name type="PERSON">kapow</name>!
+-Pshow, kapow!
 
 -Bop!
 
@@ -2038,7 +2038,7 @@ Yeah, that's what I did. "Pshow, <name type="PERSON">kapow</name>."
 
 
 <line>
--<name type="ORG">Brrap <name type="ORG">brrap</name></name> pew pew!
+-<name type="ORG">Brrap</name> brrap pew pew!
 
 -Ppew, ping!
 
@@ -2048,7 +2048,7 @@ Yeah, that's what I did. "Pshow, <name type="PERSON">kapow</name>."
 <line>
 Can everyone please
 
-stop making g<name type="ORG">un</name> sounds?
+stop making gun sounds?
 
 </line>
 
@@ -2068,7 +2068,7 @@ everyone's listening to you now.
 
 
 <line>
-Soon people are <name type="PERSON">gonna</name> get bored
+Soon people are gonna get bored
 
 and move onto the next thing
 
@@ -2096,7 +2096,7 @@ Oh...
 
 
 <line>
-Hi. I'm <name type="PERSON">A <name type="PERSON">Ryan</name> Sea--</name>
+Hi. I'm A <name type="PERSON">Ryan</name> Sea--
 
 [screaming]
 
@@ -2152,7 +2152,7 @@ I am not your driver. It is I, <name type="PERSON">BoJack</name>.
 
 
 <line>
-I was <name type="PERSON">gonna</name> prank <name type="PERSON">Jurj</name>
+I was gonna prank <name type="PERSON">Jurj</name>
 
 by hitting him with this bat,
 
@@ -2208,7 +2208,7 @@ I am a marvelous publicist.
 <line>
 Not to me. You're doing great work
 
-for this asshole w<name type="PERSON">ho</name> loves pranks.
+for this asshole who loves pranks.
 
 </line>
 
@@ -2274,7 +2274,7 @@ Not my publicist. You're fired.
 <line>
 Are you kidding?
 
-W<name type="PERSON">ho</name> fires <name type="PERSON">Ana</name> Spanakopita?
+Who fires <name type="PERSON">Ana</name> Spanakopita?
 
 </line>
 
@@ -2286,7 +2286,7 @@ I do. I just did.
 
 
 <line>
-<nonVerbComm>[scoffing]</nonVerbComm> W<name type="PERSON">ho</name>'s <name type="PERSON">gonna</name> set up
+<nonVerbComm>[scoffing]</nonVerbComm> Who's gonna set up
 
 your press appearances?
 
@@ -2324,7 +2324,7 @@ Can I get a "pew pew" for the fans?
 
 
 <line>
--Tom, abortion is a very serious subject.
+-<name type="PERSON">Tom</name>, abortion is a very serious subject.
 
 -Yes, very serious, I agree.
 
@@ -2352,7 +2352,7 @@ which is why your girl <name type="ORG">Sextina</name> <name type="GPE">Aquafina
 
 
 <line>
-is <name type="PERSON">gonna</name> have her abortion
+is gonna have her abortion
 
 live on television.
 
@@ -2382,7 +2382,7 @@ Pay-per-view, chitches.
 <line>
 "Pay-per-view, chitches."
 
-<name type="ORG">Brrap <name type="ORG">brrap</name></name>, pew pew, <name type="PERSON">ka-ching ka-ching</name>.
+<name type="ORG">Brrap</name> brrap, pew pew, ka-ching ka-ching.
 
 </line>
 
@@ -2422,7 +2422,7 @@ That is not what happened in <ital>Argo.</ital>
 
 
 <line>
-If we're <name type="PERSON">gonna</name> do this,
+If we're gonna do this,
 
 we got to be real tasteful.
 
@@ -2454,7 +2454,7 @@ can do the practical effects.
 
 
 <line>
-We'll book Eddie Redmayne as the fetus.
+We'll book <name type="PERSON">Eddie</name> Redmayne as the fetus.
 
 </line>
 
@@ -2492,7 +2492,7 @@ You don't think
 
 this is incredibly disrespectful
 
-to the women w<name type="PERSON">ho</name> actually get abortions?
+to the women who actually get abortions?
 
 </line>
 
@@ -2632,7 +2632,7 @@ I won't be a part of this.
 
 
 <line>
-<name type="PERSON">Yo</name>, Beardo, where did you go?
+Yo, Beardo, where did you go?
 
 </line>
 
@@ -2692,7 +2692,7 @@ You know, I think I Googled the wrong guy.
 
 
 <line>
--Did you think I was Bo Jackson?
+-Did you think I was Bo <name type="PERSON">Jackson</name>?
 
 -This idea I know you're going to like.
 
@@ -2738,7 +2738,7 @@ dressed like a gorilla?
 <line>
 Maybe that one's a dud,
 
-but hey, you think Lou Be<name type="PERSON">ga</name>
+but hey, you think <name type="PERSON">Lou Bega</name>
 
 knocked it out of the park
 
@@ -2766,7 +2766,7 @@ with "Mambo Number One"?
 <line>
 I'm making things all about me?
 
-I'm the one w<name type="PERSON">ho</name>'s having an abortion.
+I'm the one who's having an abortion.
 
 </line>
 
@@ -2884,7 +2884,7 @@ but maybe it isn't the best idea?
 <line>
 Like, if that idea were a <name type="PERSON">Dillon</name> brother
 
-maybe it's a <name type="PERSON">Kevin</name>, not a Matt?
+maybe it's a <name type="PERSON">Kevin</name>, not a <name type="PERSON">Matt</name>?
 
 </line>
 
@@ -2964,7 +2964,7 @@ Well, obviously.
 <line>
 Do you think she actually wants
 
-to shoot her fetus with a g<name type="ORG">un</name>?
+to shoot her fetus with a gun?
 
 </line>
 
@@ -3402,7 +3402,7 @@ get the old scoopity doopity?
 
 
 <line>
-Okay, we're <name type="PERSON">gonna</name> handle this.
+Okay, we're gonna handle this.
 
 Meet us at the office in 20 minutes.
 
@@ -3424,7 +3424,7 @@ where celebrities go to disappear,
 
 where <name type="PERSON">Chad Michael Murray</name>
 
-and <name type="PERSON">T</name>hora Birch went.
+and <name type="PERSON">Thora Birch</name> went.
 
 </line>
 
@@ -3490,9 +3490,9 @@ we'll say she adopted a baby.
 
 
 <line>
-♪ <ital><name type="ORG">Brrap <name type="ORG">brrap</name></name> pew pew</ital>
+♪ <ital><name type="ORG">Brrap</name> brrap pew pew</ital>
 
-<ital><name type="ORG">Brrap <name type="ORG">brrap</name></name> pew pew ♪</ital>
+<ital><name type="ORG">Brrap</name> brrap pew pew ♪</ital>
 
 </line>
 
@@ -3536,7 +3536,7 @@ we'll say she adopted a baby.
 
 
 <line>
-<ital><name type="ORG">Brrap <name type="ORG">brrap</name></name> <name type="ORG">brrap</name> <name type="ORG">brrap</name>!</ital>
+<ital><name type="ORG">Brrap</name> brrap brrap brrap!</ital>
 
 </line>
 

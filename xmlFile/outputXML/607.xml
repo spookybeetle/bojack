@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>The Face of Depression - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>The Face of Depression - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -40,7 +40,7 @@
 
 
 <line>
-<ital>Damn it, Todd. Clean up your shit.</ital>
+<ital>Damn it, <name type="PERSON">Todd</name>. Clean up your shit.</ital>
 
 <ital>You know I had sex with <name type="PERSON">Emily</name>.</ital>
 
@@ -56,7 +56,7 @@
 
 
 <line>
-<ital>Please don't make me go back to <name type="GPE">LA</name>.</ital>
+<ital>Please don't make me go back to LA.</ital>
 
 <ital>You can count on me, <name type="PERSON">Herb</name>.</ital>
 
@@ -64,7 +64,7 @@
 
 
 <line>
-<nonVerbComm>[Todd]</nonVerbComm><ital> You are all the things</ital>
+<nonVerbComm>[<name type="PERSON">Todd</name>]</nonVerbComm><ital> You are all the things</ital>
 
 <ital>that are wrong with you.</ital>
 
@@ -80,7 +80,7 @@
 <line>
 <nonVerbComm>[<name type="PERSON">BoJack</name>]</nonVerbComm> <ital>Yes, you are the last person</ital>
 
-<ital>to get that. I'm not <name type="PERSON">gonna</name> change.</ital>
+<ital>to get that. I'm not gonna change.</ital>
 
 </line>
 
@@ -154,7 +154,7 @@ Let me go! [grunting]
 <line>
 What difference does it make
 
-w<name type="PERSON">ho</name> brought this particular vodka?
+who brought this particular vodka?
 
 </line>
 
@@ -202,7 +202,7 @@ do you understand?
 <line>
 I have friends on <ital>Coach</ital>
 
-w<name type="PERSON">ho</name> owe me a favor.
+who owe me a favor.
 
 </line>
 
@@ -218,7 +218,7 @@ w<name type="PERSON">ho</name> owe me a favor.
 <line>
 It's an easy job.
 
-<name type="PERSON">Craig <name type="PERSON">T</name>. Nelson's</name> balder by the day.
+Craig T. Nelson's balder by the day.
 
 </line>
 
@@ -236,7 +236,7 @@ Nobody is asking you, <name type="PERSON">Sharona</name>.
 
 
 <line>
-<name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>,
+<name type="PERSON">BoJack Horseman</name>,
 
 would you like to share? I...
 
@@ -246,7 +246,7 @@ would you like to share? I...
 <line>
 <nonVerbComm>[stammers]</nonVerbComm> I'm sorry.
 
-I don't know w<name type="PERSON">ho</name> you are.
+I don't know who you are.
 
 </line>
 
@@ -254,7 +254,7 @@ I don't know w<name type="PERSON">ho</name> you are.
 <line>
 This is anonymous.
 
-<name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>? W<name type="PERSON">ho</name>'s that?
+<name type="PERSON">BoJack Horseman</name>? Who's that?
 
 </line>
 
@@ -424,7 +424,7 @@ and I was so calm and boring,
 
 
 <line>
-I didn't even wanna <name type="ORG">LiveJournal</name>.
+I didn't even wanna LiveJournal.
 
 </line>
 
@@ -770,15 +770,15 @@ quite invigorating.
 
 
 <line>
-And now you're just <name type="PERSON">gonna</name> ride off
+And now you're just gonna ride off
 
-into the <name type="PERSON">s<name type="ORG">un</name></name>set?
+into the sunset?
 
 </line>
 
 
 <line>
-No, the <name type="PERSON">s<name type="ORG">un</name></name> sets in the west.
+No, the sun sets in the west.
 
 </line>
 
@@ -986,7 +986,7 @@ Um... Yeah, moms are weird.
 
 
 <line>
-So, what are you <name type="PERSON">gonna</name> do now?
+So, what are you gonna do now?
 
 Just keep getting lunch with your friends?
 
@@ -1066,7 +1066,7 @@ I must get off my chest.
 <line>
 As it says on the cover of my last single
 
-<name type="PERSON">"You</name> Can Tell Me Anything,"
+"You Can Tell Me Anything,"
 
 you can tell me anything.
 
@@ -1152,7 +1152,7 @@ but had my mom peruse
 
 and then paraphrase for me,
 
-people w<name type="PERSON">ho</name> seem happy can actually
+people who seem happy can actually
 
 be the most depressed.
 
@@ -1188,7 +1188,7 @@ Oh, no, does that mean I'm also depressed?
 
 
 <line>
--A <name type="PERSON">cinnabunny</name> and a coffee, please.
+-A cinnabunny and a coffee, please.
 
 -3.25.
 
@@ -1210,7 +1210,7 @@ to see in the world."
 
 
 <line>
-Goodbye, change. Good luck out there.
+Good luck out there.
 
 I'll miss you.
 
@@ -1260,7 +1260,7 @@ Okay.
 
 
 <line>
--W<name type="PERSON">ho</name> is depression?
+-Who is depression?
 
 -You or someone you love.
 
@@ -1334,7 +1334,7 @@ Heat's broken. Let's go for a walk.
 
 
 <line>
-I was in <name type="GPE">LA</name> and I didn't want to be, so...
+I was in LA and I didn't want to be, so...
 
 </line>
 
@@ -1370,21 +1370,21 @@ Me, personal essays.
 
 
 <line>
-I mean, w<name type="PERSON">ho</name> am I? <name type="ORG">Sloane</name> Crosley?
+I mean, who am I? <name type="ORG">Sloane</name> Crosley?
 
 </line>
 
 
 <line>
--W<name type="PERSON">ho</name>'s <name type="ORG">Sloane</name> Crosley?
+-Who's <name type="ORG">Sloane</name> Crosley?
 
--Good point. W<name type="PERSON">ho</name>'s <name type="ORG">Sloane</name> Crosley?
+-Good point. Who's <name type="ORG">Sloane</name> Crosley?
 
 </line>
 
 
 <line>
-Yeah, w<name type="PERSON">ho</name> is <name type="ORG">Sloane</name> Crosley?
+Yeah, who is <name type="ORG">Sloane</name> Crosley?
 
 </line>
 
@@ -1500,7 +1500,7 @@ uh, and look, a couch!
 
 
 <line>
-We're <name type="PERSON">gonna</name> break up soon anyway.
+We're gonna break up soon anyway.
 
 </line>
 
@@ -1554,7 +1554,7 @@ And he said, "<name type="PERSON">BoJack</name>, you ruin everything.
 <line>
 -That's what you are."
 
--<name type="PERSON">Oof</name>.
+-Oof.
 
 </line>
 
@@ -1678,7 +1678,7 @@ Hi, Tawnie. Why are you in the backseat?
 
 
 <line>
-<name type="PERSON">Holly</name>hock and I are in a fight right now.
+Hollyhock and I are in a fight right now.
 
 It's both minute and massive.
 
@@ -1842,7 +1842,7 @@ so can we just drop it?
 
 
 <line>
-You said we were <name type="PERSON">gonna</name> meet
+You said we were gonna meet
 
 at Pi Café for dinner.
 
@@ -1872,7 +1872,7 @@ Ah, I see. A teachable moment.
 
 
 <line>
-<name type="PERSON">Holly</name>hock, people will disappoint you.
+Hollyhock, people will disappoint you.
 
 </line>
 
@@ -1968,7 +1968,7 @@ That's it?
 <line>
 -Uh... [groans]
 
--[<name type="PERSON">Holly</name>hock] <name type="PERSON">BoJack</name>!
+-[Hollyhock] <name type="PERSON">BoJack</name>!
 
 </line>
 
@@ -2012,7 +2012,7 @@ No, I can't go back there. Not yet.
 <line>
 -Arizona?
 
--Some parts of Texas?
+-Some parts of <name type="GPE">Texas</name>?
 
 </line>
 
@@ -2044,7 +2044,7 @@ they wouldn't have to go anywhere!
 <line>
 They could eat and live happily
 
-in their <name type="ORG">Cinnab<name type="ORG">un</name>galow</name>.
+in their <name type="ORG">Cinnabungalow</name>.
 
 </line>
 
@@ -2084,7 +2084,7 @@ Stay on topic, Mom.
 <line>
 And <name type="PERSON">Amelia Earhart</name> flew through the skies
 
-until one day, she made it to the <name type="PERSON">s<name type="ORG">un</name></name>
+until one day, she made it to the sun
 
 and everybody cheered. The end.
 
@@ -2122,7 +2122,7 @@ and Baby Hole, but thanks.
 
 
 <line>
-If I'm <name type="PERSON">gonna</name> live in that house again,
+If I'm gonna live in that house again,
 
 </line>
 
@@ -2250,7 +2250,7 @@ but she'll get better at it.
 
 
 <line>
-I'm <name type="PERSON">gonna</name> miss everything.
+I'm gonna miss everything.
 
 We have this connection now.
 
@@ -2324,7 +2324,7 @@ running a company,
 
 catering to your clients,
 
-raising a child, a Todd.
+raising a child, a <name type="PERSON">Todd</name>.
 
 </line>
 
@@ -2360,9 +2360,9 @@ and call it a <name type="PERSON">Rauschenberg</name>.
 
 
 <line>
-I've been back in <name type="GPE">LA</name> two months.
+I've been back in LA two months.
 
-When am I <name type="PERSON">gonna</name> hear about this job?
+When am I gonna hear about this job?
 
 </line>
 
@@ -2370,7 +2370,7 @@ When am I <name type="PERSON">gonna</name> hear about this job?
 <line>
 I have other offers, you know.
 
-UC<name type="GPE">LA</name>, <name type="ORG">USC</name>, UTI.
+UCLA, USC, UTI.
 
 </line>
 
@@ -2398,7 +2398,7 @@ portending my doom?
 
 
 <line>
-Is she <name type="PERSON">gonna</name> swoop in
+Is she gonna swoop in
 
 and peck out my chances?
 
@@ -2568,7 +2568,7 @@ for 20 years. What color is this? <name type="ORG">Sharpie</name>?
 <line>
 Okay. I dye my hair.
 
-Nobody makes f<name type="ORG">un</name> of <name type="PERSON">Dennis</name> Rodman.
+Nobody makes fun of <name type="PERSON">Dennis</name> Rodman.
 
 </line>
 
@@ -2732,7 +2732,7 @@ An app?
 
 
 <line>
-<nonVerbComm>[woman on <name type="GPE">PA</name>]</nonVerbComm>
+<nonVerbComm>[woman on PA]</nonVerbComm>
 
 <ital>Welcome to Dulles International Airport.</ital>
 
@@ -2784,7 +2784,7 @@ An app?
 
 
 <line>
-<ital>and enjoy <name type="GPE">DC</name>.</ital>
+<ital>and enjoy DC.</ital>
 
 </line>
 
@@ -2806,13 +2806,13 @@ Huh.
 <line>
 -[<name type="PERSON">BoJack</name>] What?
 
--Is that ol' <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>?
+-Is that ol' <name type="PERSON">BoJack Horseman</name>?
 
 </line>
 
 
 <line>
-Oh, no, it's <ital>old</ital> <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>!
+Oh, no, it's <ital>old</ital> <name type="PERSON">BoJack Horseman</name>!
 
 'Cause your hair is grey.
 
@@ -2820,7 +2820,7 @@ Oh, no, it's <ital>old</ital> <name type="PERSON">BoJack</name> <name type="PERS
 
 
 <line>
--What are you doing in <name type="GPE">DC</name>?
+-What are you doing in DC?
 
 -Addressing <name type="ORG">Congress</name>, of course.
 
@@ -3104,7 +3104,7 @@ Pardon my state.
 
 
 <line>
-I was mid-trek up the Los Angeles Crest
+I was mid-trek up the <name type="GPE">Los</name> Angeles Crest
 
 when I received your text.
 
@@ -3124,7 +3124,7 @@ Would you be interested in interviewing
 
 for a job here
 
-as <name type="ORG">VIM</name>'s Chief of Operations?
+as VIM's Chief of Operations?
 
 </line>
 
@@ -3342,7 +3342,7 @@ Hmm... I think I may have an idea.
 
 
 <line>
-<ital><music>♪ 'Cause there was no <name type="PERSON">s<name type="ORG">un</name></name>light ♪</music></ital>
+<ital><music>♪ 'Cause there was no sunlight ♪</music></ital>
 
 </line>
 
@@ -3470,7 +3470,7 @@ thou must also forgive thyself.
 
 
 <line>
-"<name type="PERSON">T</name>hough thy sins be like scarlet,
+"Though thy sins be like scarlet,
 
 they shall be white as snow."
 

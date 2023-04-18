@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>The Kidney Stays in the Picture - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>The Kidney Stays in the Picture - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -194,7 +194,7 @@ Nobody can know about this.
 <line>
 There are 20 struggling addicts
 
-in this building w<name type="PERSON">ho</name> are counting on me.
+in this building who are counting on me.
 
 </line>
 
@@ -206,7 +206,7 @@ in this building w<name type="PERSON">ho</name> are counting on me.
 
 
 <line>
-I'm <name type="PERSON">gonna</name> go home, take a shower.
+I'm gonna go home, take a shower.
 
 </line>
 
@@ -268,7 +268,7 @@ Yes. Plus or minus the yelling.
 
 
 <line>
--I'm just <name type="PERSON">gonna</name> let go.
+-I'm just gonna let go.
 
 -Don't--
 
@@ -468,7 +468,7 @@ Feels like a cheat on the Z.
 
 
 <line>
-Todd, your mother needs your help.
+<name type="PERSON">Todd</name>, your mother needs your help.
 
 </line>
 
@@ -686,7 +686,7 @@ Yeah, yeah, that's good.
 
 But what do assistants want?
 
-i<name type="PERSON">T</name>unes gift cards? <name type="ORG">Amazon</name> gift cards?
+iTunes gift cards? <name type="ORG">Amazon</name> gift cards?
 
 </line>
 
@@ -776,7 +776,7 @@ advocacy group.
 
 
 <line>
-<name type="PERSON">T</name>hose guys are jizzin' their pants
+Those guys are jizzin' their pants
 
 over your heroic admission
 
@@ -842,7 +842,7 @@ Goodbye, fancy room.
 
 
 <line>
-Goodbye, chair. Goodbye, <name type="PERSON">Stinky <name type="PERSON">Susan</name></name>.
+Goodbye, <name type="PERSON">Stinky <name type="PERSON">Susan</name></name>.
 
 </line>
 
@@ -1092,7 +1092,7 @@ Oh...
 <line>
 Sorry, all our kidneys went to <name type="GPE">Chicago</name>.
 
-<name type="PERSON">Jeremiah Whitewhale</name> bought us out.
+Whitewhale</name> bought us out.
 
 </line>
 
@@ -1112,7 +1112,7 @@ Sorry, all our kidneys went to <name type="GPE">Chicago</name>.
 
 because he's a rich old guy
 
-w<name type="PERSON">ho</name> wants to live forever.
+who wants to live forever.
 
 </line>
 
@@ -1188,7 +1188,7 @@ during the party
 
 as long as nobody's estranged husband
 
-w<name type="PERSON">ho</name>'s a cop is visiting.
+who's a cop is visiting.
 
 </line>
 
@@ -1250,7 +1250,7 @@ and prove to you
 
 that I'm not just a wacky screw-up
 
-w<name type="PERSON">ho</name> engages primarily
+who engages primarily
 
 in goofy whimsical mess-arounds.
 
@@ -1408,7 +1408,7 @@ to ourselves.
 <line>
 And be careful, because
 
-if <name type="PERSON">Jeremiah Whitewhale</name> catches you,
+if Whitewhale</name> catches you,
 
 he can legally murder you.
 
@@ -1422,7 +1422,7 @@ Now, can I get anyone an imperial stout?
 
 
 <line>
-The barley was from <name type="GPE">Portland</name>, Maine,
+The barley was from <name type="GPE">Portland</name>, <name type="GPE">Maine</name>,
 
 but the brewery is in <name type="GPE">Portland</name>, Oregon!
 
@@ -1448,13 +1448,13 @@ you can get on board?
 
 
 <line>
-It's <name type="PERSON">gonna</name> work out.
+It's gonna work out.
 
 </line>
 
 
 <line>
-Things don't just work out, Todd!
+Things don't just work out, <name type="PERSON">Todd</name>!
 
 </line>
 
@@ -1590,7 +1590,7 @@ with my colleagues.
 
 
 <line>
-Why? <name type="PERSON">T</name>hose are assistants.
+Why? Those are assistants.
 
 </line>
 
@@ -1678,7 +1678,7 @@ in today's climate.
 <line>
 You've made the right decision.
 
-You're <name type="PERSON">gonna</name> love the new job.
+You're gonna love the new job.
 
 </line>
 
@@ -1704,11 +1704,11 @@ Hey! [grunts]
 
 
 <line>
-Sign here to r<name type="ORG">un</name> development
+Sign here to run development
 
-for <name type="PERSON">Saoirse Ronan's</name> production company,
+for <name type="PERSON">Saoirse Ronan</name>'s production company,
 
-<name type="ORG">Saoirse and Rescue</name>.
+Saoirse and Rescue.
 
 </line>
 
@@ -1776,7 +1776,7 @@ Okay, I'm going in.
 
 
 <line>
-Todd, promise me
+<name type="PERSON">Todd</name>, promise me
 
 you'll be perspicacious in there.
 
@@ -1848,7 +1848,7 @@ I thought your last name was <name type="PERSON">Nguyen</name>.
 
 
 <line>
--Oh! Uh, yeah, it is! Todd <name type="PERSON">Nguyen</name>.
+-Oh! Uh, yeah, it is! <name type="PERSON">Todd</name> <name type="PERSON">Nguyen</name>.
 
 -Not <name type="PERSON">Diane</name> <name type="PERSON">Nguyen</name>?
 
@@ -1864,7 +1864,7 @@ Oh, yeah! <name type="PERSON">Diane</name> <name type="PERSON">Nguyen</name>.
 <line>
 That's me, all right,
 
-or my name isn't Todd <name type="PERSON">Chavez</name>.
+or my name isn't <name type="PERSON">Todd</name> <name type="PERSON">Chavez</name>.
 
 </line>
 
@@ -1884,7 +1884,7 @@ you're <name type="PERSON">Diane</name> and I'll be <name type="PERSON">Jorge</n
 
 
 <line>
-Todd, get in the trash can.
+<name type="PERSON">Todd</name>, get in the trash can.
 
 </line>
 
@@ -2120,9 +2120,9 @@ But then how do you explain
 
 the one horse I do care about,
 
-my half-sister <name type="PERSON">Holly</name>hock,
+my half-sister Hollyhock,
 
-w<name type="PERSON">ho</name> is also a reminder of my father?
+who is also a reminder of my father?
 
 </line>
 
@@ -2148,7 +2148,7 @@ You blockhead, she's not your father!
 
 
 <line>
-<name type="PERSON">Holly</name>hock reminds you
+Hollyhock reminds you
 
 of the horse you hate the most. Yourself!
 
@@ -2316,7 +2316,7 @@ putting ketchup on a hot dog.
 
 
 <line>
-Oh, look. People w<name type="PERSON">ho</name> selected kidneys
+Oh, look. People who selected kidneys
 
 might also enjoy small intestines.
 
@@ -2396,7 +2396,7 @@ You weren't tough. You were mean.
 
 
 <line>
-I wanted so much for you, Todd.
+I wanted so much for you, <name type="PERSON">Todd</name>.
 
 </line>
 
@@ -2418,7 +2418,7 @@ because I am not a failure.
 
 
 <line>
-Look... [sighs] Okay, Todd.
+Look... [sighs] Okay, <name type="PERSON">Todd</name>.
 
 </line>
 
@@ -2470,7 +2470,7 @@ Then why haven't you called in ten years?
 <line>
 You don't think I wanted to?
 
-I'm not the one w<name type="PERSON">ho</name>...
+I'm not the one who...
 
 </line>
 
@@ -2604,7 +2604,7 @@ I'm not going until I get my kidney.
 
 
 <line>
--Todd, this is serious.
+-<name type="PERSON">Todd</name>, this is serious.
 
 -Yes, I understand.
 
@@ -2772,7 +2772,7 @@ I get a promotion, too?
 
 
 <line>
-<nonVerbComm>[Marv]</nonVerbComm> Princess Carolyn,
+<nonVerbComm>[Carolyn,
 
 I'd love to give you a raise,
 
@@ -2782,7 +2782,7 @@ but you're thinking like an assistant.
 
 
 <line>
-Any day now, you're <name type="PERSON">gonna</name> get promoted
+Any day now, you're gonna get promoted
 
 to agent and sign a brand-new contract,
 
@@ -2862,7 +2862,7 @@ I wrote, "<name type="PERSON">Billy Bob</name> showers!"
 
 
 <line>
-Ooh, that's not <name type="PERSON">gonna</name> fly, <name type="PERSON">P.C.</name>
+Ooh, that's not gonna fly, P.C.
 
 </line>
 
@@ -2874,9 +2874,9 @@ That guy hasn't showered since <ital>Bad Santa.</ital>
 
 
 <line>
-<ital>Man W<name type="PERSON">ho</name> Wasn't There?</ital>
+<ital>Man Who Wasn't There?</ital>
 
-More like "Man W<name type="PERSON">ho</name> Doesn't Wash There."
+More like "Man Who Doesn't Wash There."
 
 </line>
 
@@ -3002,7 +3002,7 @@ Oh...
 <line>
 -Hey! Keep your hands where I can see 'em.
 
--Look, this is all a mi<name type="PERSON">s<name type="ORG">un</name></name>derstanding.
+-Look, this is all a misunderstanding.
 
 </line>
 
@@ -3052,7 +3052,7 @@ Away From This Stinky <name type="PERSON">Guy</name>!"
 
 
 <line>
-What the...? Hey, w<name type="PERSON">ho</name>'s in my chair?
+What the...? Hey, who's in my chair?
 
 </line>
 
@@ -3132,7 +3132,7 @@ and start in earnest tomorrow.
 <line>
 <nonVerbComm>[clears throat]</nonVerbComm>
 
-Todd, I, uh... owe you an apology.
+<name type="PERSON">Todd</name>, I, uh... owe you an apology.
 
 </line>
 
@@ -3208,7 +3208,7 @@ Well, she has my number.
 
 
 <line>
--That's cold, Todd.
+-That's cold, <name type="PERSON">Todd</name>.
 
 -What do you expect?
 
@@ -3260,7 +3260,7 @@ Why would you do that?
 
 
 <line>
-<name type="PERSON">T</name>hose people need me
+Those people need me
 
 to be an example of success.
 
@@ -3278,7 +3278,7 @@ unless you're honest with yourself.
 <line>
 -A wise man told me that.
 
--W<name type="PERSON">ho</name>? What wise man?
+-Who? What wise man?
 
 </line>
 
@@ -3364,7 +3364,7 @@ Because I cared about you.
 
 
 <line>
-And you ruin people w<name type="PERSON">ho</name> care about you.
+And you ruin people who care about you.
 
 </line>
 
@@ -3452,7 +3452,7 @@ I remember everything. I'm sober now.
 <line>
 <ital>♪ It's been so long</ital>
 
-<ital>I don't think I'm <name type="PERSON">gonna</name> last ♪</ital>
+<ital>I don't think I'm gonna last ♪</ital>
 
 </line>
 

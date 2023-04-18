@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>That Went Well - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>That Went Well - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -28,7 +28,7 @@
 
 
 <line>
-<ital>I'm <name type="PERSON">gonna</name> slow things down.</ital>
+<ital>I'm gonna slow things down.</ital>
 
 </line>
 
@@ -138,7 +138,7 @@ hang out for a minute?
 
 and you're doing the print ads
 
-for <name type="PERSON">Sarah</name> <name type="PERSON">Lynn</name>'s Stank,
+for Stank,
 
 the new fragrance from <name type="PERSON">Kevin</name> Kline.
 
@@ -154,7 +154,7 @@ the new fragrance from <name type="PERSON">Kevin</name> Kline.
 
 
 <line>
-He's the only man w<name type="PERSON">ho</name> truly
+He's the only man who truly
 
 understands my fragrance.
 
@@ -200,13 +200,13 @@ because I'm <name type="PERSON">Sarah</name> <name type="PERSON">Lynn</name>, yo
 <line>
 -Nobody cares about <name type="PERSON">Sarah</name> Lipschitz.
 
--W<name type="PERSON">ho</name>'s <name type="PERSON">Sarah</name> Lipschitz?
+-Who's <name type="PERSON">Sarah</name> Lipschitz?
 
 </line>
 
 
 <line>
-The lawyer w<name type="PERSON">ho</name> helped me change
+The lawyer who helped me change
 
 my name from <name type="PERSON">Sarah</name> Helmulfarb.
 
@@ -214,7 +214,7 @@ my name from <name type="PERSON">Sarah</name> Helmulfarb.
 
 
 <line>
-<name type="PERSON">Oof</name>!
+Oof!
 
 </line>
 
@@ -222,7 +222,7 @@ my name from <name type="PERSON">Sarah</name> Helmulfarb.
 <line>
 It is so great to see a real friend
 
-w<name type="PERSON">ho</name> knew me before I got huge
+who knew me before I got huge
 
 and isn't just trying
 
@@ -284,7 +284,7 @@ What is going on with you?
 <line>
 Well, actually, I'm doing this new show,
 
-<ital>The <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name> Show.</ital>
+<ital>The <name type="PERSON">BoJack Horseman</name> Show.</ital>
 
 </line>
 
@@ -300,7 +300,7 @@ Well, actually, I'm doing this new show,
 <line>
 Yeah, no, of course, no,
 
-but it's been a lot of f<name type="ORG">un</name>.
+but it's been a lot of fun.
 
 </line>
 
@@ -326,7 +326,7 @@ Oh. You want me to be on your show?
 <line>
 Well, I just thought it would
 
-be really f<name type="ORG">un</name> for... the both of us.
+be really fun for... the both of us.
 
 </line>
 
@@ -464,9 +464,9 @@ I feel it. What say you, skippy?
 
 
 <line>
-<nonVerbComm>[Todd's voice]</nonVerbComm> <ital>I think you got a touch</ital>
+<nonVerbComm>[<name type="PERSON">Todd</name>'s voice]</nonVerbComm> <ital>I think you got a touch</ital>
 
-<ital>of the ocean madness, Margo.</ital>
+<ital>of the ocean madness, <name type="PERSON">Margo</name>.</ital>
 
 </line>
 
@@ -500,19 +500,19 @@ and fix Mama a Sazerac.
 <line>
 Hey, is that character actress
 
-Margo Martindale?
+<name type="PERSON">Margo</name> <name type="PERSON">Martindale</name>?
 
 </line>
 
 
 <line>
-She's on the <name type="ORG">FBI</name>'s Most Wanted list
+She's on the FBI's Most Wanted list
 
 </line>
 
 
 <line>
-and <name type="ORG">the AV Club's</name> list of 20 actresses
+and the AV Club's list of 20 actresses
 
 that always make everything better.
 
@@ -556,7 +556,7 @@ We're being paid to pilot this blimp.
 
 
 <line>
-<ital>Hey, Margo, do you see something</ital>
+<ital>Hey, <name type="PERSON">Margo</name>, do you see something</ital>
 
 <ital>out there across the water?</ital>
 
@@ -584,7 +584,7 @@ Yeah. What is that?
 <line>
 <nonVerbComm>[<name type="NORP">British</name> accent]</nonVerbComm>
 
-All clear from here to Los Angeles.
+All clear from here to <name type="GPE">Los</name> Angeles.
 
 </line>
 
@@ -690,13 +690,13 @@ Wanna play a game of chicken, huh?
 <line>
 <ital>I don't think</ital>
 
-<ital>this is a good idea, Margo.</ital>
+<ital>this is a good idea, <name type="PERSON">Margo</name>.</ital>
 
 </line>
 
 
 <line>
-Cram it, skip! <name type="PERSON">T</name>hose limp dicks
+Cram it, skip! Those limp dicks
 
 are about to find out
 
@@ -708,7 +708,7 @@ have known for years.
 
 
 <line>
-Character actress Margo Martindale
+Character actress <name type="PERSON">Margo</name> <name type="PERSON">Martindale</name>
 
 ain't afraid of nothin'!
 
@@ -852,7 +852,7 @@ have leaked into the ocean,
 <line>
 and the massive carbo load
 
-is heading straight to <name type="LOC">Pacific Ocean City</name>.
+is heading straight to <name type="LOC">Pacific Ocean</name> City.
 
 </line>
 
@@ -878,7 +878,7 @@ is spaghetti scientist Carla Hall.
 <line>
 -What can you tell us, Carla?
 
--Well, Tom, as the spaghetti cooks,
+-Well, <name type="PERSON">Tom</name>, as the spaghetti cooks,
 
 </line>
 
@@ -892,7 +892,7 @@ it will expand, smothering the town
 <line>
 and tenderly broiling the sea life
 
-w<name type="PERSON">ho</name> reside there.
+who reside there.
 
 </line>
 
@@ -952,7 +952,7 @@ hot, sexy killer whales.
 <line>
 Is there such a savior
 
-w<name type="PERSON">ho</name> could possibly fit
+who could possibly fit
 
 that ridiculously specific
 
@@ -962,7 +962,7 @@ set of criteria?
 
 
 <line>
-I don't know, Tom, but as they used to say
+I don't know, <name type="PERSON">Tom</name>, but as they used to say
 
 on my favorite TV show, let's find out.
 
@@ -970,7 +970,7 @@ on my favorite TV show, let's find out.
 
 
 <line>
-A movie, during the day? Dare I?
+A movie, during the day? <name type="PERSON">Dare</name> I?
 
 </line>
 
@@ -1004,7 +1004,7 @@ they'll just have to wait.
 
 
 <line>
-<nonVerbComm>[Tom on TV]</nonVerbComm> <ital>This tragedy truly puts</ital>
+<nonVerbComm>[<name type="PERSON">Tom</name> on TV]</nonVerbComm> <ital>This tragedy truly puts</ital>
 
 <ital>the "no" into noodle,</ital>
 
@@ -1040,7 +1040,7 @@ They need spaghetti strainers stat,
 
 or it's "pasta la vista"
 
-for <name type="LOC">Pacific Ocean City</name>.
+for <name type="LOC">Pacific Ocean</name> City.
 
 </line>
 
@@ -1098,7 +1098,7 @@ No!
 
 
 <line>
-Oh-<name type="PERSON">ho</name>-<name type="PERSON">ho</name>!
+Oh-ho-ho!
 
 </line>
 
@@ -1138,7 +1138,7 @@ Wow, that was a good movie.
 
 
 <line>
-Was it <name type="PERSON">Oscar</name>-worthy? W<name type="PERSON">ho</name>'s to say?
+Was it <name type="PERSON">Oscar</name>-worthy? Who's to say?
 
 </line>
 
@@ -1152,7 +1152,7 @@ Better listen to them all, in order.
 
 
 <line>
-<nonVerbComm>[Todd]</nonVerbComm> <ital>Mr. Peanutbutter, call me back</ital>
+<nonVerbComm>[Peanutbutter, call me back</ital>
 
 <ital>as soon as you get this, okay?</ital>
 
@@ -1170,7 +1170,7 @@ Better listen to them all, in order.
 <line>
 -Oh, my <name type="PERSON">God</name>!
 
--[Todd]<ital> Mr. Peanutbutter,</ital>
+-[Peanutbutter,</ital>
 
 </line>
 
@@ -1382,7 +1382,7 @@ That's too much, man!
 <line>
 I never understood why
 
-the <ital><name type="PERSON">Horsin</name>' Around</ital> house
+the <ital>Horsin' Around</ital> house
 
 </line>
 
@@ -1472,7 +1472,7 @@ and it doesn't get easier.
 <line>
 I can't keep lying to myself,
 
-saying "I'm <name type="PERSON">gonna</name> change." I'm poison.
+saying "I'm gonna change." I'm poison.
 
 </line>
 
@@ -1506,7 +1506,7 @@ for the life that I've lived,
 
 and I have nobody in my life
 
-w<name type="PERSON">ho</name>'s better off for having known me.
+who's better off for having known me.
 
 </line>
 
@@ -1552,9 +1552,9 @@ But, for half an hour every week,
 
 I got to watch this show
 
-about four people w<name type="PERSON">ho</name> had nobody,
+about four people who had nobody,
 
-w<name type="PERSON">ho</name> came together and became a family.
+who came together and became a family.
 
 </line>
 
@@ -1572,7 +1572,7 @@ and it helped me survive.
 <line>
 <name type="PERSON">BoJack</name>, there are millions of people
 
-w<name type="PERSON">ho</name> are better off for having known you.
+who are better off for having known you.
 
 </line>
 
@@ -1658,7 +1658,7 @@ Is this <name type="PERSON">Jeff</name> from <name type="ORG">Hammers</name> and
 
 
 <line>
--No, it's me, <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>.
+-No, it's me, <name type="PERSON">BoJack Horseman</name>.
 
 -Wait, really?
 
@@ -1668,13 +1668,13 @@ Is this <name type="PERSON">Jeff</name> from <name type="ORG">Hammers</name> and
 <line>
 Yeah. I think now more than ever
 
-people need shows like <ital><name type="PERSON">Horsin</name>' Around.</ital>
+people need shows like <ital>Horsin' Around.</ital>
 
 </line>
 
 
 <line>
-I... need a show like <ital><name type="PERSON">Horsin</name>' Around.</ital>
+I... need a show like <ital>Horsin' Around.</ital>
 
 </line>
 
@@ -1774,7 +1774,7 @@ at one disaster area,
 
 and, suddenly, everybody loves you,
 
-unless you're Sean <name type="ORG">Penn</name>.
+unless you're <name type="PERSON">Sean</name> <name type="ORG">Penn</name>.
 
 </line>
 
@@ -1916,7 +1916,7 @@ had never been to Cairo?
 
 
 <line>
-<name type="PERSON">T</name>hose Egyptians really know
+Those Egyptians really know
 
 how to treat a cat.
 
@@ -2140,7 +2140,7 @@ And I like this.
 <line>
 That was smart of you
 
-to think of <name type="PERSON">Diane</name> for <name type="ORG">GirlCrush</name>.
+to think of <name type="PERSON">Diane</name> for GirlCrush.
 
 </line>
 
@@ -2260,7 +2260,7 @@ This is a new beginning.
 
 
 <line>
--I'm <name type="PERSON">gonna</name> be a manager!
+-I'm gonna be a manager!
 
 -Oh...
 
@@ -2436,7 +2436,7 @@ I'm looking at you like,
 
 
 <line>
-"This parenting thing is <name type="PERSON">gonna</name>
+"This parenting thing is gonna
 
 be harder than I thought,"
 
@@ -2516,13 +2516,13 @@ but, like, also not an umbrella.
 
 
 <line>
-That's <name type="ORG">GirlCroosh</name>.
+That's GirlCroosh.
 
 </line>
 
 
 <line>
-Sorry, did you say "<name type="PERSON">croosh</name>"?
+Sorry, did you say "croosh"?
 
 </line>
 
@@ -2576,7 +2576,7 @@ and extend my personal brand
 
 as a real down-to-earth <ital>chica</ital>
 
-w<name type="PERSON">ho</name> cares about real women.
+who cares about real women.
 
 </line>
 
@@ -2604,7 +2604,7 @@ I want to give you a real support system,
 
 because, honestly, <name type="PERSON">Diane</name>,
 
-what you do is so <name type="PERSON">croosh</name>.
+what you do is so croosh.
 
 </line>
 
@@ -2680,7 +2680,7 @@ and you have a real hot take?
 <line>
 If I have a problem with my husband,
 
-I'm <name type="PERSON">gonna</name> talk to him about it directly.
+I'm gonna talk to him about it directly.
 
 </line>
 
@@ -2696,7 +2696,7 @@ as much as you love him
 
 and as much as he loves you,
 
-he's never <name type="PERSON">gonna</name> get it?
+he's never gonna get it?
 
 </line>
 
@@ -2808,7 +2808,7 @@ What did you expect?
 
 
 <line>
-Todd, as a millionaire?
+<name type="PERSON">Todd</name>, as a millionaire?
 
 That'll lead to some interesting stories.
 
@@ -2818,13 +2818,13 @@ That'll lead to some interesting stories.
 <line>
 What an exciting development.
 
-How's that <name type="PERSON">gonna</name> change the dynamic?
+How's that gonna change the dynamic?
 
 </line>
 
 
 <line>
--I guess we're <name type="PERSON">gonna</name> find out, right?
+-I guess we're gonna find out, right?
 
 -You can leave now.
 
@@ -2832,7 +2832,7 @@ How's that <name type="PERSON">gonna</name> change the dynamic?
 
 
 <line>
-<name type="PERSON">Hooray</name>! Todd's in the one percent.
+<name type="PERSON">Hooray</name>! <name type="PERSON">Todd</name>'s in the one percent.
 
 </line>
 
@@ -2860,7 +2860,7 @@ Oh, uh...
 <line>
 <name type="PERSON">Julia</name>, this ice cream is only for girls
 
-w<name type="PERSON">ho</name> try on their roller skates.
+who try on their roller skates.
 
 </line>
 
@@ -2868,7 +2868,7 @@ w<name type="PERSON">ho</name> try on their roller skates.
 <line>
 -So, what do you say?
 
--Uh, I'm <name type="PERSON">gonna</name> swipe left on that idea.
+-Uh, I'm gonna swipe left on that idea.
 
 </line>
 
@@ -2898,7 +2898,7 @@ w<name type="PERSON">ho</name> try on their roller skates.
 
 
 <line>
--Are you having f<name type="ORG">un</name>?
+-Are you having fun?
 
 -Mm-hmm.
 
@@ -3026,7 +3026,7 @@ I don't know.
 
 
 <line>
-So, what are you <name type="PERSON">gonna</name> do
+So, what are you gonna do
 
 with your eight million dollars?
 
@@ -3034,7 +3034,7 @@ with your eight million dollars?
 
 
 <line>
-First, I'm <name type="PERSON">gonna</name> get a really fancy hat,
+First, I'm gonna get a really fancy hat,
 
 like, really fancy.
 
@@ -3042,7 +3042,7 @@ like, really fancy.
 
 
 <line>
-Then, I'm <name type="PERSON">gonna</name> get a <name type="PERSON">T</name>-shirt
+Then, I'm gonna get a T-shirt
 
 that says, "Hey, look at my hat."
 
@@ -3082,7 +3082,7 @@ We should go sometime, together.
 
 
 <line>
--Todd, can I ask you something?
+-<name type="PERSON">Todd</name>, can I ask you something?
 
 -Of course.
 
@@ -3196,7 +3196,7 @@ Well, guess I'm broke again.
 <line>
 -[doorbell rings]
 
--W<name type="PERSON">ho</name> could that be?
+-Who could that be?
 
 </line>
 
@@ -3306,7 +3306,7 @@ Whoa.
 <line>
 <nonVerbComm>[<name type="PERSON">Diane</name>]</nonVerbComm>
 
-W<name type="PERSON">ho</name>'s at the door? Is it pizza?
+Who's at the door? Is it pizza?
 
 </line>
 
@@ -3336,7 +3336,7 @@ and you have a lunch at 11:30.
 
 trying to get in touch
 
-with <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>.
+with <name type="PERSON">BoJack Horseman</name>.
 
 </line>
 

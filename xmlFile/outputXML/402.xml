@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>The Old <name type="PERSON">Sugarman</name> Place - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>The Old <name type="PERSON">Sugarman</name> Place - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -150,7 +150,7 @@
 
 
 <line>
-<ital><music>♪ After two days in the desert <name type="PERSON">s<name type="ORG">un</name></name> ♪</music></ital>
+<ital><music>♪ After two days in the desert sun ♪</music></ital>
 
 </line>
 
@@ -162,7 +162,7 @@
 
 
 <line>
-<ital><music>♪ After three days in the desert f<name type="ORG">un</name> ♪</music></ital>
+<ital><music>♪ After three days in the desert fun ♪</music></ital>
 
 </line>
 
@@ -314,7 +314,7 @@ and gives you a spankin'.
 <line>
 Well, the photographer's here.
 
-Where is Cracker<name type="PERSON">jack</name>?
+Where is Crackerjack?
 
 </line>
 
@@ -350,7 +350,7 @@ It is summer, after all.
 <line>
 Oh, that would be a dream,
 
-but w<name type="PERSON">ho</name> else but I will make sure
+but who else but I will make sure
 
 the numbers add up
 
@@ -390,7 +390,7 @@ and enjoy a pint.
 
 
 <line>
-All right, Cracker<name type="PERSON">jack</name>, time's a-tickin'.
+All right, Crackerjack, time's a-tickin'.
 
 </line>
 
@@ -448,11 +448,11 @@ Oh, all right.
 
 
 <line>
-Cracker<name type="PERSON">jack</name>, you look so handsome
+Crackerjack, you look so handsome
 
 in your soldier suit,
 
-like a <name type="PERSON">yo</name>ung Clark Gerbil.
+like a young Clark Gerbil.
 
 </line>
 
@@ -536,7 +536,7 @@ It merely marches forward.
 
 
 <line>
-Oh, really? Time's arrow marches?
+Oh, really? <name type="ORG">Time</name>'s arrow marches?
 
 </line>
 
@@ -678,7 +678,7 @@ so don't forget to look far away sad.
 
 
 <line>
--Hey, I'm Tamara, that's Tamera.
+-Hey, I'm <name type="PERSON">Tamara</name>, that's <name type="PERSON">Tamera</name>.
 
 -[gasps]
 
@@ -704,7 +704,7 @@ so don't forget to look far away sad.
 <line>
 -I get that all the time, it's--
 
--No, <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>.
+-No, <name type="PERSON">BoJack Horseman</name>.
 
 </line>
 
@@ -742,7 +742,7 @@ so don't forget to look far away sad.
 
 
 <line>
-You know w<name type="PERSON">ho</name> looks like <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>?
+You know who looks like <name type="PERSON">BoJack Horseman</name>?
 
 <name type="PERSON">Phil</name> the stock boy.
 
@@ -886,7 +886,7 @@ making a miniseries about <name type="PERSON">Sarah</name> <name type="PERSON">L
 
 
 <line>
--<name type="PERSON">BoJack</name> is being played by <name type="PERSON">Paul Giamatti</name>.
+-<name type="PERSON">BoJack</name> is being played by <name type="PERSON">Paul</name> Giamatti.
 
 -What?!
 
@@ -894,7 +894,7 @@ making a miniseries about <name type="PERSON">Sarah</name> <name type="PERSON">L
 
 
 <line>
-Why would you get <name type="PERSON">Paul Giamatti</name>
+Why would you get <name type="PERSON">Paul</name> Giamatti
 
 to play me... meaty roles like that one?
 
@@ -1004,7 +1004,7 @@ Hey, we got a saying in Michigan:
 <line>
 "Put your damn door back on or you're 
 
-<name type="PERSON">gonna</name> freeze to death, you stupid horse!"
+gonna freeze to death, you stupid horse!"
 
 </line>
 
@@ -1012,13 +1012,13 @@ Hey, we got a saying in Michigan:
 <line>
 -Hey, what's your name?
 
--Eddie.
+-<name type="PERSON">Eddie</name>.
 
 </line>
 
 
 <line>
-Eddie, why don't you mind
+<name type="PERSON">Eddie</name>, why don't you mind
 
 your goddamn business?
 
@@ -1032,7 +1032,7 @@ your goddamn business?
 
 
 <line>
-<ital>Tell me, doc, is she <name type="PERSON">gonna</name> be okay?</ital>
+<ital>Tell me, doc, is she gonna be okay?</ital>
 
 </line>
 
@@ -1266,7 +1266,7 @@ Why did you fix this so good?
 <line>
 If you keep breaking it,
 
-I'm <name type="PERSON">gonna</name> break you.
+I'm gonna break you.
 
 </line>
 
@@ -1280,7 +1280,7 @@ because I'm already broken.
 
 
 <line>
-Kit Kats aren't already broken.
+<name type="PERSON">Kit Kat</name>s aren't already broken.
 
 That's the whole point.
 
@@ -1332,13 +1332,13 @@ are so annoying.
 <line>
 Heh! You're telling me!
 
-Tamera and Tamara are the worst.
+<name type="PERSON">Tamera</name> and <name type="PERSON">Tamara</name> are the worst.
 
 </line>
 
 
 <line>
-Yeah. "Hey, Tamara, how about
+Yeah. "Hey, <name type="PERSON">Tamara</name>, how about
 
 you get some manners ta-day?"
 
@@ -1416,15 +1416,15 @@ I have to ask, are you...
 
 
 <line>
--<name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>? No.
+-<name type="PERSON">BoJack Horseman</name>? No.
 
--What? W<name type="PERSON">ho</name>'s <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>?
+-What? Who's <name type="PERSON">BoJack Horseman</name>?
 
 </line>
 
 
 <line>
-W<name type="PERSON">ho</name>'s <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>?
+Who's <name type="PERSON">BoJack Horseman</name>?
 
 He's a very famous TV and film star.
 
@@ -1462,7 +1462,7 @@ in this very room.
 <line>
 But he's not,
 
-'cause I'm not <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>.
+'cause I'm not <name type="PERSON">BoJack Horseman</name>.
 
 </line>
 
@@ -1478,7 +1478,7 @@ What I was going to ask was
 
 if you were related to Joseph <name type="PERSON">Sugarman</name>,
 
-or if you were just <name type="ORG">squattin</name>'
+or if you were just squattin'
 
 in his house?
 
@@ -1614,7 +1614,7 @@ time's arrow marches forward.
 <line>
 You hear that, honey?
 
-Time's arrow marches.
+<name type="ORG">Time</name>'s arrow marches.
 
 </line>
 
@@ -1752,7 +1752,7 @@ Oh. Uh, all right.
 
 
 <line>
-<nonVerbComm>[Eddie]</nonVerbComm> Oh, lordy.
+<nonVerbComm>[<name type="PERSON">Eddie</name>]</nonVerbComm> Oh, lordy.
 
 </line>
 
@@ -1778,7 +1778,7 @@ Oh, yeah, that's right.
 <line>
 -Oh.
 
--[Eddie chuckling]
+-[<name type="PERSON">Eddie</name> chuckling]
 
 </line>
 
@@ -1792,7 +1792,7 @@ Oh, yeah, that's right.
 
 
 <line>
-Why'd you say you can't fly? W<name type="PERSON">ho</name>'s that
+Why'd you say you can't fly? Who's that
 
 other person you're clearly in love with?
 
@@ -1848,7 +1848,7 @@ What are those fireworks for, Mother?
 
 
 <line>
-<name type="PERSON">T</name>hose are because the war is over.
+Those are because the war is over.
 
 </line>
 
@@ -1892,7 +1892,7 @@ Ha ha! What? Too soon?
 
 
 <line>
-The Crab Brothers w<name type="PERSON">ho</name> r<name type="ORG">un</name> this place
+The Crab Brothers who run this place
 
 are total scavengers.
 
@@ -1928,7 +1928,7 @@ will shimmy up a drain pipe to get it,
 
 that makes more sense
 
-than the dragonfly, w<name type="PERSON">ho</name> has the word "fly"
+than the dragonfly, who has the word "fly"
 
 in the name of what he is.
 
@@ -1960,7 +1960,7 @@ You walked away, while I make my point.
 
 
 <line>
-I'm <name type="PERSON">gonna</name> play a song now,
+I'm gonna play a song now,
 
 so look at me!
 
@@ -2092,7 +2092,7 @@ Huh.
 
 
 <line>
-<nonVerbComm>[Eddie]</nonVerbComm> <ital><music>♪ Up and down ♪</music></ital>
+<nonVerbComm>[<name type="PERSON">Eddie</name>]</nonVerbComm> <ital><music>♪ Up and down ♪</music></ital>
 
 </line>
 
@@ -2166,7 +2166,7 @@ Was it quick? Did he suffer?
 
 
 <line>
--Hey, Eddie, come on. Eddie, let's go!
+-Hey, <name type="PERSON">Eddie</name>, come on. <name type="PERSON">Eddie</name>, let's go!
 
 -[sobbing]
 
@@ -2260,7 +2260,7 @@ have one more drink to steady your nerves
 
 and then drive yourself
 
-and your <name type="PERSON">yo</name>ung daughter home.
+and your young daughter home.
 
 </line>
 
@@ -2276,7 +2276,7 @@ to that quiet house, please.
 <line>
 -Mother, let's go.
 
--Eddie, let's go!
+-<name type="PERSON">Eddie</name>, let's go!
 
 </line>
 
@@ -2330,7 +2330,7 @@ Everything will be just grand.
 <line>
 -[<name type="PERSON">BoJack</name> laughing]
 
--[Eddie] Whoo!
+-[<name type="PERSON">Eddie</name>] Whoo!
 
 </line>
 
@@ -2384,7 +2384,7 @@ I'd do anything to feel alive.
 
 
 <line>
-<nonVerbComm>[Eddie laughing]</nonVerbComm>
+<nonVerbComm>[<name type="PERSON">Eddie</name> laughing]</nonVerbComm>
 
 </line>
 
@@ -2394,7 +2394,7 @@ I gotta say, you really knew
 
 how to handle those salad tongs
 
-for someone w<name type="PERSON">ho</name> appears
+for someone who appears
 
 to have never eaten a salad.
 
@@ -2408,9 +2408,9 @@ Yeah? Well, you got a nice set of pipes.
 
 
 <line>
-You're like <name type="PERSON">a Josh Groban</name>
+You're like a <name type="PERSON">Josh Groban</name>
 
-w<name type="PERSON">ho</name> doesn't also think he's funny.
+who doesn't also think he's funny.
 
 </line>
 
@@ -2450,7 +2450,7 @@ Don't sweat it.
 
 
 <line>
-Hey, Eddie.
+Hey, <name type="PERSON">Eddie</name>.
 
 </line>
 
@@ -2518,7 +2518,7 @@ You're flying right now, asshole!
 
 
 <line>
-I haven't flown since Lorraine died,
+I haven't flown since <name type="PERSON">Lorraine</name> died,
 
 and now you ruined it.
 
@@ -2564,7 +2564,7 @@ wrong to bring it up. Let's go back down.
 
 
 <line>
-The night Lorraine died
+The night <name type="PERSON">Lorraine</name> died
 
 she wanted to go back,
 
@@ -2582,7 +2582,7 @@ Whoa! Plane! Look out!
 
 
 <line>
-You want to know how Lorraine felt
+You want to know how <name type="PERSON">Lorraine</name> felt
 
 when she got sucked into that engine?
 
@@ -2826,7 +2826,7 @@ I don't belong anywhere.
 <line>
 But that's the thing,
 
-everybody belongs in Los Angeles.
+everybody belongs in <name type="GPE">Los</name> Angeles.
 
 </line>
 
@@ -3050,7 +3050,7 @@ you'll never love anyone
 
 
 <line>
--as much as I loved Cracker<name type="PERSON">jack</name>.
+-as much as I loved Crackerjack.
 
 -I promise. I won't.
 
@@ -3102,7 +3102,7 @@ Tear the <ital>house </ital>down?!
 <line>
 Uh, yeah. You think I just want
 
-to <name type="PERSON">mope</name> around in a shrine to the past,
+to mope around in a shrine to the past,
 
 getting off on my own guilt
 
@@ -3178,7 +3178,7 @@ Guess it was just a big waste of time.
 <line>
 But you can't change the past.
 
-Time's arrow marches on, right?
+<name type="ORG">Time</name>'s arrow marches on, right?
 
 </line>
 
@@ -3258,7 +3258,7 @@ suck a dick, dumbshit. [grunts]
 
 
 <line>
-<ital>-<music>♪ I don't think I'm <name type="PERSON">gonna</name> last ♪</music></ital>
+<ital>-<music>♪ I don't think I'm gonna last ♪</music></ital>
 
 -[wood and glass clattering]
 

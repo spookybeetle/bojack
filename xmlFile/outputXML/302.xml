@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>The <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name> Show - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>The <name type="PERSON">BoJack Horseman</name> Show - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -60,9 +60,9 @@ Yeah.
 
 
 <line>
-<nonVerbComm>[man]</nonVerbComm> <ital>Good morning, Hollywood.</ital>
+<nonVerbComm>[man]</nonVerbComm> <ital>Hollywood.</ital>
 
-<ital>It's a beautiful morning in <name type="PERSON">s<name type="ORG">un</name></name>ny 2007.</ital>
+<ital>It's a beautiful morning in sunny 2007.</ital>
 
 </line>
 
@@ -102,7 +102,7 @@ for you to turn down.
 
 
 <line>
-If Marv brought me something good,
+If <name type="PERSON">Marv</name> brought me something good,
 
 I would do it.
 
@@ -118,7 +118,7 @@ from my last gig.
 
 
 <line>
-<ital><name type="PERSON">Horsin</name>' Around?</ital>
+<ital>Horsin' Around?</ital>
 
 That ended 11 years ago.
 
@@ -134,7 +134,7 @@ Really? Where does the time go?
 
 
 <line>
-What, you're just <name type="PERSON">gonna</name> stay at home
+What, you're just gonna stay at home
 
 and get drunk all day?
 
@@ -150,7 +150,7 @@ to play hooky and hang out with me.
 
 
 <line>
-I got a new HD D<name type="PERSON">VD</name> player.
+I got a new HD DVD player.
 
 </line>
 
@@ -162,7 +162,7 @@ Let's get wrecked and get <name type="PERSON">Shreked</name>.
 
 
 <line>
-<name type="PERSON">BoJack</name>, last night was f<name type="ORG">un</name>
+<name type="PERSON">BoJack</name>, last night was fun
 
 and you're sweet, sort of.
 
@@ -240,13 +240,13 @@ Yeah.
 
 
 <line>
-Hey, Todd, I think you just got a text.
+Hey, <name type="PERSON">Todd</name>, I think you just got a text.
 
 </line>
 
 
 <line>
-<name type="PERSON">"W<name type="PERSON">ho</name></name> do you like,
+"Who do you like,
 
 question mark, colon, bracket"?
 
@@ -260,7 +260,7 @@ That's a smiley face, homeslice.
 
 
 <line>
-- W<name type="PERSON">ho</name> do you like?
+- Who do you like?
 
 - I don't like anyone.
 
@@ -292,7 +292,7 @@ That's like saying you like Fergie.
 
 
 <line>
-- W<name type="PERSON">ho</name> do you like?
+- Who do you like?
 
 - I'm not allowed to like anyone.
 
@@ -310,7 +310,7 @@ Do you know <ital>The Sopranos?</ital>
 <line>
 The show, or that weird saxophone
 
-that <name type="PERSON">Kenny G</name> plays?
+that <name type="PERSON">Kenny</name> G plays?
 
 </line>
 
@@ -330,7 +330,7 @@ Whoa! Hey, speaking of mobs,
 
 
 <line>
-we gotta bounce if we're <name type="PERSON">gonna</name> make
+we gotta bounce if we're gonna make
 
 that flash mob at the <name type="LOC">Grove</name>.
 
@@ -448,7 +448,7 @@ a very strange offer.
 
 
 <line>
-But I'm <name type="PERSON">gonna</name> hear him out.
+But I'm gonna hear him out.
 
 Always take the meeting.
 
@@ -536,7 +536,7 @@ Name?
 
 
 <line>
-<nonVerbComm>[sighs]</nonVerbComm> Girl from <ital>Seventh Heaven </ital>w<name type="PERSON">ho</name>
+<nonVerbComm>[sighs]</nonVerbComm> Girl from <ital>Seventh Heaven </ital>who
 
 took her clothes off for that magazine?
 
@@ -576,13 +576,13 @@ Talk to you later.
 
 
 <line>
-<name type="PERSON">P.C.</name>, where are you hiding?
+P.C., where are you hiding?
 
 </line>
 
 
 <line>
-Right out here, Marv, same place
+Right out here, <name type="PERSON">Marv</name>, same place
 
 I've been for the last 14 years.
 
@@ -612,7 +612,7 @@ A feature called
 
 
 <line>
-- It's about a hunter w<name type="PERSON">ho</name>--
+- It's about a hunter who--
 
 - [snoring]
 
@@ -630,7 +630,7 @@ Because that title's too long.
 <line>
 <ital>No Country For Old Men</ital>
 
-<ital>It's About A Hunter W<name type="PERSON">ho</name>?</ital>
+<ital>It's About A Hunter Who?</ital>
 
 </line>
 
@@ -722,9 +722,9 @@ this could be a hit.
 
 
 <line>
-You know w<name type="PERSON">ho</name>'d be great?
+You know who'd be great?
 
-<name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>.
+<name type="PERSON">BoJack Horseman</name>.
 
 </line>
 
@@ -760,7 +760,7 @@ I think with the right project,
 
 
 <line>
-Bup, bup, bup! <name type="PERSON">P.C.</name>, do I get <ital>you </ital>coffee
+Bup, bup, bup! P.C., do I get <ital>you </ital>coffee
 
 and pick up your dry cleaning
 
@@ -810,7 +810,7 @@ you're learning from one of the greats.
 
 
 <line>
-Mark my words.
+<name type="PERSON">Mark</name> my words.
 
 </line>
 
@@ -842,9 +842,9 @@ Hmm...
 
 
 <line>
-I brought four Four Lokos.
+I brought four Four <name type="PERSON">Lokos</name>.
 
-That's 16 Lokos.
+That's 16 <name type="PERSON">Lokos</name>.
 
 </line>
 
@@ -852,7 +852,7 @@ That's 16 Lokos.
 <line>
 Finally someone brings me
 
-an adequate amount of Lokos.
+an adequate amount of <name type="PERSON">Lokos</name>.
 
 </line>
 
@@ -888,7 +888,7 @@ To a meeting, and your clothes.
 <line>
 Is this a fedora?
 
-What am I, Jason Mirzizzerzaz?
+What am I, <name type="ORG">Jason</name> Mirzizzerzaz?
 
 </line>
 
@@ -896,7 +896,7 @@ What am I, Jason Mirzizzerzaz?
 <line>
 - I don't know.
 
-- You know w<name type="PERSON">ho</name>.
+- You know who.
 
 </line>
 
@@ -942,7 +942,7 @@ to do this dumbass thing?" Act break.
 <line>
 Act two.
 
-<name type="PERSON">BoJack</name> turns to Princess Carolyn.
+Carolyn.
 
 </line>
 
@@ -956,7 +956,7 @@ Act two.
 <line>
 Hey! Aren't you the horse
 
-from <ital><name type="PERSON">Horsin</name>' Around?</ital>
+from <ital>Horsin' Around?</ital>
 
 </line>
 
@@ -1192,7 +1192,7 @@ Think about it.
 <line>
 If you're ready to finally stop being
 
-"The Horse" from <ital><name type="PERSON">Horsin</name>' Around,</ital>
+"The Horse" from <ital>Horsin' Around,</ital>
 
 send me an e-mail:
 
@@ -1320,7 +1320,7 @@ More like "Schlock of the Clown".
 <line>
 Then they typed me a letter
 
-that said it had "obvious <name type="PERSON">merit"</name>.
+that said it had "obvious merit".
 
 </line>
 
@@ -1342,7 +1342,7 @@ What rhymes with murmurs?
 <line>
 For two people
 
-w<name type="PERSON">ho</name> don't like <ital>The <name type="GPE">New York</name>er,</ital>
+who don't like <ital>The <name type="GPE">New York</name>er,</ital>
 
 you know a lot about the different
 
@@ -1392,7 +1392,7 @@ up in there.
 
 
 <line>
-So you're <name type="PERSON">gonna</name> do the show?
+So you're gonna do the show?
 
 </line>
 
@@ -1402,7 +1402,7 @@ So you're <name type="PERSON">gonna</name> do the show?
 
 - [sighs]
 
-i<name type="ORG">P<name type="PERSON">ho</name></name>ne's coming out this year,
+iPhone's coming out this year,
 
 I need to gear up for that.
 
@@ -1444,7 +1444,7 @@ And what if... I'm not?
 <line>
 What if there's a reason the only thing
 
-I'm known for is <ital><name type="PERSON">Horsin</name>' Around?</ital>
+I'm known for is <ital>Horsin' Around?</ital>
 
 </line>
 
@@ -1584,13 +1584,13 @@ and we move our faces toward each other.
 <line>
 - [sighs]
 
-- [Marv] Oh!
+- [<name type="PERSON">Marv</name>] Oh!
 
 </line>
 
 
 <line>
-Well, the elusive <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>.
+Well, the elusive <name type="PERSON">BoJack Horseman</name>.
 
 </line>
 
@@ -1598,7 +1598,7 @@ Well, the elusive <name type="PERSON">BoJack</name> <name type="PERSON">Horseman
 <line>
 You do, huh? Hey, Princess Carolyn,
 
-guess w<name type="PERSON">ho</name> just got <name type="PERSON">BoJack</name> a job.
+guess who just got <name type="PERSON">BoJack</name> a job.
 
 </line>
 
@@ -1634,7 +1634,7 @@ We did not make eye contact.
 
 
 <line>
-<nonVerbComm>[man]</nonVerbComm> <ital>Good morning, Los Angeles.</ital>
+<nonVerbComm>[man]</nonVerbComm> <ital>Good morning, <name type="GPE">Los</name> Angeles.</ital>
 
 </line>
 
@@ -1762,7 +1762,7 @@ everything's going to be okay?
 
 
 <line>
-I promise it's <name type="PERSON">gonna</name> be great.
+I promise it's gonna be great.
 
 </line>
 
@@ -1832,7 +1832,7 @@ Let's see what the suits say.
 
 
 <line>
-Bet they're <name type="PERSON">gonna</name> want to bland it up,
+Bet they're gonna want to bland it up,
 
 make it appeal to middle <name type="GPE">America</name>.
 
@@ -1912,9 +1912,9 @@ Just lay on the notes.
 
 
 <line>
-This show is <name type="PERSON">gonna</name> be as big
+This show is gonna be as big
 
-as <ital><name type="PERSON">Horsin</name>' Around.</ital>
+as <ital>Horsin' Around.</ital>
 
 </line>
 
@@ -1934,7 +1934,7 @@ Huh.
 <line>
 And then <name type="ORG">Justin</name> said, "<name type="PERSON">Jessica</name> Biel?
 
-You are <name type="ORG">un</name>-<name type="PERSON">Jessica</name>-Bielievable."
+You are un-<name type="PERSON">Jessica</name>-Bielievable."
 
 </line>
 
@@ -1996,7 +1996,7 @@ I'm one of the Jessicas.
 
 
 <line>
-Mom, I'm finally <name type="PERSON">gonna</name> be
+Mom, I'm finally gonna be
 
 a published writer.
 
@@ -2012,7 +2012,7 @@ is going to be published in McSweeney's.
 
 
 <line>
-Mc-What? W<name type="PERSON">ho</name>'s that? Some <name type="NORP">Irish</name>?
+Mc-What? Who's that? Some <name type="NORP">Irish</name>?
 
 </line>
 
@@ -2056,7 +2056,7 @@ has been keeping me very busy.
 
 
 <line>
-I still don't get how that's <name type="PERSON">gonna</name> work,
+I still don't get how that's gonna work,
 
 at all.
 
@@ -2072,7 +2072,7 @@ Babe, it makes total sense.
 <line>
 They make the whole season,
 
-put it on six D<name type="PERSON">VD</name>'s.
+put it on six DVD's.
 
 </line>
 
@@ -2172,7 +2172,7 @@ Buzz-buzz-buzz buzz buzz-buzz!
 
 
 <line>
-Yoo-hoo! I also heard that.
+<name type="PERSON">Yoo</name>-hoo! I also heard that.
 
 </line>
 
@@ -2226,9 +2226,9 @@ you wanted to do something different.
 
 
 <line>
-Now we're doing something that's <name type="PERSON">gonna</name> be
+Now we're doing something that's gonna be
 
-"just as good as <ital><name type="PERSON">Horsin</name>' Around</ital>."
+"just as good as <ital>Horsin' Around</ital>."
 
 </line>
 
@@ -2252,7 +2252,7 @@ That's not why I'm here.
 <line>
 I'm not taking career advice
 
-from somebody w<name type="PERSON">ho</name>'s been
+from somebody who's been
 
 an assistant the last 14 years.
 
@@ -2364,7 +2364,7 @@ Uh, agentess, agentrix.
 
 
 <line>
-- It's just called "agent", Marv, agent.
+- It's just called "agent", <name type="PERSON">Marv</name>, agent.
 
 - Okay, okay!
 
@@ -2390,7 +2390,7 @@ because I quit.
 <line>
 - What?
 
-- W<name type="PERSON">ho</name> needs the headache?
+- Who needs the headache?
 
 </line>
 
@@ -2414,7 +2414,7 @@ I never had a family.
 <line>
 I never even got to give that lacy teddy
 
-to the mean woman w<name type="PERSON">ho</name> worked at the DMV.
+to the mean woman who worked at the DMV.
 
 </line>
 
@@ -2428,7 +2428,7 @@ to the mean woman w<name type="PERSON">ho</name> worked at the DMV.
 <line>
 Oh, my <name type="PERSON">God</name>, I'm an agent!
 
-I'm <name type="PERSON">gonna</name> make it after all.
+I'm gonna make it after all.
 
 </line>
 
@@ -2440,7 +2440,7 @@ Whaah!
 
 
 <line>
-First thing I'm <name type="PERSON">gonna</name> do
+First thing I'm gonna do
 
 is get rid of that ceiling fan.
 
@@ -2450,7 +2450,7 @@ is get rid of that ceiling fan.
 <line>
 How do we make it clear
 
-that this isn't <ital><name type="PERSON">Horsin</name>' Around?</ital>
+that this isn't <ital>Horsin' Around?</ital>
 
 </line>
 
@@ -2462,7 +2462,7 @@ we show my character
 
 literally taking a massive dump
 
-on a VHS copy of <ital><name type="PERSON">Horsin</name>' Around?</ital>
+on a VHS copy of <ital>Horsin' Around?</ital>
 
 </line>
 
@@ -2624,7 +2624,7 @@ we give it a new title?
 
 
 <line>
-- <ital>The <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name> Show.</ital>
+- <ital>The <name type="PERSON">BoJack Horseman</name> Show.</ital>
 
 - [gasps]
 
@@ -2740,7 +2740,7 @@ You should follow me.
 <line>
 I'm A with a circle around it,
 
-"ins<name type="PERSON">Wayne</name> in the memb<name type="PERSON">Wayne</name>".
+"insWayne".
 
 </line>
 
@@ -2776,7 +2776,7 @@ to be in your parents' bedroom?
 
 
 <line>
-Todd, so we've been together
+<name type="PERSON">Todd</name>, so we've been together
 
 for months now.
 
@@ -2826,7 +2826,7 @@ Yeah, sure. That's how I would say it.
 <line>
 Okay, here we-- Here I go.
 
-Uh, this is Todd doing sex.
+Uh, this is <name type="PERSON">Todd</name> doing sex.
 
 </line>
 
@@ -2942,7 +2942,7 @@ Sorry.
 
 
 <line>
-Whoa, whoa, Tony marries Dr. Melfi?
+Whoa, whoa, <name type="PERSON">Tony</name> marries Dr. Melfi?
 
 </line>
 
@@ -3022,7 +3022,7 @@ Yeah.
 <line>
 After tonight, it's no more "Aren't you
 
-the horse from <ital><name type="PERSON">Horsin</name>' Around?"</ital>
+the horse from <ital>Horsin' Around?"</ital>
 
 </line>
 
@@ -3030,7 +3030,7 @@ the horse from <ital><name type="PERSON">Horsin</name>' Around?"</ital>
 <line>
 From now on it'll be,
 
-<name type="PERSON">"You</name>'re <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>."
+"You're <name type="PERSON">BoJack Horseman</name>."
 
 </line>
 
@@ -3082,7 +3082,7 @@ waiting for things to happen.
 
 
 <line>
-And I'm not <name type="PERSON">gonna</name> wait anymore.
+And I'm not gonna wait anymore.
 
 </line>
 
@@ -3090,7 +3090,7 @@ And I'm not <name type="PERSON">gonna</name> wait anymore.
 <line>
 And for what it's worth, I always liked
 
-the horse from <ital><name type="PERSON">Horsin</name>' Around.</ital>
+the horse from <ital>Horsin' Around.</ital>
 
 </line>
 
@@ -3258,7 +3258,7 @@ wouldn't take gigs like this.
 <line>
 They'd be afraid people
 
-would make f<name type="ORG">un</name> of them.
+would make fun of them.
 
 </line>
 
@@ -3272,7 +3272,7 @@ That's dumb.
 <line>
 If you care about what other people think,
 
-you're never <name type="PERSON">gonna</name> do anything.
+you're never gonna do anything.
 
 </line>
 
@@ -3296,7 +3296,7 @@ That was so dumb."
 <line>
 Then you were like, "That's right."
 
-And I was like, <name type="PERSON">"Ooh</name>! Validation."
+And I was like, "Ooh! Validation."
 
 </line>
 
@@ -3316,7 +3316,7 @@ And I was like, <name type="PERSON">"Ooh</name>! Validation."
 
 
 <line>
-<name type="PERSON">Oof</name>! Hey there, <name type="PERSON">Delilah</name>.
+Oof! Hey there, <name type="PERSON">Delilah</name>.
 
 </line>
 
@@ -3380,7 +3380,7 @@ Thanks. I'm <name type="PERSON">Diane</name>.
 
 
 <line>
-- Add me on <name type="ORG">MySpace</name>, okay?
+- Add me on MySpace, okay?
 
 - Sure.
 
@@ -3434,7 +3434,7 @@ cancel the whole thing.
 <line>
 Nobody wants to see me take a dump
 
-on a <ital><name type="PERSON">Horsin</name>' Around</ital> VHS.
+on a <ital>Horsin' Around</ital> VHS.
 
 </line>
 
@@ -3514,7 +3514,7 @@ couldn't have pulled it off.
 <line>
 But I'm willing to bet
 
-on <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>.
+on <name type="PERSON">BoJack Horseman</name>.
 
 </line>
 
@@ -3586,7 +3586,7 @@ in three, two, one.
 <line>
 <ital>♪ Wonder if I'm ever</ital>
 
-<ital><name type="PERSON">gonna</name> get another chance ♪</ital>
+<ital>gonna get another chance ♪</ital>
 
 </line>
 

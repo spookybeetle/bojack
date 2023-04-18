@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>Brand New Couch - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>Brand New Couch - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -30,7 +30,7 @@
 <line>
 <ital>Get it? Track? Because horses</ital>
 
-<ital>r<name type="ORG">un</name> on tracks and you are a horse.</ital>
+<ital>run on tracks and you are a horse.</ital>
 
 </line>
 
@@ -118,7 +118,7 @@ I thought these were salad plates.
 
 
 <line>
-<nonVerbComm>[mother]</nonVerbComm> <name type="PERSON">T</name>hose are saucers.
+<nonVerbComm>[mother]</nonVerbComm> Those are saucers.
 
 [father] Why do we even have saucers?
 
@@ -134,7 +134,7 @@ We don't drink tea.
 <line>
 <nonVerbComm>[mother]</nonVerbComm>
 
-<name type="PERSON">T</name>hose saucers are for entertaining!
+Those saucers are for entertaining!
 
 </line>
 
@@ -232,7 +232,7 @@ Okay, enough me being a great mom.
 
 
 <line>
-I'm <name type="PERSON">gonna</name> go hide
+I'm gonna go hide
 
 your father's heart medication.
 
@@ -316,7 +316,7 @@ I can change and I will change.
 
 
 <line>
-<ital>P-A-N-<name type="PERSON">T</name>-S.</ital>
+<ital>P-A-N-T-S.</ital>
 
 </line>
 
@@ -370,7 +370,7 @@ No.
 <line>
 - <name type="PERSON">BoJack</name>, why did I wake up in an alley?
 
-- I had to get rid of the old couch, Todd.
+- I had to get rid of the old couch, <name type="PERSON">Todd</name>.
 
 </line>
 
@@ -414,7 +414,7 @@ you could've woken me up first.
 
 
 <line>
-Todd, no one can wake anybody else up.
+<name type="PERSON">Todd</name>, no one can wake anybody else up.
 
 You need to wake yourself up.
 
@@ -424,21 +424,21 @@ You need to wake yourself up.
 <line>
 I don't know if I trust this new guy.
 
-I'm just <name type="PERSON">gonna</name> go sleep in your car.
+I'm just gonna go sleep in your car.
 
 </line>
 
 
 <line>
-- Uh-oh. I think someone needs a <name type="ORG">FAB</name>.
+- Uh-oh. I think someone needs a FAB.
 
-- A <name type="ORG">FAB</name>?
+- A FAB?
 
 </line>
 
 
 <line>
-<name type="ORG">FAB</name>, stands for fresh active BNA.
+FAB, stands for fresh active BNA.
 
 </line>
 
@@ -452,7 +452,7 @@ I'm just <name type="PERSON">gonna</name> go sleep in your car.
 
 
 <line>
-<name type="ORG">A<name type="PERSON">T</name>TITUDE</name> stands for attention to--
+ATTITUDE stands for attention to--
 
 </line>
 
@@ -526,7 +526,7 @@ This feels awful.
 
 
 <line>
-Why does anybody r<name type="ORG">un</name>?
+Why does anybody run?
 
 </line>
 
@@ -598,7 +598,7 @@ so the <name type="ORG">Fitbit</name> counted the miles.
 
 
 <line>
-Uh, someone named <name type="PERSON">BoJark Hoseman</name>
+Uh, someone named BoJark Hoseman
 
 is here?
 
@@ -624,7 +624,7 @@ is here?
 <line>
 Ah. Well, I wrote down "late,"
 
-so that's what it's <name type="PERSON">gonna</name> be.
+so that's what it's gonna be.
 
 </line>
 
@@ -738,9 +738,9 @@ is a latter.
 
 
 <line>
-- No p<name type="ORG">un</name> intended.
+- No pun intended.
 
-- You clearly intended that p<name type="ORG">un</name>.
+- You clearly intended that pun.
 
 </line>
 
@@ -838,7 +838,7 @@ The one I wore to the Emmys.
 <line>
 I don't know. I gotta go.
 
-<name type="PERSON">BoJack</name>'s <name type="PERSON">gonna</name> be here any minute.
+<name type="PERSON">BoJack</name>'s gonna be here any minute.
 
 </line>
 
@@ -930,7 +930,7 @@ at a new job, sincerely, <name type="PERSON">BoJack</name>."
 <line>
 - Gotta save the planet, <name type="PERSON">Diane</name>.
 
-- Hey, is that <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>?
+- Hey, is that <name type="PERSON">BoJack Horseman</name>?
 
 </line>
 
@@ -982,7 +982,7 @@ A couple life-lovers over here.
 <line>
 - Uh...
 
-- Is that a new cone? Looking sharp, <name type="ORG">PB</name>.
+- Is that a new cone? Looking sharp, PB.
 
 </line>
 
@@ -1052,7 +1052,7 @@ Did someone say something to the left?
 
 
 <line>
-Hey, why don't we just us two <name type="ORG">schedj</name>
+Hey, why don't we just us two schedj
 
 a hang for this 'kend?
 
@@ -1066,7 +1066,7 @@ a hang for this 'kend?
 
 
 <line>
-Uh, I love that. And I got a pair of <name type="ORG">tix</name>
+Uh, I love that. And I got a pair of tix
 
 to the 'Stones show this 'kend.
 
@@ -1084,7 +1084,7 @@ to the 'Stones show this 'kend.
 <line>
 What? Oh, no, no, no.
 
-The Mighty Mighty Bosstones.
+<name type="ORG">The Mighty Mighty Bosstones</name>.
 
 </line>
 
@@ -1098,7 +1098,7 @@ but I do love trying new things.
 
 
 <line>
-- W<name type="PERSON">ho</name> are you?
+- Who are you?
 
 - Anyway, we gotta get to work.
 
@@ -1160,7 +1160,7 @@ Happiness is a metaphor--
 <line>
 <name type="PERSON">BoJack</name>, this is <name type="ORG">Corduroy</name>
 
-<name type="PERSON">Jackson-Jackson</name>, your costar.
+<name type="PERSON">Jackson</name>-<name type="PERSON">Jackson</name>, your costar.
 
 </line>
 
@@ -1168,7 +1168,7 @@ Happiness is a metaphor--
 <line>
 - Hey, man.
 
-- <name type="ORG">Corduroy</name> <name type="PERSON">Jackson-Jackson</name>.
+- <name type="ORG">Corduroy</name> <name type="PERSON">Jackson</name>-<name type="PERSON">Jackson</name>.
 
 </line>
 
@@ -1272,13 +1272,13 @@ that's how much money I'm wasting.
 <line>
 - Oh. Sorry.
 
-- Hey, w<name type="PERSON">ho</name>'s this guy?
+- Hey, who's this guy?
 
 </line>
 
 
 <line>
-- W<name type="PERSON">ho</name> let this guy in?
+- Who let this guy in?
 
 - I just--
 
@@ -1314,7 +1314,7 @@ and I like looking at it.
 
 
 <line>
-- Like a Matisse painting.
+- Like a <name type="PERSON">Matisse</name> painting.
 
 - Whoa.
 
@@ -1582,7 +1582,7 @@ Secretariat is sad, right?
 
 
 <line>
-Afraid he's <name type="PERSON">gonna</name> lose his scholarship.
+Afraid he's gonna lose his scholarship.
 
 </line>
 
@@ -1762,7 +1762,7 @@ but when Secretariat was a kid
 
 
 <line>
-<nonVerbComm>[<name type="GPE">PA</name>]</nonVerbComm> Oh, my <name type="PERSON">God</name>. My face.
+<nonVerbComm>[PA]</nonVerbComm> Oh, my <name type="PERSON">God</name>. My face.
 
 </line>
 
@@ -1792,7 +1792,7 @@ and now my face is in ruins.
 
 
 <line>
-We're <name type="PERSON">gonna</name> need a couple of days
+We're gonna need a couple of days
 
 to rebuild this set.
 
@@ -1938,19 +1938,19 @@ I suffered through that ordeal.
 <line>
 You know, the man sitting next to me
 
-was wearing a <name type="PERSON">T</name>-shirt?
+was wearing a T-shirt?
 
 </line>
 
 
 <line>
-A <name type="PERSON">T</name>-shirt, <name type="PERSON">BoJack</name>, in the theater.
+A T-shirt, <name type="PERSON">BoJack</name>, in the theater.
 
 </line>
 
 
 <line>
-Yes, a <name type="PERSON">T</name>-shirt.
+Yes, a T-shirt.
 
 </line>
 
@@ -1964,7 +1964,7 @@ in a theater.
 
 
 <line>
-- The <name type="PERSON">T</name>-shirt told me to "just do it."
+- The T-shirt told me to "just do it."
 
 - Here we go.
 
@@ -1974,7 +1974,7 @@ in a theater.
 <line>
 I don't know to what "it"
 
-the <name type="PERSON">T</name>-shirt referred
+the T-shirt referred
 
 but I won't be spoken to in that tone
 
@@ -1984,7 +1984,7 @@ by an article of clothing.
 
 
 <line>
-Vodka? Triple <name type="ORG">sec</name>?
+Vodka? Triple sec?
 
 Looking for any alcohol.
 
@@ -2056,7 +2056,7 @@ into my mouth?
 
 
 <line>
-<ital>Tom or row.</ital>
+<ital><name type="PERSON">Tom</name> or row.</ital>
 
 </line>
 
@@ -2158,7 +2158,7 @@ Are you blowing it?
 <line>
 - I heard you're blowing it.
 
-- What? W<name type="PERSON">ho</name> told you that? Was it Todd?
+- What? Who told you that? Was it <name type="PERSON">Todd</name>?
 
 </line>
 
@@ -2180,7 +2180,7 @@ I'm getting another call.
 
 
 <line>
-Well, if it isn't my friend, <name type="PERSON">Rutaba<name type="PERSON">ga</name></name>,
+Well, if it isn't my friend, <name type="PERSON">Rutabaga</name>,
 
 the boy prince of the 26th floor.
 
@@ -2244,7 +2244,7 @@ from getting <name type="PERSON">Emily</name> VanCamp
 
 the lead in Goose <name type="PERSON">Van Sant</name>'s
 
-new movie about <name type="PERSON">Jackie O</name>.
+new movie about Jackie O.
 
 </line>
 
@@ -2270,7 +2270,7 @@ and being good at it, crushing it.
 
 
 <line>
-You're not so bad yourself, <name type="PERSON">Rutaba<name type="PERSON">ga</name></name>,
+You're not so bad yourself, <name type="PERSON">Rutabaga</name>,
 
 for a 26er. [chuckles]
 
@@ -2280,7 +2280,7 @@ for a 26er. [chuckles]
 <line>
 You're the only one in this building
 
-w<name type="PERSON">ho</name> isn't a total snooze-cooze.
+who isn't a total snooze-cooze.
 
 </line>
 
@@ -2322,7 +2322,7 @@ in the front, please?
 <line>
 - Thank you.
 
-- What am I <name type="PERSON">gonna</name> do?
+- What am I gonna do?
 
 </line>
 
@@ -2330,7 +2330,7 @@ in the front, please?
 <line>
 Well, you were an actor for nine years
 
-on <ital><name type="PERSON">Horsin</name>' Around. </ital>How did you do that?
+on <ital>Horsin' Around. </ital>How did you do that?
 
 </line>
 
@@ -2394,9 +2394,9 @@ to the taping?
 
 
 <line>
-As Max Headroom would say,
+As Headroom would say,
 
-<name type="PERSON">"You</name>r m-m-mom is a b-b-bitch." [chuckles]
+"Your m-m-mom is a b-b-bitch." [chuckles]
 
 </line>
 
@@ -2408,7 +2408,7 @@ But I am a good actor, right?
 
 
 <line>
-<name type="PERSON">BJ</name>, I don't know. Look--
+BJ, I don't know. Look--
 
 You know what you're good at?
 
@@ -2558,7 +2558,7 @@ Work my way up until I own the place?
 <line>
 What am I talking about?
 
-I can't r<name type="ORG">un</name> a textile plant.
+I can't run a textile plant.
 
 </line>
 
@@ -2566,7 +2566,7 @@ I can't r<name type="ORG">un</name> a textile plant.
 <line>
 Too much responsibility. What am I
 
-<name type="PERSON">gonna</name> do? The walls are closing in!
+gonna do? The walls are closing in!
 
 </line>
 
@@ -2688,7 +2688,7 @@ That was it. Say that again.
 <line>
 This is the machine
 
-that's <name type="PERSON">gonna</name> make you a good actor.
+that's gonna make you a good actor.
 
 </line>
 
@@ -2738,7 +2738,7 @@ not screwed if he goes all <name type="PERSON">Belushi</name> on you.
 <line>
 - Terrific. We got it.
 
-- One day, that's <name type="PERSON">gonna</name> be the job.
+- One day, that's gonna be the job.
 
 </line>
 
@@ -2780,7 +2780,7 @@ If you can't do this part
 
 we'll just fire you and get someone else
 
-w<name type="PERSON">ho</name> can. Either way, I'll be fine.
+who can. Either way, I'll be fine.
 
 </line>
 
@@ -3026,7 +3026,7 @@ That's the impression that I get.
 
 
 <line>
-<nonVerbComm>[Todd yawns]</nonVerbComm>
+<nonVerbComm>[<name type="PERSON">Todd</name> yawns]</nonVerbComm>
 
 </line>
 
@@ -3054,7 +3054,7 @@ What a stupid move. Why did you--?
 <line>
 <name type="PERSON">BoJack</name>, listen, I know you're scared,
 
-but it's <name type="PERSON">gonna</name> be okay.
+but it's gonna be okay.
 
 </line>
 
@@ -3084,7 +3084,7 @@ So what if the new couch is weird?
 
 
 <line>
-What are you <name type="PERSON">gonna</name> do?
+What are you gonna do?
 
 Just sleep in <name type="PERSON">BoJack</name>'s car forever?
 
@@ -3108,7 +3108,7 @@ and sleep on <name type="PERSON">BoJack</name>'s couch. Hurray!
 
 
 <line>
-Happy ending for Todd!
+Happy ending for <name type="PERSON">Todd</name>!
 
 </line>
 
@@ -3136,7 +3136,7 @@ Happy ending for Todd!
 <line>
 <name type="PERSON">Charley</name>. Listen, I wanted to touch base
 
-about <name type="PERSON">Emily</name>'s start date on <name type="PERSON">Jackie O</name>.
+about <name type="PERSON">Emily</name>'s start date on Jackie O.
 
 </line>
 
@@ -3222,7 +3222,7 @@ just an answering machine.
 
 
 <line>
-- I'm not <name type="PERSON">gonna</name> leave a message.
+- I'm not gonna leave a message.
 
 - Beep.
 
@@ -3230,7 +3230,7 @@ just an answering machine.
 
 
 <line>
-Hey, <name type="PERSON">Charley</name>, Princess Carolyn again.
+Hey, Carolyn again.
 
 Listen--
 
@@ -3272,13 +3272,13 @@ Gotta go. Bye.
 
 
 <line>
-<nonVerbComm>[<name type="PERSON">Rutaba<name type="PERSON">ga</name></name> over phone]</nonVerbComm><ital> Carolyn.</ital>
+<nonVerbComm>[Carolyn.</ital>
 
 </line>
 
 
 <line>
-<name type="PERSON">Rutaba<name type="PERSON">ga</name></name>, this is not a good time.
+<name type="PERSON">Rutabaga</name>, this is not a good time.
 
 </line>
 
@@ -3306,7 +3306,7 @@ about the opera, though?
 
 
 <line>
-Loved Tristan, loved Isolde,
+Loved <name type="PERSON">Tristan</name>, loved Isolde,
 
 cried like a bunny.
 
@@ -3318,7 +3318,7 @@ Listen, my brain has been a-buzzing
 
 for the past few days
 
-thinking about that <name type="PERSON">Jackie O</name> movie.
+thinking about that Jackie O movie.
 
 </line>
 
@@ -3352,7 +3352,7 @@ But, honestly,
 
 how fantaj would my <name type="PERSON">Rooney</name> be
 
-as a <name type="PERSON">yo</name>ung Jackie Bouv?
+as a young Jackie Bouv?
 
 </line>
 
@@ -3440,7 +3440,7 @@ Five minutes, Mr. <name type="PERSON">Horseman</name>.
 
 
 <line>
-<ital>you're <name type="PERSON">gonna</name> wave goodbye to the old--</ital>
+<ital>you're gonna wave goodbye to the old--</ital>
 
 </line>
 
@@ -3464,7 +3464,7 @@ What do you want, Mom?
 
 
 <line>
-Look w<name type="PERSON">ho</name> finally decided
+Look who finally decided
 
 to pick up the phone.
 
@@ -3594,7 +3594,7 @@ but it won't make you whole.
 
 
 <line>
-<ital>You're <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>.</ital>
+<ital>You're <name type="PERSON">BoJack Horseman</name>.</ital>
 
 </line>
 
@@ -3608,7 +3608,7 @@ but it won't make you whole.
 <line>
 Anyway, do you remember
 
-w<name type="PERSON">ho</name> directed <ital>The Philadelphia Story?</ital>
+who directed <ital>The Philadelphia Story?</ital>
 
 </line>
 
@@ -3622,7 +3622,7 @@ Five letters, second letter U?
 <line>
 - <name type="PERSON">Lubitsch</name>?
 
-- [sighs] No, <name type="PERSON">BoJack</name>. Goodbye.
+- [sighs] No, Goodbye.
 
 </line>
 
@@ -3698,7 +3698,7 @@ Great. We got it. Let's move on.
 <line>
 <ital>♪ It's been so long</ital>
 
-<ital>I don't think I'm <name type="PERSON">gonna</name> last ♪</ital>
+<ital>I don't think I'm gonna last ♪</ital>
 
 </line>
 

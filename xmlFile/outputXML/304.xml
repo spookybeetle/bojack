@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>Fish Out Of Water - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>Fish Out Of Water - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -74,7 +74,7 @@ Also, the <name type="NORP">French</name> smell and I hate them.
 <line>
 And you can't go to <name type="NORP">Sundance</name>
 
-because <name type="PERSON">Ro<name type="PERSON">bert</name> Redford</name> hates you.
+because <name type="PERSON">Robert Redford</name> hates you.
 
 </line>
 
@@ -110,7 +110,7 @@ to this festival.
 
 
 <line>
-The Pacific Ocean Film Fest, or <name type="ORG">POFF</name>,
+The <name type="LOC">Pacific Ocean</name> Film Fest, or POFF,
 
 is the biggest underwater film festival
 

@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>Intermediate Scene Study w/ <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name> - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>Intermediate Scene Study w/ <name type="PERSON">BoJack Horseman</name> - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -476,7 +476,7 @@ maybe use your normal voice.
 <line>
 And Tawnie, when you're telling
 
-your mother you're <name type="PERSON">gonna</name> kill yourself,
+your mother you're gonna kill yourself,
 
 the next line is,
 
@@ -494,7 +494,7 @@ And the character's being very casual,
 <line>
 so maybe she should also be casual
 
-when she says she's <name type="PERSON">gonna</name> kill herself.
+when she says she's gonna kill herself.
 
 </line>
 
@@ -528,7 +528,7 @@ Okay, let's see it again.
 
 
 <line>
-So, darling, what f<name type="ORG">un</name> and games
+So, darling, what fun and games
 
 shall we play?
 
@@ -572,9 +572,9 @@ you're having a conversation.
 
 
 <line>
--Hey! W<name type="PERSON">ho</name>'s you?
+-Hey! Who's you?
 
--W<name type="PERSON">ho</name>'s me? Screw you is w<name type="PERSON">ho</name>'s me!
+-Who's me? Screw you is who's me!
 
 </line>
 
@@ -582,7 +582,7 @@ you're having a conversation.
 <line>
 I got the leads.
 
-The Gooba Gooberry Falls leads.
+The Gooberry Falls leads.
 
 </line>
 
@@ -612,7 +612,7 @@ or is he discovering it?
 
 
 <line>
-W<name type="PERSON">ho</name>'s next? Great. What's the scene?
+Who's next? Great. What's the scene?
 
 </line>
 
@@ -742,7 +742,7 @@ only bad teachers.
 
 
 <line>
-What about <name type="PERSON">Jason Segel</name>?
+What about <name type="ORG">Jason</name> Segel?
 
 He was a bad actor in <ital>Bad Teacher.</ital>
 
@@ -806,7 +806,7 @@ Booze has taken everything from me.
 
 
 <line>
-<name type="PERSON">T</name>hose two things.
+Those two things.
 
 </line>
 
@@ -828,7 +828,7 @@ This is one of my acting students.
 <line>
 -He's trying to, um--
 
--W<name type="PERSON">ho</name>'s <name type="PERSON">Whitfield</name>?
+-Who's <name type="PERSON">Whitfield</name>?
 
 </line>
 
@@ -880,7 +880,7 @@ That's the plot of the movie <ital>Flight.</ital>
 
 
 <line>
-Glug, <name type="ORG">glug</name>, <name type="ORG">glug</name>.
+Glug, glug, glug.
 
 </line>
 
@@ -1022,13 +1022,13 @@ Where's the whistle?
 <line>
 What is this, the Running of the Brides
 
-at <name type="ORG">Filene's Basement</name>?
+at Filene's Basement?
 
 </line>
 
 
 <line>
-W<name type="PERSON">ho</name>'s with me?
+Who's with me?
 
 </line>
 
@@ -1056,7 +1056,7 @@ Okay.
 <line>
 Also, nobody knows
 
-what <name type="ORG">Filene's Basement</name> is.
+what Filene's Basement is.
 
 </line>
 
@@ -1124,7 +1124,7 @@ we all go to Conspiracy to celebrate.
 
 
 <line>
--Sounds f<name type="ORG">un</name>. Can I join you?
+-Sounds fun. Can I join you?
 
 -I don't think you should.
 
@@ -1142,7 +1142,7 @@ and there will be alcohol there.
 <line>
 -That's okay.
 
--And <name type="PERSON">yo</name>ung girls.
+-And young girls.
 
 </line>
 
@@ -1190,7 +1190,7 @@ Yes, good. Keep doing what they're doing.
 <line>
 <nonVerbComm>[sighs]</nonVerbComm> Tawnie,
 
-you're <name type="PERSON">Holly</name>hock's best friend...
+you're Hollyhock's best friend...
 
 </line>
 
@@ -1228,7 +1228,7 @@ but with different specifics.
 <line>
 She came back from winter break
 
-super aggro, but that's <name type="PERSON">Holly</name>hock, right?
+super aggro, but that's Hollyhock, right?
 
 </line>
 
@@ -1272,7 +1272,7 @@ Get it out, get it-- Yes, nice.
 
 
 <line>
-Nice r<name type="ORG">un</name>! Very nice!
+Nice run! Very nice!
 
 </line>
 
@@ -1372,7 +1372,7 @@ and a drop goal?
 
 
 <line>
-Jonah Lomu over here.
+Jonah <name type="PERSON">Lomu</name> over here.
 
 </line>
 
@@ -1436,15 +1436,15 @@ We will rock and maul and win!
 
 
 <line>
-Wait. Where's <name type="PERSON">Holly</name>hock?
+Wait. Where's Hollyhock?
 
 </line>
 
 
 <line>
-You mean <name type="PERSON">Holly</name>hock
+You mean Hollyhock
 
-Manheim-Mannheim-Guerrero...
+<name type="GPE">Manheim</name>-<name type="GPE">Mannheim</name>-Guerrero...
 
 </line>
 
@@ -1702,7 +1702,7 @@ After you've established that connection,
 
 you'll share one magical evening
 
-of intimate sexual <name type="ORG">congress</name>,
+of intimate sexual congress,
 
 after which, we'll finally be even.
 
@@ -1720,7 +1720,7 @@ will never see each other again.
 <line>
 -Well, I guess it's worth a try.
 
--<ital><music>♪W<name type="PERSON">ho</name>'s that dog? ♪</music></ital>
+-<ital><music>♪Who's that dog? ♪</music></ital>
 
 </line>
 
@@ -1742,13 +1742,13 @@ will never see each other again.
 
 
 <line>
-Really? Wow, hold on a <name type="ORG">sec</name>.
+Really? Wow, hold on a sec.
 
 </line>
 
 
 <line>
-<name type="PERSON">Pickles</name>, should I buy Elefante?
+Elefante?
 
 </line>
 
@@ -1760,7 +1760,7 @@ Ooh! Then you'd be my husband and my boss.
 
 
 <line>
-Like <name type="PERSON">Ike</name> and Tina Turn-- No.
+Like <name type="PERSON">Ike</name> and <name type="PERSON">Tina</name> Turn-- No.
 
 </line>
 
@@ -1860,7 +1860,7 @@ Finish your conversation.
 
 
 <line>
-<name type="ORG">Lazy Susans</name>.
+Susans</name>.
 
 </line>
 
@@ -1880,7 +1880,7 @@ and all your little goat friends--
 
 
 <line>
-Stop. Terry, this character is 28.
+Stop. <name type="PERSON">Terry</name>, this character is 28.
 
 </line>
 
@@ -1908,7 +1908,7 @@ for every character.
 
 
 <line>
-Gotta have a gimmick if I'm <name type="PERSON">gonna</name> make it
+Gotta have a gimmick if I'm gonna make it
 
 in the show business.
 
@@ -1956,7 +1956,7 @@ hundreds of times, but never on black ice.
 <line>
 -[door opens]
 
--[Terry in raspy voice] Back in my day,
+-[<name type="PERSON">Terry</name> in raspy voice] Back in my day,
 
 </line>
 
@@ -1986,9 +1986,9 @@ and talk about our problems.
 
 
 <line>
--W<name type="PERSON">ho</name>'s Terry?
+-Who's <name type="PERSON">Terry</name>?
 
--Nobody said Terry.
+-Nobody said <name type="PERSON">Terry</name>.
 
 </line>
 
@@ -2018,7 +2018,7 @@ of my students.
 <line>
 I'm very sorry, I have no idea
 
-why they think this is <name type="PERSON">gonna</name> impress me.
+why they think this is gonna impress me.
 
 </line>
 
@@ -2030,7 +2030,7 @@ I just relieved myself in my adult diaper.
 
 
 <line>
-Terry...
+<name type="PERSON">Terry</name>...
 
 </line>
 
@@ -2110,7 +2110,7 @@ Ugh.
 
 
 <line>
-Todd, why don't you and <name type="PERSON">Ruthie</name>
+<name type="PERSON">Todd</name>, why don't you and <name type="PERSON">Ruthie</name>
 
 go for a stroll
 
@@ -2144,7 +2144,7 @@ Today, we have a very special guest.
 <line>
 This is my friend, Princess Carolyn,
 
-w<name type="PERSON">ho</name> was nice enough to come here
+who was nice enough to come here
 
 to talk about the business of acting.
 
@@ -2180,7 +2180,7 @@ One? Two? [gasps] Three?
 <line>
 This is more of a comment than a question,
 
-but I've seen every <name type="PERSON">Ro<name type="PERSON">bert</name> Altman</name> movie.
+but I've seen every <name type="PERSON">Robert Altman</name> movie.
 
 </line>
 
@@ -2226,7 +2226,7 @@ Whoo!
 
 
 <line>
-Hey, w<name type="PERSON">ho</name>'s the kid
+Hey, who's the kid
 
 that didn't ask a question?
 
@@ -2310,7 +2310,7 @@ He's a sophomore.
 
 
 <line>
-Great! A legal adult but he looks <name type="PERSON">yo</name>ung.
+Great! A legal adult but he looks young.
 
 </line>
 
@@ -2318,7 +2318,7 @@ Great! A legal adult but he looks <name type="PERSON">yo</name>ung.
 <line>
 He can play all the roles that other
 
-<name type="PERSON">yo</name>ung, impressionable actors can't
+young, impressionable actors can't
 
 because they keep ODing,
 
@@ -2352,7 +2352,7 @@ on "Birthday <name type="PERSON">Dad</name>" right now.
 
 
 <line>
-<name type="PERSON">Stan</name>, <name type="GPE">LA</name>'s not going anywhere.
+<name type="PERSON">Stan</name>, LA's not going anywhere.
 
 </line>
 
@@ -2388,7 +2388,7 @@ You're done with this place.
 
 
 <line>
-One day, you're <name type="PERSON">gonna</name> look back
+One day, you're gonna look back
 
 and realize these days on campus,
 
@@ -2466,7 +2466,7 @@ with your name on it!
 <line>
 Okay, first thing,
 
-we're <name type="PERSON">gonna</name> get these teeth fixed.
+we're gonna get these teeth fixed.
 
 </line>
 
@@ -2548,7 +2548,7 @@ Mm-hmm.
 
 
 <line>
--Go Todd for Maude!
+-Go <name type="PERSON">Todd</name> for <name type="PERSON">Maude</name>!
 
 -You're sitting in front of a marshmallow,
 
@@ -2562,7 +2562,7 @@ you get a bigger reward in 15 minutes.
 <line>
 -What do you do?
 
--Don't be a sucker, Todd.
+-Don't be a sucker, <name type="PERSON">Todd</name>.
 
 </line>
 
@@ -2574,7 +2574,7 @@ Eat the marshmallow.
 
 
 <line>
-W<name type="PERSON">ho</name> knows what the world's <name type="PERSON">gonna</name> be like
+Who knows what the world's gonna be like
 
 in 15 minutes?
 
@@ -2588,7 +2588,7 @@ That's all I needed to hear.
 
 
 <line>
--Thanks, Maude.
+-Thanks, <name type="PERSON">Maude</name>.
 
 -[phone beeps]
 
@@ -2612,13 +2612,13 @@ We've got to find another marshmallow!
 <line>
 -[phone buzzes, beeps]
 
--Hey, Todd. You've got the Maude Squad.
+-Hey, <name type="PERSON">Todd</name>. You've got the <name type="PERSON">Maude</name> Squad.
 
 </line>
 
 
 <line>
-Just kidding, it's just Maude.
+Just kidding, it's just <name type="PERSON">Maude</name>.
 
 I don't have a squad.
 
@@ -2626,7 +2626,7 @@ I don't have a squad.
 
 
 <line>
-Maude? I didn't go to college.
+<name type="PERSON">Maude</name>? I didn't go to college.
 
 </line>
 
@@ -2692,7 +2692,7 @@ If I don't get a new marshmallow,
 
 some psychiatrist
 
-is <name type="PERSON">gonna</name> get mad at this baby.
+is gonna get mad at this baby.
 
 </line>
 
@@ -2802,7 +2802,7 @@ in the room next door.
 
 
 <line>
--Come on, Mr. Phillips. Time to go.
+-Come on, Mr. Phillips. <name type="ORG">Time</name> to go.
 
 -[laughing]
 
@@ -2874,7 +2874,7 @@ for the student showcase.
 <line>
 This might sound crazy coming from
 
-famous television star, <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>,
+famous television star, <name type="PERSON">BoJack Horseman</name>,
 
 but in some ways,
 
@@ -2954,7 +2954,7 @@ so I could shatter the window.
 
 
 <line>
-This is a place for people w<name type="PERSON">ho</name> are serious
+This is a place for people who are serious
 
 about making a change,
 
@@ -2972,7 +2972,7 @@ I was just trying to get help!
 
 
 <line>
--<name type="PERSON">Oof</name>!
+-Oof!
 
 -[crying]
 
@@ -3130,7 +3130,7 @@ But, um, I'm proud of them.
 <line>
 Anyway, first up is a scene
 
-from Sam <name type="NORP">German</name>-Shepherd's "Real <name type="GPE">America</name>."
+from Sam Shepherd's "Real <name type="GPE">America</name>."
 
 </line>
 
@@ -3164,7 +3164,7 @@ And capitalism!
 
 
 <line>
--[voicemail] <ital>Hey, it's <name type="PERSON">Holly</name>hock.</ital>
+-[voicemail] <ital>Hey, it's Hollyhock.</ital>
 
 -Ugh!
 
@@ -3200,7 +3200,7 @@ is me kicking your ass!
 
 
 <line>
-Tawnie's <name type="PERSON">gonna</name> be so pissed!
+Tawnie's gonna be so pissed!
 
 </line>
 
@@ -3344,7 +3344,7 @@ I don't want that life.
 <line>
 That life, that person?
 
-That's not w<name type="PERSON">ho</name> I am, I...
+That's not who I am, I...
 
 </line>
 
@@ -3462,7 +3462,7 @@ Thanks.
 
 
 <line>
-<nonVerbComm>[Terry in raspy voice]</nonVerbComm> <ital>And in that moment,</ital>
+<nonVerbComm>[<name type="PERSON">Terry</name> in raspy voice]</nonVerbComm> <ital>And in that moment,</ital>
 
 <ital>I knew this was my home.</ital>
 
@@ -3582,7 +3582,7 @@ Uh... Hello?
 
 
 <line>
-The reporters w<name type="PERSON">ho</name> keep trying
+The reporters who keep trying
 
 to get Penny to tell her story.
 
@@ -3664,7 +3664,7 @@ what you're talking about.
 <line>
 <ital>♪ It's been so long</ital>
 
-<ital>I don't think I'm <name type="PERSON">gonna</name> last ♪</ital>
+<ital>I don't think I'm gonna last ♪</ital>
 
 </line>
 

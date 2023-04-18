@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>The Dog Days Are Over - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>The Dog Days Are Over - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -34,7 +34,7 @@
 <line>
 I need to get as far away
 
-from Los Angeles as possible.
+from <name type="GPE">Los</name> Angeles as possible.
 
 </line>
 
@@ -180,7 +180,7 @@ I need words for my website.
 <line>
 There are words on the website now,
 
-but I need <name type="PERSON">yo</name>unger words,
+but I need younger words,
 
 newer words, fresher words
 
@@ -254,7 +254,7 @@ G'aw! You call that a fastball?
 
 
 <line>
-With an arm like that, you're <name type="PERSON">gonna</name> get
+With an arm like that, you're gonna get
 
 booted back to Triple-A, you skeezer!
 
@@ -294,7 +294,7 @@ from the other kids?
 
 
 <line>
-Ah, shove it up your rear, you <name type="PERSON">jack</name>-off.
+Ah, shove it up your rear, you jack-off.
 
 </line>
 
@@ -318,13 +318,13 @@ a little cultural context,
 <line>
 what with you being a tenured professor
 
-of Vietnamese history at Tufts and all.
+of Vietnamese history at <name type="ORG">Tufts</name> and all.
 
 </line>
 
 
 <line>
-Christ, Deedee, that's my job.
+Deedee, that's my job.
 
 </line>
 
@@ -390,7 +390,7 @@ What? <name type="PERSON">Dad</name>, it-- Okay.
 
 
 <line>
-Oh, is this w<name type="PERSON">ho</name> you were looking for?
+Oh, is this who you were looking for?
 
 </line>
 
@@ -420,7 +420,7 @@ I'm sorry.
 <line>
 <ital>You want to truly immerse yourself</ital>
 
-<ital>and get the full non-<name type="GPE">LA</name> experience.</ital>
+<ital>and get the full non-LA experience.</ital>
 
 </line>
 
@@ -488,7 +488,7 @@ a movie, starring <name type="PERSON">Laura</name> Linney!
 <line>
 It's about a recently-divorced woman
 
-w<name type="PERSON">ho</name> comes to <name type="GPE">Vietnam</name> to find herself.
+who comes to <name type="GPE">Vietnam</name> to find herself.
 
 </line>
 
@@ -656,7 +656,7 @@ I was like,
 
 <ital>-Then I got distracted</ital>
 
-because Todd got his tongue stuck
+because <name type="PERSON">Todd</name> got his tongue stuck
 
 to the ice sculpture.
 
@@ -680,7 +680,7 @@ which made him talk real funny.
 
 when the mob boss, at the roller rink,
 
-thought he was making f<name type="ORG">un</name>
+thought he was making fun
 
 of his deaf sister.
 
@@ -690,7 +690,7 @@ of his deaf sister.
 <line>
 I'm sorry,
 
-this is turning into a Todd story.
+this is turning into a <name type="PERSON">Todd</name> story.
 
 </line>
 
@@ -778,7 +778,7 @@ must be costing a fortune!
 
 
 <line>
-<ital>Unless you remembered to call <name type="PERSON">Ed</name></ital>
+<ital>Unless you remembered to call Ed</ital>
 
 <ital>for the international plan.</ital>
 
@@ -1010,7 +1010,7 @@ I usually take everyone's leftover scraps
 
 and put it in a trough and eat it up.
 
-Miam, <name type="GPE">miam</name>, <name type="GPE">miam</name>, <name type="GPE">miam</name>!
+Miam, miam, miam, miam!
 
 </line>
 
@@ -1062,7 +1062,7 @@ The trough of everything.
 <line>
 -Why do you keep humoring her?
 
--She's f<name type="ORG">un</name>.
+-She's fun.
 
 </line>
 
@@ -1136,7 +1136,7 @@ a housewarming party?
 <line>
 Now that you don't have a mean wife
 
-w<name type="PERSON">ho</name> hates parties...
+who hates parties...
 
 </line>
 
@@ -1290,7 +1290,7 @@ Beer?
 
 
 <line>
-Glug-<name type="ORG">glug</name>?
+Glug-glug?
 
 </line>
 
@@ -1502,7 +1502,7 @@ Yes. Help me move this couch.
 <line>
 Okay, you get started.
 
-I'm <name type="PERSON">gonna</name> stretch first.
+I'm gonna stretch first.
 
 </line>
 
@@ -1540,7 +1540,7 @@ on Saturday. You should come.
 
 of a girl in her 20s
 
-does not mean that you are <name type="PERSON">yo</name>ung enough
+does not mean that you are young enough
 
 to say "come with."
 
@@ -1584,7 +1584,7 @@ I love it! This is my life now.
 <line>
 <nonVerbComm>[chuckles]</nonVerbComm>
 
-Some cockroaches in I<name type="PERSON">T</name> tried to unionize,
+Some cockroaches in IT tried to unionize,
 
 so I just called an exterminator. [laughs]
 
@@ -1600,13 +1600,13 @@ so I just called an exterminator. [laughs]
 
 
 <line>
-Wait, no. W<name type="PERSON">ho</name> did I call?
+Wait, no. Who did I call?
 
 </line>
 
 
 <line>
-Anyway, we're <name type="PERSON">gonna</name> have to tent
+Anyway, we're gonna have to tent
 
 this place for the next month.
 
@@ -1728,7 +1728,7 @@ Come on in.
 <line>
 Okay, one more glass,
 
-and then I'm <name type="PERSON">gonna</name> head home.
+and then I'm gonna head home.
 
 </line>
 
@@ -1834,7 +1834,7 @@ people don't understand about me.
 <line>
 I got this new job coming up,
 
-so I'm <name type="PERSON">gonna</name> fly right, be tight,
+so I'm gonna fly right, be tight,
 
 and sober up real good.
 
@@ -1996,7 +1996,7 @@ not after last time.
 
 
 <line>
--What do you mean? That was f<name type="ORG">un</name>.
+-What do you mean? That was fun.
 
 -Was not.
 
@@ -2012,7 +2012,7 @@ I was a mess.
 <line>
 And then you left me in charge of things
 
-and then went w<name type="PERSON">ho</name> knows where. Michigan?
+and then went who knows where. Michigan?
 
 </line>
 
@@ -2090,7 +2090,7 @@ Oh. Yeah.
 
 
 <line>
-<name type="PERSON">Oooooooh</name>... [sighs]
+Oooooooh... [sighs]
 
 </line>
 
@@ -2146,7 +2146,7 @@ I don't need to go away. I'm good.
 <line>
 I have this client
 
-w<name type="PERSON">ho</name> went through
+who went through
 
 a surprisingly tough second divorce.
 
@@ -2224,9 +2224,9 @@ with my decision.
 <line>
 Mm-hmm. Another client of mine,
 
-<name type="PERSON">Angelina J</name>,
+Angelina J,
 
-w<name type="PERSON">ho</name> has a lot of adopted kids--
+who has a lot of adopted kids--
 
 </line>
 
@@ -2444,7 +2444,7 @@ All right!
 
 
 <line>
-<ital>this person w<name type="PERSON">ho</name> isn't bound</ital>
+<ital>this person who isn't bound</ital>
 
 <ital>by her own history or sadness.</ital>
 
@@ -2452,7 +2452,7 @@ All right!
 
 
 <line>
-<ital>This is a person w<name type="PERSON">ho</name> could do</ital>
+<ital>This is a person who could do</ital>
 
 <ital>whatever she wants.</ital>
 
@@ -2506,7 +2506,7 @@ I want to show you something.
 
 
 <line>
-This... is <name type="LOC">Ha Long Bay</name>.
+This... is Ha Long Bay.
 
 </line>
 
@@ -2530,7 +2530,7 @@ on a movie set before, huh?
 <line>
 I'm a grip. The executive grip.
 
-I basically r<name type="ORG">un</name> things here.
+I basically run things here.
 
 </line>
 
@@ -2594,7 +2594,7 @@ Also that sentence.
 
 
 <line>
--I'm from <name type="GPE">LA</name>.
+-I'm from LA.
 
 -So what?
 
@@ -2754,7 +2754,7 @@ You told me to "come with."
 
 
 <line>
-It's a whole new, f<name type="ORG">un</name> me.
+It's a whole new, fun me.
 
 </line>
 
@@ -2768,7 +2768,7 @@ of my routine. I mean, I thought it, too.
 
 
 <line>
-It was mostly me w<name type="PERSON">ho</name> thought it,
+It was mostly me who thought it,
 
 but my therapist also... [sighs]
 
@@ -2846,7 +2846,7 @@ I'm just trying to give you a compliment!
 
 
 <line>
--<ital>You </ital>hate parties. I'm f<name type="ORG">un</name>.
+-<ital>You </ital>hate parties. I'm fun.
 
 -Okay, you know what? Forget this.
 
@@ -2864,7 +2864,7 @@ I'm just trying to give you a compliment!
 <line>
 Your haircut looks great.
 
-Mr. Peanutbutter's <name type="PERSON">gonna</name> love it.
+Mr. Peanutbutter's gonna love it.
 
 </line>
 
@@ -3026,7 +3026,7 @@ but I wouldn't put it past me.
 
 
 <line>
-W<name type="PERSON">ho</name> are all these people?
+Who are all these people?
 
 </line>
 
@@ -3406,7 +3406,7 @@ have a steamy make-out scene,
 <line>
 -which is hot but also very progressive.
 
--[<name type="GPE">PA</name> system beeps]
+-[PA system beeps]
 
 </line>
 
@@ -3536,7 +3536,7 @@ Romantically.
 
 
 <line>
-W<name type="PERSON">ho</name> isn't you.
+Who isn't you.
 
 </line>
 
@@ -3610,7 +3610,7 @@ Oh, that's what's on fire? In that case...
 
 
 <line>
-<ital>At first you think, <name type="PERSON">"Oh</name>, it's a fling.</ital>
+<ital>At first you think, "Oh, it's a fling.</ital>
 
 <ital>Whatever, they're drunk, it's a party."</ital>
 
@@ -3706,7 +3706,7 @@ Oh, that's what's on fire? In that case...
 <line>
 <ital>Because, even though,</ital>
 
-<ital>you're the one w<name type="PERSON">ho</name> asked for this,</ital>
+<ital>you're the one who asked for this,</ital>
 
 </line>
 

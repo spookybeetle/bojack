@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>The Stopped Show - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>The Stopped Show - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -12,7 +12,7 @@
 
 
 <line>
-<nonVerbComm>[Todd]</nonVerbComm> You shut down production?
+<nonVerbComm>[<name type="PERSON">Todd</name>]</nonVerbComm> You shut down production?
 
 </line>
 
@@ -124,7 +124,7 @@ We gotta cut our losses.
 <line>
 Cut your losses?
 
-<ital><name type="PERSON">Phil</name><name type="PERSON">bert</name></ital> is a monster hit!
+<ital>Philbert</ital> is a monster hit!
 
 </line>
 
@@ -134,7 +134,7 @@ We put your site on the map, boy-o,
 
 so don't get squeamish now
 
-about <name type="PERSON">s<name type="ORG">un</name></name>k cost.
+about sunk cost.
 
 </line>
 
@@ -146,7 +146,7 @@ like a fish needs a bicycle
 
 in <name type="GPE">Portland</name>, <name type="GPE">Austin</name>, <name type="GPE">Boulder</name>,
 
-or <name type="GPE">Minneapolis</name>, Saint Paul!
+or <name type="GPE">Minneapolis</name>, Saint <name type="PERSON">Paul</name>!
 
 </line>
 
@@ -176,7 +176,7 @@ to get everything under control?
 <line>
 -[<name type="PERSON">Henry</name> slams door] <ital>Yes! Yes! Yes!</ital>
 
--[Todd sighs] You have one more chance.
+-[<name type="PERSON">Todd</name> sighs] You have one more chance.
 
 </line>
 
@@ -332,7 +332,7 @@ You want that part in the email?
 <line>
 Remember me? You wanted my baby,
 
-and you came down to Eden,
+and you came down to <name type="LOC">Eden</name>,
 
 then you thought about your past a lot,
 
@@ -360,7 +360,7 @@ a lot of people for adoption.
 <line>
 After I said
 
-I wasn't <name type="PERSON">gonna</name> give them the baby,
+I wasn't gonna give them the baby,
 
 </line>
 
@@ -382,7 +382,7 @@ You were still nice.
 
 
 <line>
--How fast can you get to Eden?
+-How fast can you get to <name type="LOC">Eden</name>?
 
 -Why?
 
@@ -516,7 +516,7 @@ I can't stop thinking about that "thing"
 <line>
 that happened in the prepiere
 
-of the <ital><name type="PERSON">Phil</name><name type="PERSON">bert</name>.</ital>
+of the <ital>Philbert.</ital>
 
 </line>
 
@@ -580,7 +580,7 @@ I hate keeping secrets from people.
 
 
 <line>
-It's like <name type="PERSON">Rob Schneider's</name>
+It's like <name type="PERSON">Rob Schneider</name>'s
 
 surprise party all over again.
 
@@ -592,7 +592,7 @@ You cheating on your girlfriend
 
 is not the same
 
-as <name type="PERSON">Rob Schneider's</name> surprise party.
+as <name type="PERSON">Rob Schneider</name>'s surprise party.
 
 </line>
 
@@ -650,7 +650,7 @@ if you describe what it is.
 <line>
 You're not the only one
 
-w<name type="PERSON">ho</name> feels gross about that night.
+who feels gross about that night.
 
 </line>
 
@@ -800,7 +800,7 @@ that you were trying to hurt <name type="PERSON">Gina</name>.
 
 
 <line>
--They're <name type="PERSON">gonna</name> get the impression.
+-They're gonna get the impression.
 
 -Right.
 
@@ -822,7 +822,7 @@ What did happen?
 
 
 <line>
-So, the two of you are <name type="PERSON">gonna</name> do
+So, the two of you are gonna do
 
 a sit-down interview with <name type="ORG">Biscuits</name> <name type="ORG">Braxby</name>.
 
@@ -830,7 +830,7 @@ a sit-down interview with <name type="ORG">Biscuits</name> <name type="ORG">Brax
 
 
 <line>
-<nonVerbComm>[chuckles]</nonVerbComm> She makes news f<name type="ORG">un</name>!
+<nonVerbComm>[chuckles]</nonVerbComm> She makes news fun!
 
 </line>
 
@@ -1026,7 +1026,7 @@ with you.
 <line>
 -What?
 
--I think you mi<name type="PERSON">s<name type="ORG">un</name></name>derstood.
+-I think you misunderstood.
 
 </line>
 
@@ -1088,7 +1088,7 @@ That is not what I wanted to hear.
 
 
 <line>
-This interview's <name type="PERSON">gonna</name> go down smooth,
+This interview's gonna go down smooth,
 
 like a 1995 <name type="ORG">Zinfandel</name>.
 
@@ -1098,7 +1098,7 @@ like a 1995 <name type="ORG">Zinfandel</name>.
 <line>
 You ever try one of those '95 zins?
 
-Good year for Zinfandels.
+Zinfandels.
 
 </line>
 
@@ -1112,7 +1112,7 @@ Bad year for <name type="GPE">Oklahoma</name> federal buildings.
 <line>
 -M'kay.
 
--Here's how it's <name type="PERSON">gonna</name> go down.
+-Here's how it's gonna go down.
 
 </line>
 
@@ -1166,13 +1166,13 @@ we'll be out of here before <ital>Traffic.</ital>
 <line>
 And, yes, I'm talking about
 
-the Stephen Soderbergh movie <ital>Traffic.</ital>
+the <name type="PERSON">Stephen Soderbergh</name> movie <ital>Traffic.</ital>
 
 </line>
 
 
 <line>
-It's playing on <name type="ORG">FX</name> tonight,
+It's playing on FX tonight,
 
 and I'm hoping to catch it.
 
@@ -1196,7 +1196,7 @@ or was she kind of hitting on me?
 <line>
 Yeah. You guys have a real flirty energy,
 
-like Matt Lauer and those magazine
+like <name type="PERSON">Matt</name> Lauer and those magazine
 
 cut-outs he now interviews in his kitchen.
 
@@ -1204,7 +1204,7 @@ cut-outs he now interviews in his kitchen.
 
 
 <line>
--This should be f<name type="ORG">un</name>.
+-This should be fun.
 
 -Now that's the spirit!
 
@@ -1240,7 +1240,7 @@ Just let me see it. How bad could it be?
 
 
 <line>
-Cut to: <name type="PERSON">"Ooh</name>, it's really bad!"
+Cut to: "Ooh, it's really bad!"
 
 But, no, seriously, can I see it?
 
@@ -1616,7 +1616,7 @@ and wouldn't even talk to each other.
 
 
 <line>
-Oh, Tracy, I had no idea.
+Oh, <name type="PERSON">Tracy</name>, I had no idea.
 
 </line>
 
@@ -1652,7 +1652,7 @@ Sorry, but your story sucks.
 
 
 <line>
-I mean, w<name type="PERSON">ho</name> wasn't separated
+I mean, who wasn't separated
 
 from their family as a baby
 
@@ -1818,7 +1818,7 @@ Yeah, makeup covered the bruises.
 
 
 <line>
--I'm <name type="PERSON">gonna</name> come clean about everything.
+-I'm gonna come clean about everything.
 
 -What?
 
@@ -1912,9 +1912,9 @@ People know me because of my acting.
 <line>
 And all that goes away if I'm just
 
-the girl w<name type="PERSON">ho</name> got choked
+the girl who got choked
 
-by <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>.
+by <name type="PERSON">BoJack Horseman</name>.
 
 </line>
 
@@ -2002,11 +2002,11 @@ aren't we, <name type="PERSON">BoJack</name>?
 
 
 <line>
-I'm here with <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>
+I'm here with <name type="PERSON">BoJack Horseman</name>
 
 and <name type="PERSON">Gina</name> <name type="PERSON">Cazador</name>,
 
-stars of the hit show <ital><name type="PERSON">Phil</name><name type="PERSON">bert</name>.</ital>
+stars of the hit show <ital>Philbert.</ital>
 
 </line>
 
@@ -2026,7 +2026,7 @@ it's so embarrassing.
 
 
 <line>
--This is all a mi<name type="PERSON">s<name type="ORG">un</name></name>derstanding.
+-This is all a misunderstanding.
 
 -I mean, it's kind of hilarious.
 
@@ -2224,7 +2224,7 @@ That's exactly right.
 
 
 <line>
-<name type="PERSON">T</name>hose guys were nice,
+Those guys were nice,
 
 but they were total boobs.
 
@@ -2232,7 +2232,7 @@ but they were total boobs.
 
 
 <line>
-Anyway, I'm <name type="PERSON">gonna</name> go review
+Anyway, I'm gonna go review
 
 the third quarter budget
 
@@ -2426,7 +2426,7 @@ in predatory behavior at the office,
 <line>
 but I'm worried now the pendulum's
 
-<name type="PERSON">gonna</name> swing too far in the other extreme
+gonna swing too far in the other extreme
 
 </line>
 
@@ -2538,7 +2538,7 @@ your four o'clock to five.
 
 
 <line>
-And also, Todd wanted me to let you know
+And also, <name type="PERSON">Todd</name> wanted me to let you know
 
 that the network folded,
 
@@ -2574,7 +2574,7 @@ another home.
 
 
 <line>
-Maybe What Time Is It Right Now is gone,
+Maybe What <name type="ORG">Time</name> Is It Right Now is gone,
 
 but there are like a billion
 
@@ -2592,7 +2592,7 @@ to pay your parking tickets?
 
 
 <line>
-Or if we're really desperate, TN<name type="PERSON">T</name>?
+Or if we're really desperate, TNT?
 
 </line>
 
@@ -2670,15 +2670,15 @@ pretty closely and I like what I see.
 <line>
 How'd you like a corner office
 
-at <name type="ORG">Disney</name>-Fox-A<name type="PERSON">T</name>&amp;<name type="PERSON">T</name>-AOL-
+at <name type="ORG">Disney</name>-Fox-AT&amp;T-AOL-
 
 </line>
 
 
 <line>
-Time-Warner- <name type="ORG">Pepsico-Viacom-Halliburton-</name>
+<name type="ORG">Time</name>-Warner- <name type="ORG">Pepsico</name>-Viacom-Halliburton-
 
-Skynet-Toyota-Trader-<name type="PERSON">Joe</name>'s?
+Skynet-<name type="ORG">Toyota</name>-Trader-<name type="PERSON">Joe</name>'s?
 
 </line>
 
@@ -2834,7 +2834,7 @@ or "good guys."
 <line>
 We're all just... guys...
 
-w<name type="PERSON">ho</name> do good stuff sometimes
+who do good stuff sometimes
 
 and bad stuff sometimes.
 
@@ -2868,7 +2868,7 @@ I am asking to be held accountable.
 
 
 <line>
-And I'm telling you it's not <name type="PERSON">gonna</name> happen.
+And I'm telling you it's not gonna happen.
 
 </line>
 
@@ -2876,7 +2876,7 @@ And I'm telling you it's not <name type="PERSON">gonna</name> happen.
 <line>
 Whatever you put in that story,
 
-no one is <name type="PERSON">gonna</name> "hold you accountable."
+no one is gonna "hold you accountable."
 
 </line>
 
@@ -3006,7 +3006,7 @@ Okay.
 <line>
 She's beautiful.
 
-What are you <name type="PERSON">gonna</name> call her?
+What are you gonna call her?
 
 </line>
 
@@ -3024,7 +3024,7 @@ But not really, though, right?
 
 
 <line>
-Hey, do you think my cactus is <name type="PERSON">gonna</name> be
+Hey, do you think my cactus is gonna be
 
 okay if I'm not there for six weeks?
 
@@ -3034,7 +3034,7 @@ okay if I'm not there for six weeks?
 <line>
 Yeah, I think
 
-your cactus is <name type="PERSON">gonna</name> be okay.
+your cactus is gonna be okay.
 
 </line>
 
@@ -3222,7 +3222,7 @@ What do I say... when I go in?
 
 
 <line>
-You say, <name type="ORG">"Hello</name>. I am <name type="PERSON">BoJack</name>.
+You say, "Hello. I am <name type="PERSON">BoJack</name>.
 
 <name type="PERSON">Horseman</name>, obviously.
 
@@ -3270,7 +3270,7 @@ I think that is a very real possibility.
 
 
 <line>
-<name type="ORG">Rehab</name> is not a cure-all that's <name type="PERSON">gonna</name>
+<name type="ORG">Rehab</name> is not a cure-all that's gonna
 
 suddenly make you not an asshole.
 
@@ -3374,7 +3374,7 @@ when her mom got sick, like really sick,
 
 and all her cool friends were off
 
-vacationing in Martha's Vineyard,
+vacationing in <name type="LOC">Martha</name>'s Vineyard,
 
 </line>
 
@@ -3422,7 +3422,7 @@ and you need me.
 
 
 <line>
-You know what you're <name type="PERSON">gonna</name> say?
+You know what you're gonna say?
 
 You wanna practice?
 
@@ -3430,15 +3430,15 @@ You wanna practice?
 
 
 <line>
-I'm <name type="PERSON">gonna</name> say,
+I'm gonna say,
 
-<name type="ORG">"Hello</name>. I am <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>.
+"Hello. I am <name type="PERSON">BoJack Horseman</name>.
 
 </line>
 
 
 <line>
-Obviously, you know w<name type="PERSON">ho</name> I am,
+Obviously, you know who I am,
 
 because I'm very famous,
 

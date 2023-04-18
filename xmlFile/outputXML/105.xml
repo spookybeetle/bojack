@@ -1,7 +1,7 @@
 
 <script>
 
-  <title>Live Fast, <name type="PERSON">Diane</name> <name type="PERSON">Nguyen</name> - <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name></title>
+  <title>Live Fast, <name type="PERSON">Diane</name> <name type="PERSON">Nguyen</name> - <name type="PERSON">BoJack Horseman</name></title>
   
   
 
@@ -122,7 +122,7 @@ I'm sorry, sir.
 
 
 <line>
-Do you know w<name type="PERSON">ho</name> I am?
+Do you know who I am?
 
 </line>
 
@@ -144,7 +144,7 @@ for an important meeting
 
 with a book publisher,
 
-w<name type="PERSON">ho</name> wants to publish a book
+who wants to publish a book
 
 about me because I am famous.
 
@@ -246,7 +246,7 @@ of my TV show?
 
 
 <line>
-You know very well w<name type="PERSON">ho</name> I am.
+You know very well who I am.
 
 </line>
 
@@ -286,7 +286,7 @@ Could be this.
 <line>
 - [all gasp]
 
-- Oh, my <name type="PERSON">God</name>, he's got a g<name type="ORG">un</name>.
+- Oh, my <name type="PERSON">God</name>, he's got a gun.
 
 </line>
 
@@ -316,7 +316,7 @@ remember, I'm a celebrity.
 
 
 <line>
-We're <name type="PERSON">gonna</name> need
+We're gonna need
 
 a full body cavity search.
 
@@ -396,7 +396,7 @@ I mean, I did find a lump,
 
 
 <line>
-but hey, w<name type="PERSON">ho</name> needs
+but hey, who needs
 
 health insurance
 
@@ -404,7 +404,7 @@ health insurance
 
 
 <line>
-when you've got <name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name>
+when you've got <name type="PERSON">BoJack Horseman</name>
 
 writing a book, huh?
 
@@ -610,7 +610,7 @@ Sorry I took so long.
 
 
 <line>
-W<name type="PERSON">ho</name> was that?
+Who was that?
 
 The library?
 
@@ -766,7 +766,7 @@ are living.
 
 
 <line>
-<ital><music>♪ Todd bless these scrambled eggs ♪</music></ital>
+<ital><music>♪ <name type="PERSON">Todd</name> bless these scrambled eggs ♪</music></ital>
 
 </line>
 
@@ -786,7 +786,7 @@ are living.
 
 
 <line>
-<ital>[<name type="PERSON">BoJack</name>] Todd, stop singing</ital>
+<ital>[<name type="PERSON">BoJack</name>] <name type="PERSON">Todd</name>, stop singing</ital>
 
 <ital>your dumb scrambled eggs song.</ital>
 
@@ -794,7 +794,7 @@ are living.
 
 
 <line>
-W<name type="PERSON">ho</name> said that?
+Who said that?
 
 </line>
 
@@ -802,7 +802,7 @@ W<name type="PERSON">ho</name> said that?
 <line>
 <ital>If you're wondering</ital>
 
-<ital>w<name type="PERSON">ho</name> said that,</ital>
+<ital>who said that,</ital>
 
 </line>
 
@@ -840,7 +840,7 @@ Oh, yeah.
 <line>
 <ital>As you might've noticed,</ital>
 
-<ital>Todd,</ital>
+<ital><name type="PERSON">Todd</name>,</ital>
 
 </line>
 
@@ -932,7 +932,7 @@ Cheers to bath time.
 
 
 <line>
-Great story, Todd.
+Great story, <name type="PERSON">Todd</name>.
 
 I love our friendship.
 
@@ -1022,7 +1022,7 @@ you got the wrong house.
 <line>
 <name type="PERSON">Crikey</name>, I would've
 
-paid $50 <name type="GPE">U.S.</name>
+paid $50 U.S.
 
 to see where
 
@@ -1032,7 +1032,7 @@ to see where
 
 
 <line>
-He's the American Hugh Jackman.
+He's the American <name type="PERSON">Hugh</name> Jackman.
 
 </line>
 
@@ -1136,7 +1136,7 @@ brothers growing up.
 <line>
 Touch football on the weekends,
 
-<name type="PERSON">noogie</name> parades on the reg.
+noogie parades on the reg.
 
 </line>
 
@@ -1390,7 +1390,7 @@ Hey, yeah, Deedee came home!
 
 
 <line>
-<name type="PERSON">Gary</name>, Marty, <name type="PERSON">Artie</name>,
+<name type="PERSON">Gary</name>, <name type="PERSON">Marty</name>, <name type="PERSON">Artie</name>,
 
 Deedee's back!
 
@@ -1420,7 +1420,7 @@ How you doing?
 
 
 <line>
-Marty, it's a game from '86.
+<name type="PERSON">Marty</name>, it's a game from '86.
 
 </line>
 
@@ -1478,7 +1478,7 @@ them apples, Deedee.
 
 
 <line>
-<name type="PERSON">Yo</name>, Deedee, get me a beer.
+Yo, Deedee, get me a beer.
 
 </line>
 
@@ -1492,7 +1492,7 @@ make that two, Deedee.
 
 
 <line>
-<name type="PERSON">Gary</name>, Marty,
+<name type="PERSON">Gary</name>, <name type="PERSON">Marty</name>,
 
 I just got home.
 
@@ -1508,7 +1508,7 @@ want to get her brother a beer.
 
 
 <line>
-Hey, <name type="PERSON">Ma</name>, come look
+Hey, Ma, come look
 
 what the <name type="PERSON">Pats</name> dragged in.
 
@@ -1518,7 +1518,7 @@ what the <name type="PERSON">Pats</name> dragged in.
 <line>
 <nonVerbComm>[<name type="GPE">Boston</name> accent]</nonVerbComm> Oh, hello!
 
-Look w<name type="PERSON">ho</name> decided to come home.
+Look who decided to come home.
 
 </line>
 
@@ -1548,7 +1548,7 @@ to offer my condolences.
 <line>
 Oh, sure, in and out,
 
-like a <name type="NORP">Protestant</name> on Christmas.
+like a Christmas.
 
 </line>
 
@@ -1566,7 +1566,7 @@ in their time of need?
 
 
 <line>
-Come on, <name type="PERSON">Ma</name>.
+Come on, Ma.
 
 </line>
 
@@ -1620,7 +1620,7 @@ We're not like your fancy
 
 
 <line>
-Your <name type="PERSON">George Clooney</name>
+Your <name type="PERSON">George</name> Clooney
 
 and your <name type="GPE">California</name> Raisins.
 
@@ -1628,7 +1628,7 @@ and your <name type="GPE">California</name> Raisins.
 
 
 <line>
-Oh, come off it, <name type="PERSON">Ma</name>.
+Oh, come off it, Ma.
 
 She don't mean no harm.
 
@@ -1674,13 +1674,13 @@ Deedee, please.
 <line>
 Why not?
 
-<name type="PERSON">Ma</name> doesn't want me here.
+Ma doesn't want me here.
 
 </line>
 
 
 <line>
-<name type="PERSON">Ma</name> don't know
+Ma don't know
 
 what she wants.
 
@@ -1696,7 +1696,7 @@ We all do.
 
 
 <line>
-Ain't that right, Marty?
+Ain't that right, <name type="PERSON">Marty</name>?
 
 </line>
 
@@ -1812,7 +1812,7 @@ In your face forever.
 
 
 <line>
-<nonVerbComm>[Todd]</nonVerbComm> <ital>Welcome to the home</ital>
+<nonVerbComm>[<name type="PERSON">Todd</name>]</nonVerbComm> <ital>Welcome to the home</ital>
 
 <ital>of <name type="PERSON">David</name> <name type="PERSON">Boreanaz</name>,</ital>
 
@@ -1926,13 +1926,13 @@ something again?
 <line>
 <nonVerbComm>[phone vibrates]</nonVerbComm>
 
-<ital><music>♪ D<name type="ORG">un</name>-d<name type="ORG">un</name>-d<name type="ORG">un</name>-d<name type="ORG">un</name> ♪</music></ital>
+<ital><music>♪ Dun-dun-dun-dun ♪</music></ital>
 
 </line>
 
 
 <line>
-<ital><music>♪ D<name type="ORG">un</name>-d<name type="ORG">un</name>-d<name type="ORG">un</name> ♪</music></ital>
+<ital><music>♪ Dun-dun-dun ♪</music></ital>
 
 </line>
 
@@ -1940,7 +1940,7 @@ something again?
 <line>
 It's a great day
 
-on Todd's phone.
+on <name type="PERSON">Todd</name>'s phone.
 
 </line>
 
@@ -1976,7 +1976,7 @@ about <name type="PERSON">Boreanaz</name> <name type="ORG">House</name>?
 <line>
 Don't worry,
 
-I'm not just <name type="PERSON">gonna</name> sit here
+I'm not just gonna sit here
 
 batting a ball of yarn around
 
@@ -2024,7 +2024,7 @@ I'll do mine.
 
 
 <line>
-W<name type="PERSON">ho</name> is this?
+Who is this?
 
 </line>
 
@@ -2074,7 +2074,7 @@ and judge us, <name type="PERSON">Diane</name>.
 
 
 <line>
-I'm just saying Marty
+I'm just saying <name type="PERSON">Marty</name>
 
 could lend a hand
 
@@ -2106,7 +2106,7 @@ at the quarry.
 <line>
 Yeah, he's got to rest up
 
-if he's <name type="PERSON">gonna</name> be
+if he's gonna be
 
 a wide receiver for B.C.
 
@@ -2154,7 +2154,7 @@ We're immigrants.
 <line>
 Step off!
 
-We're American as <name type="ORG">P<name type="PERSON">ho</name></name>.
+We're American as <name type="ORG">Pho</name>.
 
 </line>
 
@@ -2212,7 +2212,7 @@ Pull over and park the car.
 <line>
 Is that the frickin' horse
 
-from <ital><name type="PERSON">Horsin</name>' Around</ital>?
+from <ital>Horsin' Around</ital>?
 
 </line>
 
@@ -2282,7 +2282,7 @@ where-- Is that <name type="PERSON">Mila</name> Kunis?
 
 
 <line>
-Note the letters <name type="ORG">B.H.</name>
+Note the letters B.H.
 
 on all hand towels and linens.
 
@@ -2352,7 +2352,7 @@ just like us?
 
 
 <line>
-Hey, <name type="PERSON">Ma</name>,
+Hey, Ma,
 
 Ben <name type="PERSON">Affleck</name> eats grapes.
 
@@ -2360,7 +2360,7 @@ Ben <name type="PERSON">Affleck</name> eats grapes.
 
 
 <line>
-<nonVerbComm>[<name type="PERSON">Ma</name>]</nonVerbComm> He don't eat grapes!
+<nonVerbComm>[Ma]</nonVerbComm> He don't eat grapes!
 
 </line>
 
@@ -2498,9 +2498,9 @@ It was wicked messed up.
 
 
 <line>
-<name type="PERSON">"Oh</name>, <name type="PERSON">Diane</name>, we're
+"Oh, <name type="PERSON">Diane</name>, we're
 
-two mi<name type="PERSON">s<name type="ORG">un</name></name>derstood souls.
+two misunderstood souls.
 
 </line>
 
@@ -2630,7 +2630,7 @@ thinks the same thing.
 
 
 <line>
-I'm <name type="PERSON">gonna</name> go meet
+I'm gonna go meet
 
 with the funeral director.
 
@@ -2764,7 +2764,7 @@ you're all getting noogies.
 
 
 <line>
-<name type="PERSON">Whoo-hoo</name>!
+Whoo-hoo!
 
 </line>
 
@@ -2814,7 +2814,7 @@ Mr. <name type="PERSON">Boreanaz</name> himself.
 
 
 <line>
-<ital>Get out of my room, Todd!</ital>
+<ital>Get out of my room, <name type="PERSON">Todd</name>!</ital>
 
 </line>
 
@@ -2860,7 +2860,7 @@ Well, he was a mean,
 
 sadistic alcoholic,
 
-w<name type="PERSON">ho</name> never supported
+who never supported
 
 anything I did
 
@@ -3000,7 +3000,7 @@ from this unlisted number.
 <line>
 Ignore.
 
-W<name type="PERSON">ho</name> are these assholes?
+Who are these assholes?
 
 </line>
 
@@ -3076,7 +3076,7 @@ Is that <name type="PERSON">David</name> <name type="PERSON">Boreanaz</name>?
 <line>
 I could've sworn
 
-<name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name> lived here.
+<name type="PERSON">BoJack Horseman</name> lived here.
 
 </line>
 
@@ -3108,7 +3108,7 @@ so much, so much.
 
 
 <line>
-Another five Gs, <name type="PERSON">T</name>-Bag,
+Another five Gs, T-Bag,
 
 and we are in the pink.
 
@@ -3264,7 +3264,7 @@ I don't know what to do.
 
 
 <line>
-W<name type="PERSON">ho</name> said that?
+Who said that?
 
 </line>
 
@@ -3312,7 +3312,7 @@ I want to say, <ital>New Girl</ital>?--
 
 
 <line>
-Wow, thanks, Davie B.
+Wow, thanks, <name type="PERSON">Davie</name> B.
 
 </line>
 
@@ -3436,7 +3436,7 @@ to be chopped up into chum
 
 and thrown
 
-in <name type="PERSON">Derek Jeter</name>'s fat face.
+in <name type="PERSON">Derek</name> Jeter's fat face.
 
 </line>
 
@@ -3508,19 +3508,19 @@ ground into chum,
 
 so you could throw his mushy
 
-remains on <name type="PERSON">Derek Jeter</name>?
+remains on <name type="PERSON">Derek</name> Jeter?
 
 </line>
 
 
 <line>
-No, not just on <name type="PERSON">Derek Jeter</name>.
+No, not just on <name type="PERSON">Derek</name> Jeter.
 
 </line>
 
 
 <line>
-We're <name type="PERSON">gonna</name> throw it
+We're gonna throw it
 
 into his fat face.
 
@@ -3600,7 +3600,7 @@ She's my ghostwriter.
 <line>
 She's writing a book that's not
 
-even <name type="PERSON">gonna</name> have her name on it.
+even gonna have her name on it.
 
 </line>
 
@@ -3768,7 +3768,7 @@ She took Pops.
 <line>
 Oh, no,
 
-what are we <name type="PERSON">gonna</name> do?
+what are we gonna do?
 
 </line>
 
@@ -3788,7 +3788,7 @@ what are we <name type="PERSON">gonna</name> do?
 
 
 <line>
-So what we're <name type="PERSON">gonna</name> do
+So what we're gonna do
 
 is nothing?
 
@@ -3812,7 +3812,7 @@ where she might have gone?
 
 
 <line>
-Ah, she used to r<name type="ORG">un</name> off
+Ah, she used to run off
 
 like this all the time
 
@@ -3822,7 +3822,7 @@ in high school, too.
 
 
 <line>
-W<name type="PERSON">ho</name> knows where crazy goes?
+Who knows where crazy goes?
 
 </line>
 
@@ -3890,7 +3890,7 @@ After this,
 
 we'll go play touch football
 
-and do a <name type="PERSON">noogie</name> parade.
+and do a noogie parade.
 
 </line>
 
@@ -3936,7 +3936,7 @@ Princess Carolyn.
 
 
 <line>
-What are we <name type="PERSON">gonna</name> do?
+What are we gonna do?
 
 </line>
 
@@ -4116,7 +4116,7 @@ your old pen pal <name type="PERSON">Leo</name>.
 <line>
 This definitely isn't
 
-<name type="PERSON">BoJack</name> <name type="PERSON">Horseman</name> writing this."
+<name type="PERSON">BoJack Horseman</name> writing this."
 
 </line>
 
@@ -4128,7 +4128,7 @@ Keep reading.
 
 
 <line>
-<name type="PERSON">"You</name>'re a good person,
+"You're a good person,
 
 <name type="PERSON">Diane</name>,
 
@@ -4304,11 +4304,11 @@ So don't come back here.
 
 
 <line>
-What's great about Los Angeles
+What's great about <name type="GPE">Los</name> Angeles
 
 is nobody cares about where
 
-you're from or w<name type="PERSON">ho</name> you are.
+you're from or who you are.
 
 </line>
 
@@ -4390,7 +4390,7 @@ Uh-oh.
 <line>
 Thank you so much,
 
-<name type="PERSON">Derek Jeter</name>.
+<name type="PERSON">Derek</name> Jeter.
 
 </line>
 
@@ -4578,7 +4578,7 @@ Obviously.
 
 
 <line>
-Ugh, w<name type="PERSON">ho</name> keeps calling me?
+Ugh, who keeps calling me?
 
 </line>
 
@@ -4662,7 +4662,7 @@ I'm sure he'll pick up.
 
 
 <line>
-<ital><music>♪ I don't think I'm <name type="PERSON">gonna</name> last ♪</music></ital>
+<ital><music>♪ I don't think I'm gonna last ♪</music></ital>
 
 </line>
 
