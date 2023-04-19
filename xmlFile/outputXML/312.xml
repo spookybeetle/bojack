@@ -138,7 +138,7 @@ hang out for a minute?
 
 and you're doing the print ads
 
-for Stank,
+for <name type="PERSON">Sarah</name> <name type="PERSON">Lynn</name>'s Stank,
 
 the new fragrance from <name type="PERSON">Kevin</name> Kline.
 
@@ -1152,7 +1152,7 @@ Better listen to them all, in order.
 
 
 <line>
-<nonVerbComm>[Peanutbutter, call me back</ital>
+<nonVerbComm>[<name type="PERSON">Todd</name>]</nonVerbComm> <ital>Mr. Peanutbutter, call me back</ital>
 
 <ital>as soon as you get this, okay?</ital>
 
@@ -1170,7 +1170,7 @@ Better listen to them all, in order.
 <line>
 -Oh, my <name type="PERSON">God</name>!
 
--[Peanutbutter,</ital>
+-[<name type="PERSON">Todd</name>]<ital> Mr. Peanutbutter,</ital>
 
 </line>
 

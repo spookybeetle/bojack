@@ -392,7 +392,7 @@ and possibly there's a karaoke scene?
 
 
 <line>
-Why does Philbert's house
+Why does <name type="PERSON">John</name> Philbert's house
 
 look the same as my house?
 
@@ -408,7 +408,7 @@ I've never been to your house.
 <line>
 The set was designed to reflect
 
-Philbert</name>.
+<name type="PERSON">Detective Philbert</name>.
 
 </line>
 
@@ -2496,7 +2496,7 @@ Just a minute.
 <line>
 -Already I don't like this development.
 
--[Good news, bad news.</ital>
+-[<name type="PERSON">Todd</name>] <ital>Hey! Good news, bad news.</ital>
 
 </line>
 
@@ -2974,7 +2974,7 @@ Princess Carolyn, I overplayed my hand.
 
 
 <line>
-<nonVerbComm>[Carolyyyyyyyn,
+<nonVerbComm>[<name type="PERSON">BoJack</name>]</nonVerbComm> Princess Carolyyyyyyyn,
 
 I need to talk to youuuuuu.
 
@@ -3134,7 +3134,7 @@ a foreign concept for you.
 
 
 <line>
-No, not Philbert.
+No, not <name type="PERSON">Flip</name>. Philbert.
 
 </line>
 
@@ -3558,7 +3558,7 @@ then who's Alden Ehrenreich?"
 
 
 <line>
-Christ, your house really does look
+<name type="PERSON">Jesus</name> Christ, your house really does look
 
 like Philbert's.
 

@@ -1536,7 +1536,7 @@ to say to me, <name type="PERSON">BoJack</name>?
 
 
 <line>
--Am I Peanutbutter?
+-Am I <name type="PERSON">BoJack</name> or Mr. Peanutbutter?
 
 -You can be anyone you want.
 
@@ -3406,7 +3406,7 @@ wrapped up in one exciting night.
 
 
 <line>
-<ital>"The Song (Love Theme)"</ital>
+<ital>"The <name type="PERSON">Silly</name> Banana Song (Love Theme)"</ital>
 
 </line>
 

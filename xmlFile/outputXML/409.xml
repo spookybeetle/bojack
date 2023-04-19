@@ -156,7 +156,7 @@ all the way back in the year 2017.
 
 
 <line>
-<nonVerbComm>[Carolyn lived</ital>
+<nonVerbComm>[<name type="PERSON">Ruthie</name>]</nonVerbComm> <ital>Princess Carolyn lived</ital>
 
 <ital>with her boyfriend, <name type="PERSON">Ralph</name>.</ital>
 
@@ -198,7 +198,7 @@ to really be playing with the big boys.
 
 
 <line>
-American Greeting,
+<name type="ORG">Hallmark</name>, American Greeting,
 
 those chunky cards that play music
 
@@ -292,7 +292,7 @@ Oh--!
 
 
 <line>
-<nonVerbComm>[Carolyn started her day</ital>
+<nonVerbComm>[<name type="PERSON">Ruthie</name>]</nonVerbComm> <ital>Princess Carolyn started her day</ital>
 
 <ital>with a call to <name type="PERSON">BoJack Horseman</name>,</ital>
 
@@ -616,7 +616,7 @@ Okay, okay, okay.
 
 
 <line>
-<nonVerbComm>[Carolyn had been</ital>
+<nonVerbComm>[<name type="PERSON">Ruthie</name>]</nonVerbComm> <ital>Princess Carolyn had been</ital>
 
 <ital>called to <name type="PERSON">Gekko</name>-<name type="PERSON">Rabitowitz</name>--</ital>
 
@@ -722,7 +722,7 @@ literally hundreds of times?
 
 
 <line>
-<nonVerbComm>[Carolyn</ital>
+<nonVerbComm>[<name type="PERSON">Ruthie</name>]</nonVerbComm> <ital>Normally, Princess Carolyn</ital>
 
 <ital>would've been rattled,</ital>
 
@@ -2944,7 +2944,7 @@ right this-a way!
 <line>
 -Ugh!
 
--Look at all of these Carries!
+-Look at all of these <name type="PERSON">Miss</name>-a-Carries!
 
 </line>
 
@@ -2980,7 +2980,7 @@ Hmm.
 
 
 <line>
-<nonVerbComm>[Carolyn</ital>
+<nonVerbComm>[<name type="PERSON">Ruthie</name>]</nonVerbComm> <ital>But when Princess Carolyn</ital>
 
 <ital>got to the home that she and <name type="PERSON">Ralph</name> shared,</ital>
 
@@ -3190,7 +3190,7 @@ It must have fallen off!
 <line>
 -[knocking]
 
--[Carolyn?
+-[<name type="PERSON">Ralph</name>] Princess Carolyn?
 
 </line>
 
@@ -3340,7 +3340,7 @@ That could be a sequel.
 
 
 <line>
--Oh, my Carolyn.
+-Oh, my <name type="PERSON">God</name>, Princess Carolyn.
 
 -It's okay! You know me.
 
@@ -3638,7 +3638,7 @@ The one who's <ital>easy.</ital>
 
 
 <line>
-Carolyn.
+Goodbye, Princess Carolyn.
 
 </line>
 

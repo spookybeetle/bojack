@@ -3020,7 +3020,7 @@ rich douchebags.
 
 
 <line>
-That's Hills</name>.
+That's <name type="GPE">Beverly Hills</name>.
 
 </line>
 
@@ -3248,7 +3248,7 @@ It's about <name type="GPE">New Orleans</name> and jazz
 
 and Hurricane <name type="PERSON">Katrina</name>
 
-and drugs and Goodman.
+and drugs and <name type="PERSON">John</name> Goodman.
 
 </line>
 

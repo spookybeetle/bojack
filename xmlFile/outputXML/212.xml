@@ -56,7 +56,7 @@ what are pizza boxes thinking about?
 
 
 <line>
--And Stanford</name>?
+-And <name type="PERSON">Leland Stanford</name>?
 
 -Transcontinental Railroad.
 
@@ -1740,7 +1740,7 @@ Good luck.
 
 
 <line>
--Whoa, Carolyn.
+-Whoa, Carolyn, we just-- Come... Carolyn.
 
 -My name is Princess Carolyn.
 
@@ -2034,7 +2034,7 @@ my preferred brands, okay?
 
 
 <line>
-Abercrombie and <name type="ORG">Fitch</name>
+Beats by <name type="PERSON">Dre</name>, Abercrombie and <name type="ORG">Fitch</name>
 
 and [clicking] brand fin polish.
 

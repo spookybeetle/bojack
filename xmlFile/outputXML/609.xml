@@ -582,7 +582,7 @@ you're having a conversation.
 <line>
 I got the leads.
 
-The Gooberry Falls leads.
+The Gooba Gooberry Falls leads.
 
 </line>
 
@@ -1748,7 +1748,7 @@ Really? Wow, hold on a sec.
 
 
 <line>
-Elefante?
+<name type="PERSON">Pickles</name>, should I buy Elefante?
 
 </line>
 
@@ -1860,7 +1860,7 @@ Finish your conversation.
 
 
 <line>
-Susans</name>.
+<name type="ORG">Lazy Susans</name>.
 
 </line>
 
@@ -3130,7 +3130,7 @@ But, um, I'm proud of them.
 <line>
 Anyway, first up is a scene
 
-from Sam Shepherd's "Real <name type="GPE">America</name>."
+from Sam <name type="NORP">German</name>-Shepherd's "Real <name type="GPE">America</name>."
 
 </line>
 

@@ -2394,7 +2394,7 @@ to the taping?
 
 
 <line>
-As Headroom would say,
+As <name type="PERSON">Max</name> Headroom would say,
 
 "Your m-m-mom is a b-b-bitch." [chuckles]
 
@@ -3230,7 +3230,7 @@ just an answering machine.
 
 
 <line>
-Hey, Carolyn again.
+Hey, <name type="PERSON">Charley</name>, Princess Carolyn again.
 
 Listen--
 
@@ -3272,7 +3272,7 @@ Gotta go. Bye.
 
 
 <line>
-<nonVerbComm>[Carolyn.</ital>
+<nonVerbComm>[<name type="PERSON">Rutabaga</name> over phone]</nonVerbComm><ital> Carolyn.</ital>
 
 </line>
 
@@ -3622,7 +3622,7 @@ Five letters, second letter U?
 <line>
 - <name type="PERSON">Lubitsch</name>?
 
-- [sighs] No, Goodbye.
+- [sighs] No, <name type="PERSON">BoJack</name>. Goodbye.
 
 </line>
 

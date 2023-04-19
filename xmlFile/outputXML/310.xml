@@ -130,7 +130,7 @@ I want to say <ital>Bill Gates?</ital>
 
 
 <line>
-And Secretariat.</ital>
+And <name type="PERSON">BoJack Horseman</name> for <ital>Secretariat.</ital>
 
 </line>
 
@@ -788,7 +788,7 @@ Hey!
 <line>
 I know that you can tweet for a living
 
-in a house in Hills</name>
+in a house in <name type="GPE">Beverly Hills</name>
 
 that your husband bought,
 
@@ -912,7 +912,7 @@ they were announced today.
 
 
 <line>
-Okay. Heather.
+Okay. Goodbye, Heather.
 
 </line>
 
@@ -1650,7 +1650,7 @@ You gotta take that gig.
 
 -Mr. Peanutbutter...
 
-what did Peanutbutter</name> always say?
+what did <name type="PERSON">Nana Peanutbutter</name> always say?
 
 </line>
 
@@ -2126,7 +2126,7 @@ to announce the nominations.
 <line>
 Just as soon as I--
 
-Oh, my Bradley <name type="PERSON">Cooper</name>?
+Oh, my <name type="PERSON">God</name>, is that Bradley <name type="PERSON">Cooper</name>?
 
 </line>
 
@@ -2368,7 +2368,7 @@ to talk about our feelings.
 
 
 <line>
-As my Peanutbutter</name> used to say,
+As my <name type="PERSON">Nana Peanutbutter</name> used to say,
 
 </line>
 
@@ -3156,13 +3156,13 @@ You still working at that place?
 <line>
 -<ital>Hello?</ital>
 
--Hi, Carolyn.
+-Hi, <name type="PERSON">Ralph</name>. It's Princess Carolyn.
 
 </line>
 
 
 <line>
-<ital>Oh, my Carolyn,</ital>
+<ital>Oh, my <name type="PERSON">God</name>, Princess Carolyn,</ital>
 
 <ital>I never thought I'd hear from you again.</ital>
 

@@ -266,7 +266,7 @@ Because you are looking
 
 
 <line>
-Well, I must be in Germany,
+Well, I must be in <name type="NORP">Nazi</name> Germany,
 
 because you're "not so" bad yourself.
 
@@ -538,7 +538,7 @@ I'm the dog who cried earthquake.
 <line>
 I'm not famous enough yet to make
 
-the "In Oscars!
+the "In <name type="PERSON">Memoriam</name>" montage at the Oscars!
 
 </line>
 
@@ -2310,7 +2310,7 @@ the guy whose house this is.
 <line>
 <nonVerbComm>[chanting]</nonVerbComm>
 
-Peanutbutter.
+Peanutbutter, Peanutbutter.
 
 </line>
 
@@ -2324,7 +2324,7 @@ Peanutbutter-- everybody.
 <line>
 <nonVerbComm>[chanting]</nonVerbComm>
 
-Peanutbutter!
+Peanutbutter! Peanutbutter!
 
 </line>
 
@@ -2354,7 +2354,7 @@ Peanutbutter!
 <line>
 <nonVerbComm>[faint chanting]</nonVerbComm>
 
-Peanutbutter...
+Peanutbutter! Peanutbutter...
 
 </line>
 
@@ -3274,7 +3274,7 @@ in my kingdom, you pink marshmallow?
 <line>
 We were at this big
 
-Hills</name> fundraiser.
+<name type="GPE">Beverly Hills</name> fundraiser.
 
 </line>
 
@@ -3288,7 +3288,7 @@ and now everyone's trapped underground.
 
 
 <line>
-Did you say Hills</name>?
+Did you say <name type="GPE">Beverly Hills</name>?
 
 Ugh! Of course.
 
@@ -3342,7 +3342,7 @@ those interlopers out of here.
 <line>
 -Uh...
 
--[Peanutbutter,
+-[<name type="PERSON">Jessica</name>] Mr. Peanutbutter,
 
 did you or did you not tell us
 
@@ -3358,7 +3358,7 @@ we could eat whatever we wanted?
 
 
 <line>
-Peanutbutter!
+Peanutbutter! Peanutbutter!
 
 Peanutbutter!
 
@@ -3572,7 +3572,7 @@ How is this happening?
 
 
 <line>
-<nonVerbComm>[ants]</nonVerbComm> Heave!
+<nonVerbComm>[ants]</nonVerbComm> Heave! Heave! Heave!
 
 </line>
 

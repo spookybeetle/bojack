@@ -1732,7 +1732,7 @@ at <name type="PERSON">Drake</name>'s cousin's Bat Mitzvah.
 
 
 <line>
-Did you know Jewish?
+Did you know <name type="PERSON">Drake</name>'s cousin was Jewish?
 
 </line>
 
@@ -2016,7 +2016,7 @@ Ooh.
 
 
 <line>
-Fish half off at Hills</name>
+Fish half off at <name type="GPE">Beverly Hills</name>
 
 farmers market.
 

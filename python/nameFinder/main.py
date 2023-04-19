@@ -185,10 +185,10 @@ def xmlTagger(sourcePath, SortedDict):
             replacement = '<name type="' + val + '">' + key + '</name>'
             # print(f"{replacement=}")
             stringFile = stringFile.replace(key, replacement)
-            cleanedUp = regex.sub(r"(<name type='[A-z]+?'>[^<]*?)<name type='[A-z]+?'>([^<]+?)</name>([^<]*?</name>)", r"\1\2\3", stringFile)
-            cleanedUp = regex.sub(r"(\w+)<name type=.+>(\w+)</name>(\w*)", r"\1\2\3", cleanedUp)
-            cleanedUp = regex.sub(r"(\w*)<name type=.+>(\w+)</name>(\w+)", r"\1\2\3", cleanedUp)
-            cleanedUp = regex.sub(r"(<nonV[^<>]+?)<name type=\".+?\">([^<>]+?)</name>([^<>]*>)", r"\1\2\3", cleanedUp)
+            cleanedUp = regex.sub(r"(<name type='[A-z]+?'>[^<>]*?)<name type='[^<>]+?'>([^<>]+?)</name>([^<]*?</name>)", r"\1\2\3", stringFile)
+            cleanedUp = regex.sub(r"(\w+)<name type=[^<>]+>(\w+)</name>(\w*)", r"\1\2\3", cleanedUp)
+            cleanedUp = regex.sub(r"(\w*)<name type=[^<>]+>(\w+)</name>(\w+)", r"\1\2\3", cleanedUp)
+            cleanedUp = regex.sub(r"(<nonV[^<>]+?)<name type=\"[^<>]+?\">([^<>]+?)</name>([^<>]*>)", r"\1\2\3", cleanedUp)
             cleanedUp = regex.sub(r"(<name[^<>]+?>BoJack)</name>(\s+)<name[^<>]+?>(Horseman</name>)", r"\1\2\3", cleanedUp)
 
             # <nonVerbCo<name type="PERSON">mm</name>>

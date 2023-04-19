@@ -75,7 +75,7 @@
 
   <line>
     <ital>
-      <music>♪ Jelli-- ♪</music>
+      <music>♪ Jellicles do and Jelli-- ♪</music>
     </ital>
 
   </line>
@@ -124,7 +124,7 @@
   <line> <name type="PERSON">Laura</name>, I know you're listening. You got it, right? </line>
 
 
-  <line> Goodbye, <name type="PERSON">BoJack</name>. </line>
+  <line> <name type="PERSON">Laura</name>, do not respond to him. Goodbye, <name type="PERSON">BoJack</name>. </line>
 
 
   <line> She got it. [camera shutter clicks] </line>
@@ -326,7 +326,7 @@
   <line> Seriously, though, please don't tell VH1 that. </line>
 
 
-  <line> We are calling it <ital>Jelly.</ital>
+  <line> We are calling it <ital>Peanutbutter and Jelly.</ital>
   </line>
 
 
@@ -864,7 +864,7 @@
   <line>
     <ital>about stealing a meal</ital>
 
-    <ital>from <name type="PERSON">Neal</name> McNavy SEAL.</ital>
+    <ital>from <name type="PERSON">Neal</name> McBeal, the <name type="ORG">Navy</name> SEAL.</ital>
 
   </line>
 
@@ -1732,10 +1732,10 @@
   <line> No, we should do it somewhere people will actually see it. </line>
 
 
-  <line> Oh, why don't you do it on <ital>Jelly</ital>? </line>
+  <line> Oh, why don't you do it on <ital>Peanutbutter and Jelly</ital>? </line>
 
 
-  <line> You can't call a show <ital>Jelly</ital> if there's no jelly. </line>
+  <line> You can't call a show <ital>Peanutbutter and Jelly</ital> if there's no jelly. </line>
 
 
   <line> It's a pun. </line>
@@ -1952,7 +1952,7 @@
   <line> What's your name, young lady? </line>
 
 
-  <line> Well, my real name's Jelly. </line>
+  <line> Well, my real name's <name type="PERSON">Angela</name>, but my friends call me Jelly. </line>
 
 
   <line> What? Oh, my <name type="PERSON">God</name>, did we get that? </line>

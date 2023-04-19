@@ -568,7 +568,7 @@
   <line> Stop embarrassing me. </line>
 
 
-  <line> That is Turteltaub. </line>
+  <line> That is <name type="PERSON">Lenny</name> Turteltaub. </line>
 
 
   <line> You know, I am not crazy about the bread here. </line>
@@ -629,7 +629,7 @@
   <line> Everyone gets a mulligan, and my mulligan was <name type="ORG">Carey</name> Mulligan. </line>
 
 
-  <line> I'm kidding, jeez. It was Mortimer. </line>
+  <line> I'm kidding, jeez. It was <name type="PERSON">Emily</name> Mortimer. </line>
 
 
   <line> - [scoffs] - What is the problem here? </line>

@@ -280,7 +280,7 @@ What is the theme?
 <line>
 <name type="PERSON">Pickles</name> wanted small plates,
 
-Susans,
+Joey wanted lazy Susans,
 
 and I wanted the theme to be my face
 
@@ -614,7 +614,7 @@ a half hour, max.
 <line>
 -Then who <name type="PERSON">Max</name>?
 
--No, Peanutbutter.
+-No, <name type="PERSON">Max</name>. I'm talking to Mr. Peanutbutter.
 
 </line>
 
@@ -1082,7 +1082,7 @@ you think you did?
 <line>
 -We all know there are more things.
 
--Christ.
+-<name type="PERSON">Jesus</name> Christ.
 
 </line>
 
@@ -1634,7 +1634,7 @@ to the cast party and try to enjoy--
 
 
 <line>
--[Carolyn gasp]
+-[<name type="PERSON">Diane</name> and Carolyn gasp]
 
 -[phone buzzing]
 
@@ -1664,7 +1664,7 @@ of the "Hollywoo Reporter."
 
 
 <line>
-<nonVerbComm>[Carolyn gasp]</nonVerbComm>
+<nonVerbComm>[<name type="PERSON">BoJack</name> and Carolyn gasp]</nonVerbComm>
 
 </line>
 
@@ -1948,7 +1948,7 @@ Thanks, <name type="PERSON">Pickles</name>.
 
 
 <line>
-Joey <name type="PERSON">Pogo</name>.
+Goodbye, Joey <name type="PERSON">Pogo</name>.
 
 </line>
 
