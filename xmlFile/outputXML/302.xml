@@ -60,7 +60,7 @@ Yeah.
 
 
 <line>
-<nonVerbComm>[man]</nonVerbComm> <ital>Hollywood.</ital>
+<nonVerbComm>[man]</nonVerbComm> <ital>Good morning, Hollywood.</ital>
 
 <ital>It's a beautiful morning in sunny 2007.</ital>
 
@@ -942,7 +942,7 @@ to do this dumbass thing?" Act break.
 <line>
 Act two.
 
-Carolyn.
+<name type="PERSON">BoJack</name> turns to Princess Carolyn.
 
 </line>
 
@@ -2740,7 +2740,7 @@ You should follow me.
 <line>
 I'm A with a circle around it,
 
-"insWayne".
+"insWayne in the membWayne".
 
 </line>
 

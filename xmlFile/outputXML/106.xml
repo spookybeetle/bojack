@@ -624,7 +624,7 @@ Diamant Bleu?
 <line>
 A toast on me
 
-to Peanutbutter.
+to <name type="PERSON">Diane</name> and Mr. Peanutbutter.
 
 </line>
 
@@ -2604,7 +2604,7 @@ Whoa!
 
 
 <line>
-<ital><music>♪ Christ, my ankle ♪</music></ital>
+<ital><music>♪ <name type="PERSON">Jesus</name> Christ, my ankle ♪</music></ital>
 
 </line>
 
@@ -3780,7 +3780,7 @@ that we're still on for tomorrow
 
 to talk about the time
 
-I sneezed on Tomei.
+I sneezed on <name type="PERSON">Marisa</name> Tomei.
 
 </line>
 
@@ -4300,7 +4300,7 @@ no new stories in Hollywoo.
 
 
 <line>
-<ital><music>♪ Hollywoo ♪</music></ital>
+<ital><music>♪ Hollywoo, Hollywoo ♪</music></ital>
 
 </line>
 

@@ -206,7 +206,7 @@ Finish it.
 
 
 <line>
-Christ, you can't even smoke
+<name type="PERSON">Jesus</name> Christ, you can't even smoke
 
 a cigarette right.
 
@@ -1376,7 +1376,7 @@ let's see what you got.
 
 
 <line>
-<nonVerbComm>[Carolyn!
+<nonVerbComm>[<name type="PERSON">BoJack</name>]</nonVerbComm> Hey, Princess Carolyn!
 
 </line>
 
@@ -1454,7 +1454,7 @@ Hey, <name type="GPE">Chicago</name>! Al Capone, deep dish.
 
 
 <line>
-What does Hawke know?
+What does <name type="PERSON">Ethan</name> Hawke know?
 
 We'll find out tonight. Da Bears.
 
@@ -1488,7 +1488,7 @@ Hey, <name type="GPE">Seattle</name>! <name type="ORG">Space Needle</name>, <nam
 
 
 <line>
-What does Hawke know?
+What does <name type="PERSON">Ethan</name> Hawke know?
 
 We'll find out tonight. Rain.
 
@@ -1520,7 +1520,7 @@ It's just a single on Secretariat.
 <line>
 Hey, <name type="GPE">Waco</name>, <name type="GPE">Texas</name>! Terrible tragedy.
 
-What does Hawke know?
+What does <name type="PERSON">Ethan</name> Hawke know?
 
 </line>
 
@@ -1620,7 +1620,7 @@ What took you so long?
 
 
 <line>
-Peanutbutter and I
+<name type="PERSON">Kelsey</name>, Mr. Peanutbutter and I
 
 are gonna break into the library.
 
@@ -3432,7 +3432,7 @@ Huh.
 
 
 <line>
-Christmas.
+<name type="PERSON">Mommy</name>, it's nearly Christmas.
 
 Where's Uncle Secretariat?
 

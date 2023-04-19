@@ -442,7 +442,7 @@ No matter, I shan't be staying.
 
 
 <line>
-My sweet betrothed, Bellamy,
+My sweet betrothed, <name type="PERSON">Baxter</name> Bellamy,
 
 awaits with champagne
 
@@ -1900,7 +1900,7 @@ Daddy.
 <line>
 Do you think we should ADR her saying
 
-"Daddy-o" more of a dunk?
+"Daddy-o"? Is "Daddy-o" more of a dunk?
 
 </line>
 
@@ -2366,7 +2366,7 @@ is anonymity, but if you could...
 
 
 <line>
-I once saw Ferguson</name> here!
+I once saw <name type="PERSON">Craig Ferguson</name> here!
 
 I don't know why I said that.
 
@@ -2396,7 +2396,7 @@ Jamie <name type="PERSON">Lee</name> Curtis winked at me once.
 <line>
 <name type="PERSON">Colin Farrell</name>, <name type="PERSON">Russell Brand</name>,
 
-the Monkey.
+the Ikea Monkey.
 
 </line>
 

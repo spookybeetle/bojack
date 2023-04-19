@@ -96,7 +96,7 @@ And it's about time this story was told.
 
 
 <line>
-<nonVerbComm>[Philbert,</ital>
+<nonVerbComm>[<name type="PERSON">Flip</name>]</nonVerbComm> <ital>It's about Detective <name type="PERSON">John</name> Philbert,</ital>
 
 <ital>a man from another time.</ital>
 
@@ -600,7 +600,7 @@ no more ex-wives.
 
 
 <line>
-Just Peanutbutter,
+Just <name type="PERSON">Diane</name> and Mr. Peanutbutter,
 
 back to normal.
 
@@ -1974,7 +1974,7 @@ It's a room full of big books,
 
 with big windows and a ladder,
 
-like Beast.</ital>
+like <name type="ORG">Belle</name> got in <ital>Beauty and the Beast.</ital>
 
 </line>
 
@@ -2962,7 +2962,7 @@ I'm looking forward to it.
 <line>
 Now, back to normal.
 
-Peanutbutter.
+<name type="PERSON">Diane</name> and Mr. Peanutbutter.
 
 </line>
 
@@ -3186,7 +3186,7 @@ this would go at all.
 
 
 <line>
-Peanutbutter.
+<name type="PERSON">Diane</name> and Mr. Peanutbutter.
 
 Back to normal, right?
 

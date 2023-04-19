@@ -208,7 +208,7 @@ TV is a visual medium.
 <line>
 <ital>-Anyway, where the hell are you?</ital>
 
--Carolina.
+-<name type="LOC">Eden</name>, North Carolina.
 
 </line>
 
@@ -496,7 +496,7 @@ but this show makes no sense.
 <line>
 In the rooftop motorcycle scene,
 
-Philbert keep saying,
+<name type="PERSON">Fritz</name> and Philbert keep saying,
 
 </line>
 
@@ -1400,7 +1400,7 @@ Goodbye, <name type="PERSON">Todd</name>.
 <line>
 Do you think <name type="LOC">Lake</name> Erie ever gets jealous
 
-of Superior?
+of <name type="LOC">Lake</name> Superior?
 
 </line>
 
@@ -2400,7 +2400,7 @@ Now listen to me. This is our shot.
 
 
 <line>
-<nonVerbComm>[Carolyn?</ital>
+<nonVerbComm>[<name type="PERSON">Sadie</name>]</nonVerbComm> <ital>Princess Carolyn?</ital>
 
 </line>
 
@@ -2430,7 +2430,7 @@ Now listen to me. This is our shot.
 
 
 <line>
-Oh, uh, St. Shepherd
+Oh, uh, St. <name type="PERSON">Mary</name>'s Good Shepherd
 
 of the <name type="PERSON">Lady</name>... of the Passion...
 
@@ -2708,7 +2708,7 @@ through indelicate gossip.
 <line>
 -Oh...
 
--We'll go to Head every summer
+-We'll go to <name type="ORG">Hilton</name> Head every summer
 
 and take a photo of all of us on the beach
 
@@ -2752,7 +2752,7 @@ No worries, no tough choices
 
 and no money troubles,
 
-thanks to the Sons
+thanks to the <name type="PERSON">Wallace</name> and Sons
 
 Answering Machine Tape empire.
 

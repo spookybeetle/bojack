@@ -2200,7 +2200,7 @@ Let's set the pitch for next week.
 
 
 <line>
-<ital>Philbert?
+<ital>Philbert?</ital> Who's Philbert?
 
 </line>
 
@@ -2842,7 +2842,7 @@ It's amazing.
 
 
 <line>
-Hollyhock?
+Hollyhock! Hollyhock?
 
 </line>
 
@@ -2964,7 +2964,7 @@ Robinson...
 
 
 <line>
-Zilberschlag-Fonzarelli-McQuack.
+Zilberschlag-<name type="GPE">Hsung</name>-Fonzarelli-McQuack.
 
 That's her name.
 
@@ -3242,7 +3242,7 @@ That's my deal.
 
 
 <line>
-Fonzarelli</name>, but I'm pretty cool
+<name type="PERSON">Arturo Fonzarelli</name>, but I'm pretty cool
 
 so people call me the "Ice Man."
 

@@ -842,7 +842,7 @@ Goodbye, fancy room.
 
 
 <line>
-Goodbye, <name type="PERSON">Stinky <name type="PERSON">Susan</name></name>.
+Goodbye, chair. Goodbye, <name type="PERSON">Stinky <name type="PERSON">Susan</name></name>.
 
 </line>
 
@@ -1092,7 +1092,7 @@ Oh...
 <line>
 Sorry, all our kidneys went to <name type="GPE">Chicago</name>.
 
-Whitewhale</name> bought us out.
+<name type="PERSON">Jeremiah Whitewhale</name> bought us out.
 
 </line>
 
@@ -1408,7 +1408,7 @@ to ourselves.
 <line>
 And be careful, because
 
-if Whitewhale</name> catches you,
+if <name type="PERSON">Jeremiah Whitewhale</name> catches you,
 
 he can legally murder you.
 
@@ -2772,7 +2772,7 @@ I get a promotion, too?
 
 
 <line>
-<nonVerbComm>[Carolyn,
+<nonVerbComm>[<name type="PERSON">Marv</name>]</nonVerbComm> Princess Carolyn,
 
 I'd love to give you a raise,
 

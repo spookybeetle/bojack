@@ -548,7 +548,7 @@ of our Penny <name type="PERSON">Carson</name> crusade.
 <line>
 So far, we've been able to contact three
 
-of the four Carsons
+of the four Penny Carsons
 
 </line>
 
@@ -1548,7 +1548,7 @@ I'll take the case.
 
 
 <line>
--Oh, and, also, I'm American.
+-Oh, and, also, I'm Vietnamese-American.
 
 -[moose] Beast.
 
@@ -1776,7 +1776,7 @@ sounds pretty good. <name type="GPE">Judah</name>!
 
 
 <line>
-I'll try Ferguson's agent.
+I'll try <name type="PERSON">Rebecca</name> Ferguson's agent.
 
 </line>
 
@@ -3110,7 +3110,7 @@ this'll be the height of their career.
 <line>
 <nonVerbComm>[<name type="PERSON">BoJack</name>]</nonVerbComm> Anyway, first up is a scene
 
-from Sam Shepard's "Real <name type="GPE">America</name>."
+from Sam <name type="NORP">German</name>-Shepard's "Real <name type="GPE">America</name>."
 
 </line>
 

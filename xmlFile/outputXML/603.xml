@@ -146,7 +146,7 @@ I'm getting that microphone back.
 
 
 <line>
-<ital>It's like the Hanks</ital>
+<ital>It's like the <name type="PERSON">Tom</name> Hanks</ital>
 
 <ital>of poisoning people.</ital>
 
@@ -642,7 +642,7 @@ is made from lake water and lard.
 <line>
 -[phone buzzes]
 
-<ital>-From Times, I'm Michael Barbaro.</ital>
+<ital>-From <name type="GPE">New York</name> Times, I'm Michael Barbaro.</ital>
 
 </line>
 
@@ -1560,7 +1560,7 @@ You have a lovely home.
 
 
 <line>
-<ital>From Times, I'm Michael Barbaro.</ital>
+<ital>From <name type="GPE">New York</name> Times, I'm Michael Barbaro.</ital>
 
 </line>
 
@@ -2672,7 +2672,7 @@ What's the difference?
 
 
 <line>
-<ital>From</ital> Times,
+<ital>From</ital> <name type="GPE">New York</name> Times,
 
 <ital>I'm Michael Barbaro. Today--</ital>
 
@@ -2684,7 +2684,7 @@ What's the difference?
 
 -Mister Whitewhale would like to meet you
 
-at the Whitewhale building
+at the <name type="GPE">Chicago</name> Whitewhale building
 
 tomorrow at 2:00.
 

@@ -580,7 +580,7 @@ and for the first time ever,
 
 
 <line>
-Wow! Am I Davidson,
+Wow! Am I <name type="PERSON">John</name> Davidson,
 
 <name type="PERSON">Cathy <name type="PERSON">Lee</name> Crosby</name>
 
@@ -1674,7 +1674,7 @@ Look away!
 <line>
 It's okay, Hollyhock.
 
-This is what Daddy do.
+This is what <name type="PERSON">Mommy</name> and Daddy do.
 
 </line>
 
@@ -1882,7 +1882,7 @@ Ooh!
 
 
 <line>
-Tilda Timedium,
+Tilda <name type="PERSON">Madison</name>? You dated the Timedium,
 
 Tuesdays at 9:00 on CBS?
 
@@ -2498,7 +2498,7 @@ that's made of garbage.
 
 
 <line>
-Stacy, Tonya Harding?
+Stacy, <name type="PERSON">Fabiana</name>... Tonya Harding?
 
 She is not gonna be happy to see me.
 

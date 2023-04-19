@@ -1574,7 +1574,7 @@ Of course, <name type="PERSON">Herb</name>.
 
 
 <line>
-Christ, thank you.
+<name type="PERSON">Jesus</name> Christ, thank you.
 
 </line>
 
@@ -2020,7 +2020,7 @@ trying to like Zima?
 <line>
 - Talk to me, world.
 
-<ital>- Carolyn.</ital>
+<ital>- <name type="PERSON">BoJack</name>, it's Princess Carolyn.</ital>
 
 </line>
 
@@ -2068,7 +2068,7 @@ on the line.
 
 
 <line>
-<nonVerbComm>[Goddamn Horseface.</ital>
+<nonVerbComm>[<name type="PERSON">Marv</name>]</nonVerbComm> <ital><name type="PERSON">BoJack</name> Goddamn Horseface.</ital>
 
 </line>
 

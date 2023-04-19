@@ -2738,7 +2738,7 @@ You know, you look just like your mother.
 
 
 <line>
-<nonVerbComm>[Guys?
+<nonVerbComm>[<name type="PERSON">Pete</name>]</nonVerbComm> Guys?
 
 </line>
 
@@ -2978,7 +2978,7 @@ I... I don't know.
 <line>
 And what happened to your friends
 
-Penny?
+<name type="PERSON">BoJack</name> and Penny?
 
 </line>
 

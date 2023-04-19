@@ -238,7 +238,7 @@ Oh, I don't drink.
 
 
 <line>
-Kazazz.
+<name type="PERSON">Herb</name> Kazazz.
 
 </line>
 
@@ -4000,7 +4000,7 @@ No problem.
 
 
 <line>
-<nonVerbComm>[Zoes, <name type="PERSON">Diane</name>.</ital>
+<nonVerbComm>[<name type="PERSON">Wayne</name>]</nonVerbComm> <ital>We're Zoes, <name type="PERSON">Diane</name>.</ital>
 
 </line>
 

@@ -330,7 +330,7 @@ Cheese? Yes, please!
 
 
 <line>
-Peanutbutter
+<name type="PERSON">Todd</name>, don't distract Mr. Peanutbutter
 
 with your weird pocket cheeses.
 
@@ -960,7 +960,7 @@ Guerrero-Robinson-Zilberschlag
 
 
 <line>
--Fonzerelli-McQuack.
+-<name type="GPE">Hsung</name>-Fonzerelli-McQuack.
 
 -Wait, wait, wait.
 
@@ -984,7 +984,7 @@ And your last name?
 <line>
 <name type="GPE">Manheim</name>-<name type="GPE">Mannheim</name>-Guerrero-Robinson- 
 
-Zilberschlag-Fonzerelli-McQuack.
+Zilberschlag-<name type="GPE">Hsung</name>-Fonzerelli-McQuack.
 
 </line>
 
@@ -1250,7 +1250,7 @@ Guerrero-Robinson-
 
 
 <line>
-Zilberschlag-Fonzerelli-McQuack.
+Zilberschlag-<name type="GPE">Hsung</name>-Fonzerelli-McQuack.
 
 </line>
 
@@ -1264,7 +1264,7 @@ Of the <name type="GPE">New Haven</name>
 
 
 <line>
-Zilberschlag-Fonzerelli-McQuacks?
+Zilberschlag-<name type="GPE">Hsung</name>-Fonzerelli-McQuacks?
 
 </line>
 

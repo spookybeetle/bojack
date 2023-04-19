@@ -140,7 +140,7 @@ than a coyote claiming a cottontail.
 
 
 <line>
--Phone for you, Mrs. <name type="PERSON">Horseman</name>.
+-<name type="PERSON">Ahem</name>. Phone for you, Mrs. <name type="PERSON">Horseman</name>.
 
 -[grunting]
 
@@ -342,7 +342,7 @@ Hey! What's up, man?
 
 
 <line>
-Hey, Good to...
+Hey, <name type="ORG">Corduroy</name>. [stammers] Good to...
 
 </line>
 
@@ -3156,7 +3156,7 @@ The star of "Horsin' Around"
 
 and "The <name type="PERSON">BoJack Horseman</name> Show"!
 
-"Secretariat"!
+"Philbert"! "Secretariat"!
 
 </line>
 
@@ -3168,7 +3168,7 @@ The upcoming "Horny Unicorn"!
 
 
 <line>
-Beatrice!
+<name type="PERSON">Son</name> of <name type="ORG">Butterscotch</name> and Beatrice!
 
 </line>
 

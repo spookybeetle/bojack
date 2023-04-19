@@ -446,7 +446,7 @@ I think it works.
 
 
 <line>
-Philbert doesn't play by the rules.
+<name type="PERSON">John</name> Philbert doesn't play by the rules.
 
 He says his stage directions out loud.
 
@@ -1794,7 +1794,7 @@ Any ordinary man would be madly aroused
 
 by the body that starred in every single
 
-porn version of a Hughes movie:
+porn version of a <name type="PERSON">John</name> Hughes movie:
 
 </line>
 
@@ -1982,7 +1982,7 @@ Just don't tell anyone about it.
 <line>
 Good news; too late.
 
-I talked to Carolyn
+I talked to <name type="PERSON">Flip</name> and Princess Carolyn
 
 about how you're
 
@@ -2232,7 +2232,7 @@ and I don't think I'm gonna.
 <line>
 Well, I'd never tell a date
 
-that I get the <ital>Times,</ital>
+that I get the <ital><name type="GPE">New York</name> Times,</ital>
 
 but I only read the style section
 

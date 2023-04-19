@@ -12,7 +12,7 @@
 
 
 <line>
-<nonVerbComm>[Philbert...
+<nonVerbComm>[<name type="PERSON">BoJack</name>]</nonVerbComm> <ital>Previously on</ital> Philbert...
 
 </line>
 
@@ -660,7 +660,7 @@ I think it's stolen from my life.
 <line>
 I mean, I also had a male boss who died.
 
-Kazazz.
+<name type="PERSON">Herb</name> Kazazz.
 
 </line>
 
