@@ -1,32 +1,46 @@
 
 
 
-body{background-color: #98D8AA;
-z-index:1;}
+body {
+    background-color: #98D8AA;
+    z-index: 1;
+}
 .main {
-    width: 80%;
+    width: 70%;
     height: 100%;
     background: white;
-    z-index:2;
+    z-index: 2;
     position: absolute;
     top: 119px;
     right: 10%;
     left: 10%;
+    margin-right:auto;
+    margin-left:auto;
 }
 
-h1 {font-family: "Roboto Condensed";
-text-align:center;
+h1 {
+    font-family: "Roboto Condensed";
+    text-align: center;
 }
-h2 {font-family: "Roboto Condensed";
-text-align: center;
+h2 {
+    font-family: "Roboto Condensed";
+    text-align: center;
 }
 h3 {
     font-family: "Roboto Condensed";
-text-align:center;
+    text-align: center;
+}
+h4 {
+    font-family: "Roboto Condensed";
+}
+p{
+    font-family: "Roboto Condensed";
 }
 
-img {min-width: 500px;
-margin-left: 33%;}
+img {
+    min-width: 500px;
+    margin-left: 33%;
+}
 
 nav {
     width: 100%;
@@ -34,7 +48,7 @@ nav {
     top: 0;
     left: 0;
     background-color: #FF6D60;
-    z-index:3;
+    z-index: 3;
 }
 nav ul {
     display: flex;
@@ -77,23 +91,31 @@ h2 {
     font-size: 200%;
     background-color: #F7D060;
     border: none;
+    border-radius: 15px;
     padding: 1% 0%;
-    width: 33%;
+    width: 40%;
     min-width: 155px;
     position: relative;
-    left: 35%;
-    margin: 0 0 0 0;
+    margin-left: auto;
+    margin-right: auto;
     top: 20px;
-    
-    
-    }
+}
 
 h3 {
     position: relative;
-    width:33%;
-    left:35%;
+    width: 33%;
     top: 30px;
-    margin: 0;
+    margin-left:auto;
+    margin-right:auto;
 }
+h4 {
+    font-size: 150%;
+    position: relative;
+    top: 20px;
+    margin: 5% 0;
+    width: auto;
 
-
+}
+.data {
+    margin: 5%;
+}
