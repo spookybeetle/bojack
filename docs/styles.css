@@ -7,7 +7,7 @@ body {
 }
 .main {
     width: 70%;
-    height: 200%;
+    height: 100%;
     background: white;
     z-index: 2;
     position: absolute;
@@ -16,6 +16,9 @@ body {
     left: 10%;
     margin-right:auto;
     margin-left:auto;
+}
+div#pg1 {
+    height: 200%;
 }
 
 h1 {
@@ -75,7 +78,7 @@ nav ul {
     color: black;
 }
 
-a {
+nav a {
     margin-left: 2%;
     color: black;
 }
