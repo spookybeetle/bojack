@@ -19,12 +19,14 @@ body {
     box-shadow: 0px 0px 80px #666666;
 }
 div#pg1 {
-    height: 190%;
+    height: 100%;
 }
 div#pg2 {
-    height: 140%;
+    height: 100%;
 }
-
+div#pg3 {
+    height: 250%;
+}
 h1 {
     font-family: "Roboto Condensed";
     text-align: center;
