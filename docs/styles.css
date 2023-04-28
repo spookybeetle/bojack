@@ -14,9 +14,13 @@ body {
     top: 119px;
     right: 10%;
     left: 10%;
-    margin-right:auto;
-    margin-left:auto;
+    margin-right: auto;
+    margin-left: auto;
     box-shadow: 0px 0px 80px #666666;
+}
+div#pgH img {
+    max-width: 60px;
+    padding: 20px;
 }
 div#pg1 {
     height: 100%;
@@ -26,6 +30,10 @@ div#pg2 {
 }
 div#pg3 {
     height: 250%;
+}
+div#pg3 img {
+    min-width: 500px;
+    margin-left: 33%;
 }
 h1 {
     font-family: "Roboto Condensed";
@@ -42,14 +50,10 @@ h3 {
 h4 {
     font-family: "Roboto Condensed";
 }
-p{
+p {
     font-family: "Roboto Condensed";
 }
 
-.main img {
-    min-width: 500px;
-    margin-left: 33%;
-}
 
 nav {
     width: 100%;
@@ -67,7 +71,7 @@ footer {
     background-color: #FF6D60;
     z-index: 3;
 }
-footer p{
+footer p {
     padding: 0 0 10px 20px;
 }
 nav ul {
@@ -125,8 +129,8 @@ h3 {
     position: relative;
     width: 33%;
     top: 30px;
-    margin-left:auto;
-    margin-right:auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 h4 {
     font-size: 150%;
@@ -140,11 +144,11 @@ h4 {
     margin: 5%;
 }
 #cy {
-     width: 65vw;
-     height:100vh;
-     position:absolute;
-     left:2.5%;
-     right:2.5%;
-     margin:auto;
-     border-style:double;
- }
+    width: 65vw;
+    height: 100vh;
+    position: absolute;
+    left: 2.5%;
+    right: 2.5%;
+    margin: auto;
+    border-style: double;
+}
