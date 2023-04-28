@@ -6,7 +6,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" type="text/css" href="styles.css" />
         <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet" />
-        
     </head>
     <body>
         <nav>
@@ -21,47 +20,57 @@
                 <li>
                     <a href="page2.html" class="navbut">Visualization</a>
                 </li>
-                <li><a href="page3.html" class="navbut">Analysis</a></li>
+                <li>
+                    <a href="page3.html" class="navbut">Analysis</a>
+                </li>
                 <li>
                     <a href="about.html" class="navbut">About</a>
                 </li>
-                <li><a href="https://github.com/spookybeetle/bojack" class="navbut">GitHub</a></li>
+                <li>
+                    <a href="https://github.com/spookybeetle/bojack" class="navbut">GitHub</a>
+                </li>
             </ul>
         </nav>
         <div class="main" id="pg1">
             <h2>Project of Bojack Horseman</h2>
-            <h3>Scrapping, XML, and Regexing</h3>
+            <h3>Scrapping, XML, and Regexing with Milo</h3>
             <div class="data">
-                
-                <p>There were four major parts to getting the Bojack Horseman scripts ready for data visualization. The first of which
-                was finding the scripts. This was where we rand into our first of several issues: Netflix, the creator of the show, keeps
-                their scripts under lock and key. It took much internet crawling to find transcripts, written by fans, of the show's text.</p>
-                
-                <p>Second, we had to build a scrapper to gather all of the textual data from the sites. We took a piece of code from our professor,
-                Dr. Beshero-Bondar, and adapted it to our project so it would turn every web page from the provided site, and donwload them into local .html
-                files on my PC. From there the process of converting the files from .html to .txt to .xml began.</p>
-                
-                <p> The first step was batch converting the .html into .txt by changing the extension on every file to .txt instead of .html. After that began
-                the tedious process of Regexing. Below you can see the step file of the changes made to the file in order to achieve the end result of our xml.</p>
-                
-                <img src="images/stepFile.png" width="900" height="400" alt="Steps for Bojack Horseman file transformation."/>
-                
-                <p>Once the documents were completely Regexed, they were ready to move onto the next step of the project: Visualization.</p>
-                
-                
+                <p>There were four major parts to getting the Bojack Horseman scripts ready for data
+                    visualization. The first of which was finding the scripts. This was where we ran
+                    into our first of several issues: Netflix, the creator of the show, keeps their
+                    scripts under lock and key. It took much internet crawling to find transcripts,
+                    written by fans, of the show's text.</p>
+                <p>Second, we had to build a scrapper to gather all the textual data from the sites.
+                    We took a piece of code from our professor, Dr. Beshero-Bondar, and adapted it
+                    to our project so it would turn every web page from the provided site and
+                    download them into local .html files on my PC. From there the process of
+                    converting the files from .html to .txt to .xml began.</p>
+                <p> The first step was batch converting the .html into .txt by changing the
+                    extension on every file to .txt instead of .html. After that began the tedious
+                    process of Regexing. Below you can see the step file of the changes made to the
+                    file to achieve the result of our xml.</p>
+                <img src="images/stepFile.png" width="900" height="400"
+                    alt="Steps for Bojack Horseman file transformation." />
+                <p>Once the documents were completely Regexed, they were ready to move onto the next
+                    step of the project: Visualization.</p>
                 <h4>Limitations</h4>
-                
-                <p>The project did not come without it's limitations. Though we were able to find the transcripts for the project, they are not
-                official scripts. Netflix keeps their intelectual property locked up tight. It is near impossible to find any behind the scenes material.
-                Due to this, whoever is speaking at any given point is not noted in the transcrips. There are also a number of spelling errors, music that is
-                not surounded in music tags as they were not noted in the transcrips, and odd punctuation that upset the python code in the following section.</p>
-                
-                
+                <p>The project did not come without its limitations. Though we were able to find the
+                    transcripts for the project, they are not official scripts. Netflix keeps their
+                    intellectual property locked up tight. It is nearly impossible to find any
+                    behind-the-scenes material. Due to this, whoever is speaking at any given point
+                    is not noted in the transcripts. There are also several spelling errors, music
+                    that is not surrounded in music tags as they were not noted in the transcripts,
+                    and odd punctuation that upsets the python code in the following section.</p>
             </div>
-            
         </div>
         <footer>
-            <p>Project of Bojack Horseman, <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.</p>
+            <p>Project of Bojack Horseman, <a rel="license"
+                    href="http://creativecommons.org/licenses/by-nc/4.0/"><img
+                        alt="Creative Commons License" style="border-width:0"
+                        src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This
+                work is licensed under a <a rel="license"
+                    href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons
+                    Attribution-NonCommercial 4.0 International License</a>.</p>
         </footer>
     </body>
 </html>

@@ -15,25 +15,50 @@
                     <a href="index.html" class="navbut">Home</a>
                 </li>
                 <li>
-                    <a href="page1.html" class="navbut">page1</a>
+                    <a href="page1.html" class="navbut">Scrapping</a>
                 </li>
                 <li>
-                    <a href="page2.html" class="navbut">page2</a>
+                    <a href="page2.html" class="navbut">Visualization</a>
                 </li>
-                <li><a href="page3.html" class="navbut">page3</a></li>
+                <li>
+                    <a href="page3.html" class="navbut">Analysis</a>
+                </li>
                 <li>
                     <a href="about.html" class="navbut">About</a>
                 </li>
-                <li><a href="https://github.com/spookybeetle/bojack" class="navbut">GitHub</a></li>
+                <li>
+                    <a href="https://github.com/spookybeetle/bojack" class="navbut">GitHub</a>
+                </li>
             </ul>
         </nav>
         <div class="main" id="pg2">
             <h2>Project of Bojack Horseman</h2>
-            <h3>Page 2</h3>
-            
+            <h3>Visualization with Savannah</h3>
+            <div class="data">
+                <p> After Milo has completed the scrapping and auto tagging of all the text script,
+                    I then take the scripts and import them to eXist-db to xQuery them. I used
+                    xQuery to help separate and list out pieces of information that are deemed
+                    useful. In this example, I’ve deemed all pieces of text that are surrounded by
+                    music notes to be pulled and listed alongside the season it appeared in. Dr.
+                    Beshero-Bondar and I collaborated on this xQuery to get the song lyrics since
+                    for-loops are not my strong suit. I did, however, learn from that collaboration
+                    and will create another xQuery to section the music into episodes. </p>
+                <p> After querying the music into seasons, I then took the output and imported it
+                    into CytoScape to visualize the data. CytoScape is good with networking and can
+                    network large amounts of data at once. For this example, I set the lyrics to be
+                    connected to the seasons it’s mentioned. I also have it set to have the
+                    connecting lines to have a growing width based on how repetitive it is, same
+                    with its color gradient. </p>
+            </div>
         </div>
         <footer>
-            <p>Project of Bojack Horseman, <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.</p>
+            <p>Project of Bojack Horseman, <a rel="license"
+                    href="http://creativecommons.org/licenses/by-nc/4.0/"><img
+                        alt="Creative Commons License" style="border-width:0"
+                        src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This
+                work is licensed under a <a rel="license"
+                    href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons
+                    Attribution-NonCommercial 4.0 International License</a>.</p>
         </footer>
     </body>
 </html>
