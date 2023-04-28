@@ -1,6 +1,6 @@
 Bojack Horseman HTML => TXT => XML
 
-1. Select all HTML and btahc change the .html to .txt and open in Oxygen.
+1. Select all HTML and bathc change the .html to .txt and open in Oxygen.
 2. Group find <!doctype html> and remove it from the documents 
 3. Group find <html></html> and replace it with <script></script>
 4. Group select <head></head> (excluding <title> element).
