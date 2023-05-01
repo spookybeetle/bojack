@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" type="text/css" href="styles.css" />
         <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet" />
-        <script src="cyto_web_session/networks.js"></script>
+        <script src="bojackfull/web_session/networks.js"></script>
     </head>
     <body>
         <nav>
@@ -34,8 +34,9 @@
         </nav>
         <div class="main" id="pg2">
             <h2>Project of Bojack Horseman</h2>
-            <h3>Visualization with Savannah</h3>
+            <h3>By Savannah</h3>
             <div class="data">
+                <h4>The Visualization</h4>
                 <p> After Milo has completed the scrapping and auto tagging of all the text script,
                     I then take the scripts and import them to eXist-db to xQuery them. I used
                     xQuery to help separate and list out pieces of information that are deemed
@@ -43,21 +44,70 @@
                     music notes to be pulled and listed alongside the season it appeared in. Dr.
                     Beshero-Bondar and I collaborated on this xQuery to get the song lyrics since
                     for-loops are not my strong suit. I did, however, learn from that collaboration
-                    and will create another xQuery to section the music into episodes. </p>
-                <p> After querying the music into seasons, I then took the output and imported it
-                    into CytoScape to visualize the data. CytoScape is good with networking and can
-                    network large amounts of data at once. For this example, I set the lyrics to be
-                    connected to the seasons it’s mentioned. I also have it set to have the
-                    connecting lines to have a growing width based on how repetitive it is, same
-                    with its color gradient. Below is the Music Network, you can zoom and move
-                    elements around:</p>
+                    and created another xQuery to section the music into episodes. In the figure
+                    below is part of the output I got after xQuery: </p>
+                <figure class="code">
+                    <code>Music: ♪ got a heart full of birthday-- ♪ Season Count: 1 S:6<br /> Music:
+                        ♪ bye ♪ Season Count: 1 S:6<br /> Music: ♪ who's that dog? ♪ Season Count: 2
+                        S:6<br /> Music: ♪ who's that dog? ♪ Season Count: 1 S:1<br /> Music: ♪
+                        who's that dog? ♪ Season Count: 1 S:3<br /> Music: ♪ who's that dog? ♪
+                        Season Count: 1 S:4<br /> Music: ♪ mr. peanutbutter ♪ Season Count: 2
+                        S:6<br /> Music: ♪ mr. peanutbutter ♪ Season Count: 1 S:1<br /> Music: ♪ mr.
+                        peanutbutter ♪ Season Count: 1 S:3<br /> Music: ♪ and you think you're never
+                        wrong ♪ Season Count: 1 S:6<br /> Music: ♪ oh, but you're so-so, honey ♪
+                        Season Count: 1 S:6<br /> Music: ♪ oh, yeah, you're so-so, honey ♪ Season
+                        Count: 1 S:6<br /> Music: ♪ you think you got it all ♪ Season Count: 1
+                        S:6<br /> Music: ♪ if i knew i waited too long ♪ Season Count: 1 S:6<br />
+                        Music: ♪ i'd find a song to push the time along ♪ Season Count: 1 S:6</code>
+                </figure>
+                <p>I then took that output and imported it into CytoScape to visualize the data.
+                    CytoScape is good with networking and can network large amounts of data at once.
+                    For this example, I set the lyrics to be connected to each season it appeared
+                    in. I also have it set to have the connecting lines to have a growing width
+                    based on how repetitive it is per season, same with its color gradient. Below is
+                    the Music Network in Seasons, you can zoom and move elements around below:</p>
             </div>
-            <div id="cy">
-                
-                <script src="bojackfull/web_session/networks.js"> </script>
-                <script src="bojackfull/web_session/styles.js"> </script>
-                <script src="bojackfull/web_session/scripts/vendor.js"></script>
-                <script src="bojackfull/web_session/scripts/main.js"></script>
+            <figure>
+                <div id="cy">
+                    <script src="bojackfull/web_session/networks.js"> </script>
+                    <script src="bojackfull/web_session/styles.js"> </script>
+                    <script src="bojackfull/web_session/scripts/vendor.js"></script>
+                    <script src="bojackfull/web_session/scripts/main.js"></script>
+                </div>
+            </figure>
+            <div class="data">
+                <p>I used the same xQuery process from making the seasons network to make the
+                    episodes network. Here is the xQuery Output I got along with the Music Network
+                    in Seasons. <b>Be sure to click the Music Network in Episodes picture</b> to see
+                    the full network in action. </p>
+                <figure class="code">
+                    <code>Music: ♪ got a heart full of birthday-- ♪ id Count: 1 i:602<br /> Music: ♪
+                        bye ♪ id Count: 1 i:602<br /> Music: ♪ who's that dog? ♪ id Count: 1
+                        i:614<br /> Music: ♪ who's that dog? ♪ id Count: 1 i:104<br /> Music: ♪
+                        who's that dog? ♪ id Count: 1 i:310<br /> Music: ♪ who's that dog? ♪ id
+                        Count: 1 i:409<br /> Music: ♪ who's that dog? ♪ id Count: 1 i:602<br />
+                        Music: ♪ mr. peanutbutter ♪ id Count: 1 i:609<br /> Music: ♪ mr.
+                        peanutbutter ♪ id Count: 1 i:104<br /> Music: ♪ mr. peanutbutter ♪ id Count:
+                        1 i:310<br /> Music: ♪ mr. peanutbutter ♪ id Count: 1 i:602<br /> Music: ♪
+                        and you think you're never wrong ♪ id Count: 1 i:601<br /> Music: ♪ oh, but
+                        you're so-so, honey ♪ id Count: 1 i:601<br /> Music: ♪ oh, yeah, you're
+                        so-so, honey ♪ id Count: 1 i:601<br /> Music: ♪ you think you got it all ♪
+                        id Count: 1 i:601<br /> Music: ♪ if i knew i waited too long ♪ id Count: 1
+                        i:601<br /> Music: ♪ i'd find a song to push the time along ♪ id Count: 1
+                        i:601<br /> Music: ♪ change works so well for you ♪ id Count: 1 i:601<br />
+                        Music: ♪ 'cause you're so-so, honey ♪ id Count: 1 i:601<br /> Music: ♪ and
+                        you start to sing along ♪ id Count: 1 i:601</code>
+                </figure>
+            </div>
+            <figure>
+                <a href="musicToEpNet.html">
+                    <img src="images/BojackMusicPerEp.png" alt="A PNG of Music Network in Episodes"
+                     />
+                </a>
+            </figure>
+            <div class="data">
+                <h4>Limitations</h4>
+                <p></p>
             </div>
         </div>
         <footer>
