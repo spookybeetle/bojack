@@ -22,6 +22,10 @@ div#pgH img {
     max-width: 70px;
     padding: 20px;
 }
+.milo{
+     height: 250px;
+    width: 100%;
+}
 div#pg1 {
     height: 160%;
 }
@@ -29,14 +33,14 @@ div#pg2 {
     height: 400%;
 }
 div#pg3 {
-    height: 250%;
+    height: 350%;
 }
 div#pg3 img {
-    height: 250px;
-    width: 100%;
+    max-width: 100%;
+    width: 100%
 }
 div#pgMTEN {
-    height: 250%;
+    height: 150%;
 }
 h1 {
     font-family: "Roboto Condensed";
@@ -167,9 +171,13 @@ figure {
     margin-left: 30%;
     margin-right: 25%;
 }
+.img {
+    width: 200px;
+}
 img {
     max-width: 100%;
 }
+
 
 
 
